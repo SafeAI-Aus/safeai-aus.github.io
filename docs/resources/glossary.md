@@ -25,8 +25,6 @@ twitter_description: "A practical glossary of key AI terms in the Australian con
 !!! info "Glossary scope"
     This glossary covers **operational AI governance terms** for day-to-day AI adoption in Australian organisations.
 
-    **Planning for advanced AI or AGI?** For strategic concepts (AGI timelines, alignment, containment, defence in depth, frontier AI, transformative AI, risk pathways), see [Key Concepts & Glossary](resources/concepts.md).
-
 ---
 
 ## Artificial intelligence (AI)
