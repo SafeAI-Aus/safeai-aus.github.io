@@ -21,11 +21,14 @@ from typing import List
 # Conventional commit prefix pattern
 PREFIX_PATTERN = re.compile(r"^(\w+)(?:\(.+?\))?:\s+(.+)$")
 
-# Known conventional commit prefixes
+# Prefixes that map to their own type in the feed schema
+AGENT_FACING_TYPES = {"docs", "feat", "fix"}
+
+# All recognised conventional commit prefixes (others map to "update")
 KNOWN_PREFIXES = {"docs", "feat", "fix", "style", "chore", "refactor", "perf", "test", "ci", "build"}
 
-# Directories under docs/ to exclude (internal working files)
-EXCLUDED_DIRS = {"plans", "brainstorms"}
+# Directories under docs/ to exclude (internal working files and legacy paths)
+EXCLUDED_DIRS = {"plans", "brainstorms", "templates"}
 
 
 @dataclass
@@ -69,9 +72,15 @@ def read_site_url() -> str:
 
 
 def get_commit_hashes() -> List[str]:
-    """Return commit hashes in reverse chronological order (newest first)."""
+    """Return commit hashes in reverse chronological order (newest first).
+
+    Uses ``--first-parent`` to follow the main branch lineage without
+    descending into merged branches (which would cause duplicates).
+    Merge commits are *included* — ``get_changed_md_files`` diffs them
+    against their first parent, capturing the combined effect of the merge.
+    """
     result = subprocess.run(
-        ["git", "log", "--first-parent", "--no-merges", "--format=%H"],
+        ["git", "log", "--first-parent", "--format=%H"],
         capture_output=True, text=True, check=True,
     )
     return [h for h in result.stdout.strip().splitlines() if h]
@@ -89,12 +98,31 @@ def get_commit_info(commit_hash: str) -> tuple[str, str]:
     return commit_date, subject
 
 
-def get_changed_md_files(commit_hash: str) -> List[str]:
-    """Return list of docs/**/*.md files changed in a commit."""
+def _is_merge_commit(commit_hash: str) -> bool:
+    """Check if a commit has more than one parent."""
     result = subprocess.run(
-        ["git", "diff-tree", "--root", "--no-commit-id", "--name-only", "-r", commit_hash],
-        capture_output=True, text=True, check=True,
+        ["git", "rev-parse", f"{commit_hash}^2"],
+        capture_output=True, text=True,
     )
+    return result.returncode == 0
+
+
+def get_changed_md_files(commit_hash: str) -> List[str]:
+    """Return list of docs/**/*.md files added or modified in a commit.
+
+    For merge commits, diffs against the first parent to capture the
+    combined effect of the merge. Deleted files are excluded so the
+    feed does not emit dead URLs.
+    """
+    # For merge commits, diff against first parent; for regular commits
+    # use --root to handle the initial commit
+    if _is_merge_commit(commit_hash):
+        cmd = ["git", "diff-tree", "--no-commit-id", "--name-only",
+               "--diff-filter=d", "-r", f"{commit_hash}^1", commit_hash]
+    else:
+        cmd = ["git", "diff-tree", "--root", "--no-commit-id", "--name-only",
+               "--diff-filter=d", "-r", commit_hash]
+    result = subprocess.run(cmd, capture_output=True, text=True, check=True)
     files = []
     for line in result.stdout.strip().splitlines():
         if not line.startswith("docs/") or not line.endswith(".md"):
@@ -118,7 +146,9 @@ def parse_subject(subject: str) -> tuple[str, str]:
         prefix = match.group(1).lower()
         summary = match.group(2).strip()
         if prefix in KNOWN_PREFIXES:
-            return prefix, summary
+            # Only docs, feat, fix are agent-facing types; others → update
+            commit_type = prefix if prefix in AGENT_FACING_TYPES else "update"
+            return commit_type, summary
     return "update", subject
 
 
