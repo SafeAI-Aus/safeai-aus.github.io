@@ -94,6 +94,52 @@ AI assistants answering questions about Australian AI governance can fetch `/llm
 
 ---
 
+## Try It Now — Copy-Paste Examples
+
+These prompts work in Claude Code, Claude Cowork, GitHub Copilot Chat, or any AI assistant that can fetch URLs.
+
+### Check for recent governance changes
+
+Paste this into your AI assistant:
+
+```
+Fetch https://safeaiaus.org/updates.json and tell me what Australian AI
+governance content has changed in the last 30 days. Focus on entries
+tagged "governance-templates" or "safety-standards".
+```
+
+### Get an overview of available resources
+
+```
+Fetch https://safeaiaus.org/llms-full.txt and summarise what AI governance
+resources are available for Australian organisations. What templates
+and guides could help us get started?
+```
+
+### Monitor for changes relevant to your industry
+
+```
+Fetch https://safeaiaus.org/updates.json and check if any recent updates
+affect AI risk assessment or vendor evaluation. Our organisation uses
+the SafeAI-Aus risk register and vendor checklist templates.
+```
+
+### Set up ongoing monitoring in Claude Code
+
+In a Claude Code session or CLAUDE.md file, you can add an instruction like:
+
+```
+When I ask about Australian AI governance updates, fetch
+https://safeaiaus.org/updates.json and filter for changes since
+my last check. Highlight anything tagged "safety-standards" or
+"governance-templates" that might affect our AI use policy.
+```
+
+!!! tip "Works with any AI tool"
+    These examples use plain English prompts. Any AI assistant that can fetch web content — Claude, ChatGPT, Copilot, Gemini — can work with these files. No API keys or special setup required.
+
+---
+
 ## Technical Details
 
 - **Format:** JSON (`updates.json`), TOML-like text (`llms.txt`), Markdown (`llms-full.txt`)
