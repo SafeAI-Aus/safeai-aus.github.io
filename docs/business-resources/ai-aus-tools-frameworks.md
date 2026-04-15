@@ -4,6 +4,7 @@ title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated collection of AI tools, frameworks and resources for Australian businesses implementing AI safely and responsibly. Includes risk management, governance and technical testing tools."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
 author: "SafeAI-Aus"
+last-reviewed: "2026-04-15"
 robots: "index, follow"
 og_title: "AI Tools & Frameworks for Australian Businesses"
 og_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"
@@ -26,6 +27,29 @@ A curated list of practical tools, frameworks and resources to help Australian b
     **Scope:** Non-commercial resources only (government, standards bodies, nonprofits and open-source).
 
     **How to use:** Start with frameworks, set governance, then implement technical controls and monitoring.
+
+---
+
+## 🏛️ DTA AI Impact Assessment Tool (Commonwealth)
+
+In December 2025, the Digital Transformation Agency (DTA) overhauled its **Policy for the Responsible Use of AI in Government** (effective 15 December 2025). Alongside the updated policy, the DTA published two key resources:
+
+- **AI Impact Assessment Tool** – a 12-section fillable template aligned with the Australian Government's AI Ethics Principles. Designed for Commonwealth agencies but useful for any organisation wanting a structured impact assessment. ([digital.gov.au](https://www.digital.gov.au/ai/impact-assessment-tool/introduction))
+- **AI Procurement Guidance** – practical guidance for procuring AI products and services responsibly. ([dta.gov.au](https://www.dta.gov.au/media-releases/ai-policy-overhauled-new-impact-assessment-tool-and-procurement-guidance))
+
+**Key dates for Commonwealth agencies:**
+
+- **15 June 2026** – first mandatory requirements take effect
+- **December 2026** – all remaining requirements take effect
+
+!!! tip "Relevance beyond the Commonwealth"
+    While these requirements are mandatory only for Commonwealth agencies, they signal the direction for all Australian organisations. The Impact Assessment Tool is freely available and provides a solid starting point for any AI governance program.
+
+---
+
+## 🤖 GovAI Chat (APS AI Plan)
+
+As part of the **APS AI Plan 2025**, the Australian Government is trialling **GovAI Chat** – an AI assistant for Australian Public Service (APS) staff, with trials beginning in April 2026. This is not a tool organisations can access directly, but it signals growing government adoption of AI and may influence future standards and expectations. ([digital.gov.au](https://www.digital.gov.au/policy/ai/australian-public-service-ai-plan-2025/what-we-plan-achieve))
 
 ---
 

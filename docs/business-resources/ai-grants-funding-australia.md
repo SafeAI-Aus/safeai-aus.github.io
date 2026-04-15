@@ -5,7 +5,7 @@ description: "Comprehensive guide to AI grants, funding programs and financial s
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-01-31"
+last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
 og_title: "AI Grants and Funding Opportunities for Australian Businesses"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
@@ -22,10 +22,14 @@ twitter_description: "Comprehensive guide to AI grants, funding programs and fin
 > **Purpose:** Comprehensive directory of AI grants, funding programs and financial support for Australian organisations
 > **Audience:** Business owners, CFOs, project managers and grant applicants | **Time:** 30-45 minutes
 
+!!! warning "Time-sensitive: Upcoming deadlines"
+    - **CRC Program Round 27** closes **21 April 2026** — [Apply now](https://business.gov.au/grants-and-programs/cooperative-research-centres-crc-grants)
+    - **CRC-P Round 19 (AI stream, $20M)** closes **12 May 2026** — [Apply now](https://business.gov.au/grants-and-programs/cooperative-research-centres-projects-crcp-grants)
+
 AI is reshaping industries across Australia. To support businesses in responsibly adopting and scaling AI, a mix of government grants, research programs and industry‑backed accelerators are available. This article provides a consolidated overview of the most relevant opportunities for Australian businesses today.
 
 !!! warning "Program status changes frequently"
-    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application. Last reviewed: January 2026.
+    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application. Last reviewed: April 2026.
 
 ---
 
@@ -34,9 +38,9 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 ### AI Adopt Program
 
 - Provided **$3–5 million over four years** for up to 50% of project costs.
-- Aimed at establishing **AI Adopt Centres** to help SMEs integrate responsible AI.
-- Currently **closed**, but future rounds may reopen.
-- ➡️ [Learn more](https://business.gov.au/grants-and-programs/artificial-intelligence-ai-adopt-program)
+- **AI Adopt Centres** are now operational across Australia through 2026/27, providing free specialist services to eligible SMEs including AI readiness assessments, implementation support and training.
+- The competitive grant round has **concluded**, but centre services are accessible to eligible businesses.
+- ➡️ [SME services](https://business.gov.au/expertise-and-advice/ai-adopt-centres) | [Program overview](https://business.gov.au/grants-and-programs/artificial-intelligence-ai-adopt-program)
 
 ### AI and Digital Capability Centres
 
@@ -49,7 +53,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 
 - Competitive grants between **$250,000 and $500,000** for regional businesses to develop and demonstrate AI solutions.
 - Required matched co‑funding and ran across three rounds.
-- Program **concluded**.
+- Program **concluded**. Round 1 listing remains on business.gov.au — verify eligibility and deadline directly.
 - ➡️ [Program details](https://business.gov.au/grants-and-programs/catalysing-the-artificial-intelligence-opportunity-in-our-regions-round-1?)
 
 ### R&D Tax Incentive
@@ -64,7 +68,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 
 - Competitive grants supporting research between universities and businesses.
 - **Discovery Projects**: $30k–$500k annually for up to 5 years.
-- **Linkage Projects**: Promote industry–academic partnerships; in 2024 Round 2, $46.6m was awarded to 75 projects.
+- **Linkage Projects**: Promote industry–academic partnerships; in 2024 Round 2, $46.6m was awarded to 75 projects. The 2026 Linkage Projects round closed 18 March 2026.
 - Program is **active and ongoing**.
 - ➡️ [Discovery Projects](https://www.arc.gov.au/funding-research/discovery-linkage/discovery-program/discovery-projects) | [Linkage Projects](https://www.arc.gov.au/funding-research/funding-schemes/linkage-program/linkage-projects)
 
@@ -92,13 +96,27 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 - Program is active.
 - ➡️ [More information](https://www.csiro.au/en/research/technology-space/ai/nsf-ai-research)
 
-### Cooperative Research Centres Projects (CRC-P) – AI Focus
+### Cooperative Research Centres Projects (CRC-P) – Round 19 AI Stream
 
-- Grants between $100,000 and $3 million for collaborative AI research projects.
-- Up to 3 years funding for industry-led AI collaborations.
-- Additional funding allocated specifically for AI projects in recent rounds.
-- Program is active with annual rounds.
+- Grants between **$100,000 and $3 million** for collaborative AI research projects, up to 3 years.
+- Round 19 includes a dedicated **$20 million funding stream** for projects that develop or enhance AI systems. Grants of $100,000–$3 million, up to 3 years, with 50% co-contribution required. **Closing 12 May 2026.**
+- Program is **active** with annual rounds.
 - ➡️ [CRC-P details](https://business.gov.au/grants-and-programs/cooperative-research-centres-projects-crcp-grants)
+
+### Cooperative Research Centres (CRC) Program — Round 27
+
+- Industry-research consortia grants, typically **$2–5 million** over 3–10 years.
+- Supports large-scale collaborative research partnerships between industry and research organisations.
+- General research collaboration (not AI-specific) but AI components are eligible.
+- **Closing 21 April 2026.**
+- ➡️ [CRC Program details](https://business.gov.au/grants-and-programs/cooperative-research-centres-crc-grants)
+
+### AI Accelerator CRC (Future)
+
+- Approximately **$50 million** planned for a dedicated AI Cooperative Research Centre.
+- Part of the broader AI Accelerator initiative to drive industry-led AI research at scale.
+- CRC Round 28 expected to open in **2027**.
+- ➡️ [AI Accelerator initiative](https://www.industry.gov.au/news/ai-accelerator-initiative-kicks-funding-industry-led-research)
 
 ---
 
@@ -198,7 +216,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 
 | Program / Initiative | Type | Value | Key Focus | Status |
 |----------------------|------|-------|-----------|--------|
-| AI Adopt Program | Federal Grant | $3–5m | SME AI adoption | Closed |
+| AI Adopt Program | Federal Grant | $3–5m | SME AI adoption | Centres operational |
 | AI & Digital Capability Centres | Federal Grant | $44m (total) | SME training, commercialisation | Concluded |
 | Catalysing AI in Regions | Federal Grant | $250k–$500k | Regional AI solutions | Concluded |
 | R&D Tax Incentive | Tax Offset | 38.5–43.5% | AI R&D projects | Active |
@@ -211,7 +229,9 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 | MRFF AI in Health | Federal Grant | $30m | Healthcare AI transformation | Active |
 | CSIRO Next Gen Graduates | Federal Program | Varies | AI workforce development | Active |
 | CSIRO-NSF AI Collaboration | International Grant | $9.6m (2023) | Responsible AI research | Active |
-| CRC-P AI Projects | Federal Grant | $100k–$3m | Collaborative AI research | Active |
+| CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closing 12 May 2026 |
+| CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Closing 21 April 2026 |
+| AI Accelerator CRC | Federal (Future) | ~$50m | Dedicated AI CRC | Expected 2027 |
 | AWS AI Accelerator | Corporate | US$230m pool | Generative AI startups | Active |
 | NRFC | Co‑investment fund | $550m+ | Large-scale ventures | Active |
 | Fearless Innovator Grant | Micro‑grant | $100k | Female founders in AI | Completed (2024) |
