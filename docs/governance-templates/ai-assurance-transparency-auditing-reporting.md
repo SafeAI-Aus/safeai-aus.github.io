@@ -350,7 +350,7 @@ You can adapt these artefacts to your own context, policy stack and risk appetit
 - 🇦🇺 [NSW AI Assessment Framework](https://www.digital.nsw.gov.au/policy/artificial-intelligence/nsw-artificial-intelligence-assessment-framework) — Structured risk-based AI assessment framework (NSW Government)
 - 📘 ISO/IEC 42001:2023 — AI Management Systems (available via Standards Australia)
 - 🇺🇸 [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) — US National Institute of Standards and Technology
-- 📈 [Australian Responsible AI Index 2025](https://responsibleai.org.au/) — Annual benchmark of AI practice adoption
+- 📈 Australian Responsible AI Index 2025 — Annual benchmark of AI practice adoption
 
 ---
 

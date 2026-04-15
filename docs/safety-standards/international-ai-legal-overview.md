@@ -173,7 +173,7 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 **United States**
 
 - [NIST AI Risk Management Framework 1.0](https://www.nist.gov/itl/ai-risk-management-framework)
-- [OMB M-24-10 - AI Governance (White House)](https://www.whitehouse.gov/omb/management/ofcio/advancing-governance-innovation-and-risk-management-for-agency-use-of-artificial-intelligence/)
+- OMB M-24-10 - AI Governance (White House)
 - [Colorado SB24-205 (Colorado General Assembly)](https://leg.colorado.gov/bills/sb24-205)
 - [NYC Local Law 144 - AEDT (NYC DCWP)](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page)
 - [NIST Concept Note — Trustworthy AI in Critical Infrastructure (Apr 2026)](https://www.nist.gov/itl/ai-risk-management-framework)
@@ -192,11 +192,11 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 **Japan**
 
 - [AI Promotion Act Overview (ZeLo)](https://zelojapan.com/en/lawsquare/56899)
-- [AI Guidelines for Business (METI)](https://www.meti.go.jp/english/policy/mono_info_service/information_economy/artificial_intelligence.html)
+- [AI Guidelines for Business (METI)](https://www.meti.go.jp/english/policy/economy/ai/index.html)
 
 **South Korea**
 
-- [AI Basic Act - MSIT Announcement](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&mPid=2&pageIndex=&bbsSeqNo=42&nttSeqNo=1071)
+- [AI Basic Act - MSIT Announcement](https://www.msit.go.kr/eng/index.do)
 - [AI Basic Act Analysis (Cooley)](https://www.cooley.com/news/insight/2026/2026-01-27-south-koreas-ai-basic-act-overview-and-key-takeaways)
 - [Framework Act English Translation (CSET Georgetown)](https://cset.georgetown.edu/wp-content/uploads/t0625_south_korea_ai_law_EN.pdf)
 

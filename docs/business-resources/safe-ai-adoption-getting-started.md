@@ -309,7 +309,7 @@ In all these cases, design systems so **humans remain the decision-makers**, and
 
 - [Australian Government Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
 - [Australian Cyber Security Centre – AI Security Guidance](https://www.cyber.gov.au)
-- [Office of the Australian Information Commissioner – AI and Privacy](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations/artificial-intelligence-and-privacy)
+- [Office of the Australian Information Commissioner – AI and Privacy](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies)
 - [SafeAI-Aus Governance Templates](../governance-templates/policy-template-library.md)
 
 ---
