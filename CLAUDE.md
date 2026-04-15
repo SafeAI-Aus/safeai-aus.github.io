@@ -1,207 +1,63 @@
-# CLAUDE.md
+# SafeAI-Aus Public Website
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
-## Project Overview
-
-SafeAI-Aus is a knowledge hub website providing practical resources, frameworks, and guidance for safe and responsible AI adoption in Australia. The site is built using **Zensical** (a Rust-based static site generator, formerly MkDocs Material) and deployed to GitHub Pages.
+Knowledge hub for safe and responsible AI adoption in Australia. Built with **Zensical** (Rust-based static site generator), deployed to GitHub Pages.
 
 **Live site:** https://safeaiaus.org/
+**Branch:** `main` (auto-deploys via GitHub Actions)
 
-## Development Commands
+## Development
 
-### Local Development
-
-**IMPORTANT:** Use the `.venv-py312` virtual environment (Python 3.12) for local development.
+**CRITICAL:** Always use `.venv-py312` (Python 3.12), not `.venv`.
 
 ```bash
-# Create/activate the Python 3.12 virtual environment
-python3.12 -m venv .venv-py312
-source .venv-py312/bin/activate   # Windows: .venv-py312\Scripts\activate
-
-# Install/upgrade dependencies (if needed)
-pip install -r requirements.txt
-
-# Serve site locally (with live reload)
-zensical serve
-# Opens at http://localhost:8000/
-
-# Build static site
-zensical build
-# Output goes to site/ directory
+source .venv-py312/bin/activate
+zensical serve                    # http://localhost:8000 (live reload)
+zensical build                    # Output to site/
+pip install -r requirements.txt   # If zensical not found
 ```
 
-**Note:** Zensical is a Rust-based binary distributed as a Python wheel. The binary requires Python 3.10+ to install properly from the wheel.
+## Content Structure
 
-### Content Management
+All content is Markdown in `docs/`. Navigation is defined in `zensical.toml` (not file structure).
 
-All content is in Markdown format within the `docs/` directory. The site has these main content areas:
+| Section | Path | Content |
+|---------|------|---------|
+| Safety & Standards | `docs/safety-standards/` | Australian legislation, VAISS, international overview |
+| Governance Templates | `docs/governance-templates/` | 11 templates aligned with VAISS |
+| Business Resources | `docs/business-resources/` | Grants, tools, learning directory |
+| Resources | `docs/resources/` | Glossary, community page |
 
-1. **AI Safety & Standards** (`docs/safety-standards/`)
-   - Australian legislation and voluntary safety standards
-   - International legal overview
+## Key Files
 
-2. **Governance Templates** (`docs/governance-templates/`)
-   - Ready-to-use policy templates, checklists, risk registers, forms
-   - 11 total templates aligned with VAISS (Voluntary AI Safety Standard)
+| File | Purpose |
+|------|---------|
+| `zensical.toml` | Site config, nav structure, theme |
+| `overrides/main.html` | Custom Jinja2 template (SEO, JSON-LD, favicons, frontmatter metadata) |
+| `docs/stylesheets/extra.css` | Custom CSS (header, nav, newsletter form, dark mode) |
+| `docs/assets/extra.js` | Umami analytics, canonical URLs |
+| `.github/workflows/deploy.yml` | CI/CD — builds, generates sitemap, deploys to Pages |
 
-3. **Business Resources** (`docs/business-resources/`)
-   - Grants and funding opportunities
-   - Tools, frameworks, state/territory resources
-   - Learning and development directory
+## Integrations (Do Not Modify Without Authorization)
 
-4. **Resources** (`docs/resources/`)
-   - Glossary
-   - Australian AI Community page
-
-## Architecture and Key Files
-
-### Configuration
-
-**`zensical.toml`** - Main site configuration
-- Site metadata (name, description, URLs)
-- Navigation structure (the `nav` array defines sidebar hierarchy)
-- Theme settings (color schemes, features, icons)
-- Custom CSS/JS paths
-- Repository and social media links
-
-**Important:** Navigation structure is defined in `zensical.toml` under `nav`, NOT in file structure. To add/remove/reorganize sidebar items, edit this file.
-
-### Custom Templates and Assets
-
-**`overrides/main.html`** - Custom Jinja2 template extending Zensical's base
-- Enhanced SEO metadata (OpenGraph, Twitter cards)
-- Structured data (JSON-LD) for search engines
-- Custom favicon handling
-- Canonical URL management
-- Frontmatter-driven metadata (title, description, keywords, og_image, etc.)
-
-**`docs/stylesheets/extra.css`** - Custom CSS
-- Header styling to match logo background (#F6F3EF light mode, #2d2d2d dark mode)
-- Navigation tabs styling
-- Improved heading hierarchy and readability
-- Listmonk newsletter form styling (centered, responsive)
-- Dark mode overrides
-
-**`docs/assets/extra.js`** - Custom JavaScript
-- Umami analytics integration
-- Canonical URL helpers
-- Prevents multiple analytics script injections
-
-**`docs/assets/performance-safe.js`** - Performance optimizations
-
-### Airia AI Chatbot Integration
-
-**SafeAI-Aus Knowledge Assistant**
-
-The site includes an AI-powered chat widget using [Airia](https://airia.ai/) to help visitors find resources and answer questions about Australian AI governance. The integration is configured in `overrides/main.html` (content block).
-
-Chat widget configuration:
-- **Greeting:** Welcomes users and offers to help find AI safety resources
-- **Logo:** Uses compressed SafeAI-Aus chat logo (`assets/safeai-aus-chat-logo-compressed.png`)
-  - Optimized to 200x200px, 58KB (compressed from original 2048x2048px, 5.9MB)
-  - **Important:** Chat widget logos should be small (under 100KB) for performance
-- **Image Settings:** Medium size, white background, green border (#0b6428, 3px)
-- **Auto Open:** `false` (widget appears as a button, opens on click)
-
-The chatbot is powered by Airia's pipeline system and provides context-aware responses based on the site's content.
-
-**Do not modify** the Airia configuration without coordination with the Airia administrator.
-
-**Image Optimization Note:** When adding new logos or images for the chat widget, always compress them significantly. Use Python Pillow to resize and optimize:
-```python
-from PIL import Image
-img = Image.open("original.png")
-img_resized = img.resize((200, 200), Image.Resampling.LANCZOS)
-img_resized.save("compressed.png", "PNG", optimize=True, quality=85)
-```
-
-### Newsletter Integration
-
-**Listmonk Newsletter Form**
-
-The site uses a self-hosted [Listmonk](https://listmonk.app/) instance for newsletter management:
-
-- **Form Action:** `https://lists.safeaiaus.org/subscription/form`
-- **List ID:** `48a923d4-0865-49f1-9c94-67a234cbcae3` (SafeAI-Aus list)
-- **Form Class:** `.listmonk-form` (styled in `extra.css`)
-
-Newsletter form appears on:
-- `docs/newsletter.md` (dedicated newsletter page)
-- `docs/index.md` (homepage footer section)
-
-The form includes:
-- Email field (required)
-- Name field (optional)
-- List checkbox (pre-checked for SafeAI-Aus list)
-- Privacy-focused (no third-party sharing)
-
-**Do not modify** the form action URL or list ID without coordination with the newsletter administrator.
-
-### Frontmatter Convention
-
-Each Markdown page can include YAML frontmatter for SEO and metadata:
-
-```yaml
----
-title: "Page Title"
-description: "Page description for meta tags"
-keywords: "comma, separated, keywords"
-author: "SafeAI-Aus"
-robots: "index, follow"
-og_title: "OpenGraph title"
-og_description: "OpenGraph description"
-og_type: "article"
-og_url: "https://safeaiaus.org/page-url/"
-og_image: "assets/custom-image.png"
-twitter_card: "summary_large_image"
-twitter_title: "Twitter card title"
-twitter_description: "Twitter card description"
----
-```
-
-The custom template in `overrides/main.html` reads these frontmatter values to generate proper SEO tags.
-
-## Deployment
-
-**GitHub Actions Workflow:** `.github/workflows/deploy.yml`
-
-- Triggers on push to `main` branch or manual workflow dispatch
-- Installs Python 3.12 and dependencies from `requirements.txt`
-- Runs `zensical build` to generate static site
-- Generates `sitemap.xml` using Python script (inline in workflow)
-- Copies `robots.txt`, `llms.txt`, and `llms-full.txt` to build output
-- Uploads to GitHub Pages via Actions artifact
-- GitHub Pages configured to deploy from GitHub Actions (not branch)
-
-**No manual deployment needed** - pushing to `main` triggers automatic build and deploy.
-
-### LLM Context Files
-
-The repo includes two files for AI crawlers and LLM systems:
-
-- **`llms.txt`** - Machine-readable policy declaring how LLMs may use this site's content (CC BY 4.0 with attribution)
-- **`llms-full.txt`** - Human-readable summary of the site's content, frameworks, and sections for LLM context
+- **Analytics:** Umami Cloud (configured in `extra.js`)
+- **Newsletter:** Listmonk self-hosted at lists.safeaiaus.org (form in `newsletter.md` and `index.md`)
+- **AI Chat Widget:** Airia chatbot (configured in `overrides/main.html`)
 
 ## Content Guidelines
 
-### Structure
+- Australian English, plain language, practical and actionable
+- Professional tone for governance templates, approachable for business resources
+- Proper heading hierarchy (h1 > h2 > h3). Page title from first `# Heading`
+- OpenGraph images MUST use absolute URLs: `https://safeaiaus.org/assets/image.png`
+- Pages with time-sensitive info (grants, legislation) need periodic review
 
-- Page titles come from the first `# Heading` in each Markdown file
-- Use proper heading hierarchy (h1 → h2 → h3)
-- Include frontmatter for important pages (especially landing pages and governance templates)
+### Frontmatter
 
-### Style
+Include YAML frontmatter for SEO on important pages (title, description, keywords, og_* fields). Template in `overrides/main.html` reads these values.
 
-- Written in plain English for Australian audiences
-- Focus on practical, actionable guidance
-- Align with project mission: safe, responsible, and growth-focused AI for Australia
-- Professional tone for governance templates (minimal emoji use)
-- More approachable tone for business resources
+### Template License Footer
 
-### Templates License Footer
-
-Governance templates include a standardized disclaimer and CC BY 4.0 license footer. Use collapsible admonition format:
+Governance templates must include this collapsible disclaimer:
 
 ```markdown
 ??? info "Disclaimer & Licence - Click to expand"
@@ -210,87 +66,16 @@ Governance templates include a standardized disclaimer and CC BY 4.0 license foo
     **Licence:** Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may copy, adapt, and redistribute with attribution: *"Source: SafeAI-Aus (safeaiaus.org)"*
 ```
 
-## Common Patterns
-
-### Adding New Content
+## Adding Content
 
 1. Create Markdown file in appropriate `docs/` subdirectory
 2. Add frontmatter (copy from similar page)
-3. Update `zensical.toml` navigation structure if needed
-4. Include proper heading hierarchy
-5. Add disclaimer/license footer for templates
-
-### Testing Changes
-
-```bash
-# ALWAYS activate the Python 3.12 venv
-source .venv-py312/bin/activate
-
-# Serve locally and check changes
-zensical serve
-
-# Build to verify no errors
-zensical build
-```
-
-### Editing Navigation
-
-Edit the `nav` array in `zensical.toml`. Structure:
-
-```toml
-nav = [
-  { "Section Name" = [
-    { "Page Name" = "path/to/file.md" },
-    { "Subsection" = [
-      { "Nested Page" = "path/to/nested.md" },
-    ]},
-  ]},
-]
-```
+3. Update `zensical.toml` nav if needed
+4. Add disclaimer/license footer for templates
 
 ## Important Notes
 
-- **Python Environment:**
-  - **CRITICAL:** ALWAYS use `.venv-py312` (Python 3.12), NOT `.venv` (Python 3.9)
-  - Zensical binary requires Python 3.10+ to install from wheel
-  - If `zensical: command not found` error occurs, you're using the wrong venv or need to run `pip install -r requirements.txt`
-
-- **Zensical Setup:**
-  - Zensical is a Rust-based binary distributed as a Python wheel (cp310-abi3)
-  - Install via `pip install zensical` (requires Python 3.10+)
-  - Site was migrated from MkDocs Material to Zensical - some MkDocs features may not work
-
-- **Development Workflow:**
-  - Local server runs on `http://localhost:8000`
-  - Site auto-rebuilds on file changes when using `zensical serve`
-  - Build output goes to `site/` directory (gitignored)
-  - GitHub Actions uses Python 3.12 for CI/CD builds
-
-- **Asset Management:**
-  - Custom CSS in `docs/stylesheets/`
-  - Custom JS in `docs/assets/`
-  - Images in `docs/assets/`
-  - **Image Optimization:** Chat widget logos and icons should be compressed to <100KB
-  - Use Python Pillow for image resizing/compression
-
-- **Critical Integrations (Do Not Modify Without Authorization):**
-  - **Analytics:** Umami Cloud
-  - **Newsletter:** Listmonk self-hosted (lists.safeaiaus.org)
-  - **AI Chat Widget:** Airia chatbot (configuration in `overrides/main.html`)
-
-- **SEO & Content:**
-  - OpenGraph images MUST use absolute URLs: `https://safeaiaus.org/assets/image.png`
-  - Pages with time-sensitive info (grants, legislation) need periodic review
-  - Navigation structure is in `zensical.toml`, not file structure
-
-- **Local Working Directories (Not Tracked in Git):**
-  - `working/` - Local working files, drafts, planning documents
-  - `tmp/` - Temporary files (screenshots, build artifacts)
-  - `.venv-py312/` - Python virtual environment
-  - `.claude/settings.local.json` - Claude Code local settings
-  - All above are in `.gitignore` and should never be committed
-
-- **Documentation Best Practices:**
-  - **NEVER document API keys, credentials, or secrets in this file** - even if they are public/browser-side credentials, they don't belong in developer documentation
-  - Reference where credentials are configured (e.g., "in `overrides/main.html`") rather than listing actual values
-  - If you need to understand integration credentials, read the source files directly
+- Images for chat widget must be compressed to <100KB (use Python Pillow)
+- Never document API keys or credentials in this file — read source files directly
+- `llms.txt` and `llms-full.txt` provide AI crawler context (CC BY 4.0)
+- Gitignored: `working/`, `tmp/`, `.venv-py312/`, `site/`, `.claude/settings.local.json`

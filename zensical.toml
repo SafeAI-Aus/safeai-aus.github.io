@@ -70,6 +70,7 @@ nav = [
     { "Government AI Resources" = "business-resources/state-territory-ai-resources.md" },
     { "AI Learning & Development Directory" = "business-resources/ai-learning-development-directory.md" },
     { "Australian AI Community" = "resources/australian-ai-community.md" },
+    { "Agent-Readable Resources" = "business-resources/agent-readable-resources.md" },
   ]},
 ]
 

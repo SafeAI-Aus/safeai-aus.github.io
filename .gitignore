@@ -4,8 +4,11 @@
 .env
 .DS_Store
 **/.DS_Store
+__pycache__/
 sitemap.xml
 /working/
+/docs/brainstorms/
+/docs/plans/
 
 # Claude Code local settings (not tracked)
 .claude/settings.local.json
