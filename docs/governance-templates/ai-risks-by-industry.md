@@ -5,6 +5,8 @@ description: "Industry-specific AI risk examples for 14 major Australian sectors
 keywords: "AI risk examples, industry-specific AI risks, Australian AI governance, AI risk register support, sector AI risk tables, SME AI risks"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Risks by Industry (Australia)"
 og_description: "Sector-specific AI risk examples for Australian industries to extend their AI risk registers."
 og_type: "article"
@@ -13,6 +15,28 @@ og_image: "assets/safeaiaus-logo-600px.png"
 twitter_card: "summary_large_image"
 twitter_title: "AI Risks by Industry (Australia)"
 twitter_description: "Use these sector-specific AI risk examples to strengthen your AI governance."
+howto:
+  name: "How to Use Industry-Specific AI Risk Examples"
+  description: "Step-by-step guide to identifying sector-tailored AI risks and integrating them into your risk register"
+  totalTime: "PT15M"
+  steps:
+    - name: "Identify your industry sector"
+      text: "Find your industry from the fourteen sectors covered, including mining, finance, healthcare, retail, construction and more."
+    - name: "Review relevant risk examples"
+      text: "Read through the risk names, descriptions and potential impacts listed for your sector to understand common AI threats."
+    - name: "Select the most relevant risks"
+      text: "Start with 3-5 risks most relevant to your current or planned AI use. Not all risks will apply to every organisation."
+    - name: "Adapt to your context"
+      text: "Tailor risk descriptions to your specific AI systems, data and stakeholders. Add your own control measures and assign ownership."
+    - name: "Integrate into your AI risk register"
+      text: "Add the adapted risks to your AI risk register with columns for likelihood, controls, residual risk and review dates."
+faq:
+  - question: "Which industries are covered?"
+    answer: "Fourteen major Australian industries are covered: mining, finance, retail trade, professional services, healthcare, construction, energy, wholesale trade, agriculture, manufacturing, hospitality and tourism, education, transport and logistics, and real estate."
+  - question: "Can I use these risk examples for my own organisation?"
+    answer: "Yes. These examples are licensed under CC BY 4.0. You may copy, adapt and use them with attribution to SafeAI-Aus. They are designed as starting points to be tailored to your specific context."
+  - question: "Are these risk lists exhaustive?"
+    answer: "No. These represent common risk patterns but are not exhaustive. Every organisation should conduct its own risk assessment considering its specific AI applications, data, stakeholders and regulatory environment."
 ---
 
 # AI Risks by Industry (Australia)

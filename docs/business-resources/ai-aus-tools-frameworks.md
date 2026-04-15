@@ -5,6 +5,7 @@ description: "Curated collection of AI tools, frameworks and resources for Austr
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
 author: "SafeAI-Aus"
 last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 robots: "index, follow"
 og_title: "AI Tools & Frameworks for Australian Businesses"
 og_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"

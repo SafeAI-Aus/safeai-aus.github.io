@@ -5,6 +5,16 @@ description: "Implementation guides, funding opportunities, tools and training r
 keywords: "AI implementation, AI business resources, AI funding Australia, AI training, AI tools, AI adoption guide"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
+og_title: "Business Resources for AI Adoption in Australia"
+og_description: "Practical tools, grants, frameworks and learning resources for Australian businesses adopting AI"
+og_type: "article"
+og_url: "https://safeaiaus.org/business-resources/"
+og_image: "assets/safeaiaus-logo-600px.png"
+twitter_card: "summary_large_image"
+twitter_title: "Business Resources for AI Adoption in Australia"
+twitter_description: "Practical tools, grants, frameworks and learning resources for Australian businesses adopting AI"
 ---
 
 # Practical Business Resources

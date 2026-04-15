@@ -5,6 +5,8 @@ description: "Step-by-step guidance for running AI pilots, scaling what works an
 keywords: "AI implementation roadmap, AI pilot guidance, AI scaling, AI assurance, AI governance, Australian business AI"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Implementation Roadmap"
 og_description: "A practical roadmap for planning pilots, scaling successful AI use cases and embedding assurance into business-as-usual."
 og_type: "article"
@@ -13,6 +15,26 @@ og_image: "assets/safeaiaus-logo-600px.png"
 twitter_card: "summary_large_image"
 twitter_title: "AI Implementation Roadmap"
 twitter_description: "A practical roadmap for planning pilots, scaling successful AI use cases and embedding assurance into business-as-usual."
+howto:
+  name: "How to Implement AI Using a Four-Stage Roadmap"
+  description: "Step-by-step guide to running AI pilots, scaling what works and building ongoing assurance into your organisation"
+  totalTime: "PT25M"
+  steps:
+    - name: "Explore and pilot"
+      text: "Identify 2-3 low-risk use cases, set up your AI system register and run small pilots with clear success criteria over 4-8 weeks."
+    - name: "Standardise and embed guardrails"
+      text: "Formalise governance policies, create risk assessment processes and establish human oversight requirements for AI systems."
+    - name: "Scale what works"
+      text: "Expand successful pilot patterns to additional teams and use cases. Build training programmes and refine support processes."
+    - name: "Continuously assure and improve"
+      text: "Implement ongoing monitoring, regular reviews and continuous improvement cycles. Feed lessons learned back into governance."
+faq:
+  - question: "How long does AI implementation take from pilot to production?"
+    answer: "A typical timeline is 2-4 months for initial pilots, 3-6 months to standardise and embed guardrails, and 6-12 months to scale what works. Continuous assurance is ongoing after that."
+  - question: "How many people should be in an AI pilot group?"
+    answer: "Five to fifteen people is ideal. This is large enough for meaningful data but small enough to provide intensive support and gather detailed feedback."
+  - question: "When should we stop an AI pilot?"
+    answer: "Stop if the tool doesn't fit actual workflows, the error rate remains too high despite tuning, staff find it more frustrating than helpful, integration problems are too complex to resolve, or cost exceeds benefit even at best-case adoption."
 ---
 
 # AI Implementation Roadmap

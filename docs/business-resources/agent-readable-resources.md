@@ -5,6 +5,8 @@ description: "Machine-readable files for AI agents to monitor Australian AI gove
 keywords: "AI agent resources, machine-readable AI governance, llms.txt, updates feed, AI compliance monitoring, automated governance updates, Australian AI updates"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "Agent-Readable Resources for AI Systems"
 og_description: "Machine-readable files for AI agents to monitor Australian AI governance updates"
 og_type: "article"

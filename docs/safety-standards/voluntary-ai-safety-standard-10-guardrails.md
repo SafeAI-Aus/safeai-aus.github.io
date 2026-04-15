@@ -5,6 +5,8 @@ description: "Comprehensive guide to Australia's Voluntary AI Safety Standard wi
 keywords: "Australian AI safety standard, AI guardrails, AI safety framework, voluntary AI standards, AI risk management, AI governance Australia, AI safety compliance, AI safety guardrails, Australian AI standards, AI safety best practices"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "Voluntary AI Safety Standard (10 Guardrails)"
 og_description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails"
 og_type: "article"

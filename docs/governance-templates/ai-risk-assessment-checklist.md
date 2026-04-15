@@ -5,6 +5,8 @@ description: "Download our free AI risk assessment checklist for Australian busi
 keywords: "AI risk assessment, AI risk checklist, AI risk management, AI safety assessment, AI risk mitigation, Australian AI safety, AI risk evaluation, free AI risk assessment template, AI compliance checklist, AI risk framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Risk Assessment Checklist"
 og_description: "Download our free AI risk assessment checklist for Australian businesses. Step-by-step guide to identify, evaluate and mitigate AI risks before deployment."
 og_type: "article"

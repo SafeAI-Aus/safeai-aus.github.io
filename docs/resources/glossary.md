@@ -5,6 +5,8 @@ description: "A practical glossary of key AI terms in the Australian context. Co
 keywords: "AI glossary Australia, AI terms, AI definitions, AI safety glossary, AI governance terms, Australian AI terminology, AI compliance glossary"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Glossary (Australia)"
 og_description: "A practical glossary of key AI terms in the Australian context"
 og_type: "article"

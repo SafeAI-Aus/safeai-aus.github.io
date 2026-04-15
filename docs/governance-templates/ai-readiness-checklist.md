@@ -5,6 +5,8 @@ description: "Comprehensive AI readiness checklist for Australian businesses. As
 keywords: "AI readiness checklist, Australian business AI, AI adoption checklist, AI governance checklist, AI safety checklist, AI risk assessment, AI readiness assessment, Australian AI standards, AI implementation checklist, free AI checklist"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Readiness Checklist for Australian Businesses"
 og_description: "Comprehensive AI readiness checklist for Australian businesses"
 og_type: "article"
