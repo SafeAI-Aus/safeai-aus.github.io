@@ -66,6 +66,7 @@ nav = [
   { "Business Resources" = [
     { "Overview" = "business-resources/index.md" },
     { "Safe AI Adoption - Getting Started" = "business-resources/safe-ai-adoption-getting-started.md" },
+    { "AI Governance FAQ" = "business-resources/ai-governance-faq.md" },
     { "AI Grants & Funding" = "business-resources/ai-grants-funding-australia.md" },
     { "Tools & Frameworks" = "business-resources/ai-aus-tools-frameworks.md" },
     { "Government AI Resources" = "business-resources/state-territory-ai-resources.md" },
