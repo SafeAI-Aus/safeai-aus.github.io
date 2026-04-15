@@ -34,6 +34,7 @@ nav = [
     { "Overview" = "safety-standards/index.md" },
     { "Australian Standards" = [
       { "Relevant Australian Legislation" = "safety-standards/ai-australian-legislation.md" },
+      { "Government AI Policy & Frameworks" = "safety-standards/ai-government-policy-frameworks.md" },
       { "Voluntary AI Safety Standard (10 Guardrails)" = "safety-standards/voluntary-ai-safety-standard-10-guardrails.md" },
       { "Guidance for AI Adoption (AI6)" = "safety-standards/guidance-for-ai-adoption-ai6.md" },
     ]},
