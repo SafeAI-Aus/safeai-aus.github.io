@@ -38,12 +38,13 @@ Your agent can fetch this file, filter by content area (e.g., `governance-templa
 
 ```json
 {
-  "date": "2026-04-10",
+  "date": "2026-04-15",
   "commit": "abc1234",
   "type": "docs",
-  "summary": "Add federal AI resources section, new state offices and community groups",
-  "tags": ["business-resources", "resources"],
-  "files": ["business-resources/state-territory-ai-resources/"]
+  "summary": "Update grants and tools pages from April researcher digests",
+  "detail": "CRC-P Round 19 AI stream ($20M) closes 12 May 2026. DTA mandatory AI requirements for Commonwealth agencies take effect 15 June 2026. ARC Linkage 2026 round closed.",
+  "tags": ["business-resources"],
+  "files": ["business-resources/ai-grants-funding-australia/", "business-resources/ai-aus-tools-frameworks/"]
 }
 ```
 
@@ -53,6 +54,7 @@ Your agent can fetch this file, filter by content area (e.g., `governance-templa
 | `commit` | Short commit hash for traceability |
 | `type` | Change type (`docs`, `feat`, `fix`, `update`) |
 | `summary` | Plain-language description of the change |
+| `detail` | Substantive description of what changed and why — key dates, deadlines, regulatory developments. Present when the commit includes a message body |
 | `tags` | Content areas affected |
 | `files` | Pages that were modified (site-relative paths) |
 

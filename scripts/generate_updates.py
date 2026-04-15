@@ -37,6 +37,7 @@ class ChangeEntry:
     commit: str
     type: str
     summary: str
+    detail: str = ""
     tags: List[str] = field(default_factory=list)
     files: List[str] = field(default_factory=list)
 
@@ -86,16 +87,41 @@ def get_commit_hashes() -> List[str]:
     return [h for h in result.stdout.strip().splitlines() if h]
 
 
-def get_commit_info(commit_hash: str) -> tuple[str, str]:
-    """Return (date, subject) for a commit."""
+def get_commit_info(commit_hash: str) -> tuple[str, str, str]:
+    """Return (date, subject, body) for a commit.
+
+    The body is the first paragraph of the commit message after the
+    subject line, stripped of blank lines. Used as agent-facing detail
+    in the changelog feed. Empty when no body is present.
+    """
+    # Use %x00 as separator between subject and body to avoid ambiguity
     result = subprocess.run(
-        ["git", "log", "-1", "--format=%cd%n%s", "--date=short", commit_hash],
+        ["git", "log", "-1", "--format=%cd%n%s%x00%b", "--date=short", commit_hash],
         capture_output=True, text=True, check=True,
     )
-    lines = result.stdout.strip().splitlines()
+    output = result.stdout.strip()
+    lines = output.split("\n", 1)
     commit_date = lines[0] if lines else ""
-    subject = lines[1] if len(lines) > 1 else ""
-    return commit_date, subject
+
+    rest = lines[1] if len(lines) > 1 else ""
+    # Split on the null byte separator
+    parts = rest.split("\x00", 1)
+    subject = parts[0].strip() if parts else ""
+    raw_body = parts[1].strip() if len(parts) > 1 else ""
+
+    # Extract first paragraph only (up to first blank line)
+    detail = ""
+    if raw_body:
+        first_para_lines = []
+        for line in raw_body.splitlines():
+            stripped = line.strip()
+            # Stop at blank line, Co-Authored-By, or other trailers
+            if not stripped or stripped.startswith("Co-Authored-By:"):
+                break
+            first_para_lines.append(stripped)
+        detail = " ".join(first_para_lines)
+
+    return commit_date, subject, detail
 
 
 def _is_merge_commit(commit_hash: str) -> bool:
@@ -196,7 +222,7 @@ def build_entries(commit_hashes: List[str]) -> List[ChangeEntry]:
         if not md_files:
             continue
 
-        commit_date, subject = get_commit_info(full_hash)
+        commit_date, subject, detail = get_commit_info(full_hash)
         commit_type, summary = parse_subject(subject)
         short_hash = full_hash[:7]
 
@@ -211,6 +237,7 @@ def build_entries(commit_hashes: List[str]) -> List[ChangeEntry]:
             commit=short_hash,
             type=commit_type,
             summary=summary,
+            detail=detail,
             tags=tags,
             files=site_files,
         ))
@@ -239,6 +266,7 @@ def main() -> int:
                 "commit": e.commit,
                 "type": e.type,
                 "summary": e.summary,
+                **({"detail": e.detail} if e.detail else {}),
                 "tags": e.tags,
                 "files": e.files,
             }

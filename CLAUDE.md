@@ -73,9 +73,31 @@ Governance templates must include this collapsible disclaimer:
 3. Update `zensical.toml` nav if needed
 4. Add disclaimer/license footer for templates
 
+## Commit Messages
+
+This repo has an automated changelog feed (`/updates.json`) generated from git history. **Commit bodies are agent-facing** — they appear in the changelog that visiting AI agents read.
+
+**Subject line:** Use conventional commits (`docs:`, `feat:`, `fix:`). Keep it short and structural.
+
+**Body (first paragraph):** Describe the *substance* of the change for an audience of AI agents and governance professionals. What regulatory development, policy update, or content change does this commit reflect? Include key dates, deadlines, and affected topics.
+
+Example:
+
+```
+docs: Update grants and tools pages from April researcher digests
+
+CRC-P Round 19 AI stream ($20M) closes 12 May 2026. CRC Program Round 27
+closes 21 April 2026. DTA mandatory AI requirements for Commonwealth
+agencies take effect 15 June 2026 — new AI Impact Assessment Tool and
+Procurement Guidance added to tools page. ARC Linkage 2026 round closed.
+```
+
+The subject line tells humans *what changed*. The body tells agents *why it matters*.
+
 ## Important Notes
 
 - Images for chat widget must be compressed to <100KB (use Python Pillow)
 - Never document API keys or credentials in this file — read source files directly
 - `llms.txt` and `llms-full.txt` provide AI crawler context (CC BY 4.0)
-- Gitignored: `working/`, `tmp/`, `.venv-py312/`, `site/`, `.claude/settings.local.json`
+- `updates.json` is auto-generated at build time from git history — do not edit manually
+- Gitignored: `working/`, `tmp/`, `.venv-py312/`, `site/`, `.claude/settings.local.json`, `docs/plans/`, `docs/brainstorms/`
