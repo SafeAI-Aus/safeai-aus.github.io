@@ -248,7 +248,7 @@ Monitor:
 Change management doesn't happen in isolation. It needs to connect to:
 
 **Before you start:**  
-Review [Safe AI Adoption - Getting Started](safe-ai-adoption-getting-started.md) to choose appropriate first use cases and avoid common mistakes.
+Review [Safe AI Adoption - Getting Started](../business-resources/safe-ai-adoption-getting-started.md) to choose appropriate first use cases and avoid common mistakes.
 
 **Vendor selection:**
 See [AI Vendor Evaluation Checklist](ai-vendor-evaluation-checklist.md) – vendor support quality matters enormously for change management success.
@@ -275,7 +275,7 @@ See [AI Implementation Roadmap](ai-implementation-roadmap.md) for practical guid
 
 ## Further Resources
 
-- 🎯 [Safe AI Adoption - Getting Started](safe-ai-adoption-getting-started.md)
+- 🎯 [Safe AI Adoption - Getting Started](../business-resources/safe-ai-adoption-getting-started.md)
 - 📋 [AI Vendor Evaluation Checklist](ai-vendor-evaluation-checklist.md)
 - 🗺️ [AI Implementation Roadmap](ai-implementation-roadmap.md)
 - 📊 [AI Project Register Template](../governance-templates/ai-project-register.md)

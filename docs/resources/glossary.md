@@ -34,16 +34,16 @@ Computer systems that perform tasks normally requiring human intelligence. In Au
 Voluntary principles from the Australian Government that set practical expectations for safe and responsible AI. They help organisations align practice with community standards and emerging regulation.
 
 ## AI Incident
-Any harmful, biased, unsafe or unexpected behaviour from an AI system (e.g., discriminatory outputs, privacy breaches, safety risks). Log and review with an [AI Incident Report](governance-templates/ai-incident-report-form.md).
+Any harmful, biased, unsafe or unexpected behaviour from an AI system (e.g., discriminatory outputs, privacy breaches, safety risks). Log and review with an [AI Incident Report](../governance-templates/ai-incident-report-form.md).
 
 ## AI Inventory (System Register)
 A catalogue of AI systems and use cases across the organisation, including owners, purpose, data sources, risks and status. Supports accountability and audits.
 
 ## AI Risk Assessment
-A structured process to identify, analyse and mitigate risks for AI systems and use cases. Often mapped to ISO/IEC 42001 (management systems) or ISO/IEC 23894 (risk management). Start with the [AI Risk Assessment Template](governance-templates/ai-risk-assessment-checklist.md).
+A structured process to identify, analyse and mitigate risks for AI systems and use cases. Often mapped to ISO/IEC 42001 (management systems) or ISO/IEC 23894 (risk management). Start with the [AI Risk Assessment Template](../governance-templates/ai-risk-assessment-checklist.md).
 
 ## AI Use Policy
-An internal policy that sets boundaries, roles and responsibilities for AI tools. Defines acceptable use, prohibited use, data handling and incident escalation. See the [AI Use Policy Template](governance-templates/ai-use-policy.md).
+An internal policy that sets boundaries, roles and responsibilities for AI tools. Defines acceptable use, prohibited use, data handling and incident escalation. See the [AI Use Policy Template](../governance-templates/ai-use-policy.md).
 
 ## Algorithmic Impact Assessment (AIA)
 An assessment of potential impacts (e.g., fairness, safety, human rights). In Australia this is often paired with a Privacy Impact Assessment (PIA) where personal information is processed.
@@ -166,13 +166,13 @@ A specific category of personal information as defined in the **Privacy Act 1988
 Use of unapproved AI tools by staff. Mitigate through clear policy, training, approved toolkits and monitoring.
 
 ## Template Library
-A collection of standardised documents (policy, risk, incident, vendor, register) to support safe AI adoption. See the [Template Library](governance-templates/policy-template-library.md).
+A collection of standardised documents (policy, risk, incident, vendor, register) to support safe AI adoption. See the [Template Library](../governance-templates/policy-template-library.md).
 
 ## Transparency
 Clarity about how an AI system works, what data it uses and how decisions are made. Supports accountability, trust and compliance.
 
 ## Vendor Due Diligence (AI)
-Assessing third-party AI tools for security, privacy, reliability and compliance. Use the [AI Vendor Evaluation Checklist](governance-templates/ai-vendor-evaluation-checklist.md).
+Assessing third-party AI tools for security, privacy, reliability and compliance. Use the [AI Vendor Evaluation Checklist](../governance-templates/ai-vendor-evaluation-checklist.md).
 
 ---
 

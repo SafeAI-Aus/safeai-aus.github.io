@@ -65,7 +65,7 @@ Each stage has clear objectives, typical timeframes, and "what done looks like" 
 ### What to do
 
 - **Identify 2-3 low-risk, high-learning use cases:**
-    - Review [Safe AI Adoption - Getting Started](safe-ai-adoption-getting-started.md) for good first uses
+    - Review [Safe AI Adoption - Getting Started](../business-resources/safe-ai-adoption-getting-started.md) for good first uses
     - Choose cases that are reversible and low-stakes
     - Pick at least one that builds resilience, not just cuts cost
 
@@ -212,7 +212,7 @@ At the end of Stage 2, you should have:
 - **Prioritise defensive and resilience use cases:**
     - Now that you've learned from productivity use cases, consider defensive ones
     - Security operations support, fraud detection, risk and compliance assistance
-    - See [Safe AI Adoption - Getting Started](safe-ai-adoption-getting-started.md) for resilience-focused uses
+    - See [Safe AI Adoption - Getting Started](../business-resources/safe-ai-adoption-getting-started.md) for resilience-focused uses
 
 - **Track organisation-level metrics:**
     - Monitor across four dimensions:
@@ -299,7 +299,7 @@ In the continuous improvement stage, you should have:
 
 ## Your next steps
 
-**Haven't started pilots?** Review [Safe AI Adoption - Getting Started](safe-ai-adoption-getting-started.md), complete [AI Readiness Checklist](../governance-templates/ai-readiness-checklist.md), set up [AI System Register](../governance-templates/ai-project-register.md) and evaluate vendors using [AI Vendor Evaluation Checklist](ai-vendor-evaluation-checklist.md).
+**Haven't started pilots?** Review [Safe AI Adoption - Getting Started](../business-resources/safe-ai-adoption-getting-started.md), complete [AI Readiness Checklist](../governance-templates/ai-readiness-checklist.md), set up [AI System Register](../governance-templates/ai-project-register.md) and evaluate vendors using [AI Vendor Evaluation Checklist](ai-vendor-evaluation-checklist.md).
 
 **Running pilots now?** Confirm clear success criteria and exit conditions. Collect feedback weekly. Review [AI Change Management](ai-change-management.md). Update your system register.
 
@@ -324,7 +324,7 @@ In the continuous improvement stage, you should have:
 
 ## Further Resources
 
-- 🎯 [Safe AI Adoption - Getting Started](safe-ai-adoption-getting-started.md)
+- 🎯 [Safe AI Adoption - Getting Started](../business-resources/safe-ai-adoption-getting-started.md)
 - 🔄 [AI Change Management](ai-change-management.md)
 - 📋 [AI Vendor Evaluation Checklist](ai-vendor-evaluation-checklist.md)
 - 📊 [AI Project Register Template](../governance-templates/ai-project-register.md)
