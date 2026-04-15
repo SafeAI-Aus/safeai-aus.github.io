@@ -6,6 +6,8 @@
 **/.DS_Store
 sitemap.xml
 /working/
+/docs/brainstorms/
+/docs/plans/
 
 # Claude Code local settings (not tracked)
 .claude/settings.local.json

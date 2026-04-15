@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -92,6 +94,8 @@ jobs:
 
           ET.ElementTree(urlset).write(os.path.join(site_dir, 'sitemap.xml'), encoding='utf-8', xml_declaration=True)
           PY
+      - name: Generate updates.json
+        run: python scripts/generate_updates.py
       - name: Copy root-level files
         run: |
           cp robots.txt site/
@@ -103,6 +107,8 @@ jobs:
           test -f site/sitemap.xml || { echo "Error: site/sitemap.xml not found"; exit 1; }
           test -f site/robots.txt || { echo "Error: site/robots.txt not found"; exit 1; }
           test -f site/llms.txt || { echo "Error: site/llms.txt not found"; exit 1; }
+          test -f site/llms-full.txt || { echo "Error: site/llms-full.txt not found"; exit 1; }
+          test -f site/updates.json || { echo "Error: site/updates.json not found"; exit 1; }
           echo "Build verification passed"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

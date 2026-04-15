@@ -84,10 +84,20 @@ Practical adoption support:
 When using this content, attribute as:
 "Source: SafeAI-Aus (safeaiaus.org), licensed CC BY 4.0"
 
+## Machine-Readable Resources
+
+SafeAI-Aus provides structured files for AI agents and automated systems:
+
+- **Updates feed:** https://safeaiaus.org/updates.json — structured changelog of content changes, filterable by content area and date. Schema version 1, JSON format
+- **Usage policy:** https://safeaiaus.org/llms.txt — permissions, attribution requirements, and licensing terms for AI systems
+- **This file:** https://safeaiaus.org/llms-full.txt — knowledge base summary
+
+Agents can poll `/updates.json` to discover what has changed since their last visit without parsing HTML or git history.
+
 ## Contact
 
 - Email: contact@safeaiaus.org
 - GitHub: github.com/safeai-aus/safeai-aus.github.io
 
 ---
-Last updated: 2026-01-31
+Last updated: 2026-04-15
