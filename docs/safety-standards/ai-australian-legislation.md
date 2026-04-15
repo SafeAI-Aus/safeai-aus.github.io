@@ -5,7 +5,7 @@ description: "Comprehensive overview of current legislation applicable to AI ado
 keywords: "AI legislation Australia, Australian AI law, AI privacy law, AI consumer law, AI discrimination law, AI intellectual property, AI legal compliance, Australian AI regulations, AI legal framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-01-31"
+last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
 og_title: "Current Legal Landscape for AI in Australia"
 og_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
@@ -27,7 +27,7 @@ While Australia doesn't yet have AI-specific legislation, AI use is already gove
 In 2024 the Government released proposals for mandatory guardrails for high-risk AI applications alongside a Voluntary AI Safety Standard. In October 2025 the National AI Centre (NAIC) published updated **Guidance for AI Adoption**, which sets out six essential practices (AI6) and is now the primary government guidance for responsible AI governance and adoption. In December 2025 the **National AI Plan** confirmed that, for now, Australia will rely on **existing laws and sector regulators, supported by voluntary guidance and a new AI Safety Institute**, rather than introducing a standalone AI Act or immediate mandatory guardrails.
 
 !!! note "Policy is evolving"
-    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of January 2026. Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of April 2026. For government policy, guidance and institutional developments, see [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md). Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
 
 !!! info "Why This Matters"
     Understanding the current legal landscape helps organisations:
@@ -59,6 +59,14 @@ The **Privacy Act 1988** is the principal legislation that regulates how persona
     - ✅ Ensure AI vendors are APP-compliant
     - ✅ Implement data minimisation practices
 
+**Automated decision-making transparency (effective 10 December 2026):** The Privacy and Other Legislation Amendment Act 2024 introduces new APP 1.7, 1.8 and 1.9 obligations. From 10 December 2026, APP entities must disclose in their privacy policies:
+
+- The types of personal information used in substantially automated decisions
+- The nature of decisions made solely or significantly by computer programs
+- Where those decisions could reasonably be expected to significantly affect individual rights or interests
+
+The OAIC is progressively publishing guidance on these new obligations throughout 2026. Organisations using AI in automated decision-making should begin privacy policy reviews now.
+
 **Penalties:** Since 2022 reforms, serious or repeated breaches can attract penalties of up to the greater of $50 million, three times the benefit obtained, or 30% of adjusted turnover ([oaic.gov.au](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act)).
 
 ---
@@ -80,7 +88,7 @@ The **Australian Consumer Law (ACL)** is a national law embedded in the Competit
     - ✅ Monitor AI output quality and accuracy
     - ✅ Keep records of AI decision logic for accountability
 
-**Regulatory context:** The ACCC is actively monitoring emerging AI-enabled practices, including reviews, claims and pricing models.
+**Regulatory context:** The ACCC is actively monitoring emerging AI-enabled practices, including reviews, claims and pricing models. In February 2026 the ACCC published its own AI transparency statement disclosing how it uses AI internally, and has flagged **"AI-washing"** (misleading claims about AI capabilities) as an enforcement concern. The Treasury's review of AI and the Australian Consumer Law found the existing framework "fit for purpose", making dedicated AI consumer legislation unlikely in the near term.
 
 ---
 
@@ -97,7 +105,7 @@ Australia maintains a federal anti‑discrimination framework, including acts li
 
 !!! warning "Actions Required"
     - ✅ Regularly audit AI systems for bias and discriminatory outcomes
-    - ✅ Document actions taken to ensure fairness
+    - ✅ Document actions taken to support fairness
     - ✅ Maintain human oversight for high-impact AI decisions
     - ✅ Be prepared to explain or justify AI outputs
 
@@ -122,7 +130,7 @@ Australia's **IP laws**—covering copyright, patents, trademarks and design rig
     - ✅ Avoid relying solely on AI-generated content for IP claims
     - ✅ Respect third-party IP and licensing terms
 
-**Reform note:** Government is considering text and data mining exemptions to clarify how AI can safely use IP-protected content.
+**Copyright reform (April 2026):** Parliament passed copyright reforms on 1 April 2026 establishing Australia's first orphan works scheme. Importantly, the Government **rejected a text-and-data-mining (TDM) exemption** for AI training — a proposal supported by technology firms — and is instead exploring a paid licensing model. This means organisations training AI models on copyrighted content in Australia must continue to rely on existing copyright exceptions or obtain licences from rights holders.
 
 ---
 
@@ -136,43 +144,19 @@ Australia's **IP laws**—covering copyright, patents, trademarks and design rig
 
 ---
 
-## Emerging Reforms (2025–2027 to watch)
+## Upcoming Legislative Reforms
 
-- 📊 **Guidance for AI Adoption (AI6) – in effect from October 2025**
-  NAIC's Guidance for AI Adoption sets out 6 essential practices for responsible AI governance and adoption, with two versions (Foundations and Implementation practices) and supporting tools (AI screening tool, AI policy guide and template, AI register template). It updates and replaces the Voluntary AI Safety Standard as the primary government reference point for organisations using AI in Australia.
+- 🔒 **Privacy Act — automated decision-making transparency (10 December 2026)**
+  New APP 1.7–1.9 obligations require disclosure when computer programs use personal information to make decisions significantly affecting individuals. See the Privacy Act section above for details. The OAIC is publishing guidance progressively throughout 2026.
 
-- 📋 **Voluntary AI Safety Standard (VAISS) – 10 guardrails now integrated into AI6**
-  The Voluntary AI Safety Standard, released in 2024, introduced 10 guardrails for safe and responsible AI. These guardrails remain relevant as a detailed control set and have been fully integrated into the Guidance for AI Adoption through an official "VAISS × implementation practices" crosswalk.
+- 📝 **Copyright reform — TDM exemption rejected (April 2026)**
+  Parliament rejected a text-and-data-mining exemption for AI training and is exploring a paid licensing model instead. See the IP section above for details. Further consultations on AI's impact on the creative sector are expected through the next National Cultural Policy process.
 
-- 🏛️ **National AI Plan and AI Safety Institute (announced November 2025)**
-  The National AI Plan (December 2025) sets a national roadmap to capture AI opportunities, spread benefits across the economy and keep Australians safe. The Government has paused work on standalone AI-specific legislation and mandatory guardrails, instead relying on existing "technology-neutral" laws and regulators, supported by a new **AI Safety Institute** (announced November 2025, rolling out from early 2026) to monitor, test and advise on emerging AI risks.
+- ⚖️ **Consumer law — no standalone AI legislation**
+  The Treasury review found the Australian Consumer Law "fit for purpose" for AI. No dedicated AI consumer legislation is expected in the near term. The ACCC continues to monitor AI-washing and misleading AI claims.
 
-- 🔒 **Privacy Act reforms**
-  Privacy reforms remain on the agenda, including stronger consent rules, potential rights to explanation for high-impact automated decisions, direct rights of action and higher penalties. These reforms will significantly shape compliant AI data practices.
-
-- 📝 **Copyright and IP reforms**
-  Ongoing work is examining text and data-mining exceptions, the legality of using copyrighted works to train AI models and how copyright applies to AI-generated content. These reforms are particularly important for organisations heavily relying on generative AI.
-
----
-
-## Government guidance for safe AI (AI6 and the Voluntary AI Safety Standard)
-
-In 2024 the Australian Government released the **Voluntary AI Safety Standard (VAISS)** as an interim framework consisting of 10 guardrails for safe and responsible AI development and deployment across all sectors.
-
-In October 2025 the National AI Centre released updated **Guidance for AI Adoption**, which:
-
-- condenses the 10 VAISS guardrails into **6 essential practices (AI6)**
-- expands guidance to cover both AI **deployers and developers**
-- provides more detailed, actionable implementation guidance and supporting tools.
-
-The Guidance for AI Adoption is now the **primary source of voluntary governance guidance** for Australian organisations. The 10 guardrails remain fully integrated into AI6 and are useful as a **detailed control catalogue**, especially when building AI policies, risk registers and vendor due-diligence processes.
-
-!!! success "How to Use This Guidance"
-    Organisations developing or deploying AI systems should:
-
-    - 📊 **Adopt AI6** as their top-level framework for responsible AI governance
-    - 📋 **Use the 10 guardrails** where more granular control statements are helpful or where external documents still refer to VAISS
-    - 🔗 **Link to existing obligations** in privacy, consumer law, safety, IP and cyber security
+!!! info "Government Policy and Guidance"
+    For coverage of the National AI Plan, AI Safety Institute, DTA mandatory requirements, Senate Committee response and other government policy developments, see [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md).
 
 ---
 
