@@ -5,6 +5,8 @@ description: "Comprehensive AI project register template for Australian business
 keywords: "AI project register template, AI project tracking, AI governance tracking, AI compliance register, AI project management, Australian AI safety, AI project oversight"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Project Register Template"
 og_description: "Comprehensive AI project register template for Australian businesses"
 og_type: "article"
@@ -13,6 +15,28 @@ og_image: "assets/safeaiaus-logo-600px.png"
 twitter_card: "summary_large_image"
 twitter_title: "AI Project Register Template"
 twitter_description: "Comprehensive AI project register template for Australian businesses"
+howto:
+  name: "How to Set Up and Maintain an AI Project Register"
+  description: "Step-by-step guide to creating a central record of all AI initiatives for governance oversight"
+  totalTime: "PT30M"
+  steps:
+    - name: "Assign register ownership"
+      text: "Designate the PMO, ICT or risk/governance function as the owner responsible for maintaining the register."
+    - name: "Create entries for each AI initiative"
+      text: "At project initiation, record project information, ownership, governance details and technical specifications using the template fields."
+    - name: "Complete risk and compliance assessment"
+      text: "Document guardrail compliance status, risk level and mitigation controls for each initiative."
+    - name: "Track financial and lifecycle details"
+      text: "Record budget, actual spend, ROI targets and key dates including pilot, production, review and sunset milestones."
+    - name: "Review and update regularly"
+      text: "Update the register at least quarterly, or more frequently for high-risk projects. Use it at go/no-go review points to assess compliance."
+faq:
+  - question: "How often should the AI project register be updated?"
+    answer: "At minimum quarterly, or more frequently for high-risk or high-impact projects. Update entries whenever significant changes occur such as new risks, model version changes or governance decisions."
+  - question: "Who should own the AI project register?"
+    answer: "The register should be owned by the PMO, ICT or risk/governance function. It serves as a central source of truth for governance, risk and compliance monitoring across all AI initiatives."
+  - question: "What is the minimum information needed for each entry?"
+    answer: "At minimum, record the project name, description, project owner, risk level, guardrail compliance status and key dates. Expand with financial, technical and ethics details as the project matures."
 ---
 
 # AI Project Register

@@ -5,6 +5,8 @@ description: "Comprehensive AI Use Policy template for Australian businesses. In
 keywords: "AI use policy template, AI governance template, Australian AI policy, AI safety policy, AI compliance template, AI risk management policy, AI governance Australia, free AI policy template, generative AI policy, ChatGPT workplace policy, AI acceptable use policy"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Use Policy Template"
 og_description: "Comprehensive AI Use Policy template for Australian businesses"
 og_type: "article"

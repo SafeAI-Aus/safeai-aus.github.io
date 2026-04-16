@@ -5,6 +5,8 @@ description: "Stay informed with practical tools, resources and updates on safe 
 keywords: "AI newsletter Australia, AI safety updates, Australian AI news, AI governance resources, AI compliance updates, AI policy news, AI safety newsletter"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "Subscribe to SafeAI-Aus Newsletter"
 og_description: "Stay informed with practical tools, resources and updates on safe AI adoption in Australia"
 og_type: "website"

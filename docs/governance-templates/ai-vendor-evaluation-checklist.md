@@ -5,6 +5,8 @@ description: "Comprehensive AI vendor evaluation checklist for Australian busine
 keywords: "AI vendor evaluation, AI supplier checklist, AI vendor assessment, AI procurement checklist, AI vendor compliance, Australian AI standards, AI vendor safety, build vs buy AI, AI procurement Australia, free AI vendor checklist"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Vendor Evaluation Checklist"
 og_description: "Comprehensive AI vendor evaluation checklist for Australian businesses"
 og_type: "article"

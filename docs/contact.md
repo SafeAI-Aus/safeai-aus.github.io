@@ -5,6 +5,8 @@ description: "How to connect with the SafeAI-Aus community and get involved in o
 keywords: "SafeAI-Aus contact, AI community Australia, open source AI governance, AI safety Australia, contribute AI safety, AI governance templates"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "Contact SafeAI-Aus"
 og_description: "How to connect with the SafeAI-Aus community and get involved in our open-source AI safety initiative"
 og_type: "website"

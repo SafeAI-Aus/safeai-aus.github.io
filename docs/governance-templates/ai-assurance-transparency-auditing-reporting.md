@@ -5,6 +5,8 @@ description: "Practical guide for Australian organisations to build AI assurance
 keywords: "AI assurance, AI transparency, AI auditing, AI reporting, Australian AI governance, AI risk management, AI incident reporting"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "AI Assurance – Transparency, Auditing & Reporting"
 og_description: "Simple patterns Australian teams can use to make AI systems transparent, auditable and well reported."
 og_type: "article"
@@ -13,6 +15,28 @@ og_image: "assets/safeaiaus-logo-600px.png"
 twitter_card: "summary_large_image"
 twitter_title: "AI Assurance – Transparency, Auditing & Reporting"
 twitter_description: "Simple patterns Australian teams can use to make AI systems transparent, auditable and well reported."
+howto:
+  name: "How to Build AI Assurance Practices"
+  description: "Step-by-step guide to making AI systems transparent, auditable and well-reported in your organisation"
+  totalTime: "PT30M"
+  steps:
+    - name: "Set up an AI system register"
+      text: "Create a simple register of all AI systems in use, capturing name, owner, purpose, data inputs/outputs, risk level and controls."
+    - name: "Write AI safety notes for higher-risk systems"
+      text: "For medium and high-risk AI systems, create a one-page summary explaining what the system does, its limits and what controls are in place."
+    - name: "Establish auditing practices"
+      text: "Define how and when AI systems will be reviewed. Start with lightweight checks and scale up based on risk level."
+    - name: "Build reporting routines"
+      text: "Set up regular reporting to leadership on AI system performance, incidents and compliance status. Start with quarterly board updates."
+    - name: "Integrate into existing governance"
+      text: "Connect AI assurance activities to your existing GRC processes so AI risks sit alongside other strategic and operational risks."
+faq:
+  - question: "What is AI assurance?"
+    answer: "AI assurance is the practice of making your AI systems transparent, auditable and well-reported. It covers knowing where AI is used, how it was tested, what could go wrong and what you are doing about those risks."
+  - question: "How much effort does AI assurance require for small teams?"
+    answer: "Very small teams (1-20 staff) can start with a simple spreadsheet register (2-4 hours to set up), one-page safety notes for critical systems (1-2 hours each) and adding AI questions to existing processes."
+  - question: "Why should we start building AI assurance now?"
+    answer: "The Australian Government is developing mandatory guardrails for high-risk AI uses, and version 2 of the Voluntary AI Safety Standard is in development. Building good assurance practices now means you are ready when regulations arrive."
 ---
 
 # AI Assurance – Transparency, Auditing & Reporting
@@ -326,7 +350,7 @@ You can adapt these artefacts to your own context, policy stack and risk appetit
 - 🇦🇺 [NSW AI Assessment Framework](https://www.digital.nsw.gov.au/policy/artificial-intelligence/nsw-artificial-intelligence-assessment-framework) — Structured risk-based AI assessment framework (NSW Government)
 - 📘 ISO/IEC 42001:2023 — AI Management Systems (available via Standards Australia)
 - 🇺🇸 [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) — US National Institute of Standards and Technology
-- 📈 [Australian Responsible AI Index 2025](https://responsibleai.org.au/) — Annual benchmark of AI practice adoption
+- 📈 Australian Responsible AI Index 2025 — Annual benchmark of AI practice adoption
 
 ---
 

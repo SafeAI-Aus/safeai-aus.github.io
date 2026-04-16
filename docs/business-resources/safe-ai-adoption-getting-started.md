@@ -5,6 +5,8 @@ description: "Where to start with AI in your organisation, what to avoid and how
 keywords: "safe AI adoption, AI adoption roadmap, AI risk management, AI resilience, Australian business AI, AI implementation tips, how to implement AI safely, AI for small business Australia, AI governance for SMEs, responsible AI Australia"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "Safe AI Adoption - Getting Started"
 og_description: "Practical guidance on safe AI adoption: where to start, what to avoid and how to build organisational resilience."
 og_type: "article"
@@ -307,7 +309,7 @@ In all these cases, design systems so **humans remain the decision-makers**, and
 
 - [Australian Government Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
 - [Australian Cyber Security Centre – AI Security Guidance](https://www.cyber.gov.au)
-- [Office of the Australian Information Commissioner – AI and Privacy](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations/artificial-intelligence-and-privacy)
+- [Office of the Australian Information Commissioner – AI and Privacy](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies)
 - [SafeAI-Aus Governance Templates](../governance-templates/policy-template-library.md)
 
 ---

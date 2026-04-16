@@ -51,8 +51,8 @@ This page curates official Australian government resources on AI for public sect
 - **[Guidance for AI Adoption — six essential practices (NAIC)](https://consult.industry.gov.au/guidance-for-ai-adoption)** — updated guidance replacing the Voluntary AI Safety Standard; sets out six essential practices for responsible AI governance.
 - **[National Framework for the Assurance of AI in Government](https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government)** — endorsed by Data & Digital Ministers (June 2024); the national baseline that most state/territory frameworks align to.
 - **[Digital Transformation Agency — AI guidance](https://architecture.digital.gov.au/artificial-intelligence)** — whole-of-government architecture and guidance for AI in Australian Government agencies.
-- **[OAIC — Artificial Intelligence and Privacy](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations/artificial-intelligence-and-privacy)** — guidance from the Office of the Australian Information Commissioner on privacy obligations when developing or using AI.
-- **[OAIC — Privacy Impact Assessment guide](https://www.oaic.gov.au/privacy/privacy-guidance-and-resources/privacy-impact-assessments)** — how to conduct PIAs, applicable to AI systems handling personal information.
+- **[OAIC — Artificial Intelligence and Privacy](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies)** — guidance from the Office of the Australian Information Commissioner on privacy obligations when developing or using AI.
+- **[OAIC — Privacy Impact Assessment guide](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/privacy-impact-assessments)** — how to conduct PIAs, applicable to AI systems handling personal information.
 
 For a detailed overview of Australian AI legislation, see our [AI & Australian Legislation](/safety-standards/ai-australian-legislation/) page.
 

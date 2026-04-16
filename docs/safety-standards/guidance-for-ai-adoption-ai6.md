@@ -5,6 +5,8 @@ description: "How Australian organisations can implement the National AI Centre'
 keywords: "AI6 guidance Australia, Guidance for AI Adoption, AI essential practices, AI governance Australia, National AI Centre guidance, NAIC AI6, responsible AI adoption, AI6 vs VAISS, voluntary AI safety standard update, AI governance framework Australia"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "Guidance for AI Adoption (AI6) – 6 Essential Practices"
 og_description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption"
 og_type: "article"

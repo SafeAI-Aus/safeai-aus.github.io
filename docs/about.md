@@ -5,6 +5,8 @@ description: "Learn about SafeAI-Aus — mission, purpose, core values and licen
 keywords: "SafeAI-Aus mission, AI safety values, Australian AI community, open source AI tools, AI governance Australia, AI safety mission, Australian AI standards, AI ethics Australia"
 author: "SafeAI-Aus"
 robots: "index, follow"
+last-reviewed: "2026-04-15"
+review-cycle: "quarterly"
 og_title: "About SafeAI-Aus: Mission, Values & Licence"
 og_description: "Learn about SafeAI-Aus — mission, purpose, core values and licensing"
 og_type: "website"
