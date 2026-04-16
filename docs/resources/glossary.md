@@ -162,7 +162,7 @@ The level and types of risk an organisation is willing to accept in AI adoption.
 Documented argument and evidence that an AI system is acceptably safe for its intended use. More common for higher-risk sectors.
 
 ## Sensitive Information (Australia)
-A specific category of personal information as defined in the **Privacy Act 1988 (Cth)**, including health information, biometrics, racial or ethnic origin, political opinions, religious beliefs, sexual orientation and criminal records. Sensitive information is generally subject to higher collection and handling thresholds, such as explicit consent, with exceptions for legally required processing and certain permitted purposes. See [OAIC guidance on sensitive information](https://www.oaic.gov.au/privacy/your-privacy-rights/what-is-personal-information) for detailed requirements.
+A specific category of personal information as defined in the **Privacy Act 1988 (Cth)**, including health information, biometrics, racial or ethnic origin, political opinions, religious beliefs, sexual orientation and criminal records. Sensitive information is generally subject to higher collection and handling thresholds, such as explicit consent, with exceptions for legally required processing and certain permitted purposes. See [OAIC guidance on handling personal information](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/handling-personal-information) for detailed requirements.
 
 ## Shadow AI
 Use of unapproved AI tools by staff. Mitigate through clear policy, training, approved toolkits and monitoring.

@@ -83,7 +83,7 @@ Training courses, certifications, workshops and educational resources for buildi
     **Government Support**
 
     - [Australian AI Action Plan](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence)
-    - [National AI Centre](https://www.csiro.au/en/work-with-us/industries/technology/artificial-intelligence)
+    - [National AI Centre](https://www.industry.gov.au/national-artificial-intelligence-centre)
     - State and territory programs (see [State & Territory AI Resources](state-territory-ai-resources.md))
 
     **Industry Associations**
