@@ -11,7 +11,7 @@ og_title: "International AI Legal Landscape (2026) — What Australian Businesse
 og_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
 og_type: "article"
 og_url: "https://safeaiaus.org/safety-standards/international-ai-legal-overview/"
-og_image: "assets/safeaiaus-logo-600px.png"
+og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
 twitter_card: "summary_large_image"
 twitter_title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
 twitter_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
