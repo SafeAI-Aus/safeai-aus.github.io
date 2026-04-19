@@ -5,7 +5,7 @@ description: "Comprehensive overview of international AI regulations and legal f
 keywords: "international AI law, EU AI Act, US AI regulation, global AI compliance, AI legal landscape, Australian businesses abroad, AI regulation 2026"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-04-19"
 review-cycle: "quarterly"
 og_title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
 og_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
@@ -36,7 +36,7 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 ## Executive Snapshot
 
 !!! info "Key Jurisdictions at a Glance"
-    - 🇪🇺 **EU** — The **EU AI Act** is in force with staged obligations. Bans on "unacceptable risk" uses started **2 Feb 2025**; **general-purpose AI (GPAI)** duties started **2 Aug 2025**; the bulk compliance date for high-risk AI (Annex III), transparency and enforcement is **2 Aug 2026** (~16 weeks away). The **EU Digital Omnibus** proposes extending several deadlines (high-risk standalone to Dec 2027, products to Aug 2028) but has not yet been finalised.
+    - 🇪🇺 **EU** — The **EU AI Act** is in force with staged obligations. Bans on "unacceptable risk" uses started **2 Feb 2025**; **general-purpose AI (GPAI)** duties started **2 Aug 2025**; the bulk compliance date for high-risk AI (Annex III), transparency and enforcement is **2 Aug 2026** (~15 weeks away). The **EU Digital Omnibus** proposes extending several deadlines (high-risk standalone to Dec 2027, products to Aug 2028) but has not yet been finalised.
 
     - 🇺🇸 **US** — No single federal AI law. Federal direction runs through **NIST AI RMF 1.0** and public-sector guidance (**OMB M-24-10**). States are moving: **Colorado's AI Act** (effective **30 June 2026**) requires risk programs, impact assessments and notices for "high-risk" AI. NYC mandates bias audits for automated hiring tools.
 
@@ -63,10 +63,10 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 
 ### European Union (EU)
 
-**Status & scope:** The **EU AI Act (Regulation (EU) 2024/1689)** is live with a **risk-tiered** regime (prohibited, high, limited, minimal), dedicated **GPAI** obligations and strong enforcement (up to 7% global turnover). Key dates: **2 Feb 2025** (prohibitions), **2 Aug 2025** (GPAI, governance/penalties), **2 Aug 2026** (bulk compliance for high-risk AI systems under Annex III, transparency obligations under Article 50 and national/EU-level enforcement — approximately 16 weeks away).
+**Status & scope:** The **EU AI Act (Regulation (EU) 2024/1689)** is live with a **risk-tiered** regime (prohibited, high, limited, minimal), dedicated **GPAI** obligations and strong enforcement (up to 7% global turnover). Key dates: **2 Feb 2025** (prohibitions), **2 Aug 2025** (GPAI, governance/penalties), **2 Aug 2026** (bulk compliance for high-risk AI systems under Annex III, transparency obligations under Article 50 and national/EU-level enforcement — approximately 15 weeks away).
 
-!!! note "EU Digital Omnibus — Proposed Timeline Extensions"
-    The **EU Digital Omnibus** proposes significant extensions to several AI Act deadlines. If finalised, the deadline for high-risk AI standalone systems would move from August 2026 to **December 2027**; high-risk AI embedded in products would extend to **August 2028**; and synthetic media watermarking obligations would apply from **November 2026**. The Council and Parliament agreed negotiating positions in March 2026, targeting final agreement by **28 April 2026**. These proposed extensions have not yet been finalised. Monitor [artificialintelligenceact.eu](https://artificialintelligenceact.eu/) for the latest implementation timeline (accessed 15 April 2026).
+!!! note "EU Digital Omnibus — Proposed Timeline Extensions (trilogue target: 28 April 2026)"
+    The **EU Digital Omnibus** proposes significant extensions to several AI Act deadlines. If finalised, the deadline for high-risk AI standalone systems would move from August 2026 to **December 2027**; high-risk AI embedded in products would extend to **August 2028**; and synthetic media watermarking obligations would apply from **November 2026**. The first trilogue meeting commenced 26 March 2026; the Council and Parliament are targeting a political agreement by **28 April 2026**. As of 19 April 2026, this agreement has not yet been reached. These proposed extensions have not been finalised — **do not rely on them for compliance planning until formally adopted**. Monitor [artificialintelligenceact.eu](https://artificialintelligenceact.eu/) for the latest implementation timeline (accessed 19 April 2026).
 
 !!! warning "What to Do"
     - ✅ Map any **EU-facing** AI systems to risk categories; identify if you're a **provider**, **deployer**, **importer** or **distributor**
