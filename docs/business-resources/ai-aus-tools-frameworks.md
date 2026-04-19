@@ -4,7 +4,7 @@ title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated collection of AI tools, frameworks and resources for Australian businesses implementing AI safely and responsibly. Includes risk management, governance and technical testing tools."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
 author: "SafeAI-Aus"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-04-19"
 review-cycle: "quarterly"
 robots: "index, follow"
 og_title: "AI Tools & Frameworks for Australian Businesses"
@@ -42,6 +42,9 @@ In December 2025, the Digital Transformation Agency (DTA) overhauled its **Polic
 
 - **15 June 2026** – first mandatory requirements take effect
 - **December 2026** – all remaining requirements take effect
+
+!!! warning "15 June 2026 is approximately 8 weeks away (as of April 2026)"
+    Commonwealth agencies are now within 8 weeks of the first mandatory requirements under the DTA's updated AI policy. Agencies should ensure their AI governance processes, impact assessments and relevant documentation are in place before this date. Private sector organisations and state agencies are encouraged to treat these requirements as a reference point for their own AI governance maturity.
 
 !!! tip "Relevance beyond the Commonwealth"
     While these requirements are mandatory only for Commonwealth agencies, they signal the direction for all Australian organisations. The Impact Assessment Tool is freely available and provides a solid starting point for any AI governance program.
