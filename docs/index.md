@@ -11,7 +11,9 @@ og_description: "Practical tools, open standards and trusted guidance for Austra
 og_url: "https://safeaiaus.org/"
 og_image: "assets/safeaiaus-logo-600px.png"
 twitter_title: "SafeAI-Aus: Australia's AI Safety Resource"
+twitter_card: "summary_large_image"
 twitter_description: "Practical tools, open standards and trusted guidance for Australian businesses adopting AI safely"
+robots: "index, follow"
 hide:
   - navigation
   - toc
