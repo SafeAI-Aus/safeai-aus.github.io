@@ -4,6 +4,31 @@ Allow: /
 # Security files
 Allow: /.well-known/security.txt
 
+# AI web crawlers — explicitly allowed to index and train on CC BY 4.0 content
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Cohere-AI
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
 # Sitemap location
 Sitemap: https://safeaiaus.org/sitemap.xml
 
