@@ -54,10 +54,12 @@ Australian and international AI regulatory guidance:
 Practical adoption support:
 
 - **Safe AI Adoption Guide** - Where to start, what to avoid
+- **AI Governance FAQ** - Common questions about AI governance in Australia
 - **AI Grants & Funding** - Australian government opportunities
 - **Tools & Frameworks** - Recommended AI tools
 - **State & Territory Resources** - Local government programs
 - **Learning Directory** - Training and education resources
+- **Agent-Readable Resources** - Structured resources for AI agents and automated systems
 
 ### 4. Resources
 - **Glossary** - AI terminology definitions
@@ -100,4 +102,4 @@ Agents can poll `/updates.json` to discover what has changed since their last vi
 - GitHub: github.com/safeai-aus/safeai-aus.github.io
 
 ---
-Last updated: 2026-04-15
+Last updated: 2026-05-17
