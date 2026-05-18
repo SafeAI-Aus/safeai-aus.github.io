@@ -15,14 +15,14 @@ This file is for AI coding and documentation agents working on this repository. 
 
 ## 2. Dev environment & setup
 
-- Requires Python **3.10+**.
+- Requires Python **3.12**. Use `.venv-py312` as the virtual environment directory (not `.venv`). CLAUDE.md is the authoritative source on the Python version; where AGENTS.md and CLAUDE.md conflict, CLAUDE.md takes precedence.
 - Dependencies are pinned in `requirements.txt`. Zensical is the primary dependency (Rust-based but installable via pip).
 
 ### Setup commands
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+python3.12 -m venv .venv-py312
+source .venv-py312/bin/activate  # Windows: .venv-py312\Scripts\activate
 pip install -r requirements.txt
 ```
 
