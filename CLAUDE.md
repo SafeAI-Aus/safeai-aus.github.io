@@ -36,6 +36,8 @@ All content is Markdown in `docs/`. Navigation is defined in `zensical.toml` (no
 | `docs/stylesheets/extra.css` | Custom CSS (header, nav, newsletter form, dark mode) |
 | `docs/assets/extra.js` | Umami analytics, canonical URLs |
 | `.github/workflows/deploy.yml` | CI/CD — builds, generates sitemap, deploys to Pages |
+| `robots.txt` (repo root) | Robots policy — copied to `site/robots.txt` by `deploy.yml`. **This is the file agents and crawlers see.** A separate `docs/robots.txt` used to exist but was dead code (never reached production) and has been removed. |
+| `llms.txt`, `llms-full.txt` (repo root) | AI-agent-readable inventory of the site. Same root-level lifecycle as `robots.txt`. |
 
 ## Integrations (Do Not Modify Without Authorization)
 
