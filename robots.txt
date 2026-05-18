@@ -36,3 +36,15 @@ Allow: /
 
 User-agent: cohere-ai
 Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
