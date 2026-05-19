@@ -85,7 +85,12 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 
 ### United States (US)
 
-**Status & scope:** No omnibus federal AI law. Federal levers include **NIST AI RMF 1.0** (widely adopted) and **OMB M-24-10** (governance for US federal agencies). In April 2026, NIST published a **concept note on Trustworthy AI in Critical Infrastructure**, signalling a new AI RMF Profile for critical infrastructure sectors; no draft has been published yet ([nist.gov](https://www.nist.gov/), accessed 15 April 2026). States and cities are active: **Colorado SB24-205** (effective **30 June 2026**, delayed from the original February 2026 date via SB 25B-004) mandates **risk management programs, impact assessments, consumer notices and appeal/human review** for "high-risk" AI; **NYC Local Law 144** requires **bias audits and notices** for automated hiring tools.
+**Status & scope:** No omnibus federal AI law. Federal levers include **NIST AI RMF 1.0** (widely adopted) and **OMB M-24-10** (governance for US federal agencies). Two NIST publications during 2026 extend the framework:
+
+- **NIST IR 8596 — Cybersecurity Framework Profile for AI (preliminary draft, February 2026):** voluntary framework extending NIST CSF 2.0 to AI-specific cybersecurity risks. Organised around three focus areas (Secure, Defend, Thwart) and the six CSF 2.0 core functions. Open for public comment ([NIST IR 8596 publication page](https://csrc.nist.gov/pubs/ir/8596/ipd), accessed 19 May 2026).
+- **AI RMF Critical Infrastructure Profile (concept note, 7 April 2026):** new profile under development to guide critical infrastructure operators on AI risk management practices. Full profile in development ([NIST AI RMF homepage](https://www.nist.gov/itl/ai-risk-management-framework), accessed 19 May 2026).
+
+States and cities are active: **Colorado SB24-205** (effective **30 June 2026**, delayed from the original February 2026 date via SB 25B-004) mandates **risk management programs, impact assessments, consumer notices and appeal/human review** for "high-risk" AI; **NYC Local Law 144** requires **bias audits and notices** for automated hiring tools.
 
 !!! warning "What to Do"
     - ✅ Align your program to **NIST AI RMF** (often accepted as a **defence/interoperability** baseline, including in Colorado's framework)

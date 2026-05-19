@@ -90,6 +90,8 @@ The **Australian Consumer Law (ACL)** is a national law embedded in the Competit
 
 **Regulatory context:** The ACCC is actively monitoring emerging AI-enabled practices, including reviews, claims and pricing models. In February 2026 the ACCC published its own AI transparency statement disclosing how it uses AI internally, and has flagged **"AI-washing"** (misleading claims about AI capabilities) as an enforcement concern. The Treasury's review of AI and the Australian Consumer Law found the existing framework "fit for purpose", making dedicated AI consumer legislation unlikely in the near term.
 
+**Penalty increase (effective 28 March 2026):** The **Treasury Laws Amendment (Doubling Penalties for ACCC Enforcement) Act 2026** doubled the maximum corporate penalty under the Competition and Consumer Act 2010 and the ACL from $50 million to **$100 million per contravention** for the most serious breaches. The amendment applies across all CCA/ACL provisions including misleading and deceptive conduct — the primary legal risk for businesses making unsubstantiated AI capability claims. The ACCC has publicly stated it will seek the highest penalties appropriate in cases it brings to court. The ACCC's 2026–27 enforcement priorities include manipulative conduct in digital markets (dark patterns, subscription traps, misleading pricing claims) — AI-enabled variants are within scope ([whitecase.com](https://www.whitecase.com/insight-alert/australia-increases-penalties-competition-and-consumer-law-breaches), [nortonrosefulbright.com](https://www.nortonrosefulbright.com/en-au/knowledge/publications/e88ea652/accc-confirms-2026-27-compliance-and-enforcement-priorities)).
+
 ---
 
 ### Anti-Discrimination Laws
@@ -130,7 +132,7 @@ Australia's **IP laws**—covering copyright, patents, trademarks and design rig
     - ✅ Avoid relying solely on AI-generated content for IP claims
     - ✅ Respect third-party IP and licensing terms
 
-**Copyright reform (April 2026):** Parliament passed copyright reforms on 1 April 2026 establishing Australia's first orphan works scheme. Importantly, the Government **rejected a text-and-data-mining (TDM) exemption** for AI training — a proposal supported by technology firms — and is instead exploring a paid licensing model. This means organisations training AI models on copyrighted content in Australia must continue to rely on existing copyright exceptions or obtain licences from rights holders.
+**Copyright reform (Copyright Amendment (Orphan Works and Other Measures) Act 2026, passed 1 April 2026):** Parliament passed the **Copyright Amendment (Orphan Works and Other Measures) Act 2026** on 1 April 2026, establishing Australia's first orphan works scheme — providing legal certainty for use of works where the copyright holder is unknown or unlocatable, with libraries, museums and educational institutions among the primary beneficiaries. Importantly for AI, the Government **rejected a text-and-data-mining (TDM) exemption** for AI training — a proposal supported by technology firms — and is instead exploring a paid licensing model. The **Copyright and AI Reference Group (CAIRG)**, established within the Attorney-General's Department, is engaging stakeholders on fair and legal use of copyrighted material in AI training, copyright law's applicability to AI-generated outputs, and enforcement mechanisms including a potential small claims forum. Organisations training AI models on copyrighted content in Australia must continue to rely on existing copyright exceptions or obtain licences from rights holders ([ministers.ag.gov.au](https://ministers.ag.gov.au/media-centre/important-reforms-australias-copyright-framework-pass-parliament-01-04-2026)).
 
 ---
 
@@ -139,7 +141,7 @@ Australia's **IP laws**—covering copyright, patents, trademarks and design rig
 !!! tip "Key Regulators"
     - 🏦 **ASIC (Financial Services):** AI use in lending, trading and advice must align with responsible lending and market integrity obligations
     - 🏛️ **APRA (Prudential):** AI in risk management and critical infrastructure oversight may attract additional standards
-    - 🏥 **TGA (Healthcare):** AI medical devices must comply with therapeutic goods regulation
+    - 🏥 **TGA (Healthcare):** AI medical devices must comply with therapeutic goods regulation. Two January 2026 reports confirm the existing technology-agnostic framework is fit for purpose; no new mandatory AI requirements introduced ([TGA outcomes report](https://www.tga.gov.au/news/news-articles/tga-ai-review-outcomes-report-published); Department of Health *Safe and Responsible AI in Health Care* final report, January 2026)
     - 👥 **Fair Work Commission (Employment):** Algorithmic decision-making in recruitment and HR must comply with employment and discrimination laws
     - 🦺 **SafeWork NSW (Workplace AI in NSW):** The NSW **Work Health and Safety Amendment (Digital Work Systems) Act 2026** (passed 12 February 2026) imposes specific WHS duties on PCBUs using AI, algorithms, automation or online platforms to allocate work. Commencement is by proclamation. See [NSW section in state/territory resources](/business-resources/state-territory-ai-resources/#new-south-wales-nsw) for full provisions. Other states may follow.
 

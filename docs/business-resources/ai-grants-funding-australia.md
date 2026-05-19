@@ -74,6 +74,15 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 - Program is **active and ongoing**.
 - ➡️ [Discovery Projects](https://www.arc.gov.au/funding-research/discovery-linkage/discovery-program/discovery-projects) | [Linkage Projects](https://www.arc.gov.au/funding-research/funding-schemes/linkage-program/linkage-projects)
 
+!!! info "ARC Generative AI Policy — effective 28 April 2026"
+    The Australian Research Council (jointly with the NHMRC) released an updated **Policy on Use of Generative Artificial Intelligence in the ARC's Grants Programs** in April 2026. The policy applies to all applications and assessments for ARC scheme rounds opening from **28 April 2026**.
+
+    - **Applicants** may use generative AI as a support tool when preparing applications but retain full responsibility for authorship and intellectual content
+    - **Assessors** may use generative AI **only to assist with grammar, spelling, formatting and readability** — AI must not be used to generate substantive assessment content
+    - Joint statement with NHMRC aligns both funders' positions on Gen AI use in research grant processes
+
+    Sources: [arc.gov.au — policy statement](https://www.arc.gov.au/news-and-publications/media/arc-releases-updated-policy-use-generative-artificial-intelligence-grant-assessment), [arc.gov.au — full policy document](https://www.arc.gov.au/publications/policy-use-generative-artificial-intelligence-arcs-grants-programs-2026)
+
 ### Medical Research Future Fund (MRFF) – AI in Health
 
 - $30 million for AI-driven healthcare research transforming Australian healthcare.
