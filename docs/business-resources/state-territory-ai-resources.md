@@ -66,7 +66,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
     - **"Digital work system"** broadly defined as an algorithm, AI, automation or online platform used to allocate work
     - **New Digital Work System Duty:** PCBUs must ensure, so far as is reasonably practicable, that workers' health and safety are not put at risk by work allocated through a digital work system
     - **Union inspection rights:** WHS entry permit holders can require "reasonable assistance" to access and inspect digital systems where a safety breach is suspected (48 hours' notice required)
-    - **Scope:** applies to all NSW employers using algorithmic management, AI scheduling, digital surveillance, or automated decision-making in work allocation
+    - **Scope:** applies to all NSW employers using algorithmic management, AI scheduling, digital surveillance or automated decision-making in work allocation
 
     SafeWork NSW is expected to publish implementation guidance. Employers should begin mapping their AI-driven work allocation systems against the duty now. (Sources: [Norton Rose Fulbright](https://www.nortonrosefulbright.com/en-au/knowledge/publications/d75c5d28/nsw-parliament-passes-digital-work-systems-bill-what-employers-need-to-know), [NSW Parliament Bill page](https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18847))
 

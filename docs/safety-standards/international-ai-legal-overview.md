@@ -22,7 +22,7 @@ twitter_description: "Comprehensive overview of international AI regulations and
 > **Purpose:** Navigate international AI regulations affecting Australian organisations operating globally
 > **Audience:** Legal, compliance, international business and governance teams | **Time:** 60-90 minutes
 
-*Last updated: April 2026. This page is informational and not legal advice.*
+*Last updated: 19 May 2026. This page is informational and not legal advice.*
 
 !!! note "Rapidly evolving landscape"
     International AI regulations are changing fast. The EU's **Digital Omnibus on AI** reached provisional political agreement on 7 May 2026 (extending key AI Act compliance deadlines); formal adoption by the European Parliament is expected by 7 July 2026, with entry into force around end of July 2026. South Korea's AI Basic Act took effect in January 2026 with implementing rules still emerging. Canada's AIDA died on the Order Paper and any replacement may differ substantially. Always verify current status with official sources before making compliance decisions.
@@ -63,10 +63,10 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 
 ### European Union (EU)
 
-**Status & scope:** The **EU AI Act (Regulation (EU) 2024/1689)** is live with a **risk-tiered** regime (prohibited, high, limited, minimal), dedicated **GPAI** obligations and strong enforcement (up to 7% global turnover). Key dates: **2 Feb 2025** (prohibitions), **2 Aug 2025** (GPAI, governance/penalties), **2 Aug 2026** (bulk compliance for high-risk AI systems under Annex III, transparency obligations under Article 50 and national/EU-level enforcement — approximately 16 weeks away).
+**Status & scope:** The **EU AI Act (Regulation (EU) 2024/1689)** is live with a **risk-tiered** regime (prohibited, high, limited, minimal), dedicated **GPAI** obligations and strong enforcement (up to 7% global turnover). Key dates under the **original Act** (before the 7 May 2026 Omnibus provisional agreement): **2 Feb 2025** (prohibitions), **2 Aug 2025** (GPAI, governance/penalties), **2 Aug 2026** (bulk compliance for high-risk AI systems under Annex III, transparency obligations under Article 50 and national/EU-level enforcement). Under the provisional Omnibus extensions (see callout below), the Annex III and Article 50 dates are now expected to move to **2 December 2027** and **2 December 2026** respectively, pending formal adoption.
 
 !!! info "EU Digital Omnibus on AI — Provisional agreement reached 7 May 2026"
-    The **EU Digital Omnibus on AI** reached provisional political agreement at the third trilogue between the European Parliament and the Council on **7 May 2026**. Confirmed extensions:
+    The **EU Digital Omnibus on AI** reached provisional political agreement at the third trilogue between the European Parliament and the Council on **7 May 2026**. Provisional extensions agreed at trilogue (subject to formal adoption):
 
     - **High-risk AI standalone systems (Annex III):** new compliance deadline **2 December 2027** (deferred from 2 August 2026)
     - **High-risk AI embedded in regulated products (Annex I):** new compliance deadline **2 August 2028**
