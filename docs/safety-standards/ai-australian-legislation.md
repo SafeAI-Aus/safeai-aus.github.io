@@ -5,7 +5,7 @@ description: "Comprehensive overview of current legislation applicable to AI ado
 keywords: "AI legislation Australia, Australian AI law, AI privacy law, AI consumer law, AI discrimination law, AI intellectual property, AI legal compliance, Australian AI regulations, AI legal framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-05-19"
 review-cycle: "quarterly"
 og_title: "Current Legal Landscape for AI in Australia"
 og_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
@@ -141,6 +141,7 @@ Australia's **IP laws**—covering copyright, patents, trademarks and design rig
     - 🏛️ **APRA (Prudential):** AI in risk management and critical infrastructure oversight may attract additional standards
     - 🏥 **TGA (Healthcare):** AI medical devices must comply with therapeutic goods regulation
     - 👥 **Fair Work Commission (Employment):** Algorithmic decision-making in recruitment and HR must comply with employment and discrimination laws
+    - 🦺 **SafeWork NSW (Workplace AI in NSW):** The NSW **Work Health and Safety Amendment (Digital Work Systems) Act 2026** (passed 12 February 2026) imposes specific WHS duties on PCBUs using AI, algorithms, automation or online platforms to allocate work. Commencement is by proclamation. See [NSW section in state/territory resources](/business-resources/state-territory-ai-resources/#new-south-wales-nsw) for full provisions. Other states may follow.
 
 ---
 
