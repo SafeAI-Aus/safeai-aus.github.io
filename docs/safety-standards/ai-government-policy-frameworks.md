@@ -41,10 +41,15 @@ The **National AI Plan** sets Australia's national roadmap for AI. Key positions
 
 The Government's formal response to the **Senate Select Committee on Adopting AI** was tabled on 1 April 2026, confirming these positions and committing to:
 
-- Launch of the AI Accelerator CRC (CRC-P Round 19 now; CRC Round 28 in 2027)
-- Rejection of a text-and-data-mining exception in copyright law (see [legislation page](ai-australian-legislation.md))
+- **Acceptance in principle of mandatory guardrails for high-risk AI contexts**, with further consultation on implementation
+- **Sector regulators as the primary enforcement mechanism** (APRA, ASIC, ACCC, OAIC) — no new standalone AI regulator
+- The **AI Safety Institute** will provide guidance and assessments (not enforcement)
+- Launch of the AI Accelerator CRC (CRC-P Round 19 closed 12 May 2026; CRC Round 28 expected 2027)
+- Rejection of a text-and-data-mining exception in copyright law; the **Copyright and AI Reference Group (CAIRG)** is the consultation vehicle (see [legislation page](ai-australian-legislation.md))
 - Consultation on AI's impact on the creative sector through the next National Cultural Policy process
 - Affirmation of the Privacy Act automated decision-making reforms (effective 10 December 2026)
+
+[Full response (industry.gov.au)](https://www.industry.gov.au/publications/australian-government-response-senate-select-committee-adopting-artificial-intelligence-ai-report).
 
 ---
 
