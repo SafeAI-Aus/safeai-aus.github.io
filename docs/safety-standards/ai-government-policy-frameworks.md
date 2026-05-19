@@ -5,7 +5,7 @@ description: "Overview of Australian Government AI policy, guidance and institut
 keywords: "Australian AI policy, National AI Plan, AI Safety Institute, DTA AI policy, AI6 guidance, VAISS, AI governance Australia, mandatory AI requirements, Senate AI Committee"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-05-19"
 review-cycle: "quarterly"
 og_title: "Australian Government AI Policy and Frameworks"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
@@ -69,8 +69,8 @@ The AISI advises; portfolio agencies and sector regulators retain enforcement re
 
 ## DTA Mandatory AI Requirements (Commonwealth Agencies)
 
-!!! warning "First mandatory deadline: 15 June 2026"
-    The Digital Transformation Agency's updated AI policy introduces the first mandatory AI requirements for Commonwealth agencies. This is the most significant shift from voluntary to mandatory obligations in Australian AI governance to date.
+!!! info "First mandatory deadline approaching: 15 June 2026 (27 days)"
+    The Digital Transformation Agency's updated AI policy introduces the first mandatory AI requirements for Commonwealth agencies — **27 days away as at 19 May 2026**. This is the most significant shift from voluntary to mandatory obligations in Australian AI governance to date. Agencies that have not finalised governance frameworks, AI Impact Assessment processes and staff training should treat this as immediate priority.
 
 The DTA updated its **Policy for the Responsible Use of AI in Government** (effective 15 December 2025). Key elements:
 
