@@ -5,7 +5,7 @@ description: "Comprehensive guide to AI resources published by Australian federa
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-05-25"
 review-cycle: "quarterly"
 og_title: "Australian Government AI Resources (Federal, State & Territory)"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
@@ -125,6 +125,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
 - **[WA Government Artificial Intelligence Policy & Assurance Framework (landing)](https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework)** — principles-based policy for WA public sector, including GenAI.
 - **[AI Assurance Framework — overview/download](https://www.wa.gov.au/media/45059/download)** — risk assessment and assurance templates and guidance.
+- **WA Health AI Policy** — the WA Department of Health updated its AI policy on **12 February 2026**. Monitor the WA Health website for the latest version and sector-specific guidance.
 - **[Western Australian Artificial Intelligence Advisory Board](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/western-australian-artificial-intelligence-advisory-board)** — oversight/advice structure for agency implementations.
 - **[Artificial Intelligence & Record Keeping](https://www.wa.gov.au/government/publications/artificial-intelligence-and-record-keeping)** — clarifies record status of AI outputs and related obligations.
 - **[Digital Strategy Roadmap 2025](https://www.wa.gov.au/government/publications/digital-strategy-roadmap-2025)** — broader digital program context for AI initiatives.

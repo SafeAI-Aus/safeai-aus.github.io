@@ -5,7 +5,7 @@ description: "Comprehensive overview of current legislation applicable to AI ado
 keywords: "AI legislation Australia, Australian AI law, AI privacy law, AI consumer law, AI discrimination law, AI intellectual property, AI legal compliance, Australian AI regulations, AI legal framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-05-25"
 review-cycle: "quarterly"
 og_title: "Current Legal Landscape for AI in Australia"
 og_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
@@ -27,7 +27,7 @@ While Australia doesn't yet have AI-specific legislation, AI use is already gove
 In 2024 the Government released proposals for mandatory guardrails for high-risk AI applications alongside a Voluntary AI Safety Standard. In October 2025 the National AI Centre (NAIC) published updated **Guidance for AI Adoption**, which sets out six essential practices (AI6) and is now the primary government guidance for responsible AI governance and adoption. In December 2025 the **National AI Plan** confirmed that, for now, Australia will rely on **existing laws and sector regulators, supported by voluntary guidance and a new AI Safety Institute**, rather than introducing a standalone AI Act or immediate mandatory guardrails.
 
 !!! note "Policy is evolving"
-    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of April 2026. For government policy, guidance and institutional developments, see [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md). Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of May 2026. For government policy, guidance and institutional developments, see [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md). Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
 
 !!! info "Why This Matters"
     Understanding the current legal landscape helps organisations:
@@ -66,6 +66,11 @@ The **Privacy Act 1988** is the principal legislation that regulates how persona
 - Where those decisions could reasonably be expected to significantly affect individual rights or interests
 
 The OAIC is progressively publishing guidance on these new obligations throughout 2026. Organisations using AI in automated decision-making should begin privacy policy reviews now.
+
+!!! warning "OAIC consultation open — submissions due 15 June 2026"
+    The OAIC has released an issues paper: **"Guidance for Transparency in Automated Decision Making"**, which closes **Monday 15 June 2026**. The consultation informs OAIC guidance to help APP entities understand and meet their ADM transparency obligations under APP 1 (effective 10 December 2026). Organisations subject to these obligations — particularly those using AI in decisions that significantly affect individuals — may wish to make a submission.
+
+    Submissions by email to privacyreformtranche1@oaic.gov.au. ([oaic.gov.au consultation page](https://www.oaic.gov.au/engage-with-us/consultations/consultation-on-guidance-for-transparency-in-automated-decision-making), accessed 25 May 2026)
 
 **Penalties:** Since 2022 reforms, serious or repeated breaches can attract penalties of up to the greater of $50 million, three times the benefit obtained, or 30% of adjusted turnover ([oaic.gov.au](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act)).
 
