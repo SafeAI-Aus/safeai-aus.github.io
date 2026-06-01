@@ -5,7 +5,7 @@ description: "Comprehensive overview of current legislation applicable to AI ado
 keywords: "AI legislation Australia, Australian AI law, AI privacy law, AI consumer law, AI discrimination law, AI intellectual property, AI legal compliance, Australian AI regulations, AI legal framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-06-01"
 review-cycle: "quarterly"
 og_title: "Current Legal Landscape for AI in Australia"
 og_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
@@ -27,7 +27,7 @@ While Australia doesn't yet have AI-specific legislation, AI use is already gove
 In 2024 the Government released proposals for mandatory guardrails for high-risk AI applications alongside a Voluntary AI Safety Standard. In October 2025 the National AI Centre (NAIC) published updated **Guidance for AI Adoption**, which sets out six essential practices (AI6) and is now the primary government guidance for responsible AI governance and adoption. In December 2025 the **National AI Plan** confirmed that, for now, Australia will rely on **existing laws and sector regulators, supported by voluntary guidance and a new AI Safety Institute**, rather than introducing a standalone AI Act or immediate mandatory guardrails.
 
 !!! note "Policy is evolving"
-    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of April 2026. For government policy, guidance and institutional developments, see [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md). Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of June 2026. For government policy, guidance and institutional developments, see [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md). Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
 
 !!! info "Why This Matters"
     Understanding the current legal landscape helps organisations:
@@ -66,6 +66,18 @@ The **Privacy Act 1988** is the principal legislation that regulates how persona
 - Where those decisions could reasonably be expected to significantly affect individual rights or interests
 
 The OAIC is progressively publishing guidance on these new obligations throughout 2026. Organisations using AI in automated decision-making should begin privacy policy reviews now.
+
+!!! warning "OAIC open consultation — submissions close **15 June 2026** (15 days)"
+    The OAIC has released an issues paper on **"Guidance for Transparency in Automated Decision Making"** for public consultation. Submissions close **Monday 15 June 2026**. The guidance will clarify how APP entities should meet the APP 1.7–1.9 transparency obligations taking effect 10 December 2026. Organisations using personal information in automated or semi-automated decision-making affecting individuals' rights or interests should review the issues paper and consider making a submission. ([oaic.gov.au](https://www.oaic.gov.au/engage-with-us/consultations/consultation-on-guidance-for-transparency-in-automated-decision-making), accessed 31 May 2026)
+
+**Children's Online Privacy Code (registration by 10 December 2026):** The OAIC released an exposure draft of the **Children's Online Privacy Code** for public consultation on 31 March 2026, with submissions closing **5 June 2026**. The Code will be registered and take effect by **10 December 2026**, coinciding with the APP ADM transparency obligations above. It applies to online services — including apps, games, educational tools and websites — that expose children and young people to the highest privacy risks, or are primarily concerned with children's activities. Key obligations include:
+
+- Considering children's best interests in service design
+- Obtaining consent before using children's personal information for targeted advertising
+- Enabling children to request deletion of their personal information
+- Notifying children when their geolocation is being tracked by other users (including parents)
+
+A breach of the Code constitutes a breach of the Privacy Act and may attract significant civil penalties. The Code complements the Social Media Minimum Age obligation (effective December 2025). Organisations developing or operating AI-enabled consumer-facing services used by children — including EdTech platforms, games and recommendation systems — should review compliance obligations now. ([oaic.gov.au](https://www.oaic.gov.au/news/media-centre/oaic-releases-exposure-draft-of-the-childrens-online-privacy-code), accessed 31 May 2026)
 
 **Penalties:** Since 2022 reforms, serious or repeated breaches can attract penalties of up to the greater of $50 million, three times the benefit obtained, or 30% of adjusted turnover ([oaic.gov.au](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act)).
 
@@ -151,6 +163,9 @@ Australia's **IP laws**—covering copyright, patents, trademarks and design rig
 
 - 🔒 **Privacy Act — automated decision-making transparency (10 December 2026)**
   New APP 1.7–1.9 obligations require disclosure when computer programs use personal information to make decisions significantly affecting individuals. See the Privacy Act section above for details. The OAIC is publishing guidance progressively throughout 2026.
+
+- 🏛️ **DTA mandatory AI requirements for Commonwealth agencies — first deadline 15 June 2026**
+  The Policy for the Responsible Use of AI in Government (Version 2.0) requires all mandatory Commonwealth entities to publish AI transparency statements by **15 June 2026** (first mandatory requirement). The DTA has published a centralised register at [digital.gov.au](https://www.digital.gov.au/policy/ai/list-of-transparency-statements); as of March 2026, all 94 mandatory agencies and a further 20 voluntary agencies had already published statements ahead of the deadline. These requirements are mandatory for Commonwealth agencies only, but they signal the direction of government expectations on AI transparency. See [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md) for details.
 
 - 📝 **Copyright reform — TDM exemption rejected (April 2026)**
   Parliament rejected a text-and-data-mining exemption for AI training and is exploring a paid licensing model instead. See the IP section above for details. Further consultations on AI's impact on the creative sector are expected through the next National Cultural Policy process.
