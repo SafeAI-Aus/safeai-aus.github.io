@@ -5,7 +5,7 @@ description: "Comprehensive overview of international AI regulations and legal f
 keywords: "international AI law, EU AI Act, US AI regulation, global AI compliance, AI legal landscape, Australian businesses abroad, AI regulation 2026"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-06-01"
 review-cycle: "quarterly"
 og_title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
 og_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
@@ -22,7 +22,7 @@ twitter_description: "Comprehensive overview of international AI regulations and
 > **Purpose:** Navigate international AI regulations affecting Australian organisations operating globally
 > **Audience:** Legal, compliance, international business and governance teams | **Time:** 60-90 minutes
 
-*Last updated: 19 May 2026. This page is informational and not legal advice.*
+*Last updated: 1 June 2026. This page is informational and not legal advice.*
 
 !!! note "Rapidly evolving landscape"
     International AI regulations are changing fast. The EU's **Digital Omnibus on AI** reached provisional political agreement on 7 May 2026 (extending key AI Act compliance deadlines); formal adoption by the European Parliament is expected by 7 July 2026, with entry into force around end of July 2026. South Korea's AI Basic Act took effect in January 2026 with implementing rules still emerging. Canada's AIDA died on the Order Paper and any replacement may differ substantially. Always verify current status with official sources before making compliance decisions.
@@ -142,11 +142,30 @@ States and cities are active: **Colorado SB24-205** (effective **30 June 2026**,
 !!! warning "What to Do"
     - ✅ Monitor outcomes from the International Network of AI Safety Institutes — shared evaluation frameworks and safety benchmarks may influence future Australian regulatory expectations
 
+### Bilateral: Australia–UK AI Safety MoU — Signed Late May 2026
+
+**Status & scope:** Australia and the UK signed a **Memorandum of Understanding** in late May 2026 deepening cooperation on the responsible development, deployment, governance and use of safe and trustworthy AI. The MoU was signed during a visit to Australia by the UK Minister for AI and Online Safety. Under the MoU, the Australian AI Safety Institute (currently being established) and the UK **AI Security Institute** will collaborate on:
+
+- Sharing information and expertise on emerging AI capabilities and risks
+- Best practices for testing AI systems
+- Conducting joint research, including novel approaches to measure, test and manage risks
+- Supporting the **International Network for Advanced AI Measurement, Evaluation and Science**
+
+Australia has now signed bilateral AI safety cooperation instruments with Canada (early 2026) and the UK (late May 2026), in addition to industry MoUs with Anthropic and Microsoft. This network of agreements is shaping the AISI's international partnerships even as its formal operational launch remains pending.
+
+*Note: The exact date of signing was not confirmed in available sources as of 31 May 2026. Manual verification at [industry.gov.au](https://www.industry.gov.au/news/australia-and-uk-strengthen-partnership-safe-and-secure-ai) is recommended before citing a specific date.*
+
+!!! warning "What to Do"
+    - ✅ Monitor outcomes from Australia's bilateral AI safety agreements — joint evaluation frameworks and safety benchmarks from these partnerships may influence future Australian regulatory expectations and guidance
+
+!!! info "Australia–Anthropic MoU — 1 April 2026"
+    On 1 April 2026, the Australian Government and Anthropic signed an MoU described as the first formal arrangement executed under the **National AI Plan**. The agreement is a statement of intent (not legally binding) covering AI safety, research collaboration and workforce development. Key elements include Anthropic extending its **AI for Science program** to Australia, with an investment of AUD $3 million in Claude API credits to four institutions (ANU, Murdoch Children's Research Institute, Garvan Institute of Medical Research and Curtin University), and Anthropic planning to open a **Sydney office in 2026**. The MoU was formalised during a meeting between Anthropic CEO Dario Amodei and Prime Minister Albanese. ([industry.gov.au](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-global-ai-innovator-anthropic), accessed 31 May 2026; [anthropic.com](https://www.anthropic.com/news/australia-MOU), accessed 31 May 2026)
+
 ---
 
 ## Side-by-Side Summary
 
-| Jurisdiction | Legal posture (Apr 2026) | Primary instruments | Key dates | Headline obligations (examples) |
+| Jurisdiction | Legal posture (Jun 2026) | Primary instruments | Key dates | Headline obligations (examples) |
 |---|---|---|---|---|
 | **EU** | Binding, phased | EU AI Act; EU Digital Omnibus (provisional agreement 7 May 2026) | Feb 2025 (bans); Aug 2025 (GPAI); **Dec 2027** (Annex III high-risk) and **Aug 2028** (Annex I embedded) per provisional Omnibus extensions; watermarking and NCII prohibition Dec 2026 | Risk-tiered duties, GPAI transparency/docs, post-market monitoring, penalties up to 7% turnover |
 | **US** | Patchwork + federal guidance | NIST AI RMF; OMB M-24-10; **Colorado AI Act**; NYC AEDT law | **CO:** 30 June 2026; **NYC AEDT:** in force | Risk programs, **impact assessments**, notices, bias audits (hiring), consumer appeal/human review |
@@ -156,6 +175,7 @@ States and cities are active: **Colorado SB24-205** (effective **30 June 2026**,
 | **Korea** | Binding (framework) | **AI Basic Act** | **Effective 22 Jan 2026** | National governance; trust/safety foundations; fines up to KRW 30M; further rules expected |
 | **Singapore** | Voluntary but influential | **Model AI Governance (GenAI)**; **AI Verify** | Framework updated 2024–25; OECD/GPAI alignment 2025 | Testing toolkit + governance guidance; NIST RMF cross-walk; red-teaming benchmarks |
 | **AU–CA** | Bilateral cooperation | **AI Safety Cooperation Agreement** | Signed early 2026 | Joint research and evaluation via International Network of AI Safety Institutes |
+| **AU–UK** | Bilateral cooperation | **Australia–UK AI Safety MoU** | Signed late May 2026 | Joint research and evaluation on AI safety; cooperation between AISI and UK AI Security Institute |
 
 ---
 
