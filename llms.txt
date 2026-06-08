@@ -8,7 +8,7 @@ license = "CC BY 4.0"
 repo = "https://github.com/safeai-aus/safeai-aus.github.io"
 website = "https://safeaiaus.org"
 policy-version = "1.2"
-last-updated = "2026-05-17"
+last-updated = "2026-06-08"
 changelog = "https://safeaiaus.org/updates.json"
 full-summary = "https://safeaiaus.org/llms-full.txt"
 
