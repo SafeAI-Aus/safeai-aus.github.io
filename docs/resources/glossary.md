@@ -190,7 +190,7 @@ This glossary is published by **SafeAI-Aus** under [CC BY 4.0](https://creativec
   "@type": "DefinedTermSet",
   "name": "AI Glossary (Australia)",
   "inLanguage": "en-AU",
-  "url": "https://safeaiaus.org/glossary",
+  "url": "https://safeaiaus.org/resources/glossary/",
   "creator": { "@type": "Organization", "name": "SafeAI-Aus", "url": "https://safeaiaus.org" },
   "license": "https://creativecommons.org/licenses/by/4.0/"
 }
