@@ -38,6 +38,8 @@ Importantly, the 10 guardrails are consistent with leading international standar
 
     The 10 guardrails on this page remain fully integrated into the new guidance and are best used as a **detailed control set** and historical reference, especially where contracts, risk registers or external frameworks still refer to the original VAISS guardrails.
 
+    **VAISS v2 update (as of June 2026):** The Expression of Interest for VAISS v2 consultations (consult.industry.gov.au) opened 15 December 2024 and closed 10 January 2025; consultation sessions ran January–February 2025. No standalone VAISS v2 document was published. The planned additions (content labelling and watermarking guidance, developer-facing guardrails, procurement guidance) were incorporated into the AI6 Implementation Practices document (October 2025). The AI6 guidance is the current authoritative reference; no further standalone VAISS v2 release is expected.
+
 ## Why this matters
 
 Adopting the guardrails early helps organisations build **trust, resilience and regulatory readiness**. By embedding these practices now, businesses can:
