@@ -241,8 +241,8 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 | MRFF AI in Health | Federal Grant | $30m | Healthcare AI transformation | Active |
 | CSIRO Next Gen Graduates | Federal Program | Varies | AI workforce development | Active |
 | CSIRO-NSF AI Collaboration | International Grant | $9.6m (2023) | Responsible AI research | Active |
-| CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closed 12 May 2026 — outcomes expected Aug 2026 |
-| CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Closed 29 April 2026 — outcomes expected Jul 2026 |
+| CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closed 12 May 2026; outcomes expected Aug 2026 |
+| CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Closed 29 April 2026; outcomes expected Jul 2026 |
 | AI Accelerator CRC | Federal (Future) | ~$50m | Dedicated AI CRC | Expected 2027 |
 | AWS AI Accelerator | Corporate | US$230m pool | Generative AI startups | Active |
 | NRFC | Co‑investment fund | $550m+ | Large-scale ventures | Active |

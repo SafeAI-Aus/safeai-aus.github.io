@@ -60,16 +60,17 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
 ## New South Wales (NSW)
 
-!!! info "Australia-first AI workplace legislation — passed 12 February 2026; primary duties not yet commenced"
-    The **Work Health and Safety Amendment (Digital Work Systems) Act 2026** (assent received 18 February 2026) makes NSW the first Australian jurisdiction to impose express WHS duties on employers using AI, algorithms, automation and digital work platforms. As of June 2026, the primary duties have **not yet commenced** — commencement requires SafeWork NSW to complete public consultation on guidelines for WHS entry permit holders, publish the guidelines, and observe a statutory waiting period of at least one month. Those guidelines are still under development. Monitor [SafeWork NSW](https://www.safework.nsw.gov.au) and [legislation.nsw.gov.au](https://legislation.nsw.gov.au) for proclamation announcements. Two primary duties are established:
+!!! info "Australia-first AI workplace legislation: passed 12 February 2026; primary duties not yet commenced"
+    The **Work Health and Safety Amendment (Digital Work Systems) Act 2026** (assent received 18 February 2026) makes NSW the first Australian jurisdiction to impose express WHS duties on employers using AI, algorithms, automation and digital work platforms. As of June 2026, the primary duties have **not yet commenced**. Commencement requires SafeWork NSW to complete public consultation on guidelines for WHS entry permit holders, publish the guidelines, and observe a statutory waiting period of at least one month. Those guidelines are still under development. Monitor [SafeWork NSW](https://www.safework.nsw.gov.au) and [legislation.nsw.gov.au](https://legislation.nsw.gov.au) for proclamation announcements. Two primary duties are established:
 
     **1. Primary Duty (s 19(3)(c1)):** A person conducting a business or undertaking (PCBU) must ensure, so far as is reasonably practicable, that the health and safety of workers is not put at risk from the use of **digital work systems** by the business.
 
     **2. Work Allocation Duty (s 21A):** PCBUs using digital work systems to allocate work must ensure, so far as is reasonably practicable, that the allocation does not put workers' health and safety at risk. PCBUs must specifically consider whether digital work systems result in:
+
     - Excessive or unreasonable workloads
     - Use of excessive or unreasonable metrics to assess and track worker performance
     - Excessive or unreasonable monitoring or surveillance of workers
-    - Discriminatory practices or decision-making
+    - Unlawful discriminatory practices or decision-making
 
     **Union inspection rights:** WHS entry permit holders can require reasonable assistance to access and inspect digital work systems where a safety breach is suspected (48 hours' notice required).
 
@@ -132,7 +133,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
 - **[WA Government Artificial Intelligence Policy & Assurance Framework (landing)](https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework)** — principles-based policy for WA public sector, including GenAI.
 - **[AI Assurance Framework — overview/download](https://www.wa.gov.au/media/45059/download)** — risk assessment and assurance templates and guidance.
-- **WA Health AI Policy** — the WA Department of Health updated its AI policy on **12 February 2026**. Monitor the WA Health website for the latest version and sector-specific guidance.
+- **WA Health AI Policy**: the WA Department of Health updated its AI policy on **12 February 2026**. Monitor the WA Health website for the latest version and sector-specific guidance.
 - **[Western Australian Artificial Intelligence Advisory Board](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/western-australian-artificial-intelligence-advisory-board)** — oversight/advice structure for agency implementations.
 - **[Artificial Intelligence & Record Keeping](https://www.wa.gov.au/government/publications/artificial-intelligence-and-record-keeping)** — clarifies record status of AI outputs and related obligations.
 - **[Digital Strategy Roadmap 2025](https://www.wa.gov.au/government/publications/digital-strategy-roadmap-2025)** — broader digital program context for AI initiatives.

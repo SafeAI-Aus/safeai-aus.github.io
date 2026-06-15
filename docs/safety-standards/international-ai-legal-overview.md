@@ -142,7 +142,7 @@ States and cities are active: **Colorado SB24-205** (effective **30 June 2026**,
 !!! warning "What to Do"
     - ✅ Monitor outcomes from the International Network of AI Safety Institutes — shared evaluation frameworks and safety benchmarks may influence future Australian regulatory expectations
 
-### Bilateral: Australia–UK AI Safety MoU — Signed Late May 2026
+### Bilateral: Australia–UK AI Safety MoU (Signed Late May 2026)
 
 **Status & scope:** Australia and the UK signed a **Memorandum of Understanding** in late May 2026 deepening cooperation on the responsible development, deployment, governance and use of safe and trustworthy AI. The MoU was signed during a visit to Australia by the UK Minister for AI and Online Safety. Under the MoU, the Australian AI Safety Institute (currently being established) and the UK **AI Security Institute** will collaborate on:
 
@@ -151,14 +151,14 @@ States and cities are active: **Colorado SB24-205** (effective **30 June 2026**,
 - Conducting joint research, including novel approaches to measure, test and manage risks
 - Supporting the **International Network for Advanced AI Measurement, Evaluation and Science**
 
-Australia has now signed bilateral AI safety cooperation instruments with Canada (early 2026) and the UK (late May 2026), in addition to industry MoUs with Anthropic and Microsoft. This network of agreements is shaping the AISI's international partnerships even as its formal operational launch remains pending.
+Australia has now signed bilateral AI safety cooperation instruments with Canada (early 2026) and the UK (late May 2026), in addition to an industry MoU with Anthropic. This network of agreements is shaping the AISI's international partnerships even as its formal operational launch remains pending.
 
-*Note: The exact date of signing was not confirmed in available sources as of 31 May 2026. Manual verification at [industry.gov.au](https://www.industry.gov.au/news/australia-and-uk-strengthen-partnership-safe-and-secure-ai) is recommended before citing a specific date.*
+*Note: Confirm the exact date of signing at [industry.gov.au](https://www.industry.gov.au/news/australia-and-uk-strengthen-partnership-safe-and-secure-ai) before citing a specific date.*
 
 !!! warning "What to Do"
-    - ✅ Monitor outcomes from Australia's bilateral AI safety agreements — joint evaluation frameworks and safety benchmarks from these partnerships may influence future Australian regulatory expectations and guidance
+    - ✅ Monitor outcomes from Australia's bilateral AI safety agreements. Joint evaluation frameworks and safety benchmarks from these partnerships may influence future Australian regulatory expectations and guidance
 
-!!! info "Australia–Anthropic MoU — 1 April 2026"
+!!! info "Australia–Anthropic MoU (1 April 2026)"
     On 1 April 2026, the Australian Government and Anthropic signed an MoU described as the first formal arrangement executed under the **National AI Plan**. The agreement is a statement of intent (not legally binding) covering AI safety, research collaboration and workforce development. Key elements include Anthropic extending its **AI for Science program** to Australia, with an investment of AUD $3 million in Claude API credits to four institutions (ANU, Murdoch Children's Research Institute, Garvan Institute of Medical Research and Curtin University), and Anthropic planning to open a **Sydney office in 2026**. The MoU was formalised during a meeting between Anthropic CEO Dario Amodei and Prime Minister Albanese. ([industry.gov.au](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-global-ai-innovator-anthropic), accessed 31 May 2026; [anthropic.com](https://www.anthropic.com/news/australia-MOU), accessed 31 May 2026)
 
 ---
