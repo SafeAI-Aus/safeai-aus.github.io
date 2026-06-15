@@ -4,7 +4,7 @@ title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated collection of AI tools, frameworks and resources for Australian businesses implementing AI safely and responsibly. Includes risk management, governance and technical testing tools."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
 author: "SafeAI-Aus"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
 robots: "index, follow"
 og_title: "AI Tools & Frameworks for Australian Businesses"
@@ -31,8 +31,8 @@ A curated list of practical tools, frameworks and resources to help Australian b
 
 ---
 
-!!! info "Time-sensitive: 27 days to first mandatory DTA AI deadline"
-    The DTA's mandatory AI requirements for Australian Government agencies take effect on **15 June 2026** — 27 days away as at 19 May 2026. Commonwealth agencies should have AI Impact Assessment processes, staff training and transparency statements in place before this date. (Updated: 19 May 2026)
+!!! info "First mandatory DTA AI requirement now in effect (15 June 2026)"
+    The first mandatory AI requirement for Australian Government agencies came into effect on **15 June 2026**: all non-corporate Commonwealth entities must maintain an internal register of in-scope AI use cases with an accountable owner for each. All 94 mandatory agencies published public AI transparency statements ahead of this date. Remaining requirements (AI Impact Assessments, mandatory staff training, oversight processes and incident reporting) commence December 2026. (Updated: 15 June 2026)
 
 ## 🏛️ DTA AI Impact Assessment Tool (Commonwealth)
 
