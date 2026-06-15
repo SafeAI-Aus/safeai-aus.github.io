@@ -114,7 +114,7 @@ As part of the **APS AI Plan 2025**, the Australian Government's **GovAI Chat** 
 
 ## 🔍 RAG Evaluation & QA (Open-source)
 
-- **ragas** – evaluation for retrieval-augmented generation. ([github.com](https://github.com/explodinggradients/ragas))
+- **ragas** – evaluation for retrieval-augmented generation. ([github.com](https://github.com/vibrantlabsai/ragas))
 
 ## 🚀 Serving & Data Infrastructure (Open-source)
 
