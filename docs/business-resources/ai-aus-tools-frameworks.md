@@ -4,7 +4,7 @@ title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated collection of AI tools, frameworks and resources for Australian businesses implementing AI safely and responsibly. Includes risk management, governance and technical testing tools."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
 author: "SafeAI-Aus"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
 robots: "index, follow"
 og_title: "AI Tools & Frameworks for Australian Businesses"
@@ -40,6 +40,7 @@ In December 2025, the Digital Transformation Agency (DTA) overhauled its **Polic
 
 - **AI Impact Assessment Tool** – a 12-section fillable template aligned with the Australian Government's AI Ethics Principles. Designed for Commonwealth agencies but useful for any organisation wanting a structured impact assessment. ([digital.gov.au](https://www.digital.gov.au/ai/impact-assessment-tool/introduction))
 - **AI Procurement Guidance** – practical guidance for procuring AI products and services responsibly. ([dta.gov.au](https://www.dta.gov.au/media-releases/ai-policy-overhauled-new-impact-assessment-tool-and-procurement-guidance))
+- **Central Register of AI Transparency Statements** – publicly accessible register of AI transparency statements published by Commonwealth entities. As of March 2026, all 94 mandatory agencies and a further 20 voluntary agencies had published statements — a practical illustration of government AI transparency obligations at scale. ([digital.gov.au](https://www.digital.gov.au/policy/ai/list-of-transparency-statements))
 
 **Key dates for Commonwealth agencies:**
 

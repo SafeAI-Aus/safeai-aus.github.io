@@ -5,7 +5,7 @@ description: "Comprehensive guide to AI resources published by Australian federa
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
 og_title: "Australian Government AI Resources (Federal, State & Territory)"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
@@ -60,15 +60,22 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
 ## New South Wales (NSW)
 
-!!! info "Australia-first AI workplace legislation — passed 12 February 2026"
-    The **Work Health and Safety Amendment (Digital Work Systems) Act 2026** makes NSW the first Australian jurisdiction to impose specific health and safety duties on employers using AI and algorithmic management tools. Commencement is by proclamation; monitor [legislation.nsw.gov.au](https://legislation.nsw.gov.au) for the commencement order. Key provisions:
+!!! info "Australia-first AI workplace legislation — passed 12 February 2026; primary duties not yet commenced"
+    The **Work Health and Safety Amendment (Digital Work Systems) Act 2026** (assent received 18 February 2026) makes NSW the first Australian jurisdiction to impose express WHS duties on employers using AI, algorithms, automation and digital work platforms. As of June 2026, the primary duties have **not yet commenced** — commencement requires SafeWork NSW to complete public consultation on guidelines for WHS entry permit holders, publish the guidelines, and observe a statutory waiting period of at least one month. Those guidelines are still under development. Monitor [SafeWork NSW](https://www.safework.nsw.gov.au) and [legislation.nsw.gov.au](https://legislation.nsw.gov.au) for proclamation announcements. Two primary duties are established:
 
-    - **"Digital work system"** broadly defined as an algorithm, AI, automation or online platform used to allocate work
-    - **New Digital Work System Duty:** PCBUs must ensure, so far as is reasonably practicable, that workers' health and safety are not put at risk by work allocated through a digital work system
-    - **Union inspection rights:** WHS entry permit holders can require "reasonable assistance" to access and inspect digital systems where a safety breach is suspected (48 hours' notice required)
-    - **Scope:** applies to all NSW employers using algorithmic management, AI scheduling, digital surveillance or automated decision-making in work allocation
+    **1. Primary Duty (s 19(3)(c1)):** A person conducting a business or undertaking (PCBU) must ensure, so far as is reasonably practicable, that the health and safety of workers is not put at risk from the use of **digital work systems** by the business.
 
-    SafeWork NSW is expected to publish implementation guidance. Employers should begin mapping their AI-driven work allocation systems against the duty now. (Sources: [Norton Rose Fulbright](https://www.nortonrosefulbright.com/en-au/knowledge/publications/d75c5d28/nsw-parliament-passes-digital-work-systems-bill-what-employers-need-to-know), [NSW Parliament Bill page](https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18847))
+    **2. Work Allocation Duty (s 21A):** PCBUs using digital work systems to allocate work must ensure, so far as is reasonably practicable, that the allocation does not put workers' health and safety at risk. PCBUs must specifically consider whether digital work systems result in:
+    - Excessive or unreasonable workloads
+    - Use of excessive or unreasonable metrics to assess and track worker performance
+    - Excessive or unreasonable monitoring or surveillance of workers
+    - Discriminatory practices or decision-making
+
+    **Union inspection rights:** WHS entry permit holders can require reasonable assistance to access and inspect digital work systems where a safety breach is suspected (48 hours' notice required).
+
+    **"Digital work system"** is broadly defined as an algorithm, AI, automation or online platform used to allocate work. Applies to all NSW employers using AI scheduling, algorithmic management, digital performance monitoring or automated work allocation.
+
+    Employers should map their AI-driven work allocation systems now in preparation for commencement. (Sources: [Norton Rose Fulbright](https://www.nortonrosefulbright.com/en-au/knowledge/publications/d75c5d28/nsw-parliament-passes-digital-work-systems-bill-what-employers-need-to-know), [Hamilton Locke](https://hamiltonlocke.com.au/nsw-parliament-passes-whs-digital-work-system-duty/), [NSW Parliament](https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18847))
 
 - **[NSW Office for Artificial Intelligence (Digital NSW)](https://www.digital.nsw.gov.au/policy/artificial-intelligence)** — dedicated AI office (est. Sept 2025) driving safe, strategic AI adoption across NSW Government.
 - **[NSW AI Strategy (Digital NSW)](https://www.digital.nsw.gov.au/policy/artificial-intelligence/artificial-intelligence-strategy)** — whole-of-government direction for safe, outcomes-focused AI.
@@ -125,6 +132,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
 - **[WA Government Artificial Intelligence Policy & Assurance Framework (landing)](https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework)** — principles-based policy for WA public sector, including GenAI.
 - **[AI Assurance Framework — overview/download](https://www.wa.gov.au/media/45059/download)** — risk assessment and assurance templates and guidance.
+- **WA Health AI Policy** — the WA Department of Health updated its AI policy on **12 February 2026**. Monitor the WA Health website for the latest version and sector-specific guidance.
 - **[Western Australian Artificial Intelligence Advisory Board](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/western-australian-artificial-intelligence-advisory-board)** — oversight/advice structure for agency implementations.
 - **[Artificial Intelligence & Record Keeping](https://www.wa.gov.au/government/publications/artificial-intelligence-and-record-keeping)** — clarifies record status of AI outputs and related obligations.
 - **[Digital Strategy Roadmap 2025](https://www.wa.gov.au/government/publications/digital-strategy-roadmap-2025)** — broader digital program context for AI initiatives.

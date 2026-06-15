@@ -67,6 +67,15 @@ The **Privacy Act 1988** is the principal legislation that regulates how persona
 
 The OAIC issued an issues paper on "Guidance for Transparency in Automated Decision Making" (published 18 May 2026; consultation closed 15 June 2026) to inform its formal guidance on these obligations. Formal OAIC guidance is expected by September 2026 ([oaic.gov.au](https://www.oaic.gov.au/engage-with-us/consultations/consultation-on-guidance-for-transparency-in-automated-decision-making), accessed 14 June 2026). Organisations using AI in automated decision-making should begin privacy policy reviews now in preparation for the December 2026 commencement.
 
+**Children's Online Privacy Code (registration by 10 December 2026):** The OAIC released an exposure draft of the **Children's Online Privacy Code** for public consultation on 31 March 2026, with submissions closing 5 June 2026. The Code will be registered and take effect by **10 December 2026**, coinciding with the APP ADM transparency obligations above. It applies to online services — including apps, games, educational tools and websites — that expose children and young people to the highest privacy risks, or are primarily concerned with children's activities. Key obligations include:
+
+- Considering children's best interests in service design
+- Obtaining consent before using children's personal information for targeted advertising
+- Enabling children to request deletion of their personal information
+- Notifying children when their geolocation is being tracked by other users (including parents)
+
+A breach of the Code constitutes a breach of the Privacy Act and may attract significant civil penalties. The Code complements the Social Media Minimum Age obligation (effective December 2025). Organisations developing or operating AI-enabled consumer-facing services used by children — including EdTech platforms, games and recommendation systems — should review compliance obligations now. ([oaic.gov.au](https://www.oaic.gov.au/news/media-centre/oaic-releases-exposure-draft-of-the-childrens-online-privacy-code), accessed 31 May 2026)
+
 **Penalties:** Since 2022 reforms, serious or repeated breaches can attract penalties of up to the greater of $50 million, three times the benefit obtained, or 30% of adjusted turnover ([oaic.gov.au](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act)).
 
 ---
