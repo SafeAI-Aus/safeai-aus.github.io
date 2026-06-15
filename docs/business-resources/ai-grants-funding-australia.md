@@ -5,7 +5,7 @@ description: "Comprehensive guide to AI grants, funding programs and financial s
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
 og_title: "AI Grants and Funding Opportunities for Australian Businesses"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
@@ -241,8 +241,8 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 | MRFF AI in Health | Federal Grant | $30m | Healthcare AI transformation | Active |
 | CSIRO Next Gen Graduates | Federal Program | Varies | AI workforce development | Active |
 | CSIRO-NSF AI Collaboration | International Grant | $9.6m (2023) | Responsible AI research | Active |
-| CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closing 12 May 2026 |
-| CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Closing 21 April 2026 |
+| CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closed 12 May 2026; outcomes expected Aug 2026 |
+| CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Closed 29 April 2026; outcomes expected Jul 2026 |
 | AI Accelerator CRC | Federal (Future) | ~$50m | Dedicated AI CRC | Expected 2027 |
 | AWS AI Accelerator | Corporate | US$230m pool | Generative AI startups | Active |
 | NRFC | Co‑investment fund | $550m+ | Large-scale ventures | Active |
