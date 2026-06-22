@@ -5,7 +5,7 @@ description: "Comprehensive overview of international AI regulations and legal f
 keywords: "international AI law, EU AI Act, US AI regulation, global AI compliance, AI legal landscape, Australian businesses abroad, AI regulation 2026"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-06-15"
+last-reviewed: "2026-06-22"
 review-cycle: "quarterly"
 og_title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
 og_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
@@ -22,10 +22,10 @@ twitter_description: "Comprehensive overview of international AI regulations and
 > **Purpose:** Navigate international AI regulations affecting Australian organisations operating globally
 > **Audience:** Legal, compliance, international business and governance teams | **Time:** 60-90 minutes
 
-*Last updated: 15 June 2026. This page is informational and not legal advice.*
+*Last updated: 22 June 2026. This page is informational and not legal advice.*
 
 !!! note "Rapidly evolving landscape"
-    International AI regulations are changing fast. The EU's **Digital Omnibus on AI** reached provisional political agreement on 7 May 2026 (extending key AI Act compliance deadlines). The IMCO and LIBE committees of the European Parliament endorsed the agreement by **93 votes to 4 on 2 June 2026**, clearing the way for a full Parliament plenary vote now scheduled for **June 2026** — expected before the original 2 August 2026 high-risk AI deadline. South Korea's AI Basic Act took effect in January 2026 with implementing rules still emerging. Canada's AIDA died on the Order Paper and any replacement may differ substantially. Always verify current status with official sources before making compliance decisions.
+    International AI regulations are changing fast. The EU's **Digital Omnibus on AI** completed its European Parliament plenary vote on **16 June 2026** (423 in favour, 57 against, 174 abstentions) — the last parliamentary step before formal Council adoption, which is expected before **2 August 2026**. Once published in the Official Journal (anticipated late July 2026), the revised deadlines and new obligations enter into force. South Korea's AI Basic Act took effect in January 2026 with implementing rules still emerging. Canada's AIDA died on the Order Paper and any replacement may differ substantially. Always verify current status with official sources before making compliance decisions.
 
 As AI regulation accelerates globally, many jurisdictions already impose binding requirements or have near-term obligations that will affect Australian organisations exporting, operating, or handling data linked to those regions.
 
@@ -36,7 +36,7 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 ## Executive Snapshot
 
 !!! info "Key Jurisdictions at a Glance"
-    - 🇪🇺 **EU** — The **EU AI Act** is in force with staged obligations. Bans on "unacceptable risk" uses started **2 Feb 2025**; **general-purpose AI (GPAI)** duties started **2 Aug 2025**. The **EU Digital Omnibus on AI** reached **provisional political agreement on 7 May 2026**, extending key deadlines: high-risk standalone AI (Annex III) now **2 December 2027**; high-risk AI embedded in products (Annex I) now **2 August 2028**; watermarking and a new NCII/CSAM prohibition now **2 December 2026**; sandboxes now **2 August 2027**. Formal adoption (European Parliament vote) expected by **7 July 2026**, before the original 2 August 2026 deadline. Plan to the provisional dates but be ready to confirm once formally adopted.
+    - 🇪🇺 **EU** — The **EU AI Act** is in force with staged obligations. Bans on "unacceptable risk" uses started **2 Feb 2025**; **general-purpose AI (GPAI)** duties started **2 Aug 2025**. The **EU Digital Omnibus on AI** was adopted by the European Parliament on **16 June 2026** (423–57), extending key deadlines: high-risk standalone AI (Annex III) now **2 December 2027**; high-risk AI embedded in products (Annex I) now **2 August 2028**; watermarking and a new NCII/CSAM prohibition now **2 December 2026**; sandboxes now **2 August 2027**. Council adoption remains the sole outstanding step, expected before **2 August 2026**. Plan to the revised deadlines; flag as pending Official Journal publication.
 
     - 🇺🇸 **US** — No single federal AI law. Federal direction runs through **NIST AI RMF 1.0** and public-sector guidance (**OMB M-24-10**). States are moving: **Colorado's AI Act** (effective **30 June 2026**) requires risk programs, impact assessments and notices for "high-risk" AI. NYC mandates bias audits for automated hiring tools.
 
@@ -63,9 +63,9 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 
 ### European Union (EU)
 
-**Status & scope:** The **EU AI Act (Regulation (EU) 2024/1689)** is live with a **risk-tiered** regime (prohibited, high, limited, minimal), dedicated **GPAI** obligations and strong enforcement (up to 7% global turnover). Key dates under the **original Act** (before the 7 May 2026 Omnibus provisional agreement): **2 Feb 2025** (prohibitions), **2 Aug 2025** (GPAI, governance/penalties), **2 Aug 2026** (bulk compliance for high-risk AI systems under Annex III, transparency obligations under Article 50 and national/EU-level enforcement). Under the provisional Omnibus extensions (see callout below), the Annex III and Article 50 dates are now expected to move to **2 December 2027** and **2 December 2026** respectively, pending formal adoption.
+**Status & scope:** The **EU AI Act (Regulation (EU) 2024/1689)** is live with a **risk-tiered** regime (prohibited, high, limited, minimal), dedicated **GPAI** obligations and strong enforcement (up to 7% global turnover). Key dates under the **original Act**: **2 Feb 2025** (prohibitions), **2 Aug 2025** (GPAI, governance/penalties), **2 Aug 2026** (bulk compliance for high-risk AI systems under Annex III, transparency obligations under Article 50 and national/EU-level enforcement). The **EU Digital Omnibus on AI** was adopted by the European Parliament on **16 June 2026** (see callout below). Pending Council adoption and Official Journal publication (anticipated late July 2026), the Annex III and Article 50 deadlines are confirmed to move to **2 December 2027** and **2 December 2026** respectively.
 
-!!! info "EU Digital Omnibus on AI — Provisional agreement reached 7 May 2026"
+!!! info "EU Digital Omnibus on AI — Parliament adopted 16 June 2026; Council adoption pending"
     The **EU Digital Omnibus on AI** reached provisional political agreement at the third trilogue between the European Parliament and the Council on **7 May 2026**. Provisional extensions agreed at trilogue (subject to formal adoption):
 
     - **High-risk AI standalone systems (Annex III):** new compliance deadline **2 December 2027** (deferred from 2 August 2026)
@@ -76,12 +76,12 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
     - **Machinery Regulation:** moved to Annex I Section B — AI in machinery-regulated products falls primarily under the Machinery Regulation rather than direct AI Act high-risk requirements
     - **SME exemption** extended to small mid-cap companies (SMCs)
 
-    **Status:** Parliamentary committees (IMCO/LIBE) endorsed the provisional agreement by **93 votes to 4 on 2 June 2026**. Full Parliament plenary vote scheduled for **June 2026** (exact date pending) — expected to complete before the 2 August 2026 high-risk AI deadline, with entry into force around end of July 2026. Australian businesses supplying AI into the EU should plan to the new provisional dates but confirm once formally adopted. (Updated: 15 June 2026; sources: [consilium.europa.eu](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/), [agenceurope.eu](https://agenceurope.eu/en/bulletin/article/13879/32/provisional-agreement-on-digital-omnibus-gets-green-light-from-european-parliaments-competent-committees), [iapp.org](https://iapp.org/news/a/eu-agrees-to-amend-ai-act-clarifies-overlap-with-machinery-rules))
+    **Status:** Parliamentary committees (IMCO/LIBE) endorsed the agreement by **93 votes to 4 on 2 June 2026**. The full European Parliament adopted the Digital Omnibus on AI in plenary on **16 June 2026** (423 in favour, 57 against, 174 abstentions) — the last parliamentary step in the legislative process. Council adoption is the sole remaining step, expected before **2 August 2026**. Once published in the Official Journal (anticipated late July 2026), the amendments enter into force three days later. Australian businesses supplying AI into the EU should plan to the revised deadlines now; they are confirmed pending only formal Council adoption and Official Journal publication. (Updated: 22 June 2026; sources: [consilium.europa.eu](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/), [howtheyvote.eu](https://howtheyvote.eu/votes/189384), [gibsondunn.com](https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/), [agenceurope.eu](https://agenceurope.eu/en/bulletin/article/13879/32/provisional-agreement-on-digital-omnibus-gets-green-light-from-european-parliaments-competent-committees))
 
 !!! warning "What to Do"
     - ✅ Map any **EU-facing** AI systems to risk categories; identify if you're a **provider**, **deployer**, **importer** or **distributor**
     - ✅ For **GPAI/models**, prepare **training-data summaries**, technical documentation and risk-mitigation processes (red-teaming, incident reporting)
-    - ✅ Plan to the **provisional Omnibus dates** (2 December 2027 for Annex III; 2 August 2028 for Annex I); be ready to confirm once the European Parliament formally adopts the text (plenary vote expected June 2026, following the 93–4 committee endorsement on 2 June 2026). Until then, treat the new dates as planning assumptions rather than legal certainty.
+    - ✅ Plan to the **confirmed Omnibus dates** (2 December 2027 for Annex III; 2 August 2028 for Annex I). The European Parliament adopted the text on **16 June 2026** (423–57); Council adoption and Official Journal publication remain pending (expected before 2 August 2026). Treat the revised dates as confirmed but note formal publication is still forthcoming.
 
 ### United States (US)
 
@@ -167,7 +167,7 @@ Australia has now signed bilateral AI safety cooperation instruments with Canada
 
 | Jurisdiction | Legal posture (Jun 2026) | Primary instruments | Key dates | Headline obligations (examples) |
 |---|---|---|---|---|
-| **EU** | Binding, phased | EU AI Act; EU Digital Omnibus (provisional agreement 7 May 2026) | Feb 2025 (bans); Aug 2025 (GPAI); **Dec 2027** (Annex III high-risk) and **Aug 2028** (Annex I embedded) per provisional Omnibus extensions; watermarking and NCII prohibition Dec 2026 | Risk-tiered duties, GPAI transparency/docs, post-market monitoring, penalties up to 7% turnover |
+| **EU** | Binding, phased | EU AI Act; EU Digital Omnibus (Parliament adopted 16 Jun 2026; Council adoption pending) | Feb 2025 (bans); Aug 2025 (GPAI); **Dec 2027** (Annex III high-risk) and **Aug 2028** (Annex I embedded) per Omnibus amendments; watermarking and NCII prohibition Dec 2026 | Risk-tiered duties, GPAI transparency/docs, post-market monitoring, penalties up to 7% turnover |
 | **US** | Patchwork + federal guidance | NIST AI RMF; OMB M-24-10; **Colorado AI Act**; NYC AEDT law | **CO:** 30 June 2026; **NYC AEDT:** in force | Risk programs, **impact assessments**, notices, bias audits (hiring), consumer appeal/human review |
 | **Canada** | Dead (died Jan 2025) | **AIDA (Bill C-27)** – terminated | No timeline; re-introduction uncertain | Bill C-27 died on Order Paper; any future legislation may differ substantially from original AIDA proposal |
 | **UK** | Regulator-led framework | Gov't Response (Feb 2024); **AI Security Institute**; Data (Use and Access) Act | Data Act mid-2025; AI legislation expected 2025–26 | Sector regulators issue guidance; evaluation & assurance focus (frontier/GPAI); data/algorithmic accountability |
