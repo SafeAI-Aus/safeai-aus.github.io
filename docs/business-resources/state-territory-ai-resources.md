@@ -103,6 +103,15 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 - **[Victorian Public Sector Data Sharing Framework](https://www.vic.gov.au/victorian-public-sector-data-sharing-framework)** — principles and practice for data sharing that supports safe AI use.
 - **[Policies & standards for government IT (consolidated library)](https://www.vic.gov.au/policies-standards-for-government-IT)** — whole-of-VPS ICT policy library relevant to AI governance.
 
+!!! info "Victoria — $3.5M AI and Deeptech Pre-Accelerator Initiative (announced 17 June 2026)"
+    The Victorian Government announced $3.5 million for nine pre-accelerator program operators supporting AI and deeptech startups at the Victorian Startup Gala on 17 June 2026. The announced funding is for operators rather than direct startup grants, with each provider eligible for up to $400,000. The operators are Boab AI, Boson Ventures, Cicada Innovations, CoLabs Australia, HEX, Illume Ventures, Jumpstart Studio, MedTech Actuator and RMIT DiscoveryHUB.
+
+    A featured program is **VICTOR:AI** — an eight-week cohort for AI-native startups offering access to AI tools, co-working space and milestone-based grants. This initiative is consistent with Victoria's **AI Mission Statement** (announced 30 January 2026), positioning Victoria as a national AI leader.
+
+    Provider intake arrangements and timing vary. The announcement did not specify which programs were accepting applications or confirm that funding had been disbursed. See [djsir.vic.gov.au](https://djsir.vic.gov.au/news-and-articles/victoria-backs-the-next-generation-of-ai-and-deeptech-startups) for the provider list and announced program details (accessed 21 June 2026).
+
+    <!-- TODO(human verification): Recheck provider intake status and timing before describing any program as open or active; the 17 June 2026 announcement did not provide application dates. -->
+
 ---
 
 ## Queensland (QLD)
