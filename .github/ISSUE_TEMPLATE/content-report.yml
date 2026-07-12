@@ -1,0 +1,36 @@
+name: Report a content problem
+description: Report inaccurate, outdated, unclear, or broken site content.
+title: "[Content]: "
+labels:
+  - content
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep SafeAI-Aus accurate and useful.
+  - type: input
+    id: page
+    attributes:
+      label: Page or file
+      description: Link to the affected page or provide its repository path.
+      placeholder: https://safeaiaus.org/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Explain what is inaccurate, outdated, unclear, or broken.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction or source
+      description: Provide a proposed correction and authoritative sources where available.
+  - type: checkboxes
+    id: sensitive
+    attributes:
+      label: Public disclosure
+      options:
+        - label: This report contains no vulnerability details, credentials, personal information, or other sensitive material.
+          required: true
