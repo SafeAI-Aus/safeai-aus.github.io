@@ -5,7 +5,7 @@ description: "Comprehensive guide to AI grants, funding programs and financial s
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-06-22"
+last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
 og_title: "AI Grants and Funding Opportunities for Australian Businesses"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
@@ -31,7 +31,7 @@ twitter_description: "Comprehensive guide to AI grants, funding programs and fin
 AI is reshaping industries across Australia. To support businesses in responsibly adopting and scaling AI, a mix of government grants, research programs and industry‑backed accelerators are available. This article provides a consolidated overview of the most relevant opportunities for Australian businesses today.
 
 !!! warning "Program status changes frequently"
-    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application. Last reviewed: June 2026.
+    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application. Last reviewed: April 2026.
 
 ---
 
@@ -78,6 +78,8 @@ AI is reshaping industries across Australia. To support businesses in responsibl
     The ARC Discovery Indigenous 2027 scheme opened 2 June 2026 and closes **25 August 2026 at 5:00 pm AEST**. The scheme supports research projects led by Aboriginal and/or Torres Strait Islander researchers (as Chief Investigator) across all disciplines; non-Indigenous researchers may participate as Partner Investigators. The scheme is not AI-specific but is relevant to AI research grant pipelines at institutions with eligible researchers.
 
     ➡️ [ARC Discovery Indigenous 2027](https://www.arc.gov.au/news-and-publications/media/now-open-applications-discovery-indigenous-2027) (accessed 21 June 2026)
+
+<!-- TODO(human verification): Recheck the ARC Discovery Indigenous 2027 status after its stated 25 August 2026 closing date. -->
 
 !!! info "ARC Generative AI Policy — effective 28 April 2026"
     The Australian Research Council (jointly with the NHMRC) released an updated **Policy on Use of Generative Artificial Intelligence in the ARC's Grants Programs** in April 2026. The policy applies to all applications and assessments for ARC scheme rounds opening from **28 April 2026**.
@@ -175,11 +177,12 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 ### Victoria: AI and Deeptech Pre-Accelerators (LaunchVic, $3.5M)
 
 - The Victorian Government announced **$3.5 million** to fund nine AI and deeptech pre-accelerator programs on **17 June 2026**.
-- Funding flows to program operators (not direct startup grants); each of the nine providers receives up to $400,000. Providers include Boab AI, Boson Ventures, Cicada Innovations, CoLabs Australia, HEX, Illume Ventures, Jumpstart Studio, MedTech Actuator and RMIT DiscoveryHUB.
+- The announced funding is for program operators rather than direct startup grants. The announcement says each provider may receive up to $400,000. Providers include Boab AI, Boson Ventures, Cicada Innovations, CoLabs Australia, HEX, Illume Ventures, Jumpstart Studio, MedTech Actuator and RMIT DiscoveryHUB.
 - A featured program is **VICTOR:AI** — an eight-week cohort for AI-native startups offering AI tools, co-working space and milestone-based grants.
-- Startups apply directly to their relevant program provider; this is not an open competitive grant round.
-- Programs are **active** (funding disbursed to operators as of June 2026).
+- Provider intake arrangements and timing vary. The Victorian Government announcement did not specify which programs were accepting applications or confirm that funding had been disbursed.
 - ➡️ [Victorian Government announcement](https://djsir.vic.gov.au/news-and-articles/victoria-backs-the-next-generation-of-ai-and-deeptech-startups) | [LaunchVic programs](https://launchvic.org/programs/)
+
+<!-- TODO(human verification): Recheck provider intake status and timing before describing any program as open or active; the 17 June 2026 announcement did not provide application dates. -->
 
 ---
 
@@ -244,7 +247,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 | AIML Industrial AI SME Grant | SME Grant | Expert access | Industrial AI adoption | Active (to 2028) |
 | NSW Early Adopter Program | State Grant | $2.7m+ (2024) | Planning system AI trials | Active (2024) |
 | QLD Quantum & Advanced Tech | State Program | $53m | Quantum/AI infrastructure | Active |
-| VIC AI and Deeptech Pre-Accelerators (LaunchVic, $3.5M) | State Program | $3.5m total ($400k/provider) | AI and deeptech startup pre-acceleration | Active (funded June 2026) |
+| VIC AI and Deeptech Pre-Accelerators (LaunchVic, $3.5M) | State Program | $3.5m announced (up to $400k/provider) | AI and deeptech startup pre-acceleration | Operators announced 17 Jun 2026; provider intake varies |
 | MRFF AI in Health | Federal Grant | $30m | Healthcare AI transformation | Active |
 | CSIRO Next Gen Graduates | Federal Program | Varies | AI workforce development | Active |
 | CSIRO-NSF AI Collaboration | International Grant | $9.6m (2023) | Responsible AI research | Active |
@@ -329,7 +332,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
     - Queensland: Quantum and advanced technologies focus
     - South Australia: Public sector AI applications
     - NSW: Council planning systems and civic applications
-    - Victoria: AI and deeptech pre-accelerators (nine programs funded June 2026)
+    - Victoria: AI and deeptech pre-accelerators (nine operators announced June 2026; provider intake varies)
 
     **Strengthen your application** by:
 

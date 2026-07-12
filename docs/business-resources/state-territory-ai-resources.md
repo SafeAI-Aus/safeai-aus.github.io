@@ -5,7 +5,7 @@ description: "Comprehensive guide to AI resources published by Australian federa
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-06-22"
+last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
 og_title: "Australian Government AI Resources (Federal, State & Territory)"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
@@ -24,7 +24,7 @@ twitter_description: "Comprehensive guide to AI resources published by Australia
 
 This page curates official Australian government resources on AI for public sector use, covering federal agencies and all states and territories. It focuses on whole-of-government strategies and policies, AI assurance frameworks, information/privacy guidance from statutory bodies (e.g., information commissioners, ombudsmen) and records management directives. Where education-specific positions exist, they're included because they are often the most mature sector guidance.
 
-> **Last verified:** June 2026. Links point only to official government or statutory sources.
+> **Last verified:** February 2026. Links point only to official government or statutory sources.
 
 ---
 
@@ -104,11 +104,13 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 - **[Policies & standards for government IT (consolidated library)](https://www.vic.gov.au/policies-standards-for-government-IT)** — whole-of-VPS ICT policy library relevant to AI governance.
 
 !!! info "Victoria — $3.5M AI and Deeptech Pre-Accelerator Initiative (announced 17 June 2026)"
-    The Victorian Government announced $3.5 million to fund nine pre-accelerator programs for AI and deeptech startups at the Victorian Startup Gala on 17 June 2026. Funding flows to program operators (not directly to startups), with each of the nine providers receiving up to $400,000. Funded providers are: Boab AI, Boson Ventures, Cicada Innovations, CoLabs Australia, HEX, Illume Ventures, Jumpstart Studio, MedTech Actuator, and RMIT DiscoveryHUB.
+    The Victorian Government announced $3.5 million for nine pre-accelerator program operators supporting AI and deeptech startups at the Victorian Startup Gala on 17 June 2026. The announced funding is for operators rather than direct startup grants, with each provider eligible for up to $400,000. The operators are Boab AI, Boson Ventures, Cicada Innovations, CoLabs Australia, HEX, Illume Ventures, Jumpstart Studio, MedTech Actuator and RMIT DiscoveryHUB.
 
     A featured program is **VICTOR:AI** — an eight-week cohort for AI-native startups offering access to AI tools, co-working space and milestone-based grants. This initiative is consistent with Victoria's **AI Mission Statement** (announced 30 January 2026), positioning Victoria as a national AI leader.
 
-    Startups should identify their relevant program provider and apply directly. See [djsir.vic.gov.au](https://djsir.vic.gov.au/news-and-articles/victoria-backs-the-next-generation-of-ai-and-deeptech-startups) for the full provider list and program details (accessed 21 June 2026).
+    Provider intake arrangements and timing vary. The announcement did not specify which programs were accepting applications or confirm that funding had been disbursed. See [djsir.vic.gov.au](https://djsir.vic.gov.au/news-and-articles/victoria-backs-the-next-generation-of-ai-and-deeptech-startups) for the provider list and announced program details (accessed 21 June 2026).
+
+    <!-- TODO(human verification): Recheck provider intake status and timing before describing any program as open or active; the 17 June 2026 announcement did not provide application dates. -->
 
 ---
 
