@@ -1,0 +1,32 @@
+name: Suggest an improvement
+description: Propose a new resource, topic, or improvement to SafeAI-Aus.
+title: "[Suggestion]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Need or opportunity
+      description: What problem would this address, and who would benefit?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: Describe the resource, topic, or change you are suggesting.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Relevant sources
+      description: Link to authoritative Australian or primary sources where available.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched existing issues and pull requests for a similar suggestion.
+          required: true
