@@ -5,7 +5,7 @@ description: "Comprehensive guide to AI resources published by Australian federa
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-06-15"
+last-reviewed: "2026-07-13"
 review-cycle: "quarterly"
 og_title: "Australian Government AI Resources (Federal, State & Territory)"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
@@ -135,6 +135,20 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 - **[State Records SA — Artificial Intelligence & Information Management](https://www.archives.sa.gov.au/managing-information/Information-management/artificial-intelligence-and-information-management)** — recordkeeping obligations when developing/using AI.
 - **[Department for Education — EdChat (GenAI chatbot) overview](https://www.education.sa.gov.au/parents-and-families/curriculum-and-learning/ai/edchat)** — agency adoption example and usage guidance in schools.
 - **[State Budget — Digital Investment Fund: AI program](https://www.statebudget.sa.gov.au/our-budget/digital-capabilities)** — funding context to grow AI use in services.
+
+!!! info "South Australia — Data Centre and AI Infrastructure Act proposed (June 2026)"
+    Premier Peter Malinauskas announced in June 2026 that South Australia intends to introduce a **Data Centre and AI Infrastructure Act**, positioning SA as a national data centre hub and going "all in" on AI data centre development. Key proposed elements of the strategy include:
+
+    - Data centres to be designated as essential infrastructure through amendments to the Planning, Development and Infrastructure Act
+    - A dedicated planning pathway and streamlined approvals for data centre developments
+    - The Coordinator-General empowered to make planning decisions for major projects
+    - A requirement that data centre developers "match demand growth with new, firmed renewable supply" — new energy for new demand
+    - Transparency obligations on energy use, grid stability requirements and fair allocation of network costs
+    - Applications to require SA Water confirmation of sufficient water supply and Technical Regulator certification of power system compliance
+
+    Detailed legislation is expected later in 2026. **Note:** This is separate from the SA AI Strategy (still in post-consultation drafting, release expected later in 2026). The proposed Act focuses on physical infrastructure and planning approvals, not AI governance.
+
+    (Sources: [InDaily](https://www.indailysa.com.au/news/just-in/2026/06/23/we-need-data-centres-government-all-in-on-ai-revolution), [Capital Brief](https://www.capitalbrief.com/briefing/new-energy-for-new-demand-sa-plans-data-centre-and-ai-infrastructure-act-47dfa4af-f755-494c-981a-121fed28eb67/), accessed 12 July 2026)
 
 ---
 
