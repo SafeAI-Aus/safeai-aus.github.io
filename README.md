@@ -20,10 +20,12 @@ This repository powers the SafeAI-Aus knowledge hub, built with [Zensical](https
 
 ## What's inside  
 - **`zensical.toml`** — site configuration (theme, navigation, metadata, search, sitemap)  
-- **`docs/`** — all content in Markdown organized into three main areas:
+- **`docs/`** — all content in Markdown organised into five main areas:
   - **AI Safety & Standards** — Australian legislation, voluntary safety standards, international legal overview
   - **Governance Templates** — practical policy templates, checklists, and forms for AI implementation
   - **Business Resources** — grants, funding, tools, frameworks, and state/territory resources
+  - **Preparing for AGI** — advanced AI futures, risk scenarios, the C·A·G·R framework, and reference material
+  - **Sector Guidance** — preparation guidance for government, business, communities, and national security
 - **`.github/workflows/deploy.yml`** — GitHub Actions workflow to build & publish the site  
 - **`requirements.txt`** — Python dependencies for local preview and CI  
 - **Custom assets** — CSS, JavaScript, and performance optimizations for enhanced UX
@@ -36,6 +38,8 @@ Our knowledge hub includes:
 - **Governance Tools** — Ready-to-use templates for AI policies, risk assessments, and incident reporting  
 - **Business Resources** — Comprehensive directory of AI grants, tools, and learning resources across Australia  
 - **State & Territory Guides** — Localised AI resources and support networks  
+- **Preparing for AGI** — Practical guidance on advanced AI futures, risk scenarios, and assurance
+- **Sector Guidance** — Role-specific preparation for Australian institutions and communities
 
 ---
 
@@ -62,8 +66,8 @@ Contributions are welcome — from fixing typos to adding new resources.
 To preview changes before pushing:  
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
+python3.12 -m venv .venv-py312
+source .venv-py312/bin/activate   # Windows: .venv-py312\Scripts\activate
 pip install -r requirements.txt
 zensical serve
 ```

@@ -25,7 +25,9 @@ All content is Markdown in `docs/`. Navigation is defined in `zensical.toml` (no
 | Safety & Standards | `docs/safety-standards/` | Australian legislation, VAISS, international overview |
 | Governance Templates | `docs/governance-templates/` | 11 templates aligned with VAISS |
 | Business Resources | `docs/business-resources/` | Grants, tools, learning directory |
-| Resources | `docs/resources/` | Glossary, community page |
+| Preparing for AGI | `docs/preparing-for-agi/` | Advanced AI futures, risk scenarios, C·A·G·R framework, concepts and decentralisation |
+| Sector Guidance | `docs/sector-guidance/` | Guidance for government, business, communities and national security |
+| Resources | `docs/resources/` | Glossary, community page and supporting external resources |
 
 ## Key Files
 

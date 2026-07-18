@@ -4,12 +4,12 @@
 
 ## About SafeAI-Aus
 
-SafeAI-Aus is Australia's open-source resource for safe AI adoption in business. We provide practical tools, open standards and trusted guidance for responsible AI governance.
+SafeAI-Aus is Australia's open-source resource for practical AI governance and strategic preparedness. We provide adaptable tools, open guidance and planning resources for responsible AI adoption and for managing risks from increasingly capable AI systems.
 
 - **Website:** https://safeaiaus.org
 - **License:** CC BY 4.0 (attribution required)
-- **Focus:** Australian context, aligned with VAISS and AI6 frameworks
-- **Audience:** Australian businesses of all sizes adopting AI
+- **Focus:** Australian AI governance, responsible adoption, assurance, resilience, and advanced AI and AGI preparedness
+- **Audience:** Australian organisations, government and public institutions, businesses, community organisations, and practitioners
 
 ## Key Frameworks Referenced
 
@@ -64,6 +64,34 @@ Practical adoption support:
 ### 4. Resources
 - **Glossary** - AI terminology definitions
 - **Australian AI Community** - Groups, networks, research institutions
+- **External Resources** - Curated organisations, tools and learning resources for decentralised AI alternatives and democratic technology governance
+
+### 5. Preparing for AGI
+Strategic planning resources for Australian organisations considering advanced AI and possible artificial general intelligence (AGI) across uncertain timelines:
+
+- **Preparing for AGI Overview** - Australian context, strategic challenges and pathways through the section
+- **Concepts & Glossary** - Advanced AI, AGI, frontier AI, alignment, containment, resilience and related concepts
+- **Timelines** - A structured way to discuss uncertain capability and deployment timelines without treating estimates as settled
+- **Strategic Visions** - Beneficial futures and choices that could shape Australia's direction
+- **C·A·G·R Framework** - A defence-in-depth planning framework comprising Containment, Alignment, Governance and Resilience
+- **AGI Assurance** - Evidence, testing and accountability questions for demonstrating preparedness
+- **Decentralisation & Democratic Control** - Approaches to concentration, dependency, participation and alternatives
+
+The six Australian risk scenarios are planning tools, not predictions:
+
+1. **Power Concentration & Governance Failure**
+2. **Gradual Disempowerment**
+3. **Democracy & Information Ecosystems**
+4. **Critical Infrastructure Cascade**
+5. **Catastrophic Misuse**
+6. **Loss of Control**
+
+Sector guidance translates the C·A·G·R framework and scenarios into responsibilities, decision thresholds and exercises for:
+
+- government and public institutions;
+- business and industry;
+- communities; and
+- national security institutions.
 
 ## Common Use Cases This Content Supports
 
@@ -73,6 +101,10 @@ Practical adoption support:
 4. Evaluating AI vendors and tools
 5. Planning AI implementation with appropriate guardrails
 6. Training staff on responsible AI practices
+7. Exploring advanced AI and AGI preparedness without assuming a particular capability or arrival date
+8. Running scenario-planning exercises for organisational, sector and community risks
+9. Applying the C·A·G·R framework to identify gaps across containment, alignment, governance and resilience
+10. Finding sector guidance and curated external resources for further investigation
 
 ## Important Disclaimers (Must Include When Using)
 
@@ -80,6 +112,9 @@ Practical adoption support:
 2. Australian AI laws change frequently; verify currency against primary sources
 3. Templates require adaptation to each organisation's context
 4. SafeAI-Aus is independent, not an Australian Government agency
+5. Advanced AI and AGI scenarios are planning tools, not predictions or forecasts
+6. Capability and timeline estimates are uncertain and must not be presented as settled facts
+7. Preparedness and sector guidance is general information, not definitive legal, regulatory or government advice
 
 ## Attribution Requirement
 
@@ -92,7 +127,7 @@ SafeAI-Aus provides structured files for AI agents and automated systems:
 
 - **Updates feed:** https://safeaiaus.org/updates.json — structured changelog of content changes, filterable by content area and date. Schema version 1, JSON format
 - **Usage policy:** https://safeaiaus.org/llms.txt — permissions, attribution requirements, and licensing terms for AI systems
-- **This file:** https://safeaiaus.org/llms-full.txt — knowledge base summary
+- **This file:** https://safeaiaus.org/llms-full.txt — knowledge base summary, including AGI preparedness, C·A·G·R, scenarios, sector guidance and external resources
 
 Agents can poll `/updates.json` to discover what has changed since their last visit without parsing HTML or git history.
 
@@ -102,4 +137,4 @@ Agents can poll `/updates.json` to discover what has changed since their last vi
 - GitHub: github.com/safeai-aus/safeai-aus.github.io
 
 ---
-Last updated: 2026-06-28
+Last updated: 2026-07-18
