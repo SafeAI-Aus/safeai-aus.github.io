@@ -3,7 +3,7 @@ icon: lucide/dollar-sign
 title: "AI Grants and Funding Opportunities for Australian Businesses"
 description: "Comprehensive guide to AI grants, funding programs and financial support available for Australian businesses implementing AI responsibly. Includes federal, state and industry programs."
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
-last-reviewed: "2026-06-15"
+last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 og_type: "article"
@@ -16,7 +16,7 @@ og_type: "article"
 
 !!! info "Recent closures"
     - **CRC Program Round 27** (Stage 1) closed 29 April 2026. Stage 1 outcomes expected July 2026.
-    - **CRC-P Round 19 (AI Accelerator stream, $20M)** closed 12 May 2026 at 5:00 PM AEST. Outcomes expected August 2026.
+    - **CRC-P Round 19 (AI Accelerator stream, $20M)** closed 12 May 2026 at 5:00 PM AEST. Outcomes now expected October 2026 (delayed from August due to high application volume).
 
     The next AI Accelerator full CRC opportunity (Round 28) is expected in 2027.
 
@@ -108,7 +108,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 
 - Grants between **$100,000 and $3 million** for collaborative AI research projects, up to 3 years.
 - Round 19 included a dedicated **$20 million funding stream** for projects that develop or enhance AI systems. Grants of $100,000–$3 million, up to 3 years, with 50% co-contribution required.
-- **Status:** Round 19 **closed 12 May 2026** at 5:00 PM AEST. Outcomes expected August 2026.
+- **Status:** Round 19 **closed 12 May 2026** at 5:00 PM AEST. Outcomes now expected **October 2026** (delayed from August due to high application volume; funding commencement expected October–November 2026).
 - The CRC-P program runs annual rounds; next AI Accelerator opportunity is expected via CRC Round 28 in 2027.
 - ➡️ [CRC-P details](https://business.gov.au/grants-and-programs/cooperative-research-centres-projects-crcp-grants)
 
@@ -239,7 +239,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 | MRFF AI in Health | Federal Grant | $30m | Healthcare AI transformation | Active |
 | CSIRO Next Gen Graduates | Federal Program | Varies | AI workforce development | Active |
 | CSIRO-NSF AI Collaboration | International Grant | $9.6m (2023) | Responsible AI research | Active |
-| CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closed 12 May 2026; outcomes expected Aug 2026 |
+| CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closed 12 May 2026; outcomes expected Oct 2026 |
 | CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Closed 29 April 2026; outcomes expected Jul 2026 |
 | AI Accelerator CRC | Federal (Future) | ~$50m | Dedicated AI CRC | Expected 2027 |
 | AWS AI Accelerator | Corporate | US$230m pool | Generative AI startups | Active |

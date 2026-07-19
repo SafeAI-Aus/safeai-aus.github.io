@@ -3,7 +3,7 @@ icon: lucide/wrench
 title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated collection of AI tools, frameworks and resources for Australian businesses implementing AI safely and responsibly. Includes risk management, governance and technical testing tools."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
-last-reviewed: "2026-06-15"
+last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"
 og_type: "article"
@@ -65,6 +65,7 @@ As part of the **APS AI Plan 2025**, the Australian Government's **GovAI Chat** 
 
 ## 📋 Governance & Policy Tools
 
+- **AICD Director's Guide to AI Governance (Version 2, June 2026)** – Board-level AI oversight guidance from the Australian Institute of Company Directors (AICD), produced in partnership with the Human Technology Institute at the University of Technology Sydney. Version 2 addresses embedded and agentic AI and presents an operating model covering strategy, governance structure, governance practices and enablers. ([aicd.com.au](https://www.aicd.com.au/news-media/research-and-reports/a-directors-guide-to-ai-governance.html))
 - **Privacy Impact Assessments (PIAs)** – OAIC guidance on conducting PIAs. ([oaic.gov.au](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/privacy-impact-assessments))
 - **NSW Artificial Intelligence Assessment Framework** – Structured risk-based assessment framework for AI systems; updated to address generative AI. ([digital.nsw.gov.au](https://www.digital.nsw.gov.au/policy/artificial-intelligence/nsw-artificial-intelligence-assessment-framework))
 - **ASD Essential Eight** – baseline mitigation strategies. ([cyber.gov.au](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight))

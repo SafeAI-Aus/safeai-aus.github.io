@@ -3,7 +3,7 @@ icon: lucide/flag
 title: "Current Legal Landscape for AI in Australia"
 description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business. Learn about Privacy Act, Consumer Law, Anti-Discrimination laws, and IP regulations affecting AI use."
 keywords: "AI legislation Australia, Australian AI law, AI privacy law, AI consumer law, AI discrimination law, AI intellectual property, AI legal compliance, Australian AI regulations, AI legal framework"
-last-reviewed: "2026-07-06"
+last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
 og_type: "article"
@@ -16,7 +16,7 @@ og_type: "article"
 
 While Australia doesn't yet have AI-specific legislation, AI use is already governed by existing laws. Australian law is technology-neutral: obligations around privacy, consumer protection, discrimination, workplace safety and intellectual property apply regardless of whether a decision is made by a human or an AI system.
 
-In 2024 the Government released proposals for mandatory guardrails for high-risk AI applications alongside a Voluntary AI Safety Standard. In October 2025 the National AI Centre (NAIC) published updated **Guidance for AI Adoption**, which sets out six essential practices (AI6) and is now the primary government guidance for responsible AI governance and adoption. In December 2025 the **National AI Plan** confirmed that, for now, Australia will rely on **existing laws and sector regulators, supported by voluntary guidance and a new AI Safety Institute**, rather than introducing a standalone AI Act or immediate mandatory guardrails.
+In 2024 the Government released proposals for mandatory guardrails for high-risk AI applications alongside a Voluntary AI Safety Standard. In October 2025 the National AI Centre (NAIC) published updated **Guidance for AI Adoption**, which sets out six essential practices (AI6) and is now the primary government guidance for responsible AI governance and adoption. In December 2025 the **National AI Plan** confirmed that, for now, Australia will rely on **existing laws and sector regulators, supported by voluntary guidance and the Australian AI Safety Institute (AISI)**, rather than introducing a standalone AI Act or immediate mandatory guardrails. As of July 2026, the AISI is actively testing unreleased frontier AI models in collaboration with the Australian Signals Directorate and international partners — the most substantive operational milestone for the institute to date.
 
 !!! note "Policy is evolving"
     The Australian AI policy landscape is changing rapidly. The information below reflects the position as of July 2026. For government policy, guidance and institutional developments, see [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md). Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.

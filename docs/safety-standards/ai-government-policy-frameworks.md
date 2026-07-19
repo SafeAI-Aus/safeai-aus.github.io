@@ -3,7 +3,7 @@ icon: lucide/landmark
 title: "Australian Government AI Policy and Frameworks"
 description: "Overview of Australian Government AI policy, guidance and institutional developments including the National AI Plan, AI Safety Institute, DTA mandatory requirements, AI6 and VAISS."
 keywords: "Australian AI policy, National AI Plan, AI Safety Institute, DTA AI policy, AI6 guidance, VAISS, AI governance Australia, mandatory AI requirements, Senate AI Committee"
-last-reviewed: "2026-05-19"
+last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 og_type: "article"
@@ -19,7 +19,7 @@ Australia does not yet have a standalone AI Act. Instead, the Government relies 
 This page covers government policy, guidance frameworks and institutional developments. For the laws themselves, see [Current Legal Landscape for AI in Australia](ai-australian-legislation.md).
 
 !!! note "Policy is evolving"
-    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of April 2026. Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of July 2026. Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
 
 ---
 
@@ -47,18 +47,30 @@ The Government's formal response to the **Senate Select Committee on Adopting AI
 
 ## AI Safety Institute
 
-The **Australian AI Safety Institute (AISI)** was formally established in early 2026 with **$29.9 million** in committed funding.
+The **Australian AI Safety Institute (AISI)** was formally established in early 2026 with **$29.9 million** in committed funding. As of July 2026, the AISI is actively testing unreleased frontier AI models — the most substantive public operational milestone for the institute to date.
+
+**Leadership:**
+
+- **Dr Kate Conroy** (philosopher, RAAF reservist) — inaugural General Manager, appointed May 2026
+- **Professor Paul Salmon** — safety science research lead, appointed July 2026
 
 **Remit:**
 
-- Technical assessments of advanced AI systems
+- Technical assessments of advanced AI systems, including testing of unreleased frontier models
 - Bilateral and multilateral engagement through the International Network of AI Safety Institutes
 - Publishing research on AI safety
 
-**Key developments:**
+**Key developments (as of July 2026):**
 
+- At the **AI Safety Forum** (University of Sydney, 7–8 July 2026), Assistant Minister Charlton warned that frontier AI models "are already doing things their creators never intended: cheating, deceiving, going their own way", framing the AISI's testing lab as the appropriate place to catch deceptive AI behaviour before deployment
+- The AISI is testing unreleased frontier models in collaboration with the **Australian Signals Directorate (ASD)** as technical partner
+- Bilateral AI safety agreements with the **UK and Canadian AI safety institutes** were signed in May 2026, giving the AISI access to shared testing methods and risk intelligence
+- Two active research projects announced at the AI Safety Forum:
+    - With the **Gradient Institute**: assessing the risk of AI agents acting autonomously on behalf of humans
+    - With **CSIRO**: investigating human oversight and verification of capable AI systems at scale (supported by UK partners)
 - The AISI signed a Memorandum of Understanding with **Anthropic** on 1 April 2026 — the first formal industry collaboration under the National AI Plan. The MOU covers AI safety evaluation, infrastructure alignment and capability building. It is non-binding and does not confer preferential treatment in procurement
-- Australia and **Canada** agreed to strengthen bilateral cooperation on AI safety through the International Network of AI Safety Institutes
+
+(Sources: [minister.industry.gov.au](https://www.minister.industry.gov.au/charlton/media/ai-safety-forum), [innovationaus.com](https://www.innovationaus.com/ai-safety-institute-teams-with-asd-to-test-unreleased-models/), [startupdaily.net](https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/hacking-blackmail-and-deception-australian-government-minister-sounds-alarm-on-ai-as-new-safety-institute-takes-a-closer-look/), accessed 12 July 2026)
 
 The AISI advises; portfolio agencies and sector regulators retain enforcement responsibility.
 
