@@ -3,18 +3,10 @@ icon: lucide/info
 title: "About SafeAI-Aus: Mission, Values & Licence"
 description: "Learn about SafeAI-Aus — mission, purpose, core values and licensing. Australia's resource for safe, growth-focused AI adoption."
 keywords: "SafeAI-Aus mission, AI safety values, Australian AI community, open source AI tools, AI governance Australia, AI safety mission, Australian AI standards, AI ethics Australia"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
-og_title: "About SafeAI-Aus: Mission, Values & Licence"
 og_description: "Learn about SafeAI-Aus — mission, purpose, core values and licensing"
 og_type: "website"
-og_url: "https://safeaiaus.org/about/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "About SafeAI-Aus: Mission, Values & Licence"
-twitter_description: "Learn about SafeAI-Aus — mission, purpose, core values and licensing"
 permalink: /about/
 ---
 

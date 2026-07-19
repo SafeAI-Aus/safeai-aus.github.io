@@ -3,18 +3,10 @@ icon: lucide/clock
 title: "AGI Timelines - When Could Advanced AI Arrive?"
 description: "Public estimates for advanced AI vary dramatically. Compare institutional positions, executive forecasts and researcher surveys to inform Australian planning."
 keywords: "AGI timeline, artificial general intelligence timeline, AI predictions, OpenAI predictions, Anthropic forecasts, DeepMind AGI, AI safety timeline Australia"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "AGI Timelines - When Could Advanced AI Arrive?"
 og_description: "Compare institutional positions, executive forecasts and researcher surveys on advanced AI timelines."
 og_type: "article"
-og_url: "https://safeaiaus.org/preparing-for-agi/timelines/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "AGI Timelines - When Could Advanced AI Arrive?"
-twitter_description: "Compare institutional positions, executive forecasts and researcher surveys on advanced AI timelines."
 tags:
   - Resources
   - Timelines

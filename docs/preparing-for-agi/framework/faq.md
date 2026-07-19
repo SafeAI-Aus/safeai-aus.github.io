@@ -3,17 +3,10 @@ icon: lucide/help-circle
 title: "C·A·G·R Framework FAQ"
 description: "Frequently asked questions about the C·A·G·R Framework, SafeAI-Aus approach to AI safety and how our methodology differs from mainstream AI safety research."
 keywords: "CAGR FAQ, AI safety FAQ, SafeAI-Aus approach, AI safety framework questions, containment alignment governance resilience"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "C·A·G·R Framework FAQ"
 og_description: "Frequently asked questions about the C·A·G·R Framework and SafeAI-Aus approach to AI safety"
 og_type: "article"
-og_url: "https://safeaiaus.org/preparing-for-agi/framework/faq/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "C·A·G·R Framework FAQ"
 twitter_description: "Frequently asked questions about the C·A·G·R Framework and SafeAI-Aus approach to AI safety."
 tags:
   - Framework

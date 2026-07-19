@@ -55,7 +55,7 @@ zensical build --strict
 
 - `zensical.toml` — Site configuration, navigation, theme, and feature flags.
 - `docs/` — All published content (Markdown). Images and assets live under `docs/assets/`.
-- `overrides/` — Theme template and style overrides (for Airia chat widget and SEO meta tags).
+- `overrides/` — Theme template and style overrides for SEO metadata and the site footer.
 - `.github/workflows/deploy.yml` — GitHub Actions build and deploy pipeline.
 - `AGENTS.md` — This file.
 

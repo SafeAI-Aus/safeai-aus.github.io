@@ -3,18 +3,10 @@ icon: lucide/dollar-sign
 title: "AI Grants and Funding Opportunities for Australian Businesses"
 description: "Comprehensive guide to AI grants, funding programs and financial support available for Australian businesses implementing AI responsibly. Includes federal, state and industry programs."
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
-og_title: "AI Grants and Funding Opportunities for Australian Businesses"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 og_type: "article"
-og_url: "https://safeaiaus.org/business-resources/ai-grants-funding-australia/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "AI Grants and Funding Opportunities for Australian Businesses"
-twitter_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 ---
 
 # AI Grants and Funding Opportunities for Australian Businesses

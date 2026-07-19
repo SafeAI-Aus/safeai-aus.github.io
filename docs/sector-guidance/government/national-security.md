@@ -3,17 +3,10 @@ icon: lucide/shield
 title: "National Security — Advanced AI Preparedness"
 description: Practical priorities for preserving Australian judgement, accountability and continuity as advanced AI changes the security environment.
 keywords: "advanced AI national security Australia, defence AI governance, AI security preparedness, national security AI resilience, responsible AI Defence"
-author: SafeAI-Aus
-robots: index, follow
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "National Security — Advanced AI Preparedness"
 og_description: "Practical priorities for preserving Australian judgement, accountability and continuity as advanced AI changes the security environment."
 og_type: "article"
-og_url: "https://safeaiaus.org/sector-guidance/government/national-security/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "National Security — Advanced AI Preparedness"
 twitter_description: "Practical advanced-AI preparedness priorities for Australian security leaders."
 tags:
   - Government

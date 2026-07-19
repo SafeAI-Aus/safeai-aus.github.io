@@ -3,17 +3,10 @@ icon: lucide/briefcase
 title: "Business & Industry — Advanced AI Preparedness"
 description: "Strategic guidance for Australian boards and industry leaders preparing for advanced AI systems and possible AGI."
 keywords: "advanced AI business guidance, AGI preparedness business Australia, board AI governance, business AI resilience, strategic AI dependencies"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
 og_title: "Business and Industry — Advanced AI Preparedness"
-og_description: "Strategic guidance for Australian boards and industry leaders preparing for advanced AI systems and possible AGI."
 og_type: "article"
-og_url: "https://safeaiaus.org/sector-guidance/business/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Business and Industry — Advanced AI Preparedness"
 twitter_description: "Strategic advanced-AI preparedness guidance for Australian boards and industry leaders."
 tags:
   - Business

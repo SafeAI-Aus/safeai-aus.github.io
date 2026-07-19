@@ -3,17 +3,10 @@ icon: lucide/landmark
 title: "Government & Public Institutions — Advanced AI Preparedness"
 description: "Strategic guidance for Australian governments and public institutions preparing for advanced AI systems and possible AGI."
 keywords: "advanced AI government guidance, AGI preparedness government Australia, public sector AI governance, AI Safety Institute Australia, government AI resilience"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
 og_title: "Government and Public Institutions — Advanced AI Preparedness"
-og_description: "Strategic guidance for Australian governments and public institutions preparing for advanced AI systems and possible AGI."
 og_type: "article"
-og_url: "https://safeaiaus.org/sector-guidance/government/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Government and Public Institutions — Advanced AI Preparedness"
 twitter_description: "Preserve public authority, essential services and strategic options through advanced AI change."
 tags:
   - Government

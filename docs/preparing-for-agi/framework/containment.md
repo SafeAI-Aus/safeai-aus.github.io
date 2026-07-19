@@ -3,16 +3,10 @@ icon: lucide/shield-ban
 title: "AI Containment - Preventing Dangerous AI Systems"
 description: "Containment approaches for advanced AI, including compute governance, system controls, deployment restrictions and Australian policy options."
 keywords: "AI containment, compute governance, AI control methods, AI export controls, dangerous AI prevention, AI licensing, AI safety controls, frontier AI containment"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "AI Containment - Preventing Dangerous AI Systems"
 og_description: "Strategies for preventing dangerous AI systems through compute governance and deployment controls."
 og_type: "article"
-og_url: "https://safeaiaus.org/preparing-for-agi/framework/containment/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
 twitter_title: "AI Containment Strategies"
 twitter_description: "Preventing dangerous AI through compute governance and deployment controls."
 tags:
@@ -337,7 +331,7 @@ Not necessarily. Control can reduce risk from advanced systems without guarantee
 
 **"Won't licensing slow down innovation?"**
 
-Risk-based licensing shouldn't burden low-risk systems. The goal is proportionate oversight: stringent for dangerous capabilities and critical deployments, light-touch elsewhere. Innovation in low-risk domains continues; high-risk domains get appropriate scrutiny.
+See the [Framework FAQ](faq.md#wont-licensing-slow-down-innovation) for the trade-offs between proportionate licensing and innovation.
 
 ---
 

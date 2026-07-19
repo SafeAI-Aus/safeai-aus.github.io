@@ -3,17 +3,10 @@ icon: lucide/external-link
 title: "External Resources for Democratic and Decentralised AI"
 description: "Curated external resources for Australian organisations exploring decentralised AI, platform cooperatives, digital rights and democratic technology governance."
 keywords: "decentralised AI resources, democratic AI governance, platform cooperatives Australia, digital rights Australia, community technology resources"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "External Resources for Democratic and Decentralised AI"
 og_description: "Curated starting points for decentralised AI, platform cooperatives, digital rights and democratic technology governance."
 og_type: "article"
-og_url: "https://safeaiaus.org/resources/external-resources/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "External Resources for Democratic and Decentralised AI"
 twitter_description: "Curated starting points for democratic and decentralised approaches to AI."
 tags:
   - Resources

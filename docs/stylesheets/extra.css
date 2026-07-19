@@ -192,66 +192,6 @@ h3 {
     border-radius: 20px;
 }
 
-/* Breadcrumb Navigation Styling */
-.md-breadcrumb {
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-    border-bottom: 1px solid #dee2e6;
-    padding: 0.75rem 1rem;
-    margin-bottom: 1rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.md-breadcrumb__item {
-    color: #6c757d;
-    font-size: 0.9rem;
-}
-
-.md-breadcrumb__item:not(:last-child)::after {
-    content: "›";
-    margin: 0 0.5rem;
-    color: #adb5bd;
-    font-weight: bold;
-}
-
-.md-breadcrumb__link {
-    color: #5c6bc0;
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.md-breadcrumb__link:hover {
-    color: #3949ab;
-    text-decoration: underline;
-}
-
-.md-breadcrumb__link--current {
-    color: #2c3e50;
-    font-weight: 600;
-}
-
-/* Dark mode support for breadcrumbs */
-[data-md-color-scheme="slate"] .md-breadcrumb {
-    background: linear-gradient(135deg, #424242 0%, #2d2d2d 100%);
-    border-bottom-color: #555;
-}
-
-[data-md-color-scheme="slate"] .md-breadcrumb__item {
-    color: #adb5bd;
-}
-
-[data-md-color-scheme="slate"] .md-breadcrumb__link {
-    color: #7986cb;
-}
-
-[data-md-color-scheme="slate"] .md-breadcrumb__link:hover {
-    color: #5c6bc0;
-}
-
-[data-md-color-scheme="slate"] .md-breadcrumb__link--current {
-    color: #e8e8e8;
-}
-
 /* Responsive improvements */
 @media (max-width: 768px) {
     h1 { font-size: 2em; }
@@ -375,19 +315,6 @@ h3 {
     color: #adb5bd;
 }
 
-/* Airia chat widget tweaks */
-#airia-chat-root {
-    font-size: 16px;
-}
-
-#airia-chat-root *,
-#airia-chat-root button,
-#airia-chat-root input,
-#airia-chat-root textarea {
-    font-size: 1rem;
-    line-height: 1.5;
-}
-
 /* Print-friendly styles */
 @media print {
     .md-content {
@@ -412,7 +339,7 @@ h3 {
 .hero-section {
     text-align: center;
     padding: 4rem 2rem 3rem;
-    background-image: url('../assets/hero-background-v3.jpg');
+    background-image: url('../assets/hero-background-v3.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -453,7 +380,7 @@ h3 {
 
 /* Dark mode hero section */
 [data-md-color-scheme="slate"] .hero-section {
-    background-image: url('../assets/hero-background-v3.jpg');
+    background-image: url('../assets/hero-background-v3.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

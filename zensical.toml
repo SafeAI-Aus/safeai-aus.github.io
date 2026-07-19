@@ -118,12 +118,12 @@ nav = [
 # ----------------------------------------------------------------------------
 [project.theme]
 
-# Custom template directory for Airia widget and SEO overrides
+# Custom template directory for SEO and footer overrides
 custom_dir = "overrides"
 
 # Favicon and logo
 favicon = "assets/favicon.svg"
-logo = "assets/safeaiaus-logo-600px.png"
+logo = "assets/favicon-64x64.png"
 
 # Language
 language = "en"
@@ -174,7 +174,6 @@ toggle.name = "Switch to light mode"
 # Extra configuration (SEO and social media)
 # ----------------------------------------------------------------------------
 [project.extra]
-canonical_base = "https://safeaiaus.org"
 generator = false
 
 # Social media links
