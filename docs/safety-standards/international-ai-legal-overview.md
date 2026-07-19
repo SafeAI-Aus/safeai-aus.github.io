@@ -7,6 +7,7 @@ last-reviewed: "2026-07-06"
 review-cycle: "quarterly"
 og_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # International AI Legal Landscape (2026) — What Australian Businesses Should Know

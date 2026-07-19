@@ -8,6 +8,7 @@ review-cycle: "quarterly"
 og_title: "Business Resources for AI Adoption in Australia"
 og_description: "Practical tools, grants, frameworks and learning resources for Australian businesses adopting AI"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # Practical Business Resources

@@ -29,6 +29,7 @@ faq:
     answer: "The register should be owned by the PMO, ICT or risk/governance function. It serves as a central source of truth for governance, risk and compliance monitoring across all AI initiatives."
   - question: "What is the minimum information needed for each entry?"
     answer: "At minimum, record the project name, description, project owner, risk level, guardrail compliance status and key dates. Expand with financial, technical and ethics details as the project matures."
+robots: "index, follow"
 ---
 
 # AI Project Register

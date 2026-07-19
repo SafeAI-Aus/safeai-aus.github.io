@@ -27,6 +27,7 @@ faq:
     answer: "Five to fifteen people is ideal. This is large enough for meaningful data but small enough to provide intensive support and gather detailed feedback."
   - question: "When should we stop an AI pilot?"
     answer: "Stop if the tool doesn't fit actual workflows, the error rate remains too high despite tuning, staff find it more frustrating than helpful, integration problems are too complex to resolve, or cost exceeds benefit even at best-case adoption."
+robots: "index, follow"
 ---
 
 # AI Implementation Roadmap

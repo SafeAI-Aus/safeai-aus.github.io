@@ -15,6 +15,7 @@ tags:
   - Communities
   - Advanced AI
   - AGI
+robots: "index, follow"
 ---
 
 # Sector Guidance for Advanced AI and AGI

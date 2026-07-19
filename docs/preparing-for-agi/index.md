@@ -12,6 +12,7 @@ tags:
   - Governance
   - Safety
   - Strategy
+robots: "index, follow"
 ---
 
 # Preparing for AGI

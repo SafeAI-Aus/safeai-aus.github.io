@@ -13,6 +13,7 @@ tags:
   - Framework
   - Governance
   - Assurance
+robots: "index, follow"
 ---
 
 # AGI Assurance: Evidence for Advanced AI Preparedness

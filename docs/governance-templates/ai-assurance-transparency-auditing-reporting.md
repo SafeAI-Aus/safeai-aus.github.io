@@ -29,6 +29,7 @@ faq:
     answer: "Very small teams (1-20 staff) can start with a simple spreadsheet register (2-4 hours to set up), one-page safety notes for critical systems (1-2 hours each) and adding AI questions to existing processes."
   - question: "Why should we start building AI assurance now?"
     answer: "The Australian Government is developing mandatory guardrails for high-risk AI uses, and version 2 of the Voluntary AI Safety Standard is in development. Building good assurance practices now means you are ready when regulations arrive."
+robots: "index, follow"
 ---
 
 # AI Assurance – Transparency, Auditing & Reporting

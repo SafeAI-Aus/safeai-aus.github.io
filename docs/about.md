@@ -8,6 +8,7 @@ review-cycle: "quarterly"
 og_description: "Learn about SafeAI-Aus — mission, purpose, core values and licensing"
 og_type: "website"
 permalink: /about/
+robots: "index, follow"
 ---
 
 # About SafeAI-Aus

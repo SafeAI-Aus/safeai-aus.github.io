@@ -16,6 +16,7 @@ tags:
   - Government
   - Safety
   - International
+robots: "index, follow"
 ---
 
 # Scenario 5: Catastrophic AI Misuse Through Containment Failures

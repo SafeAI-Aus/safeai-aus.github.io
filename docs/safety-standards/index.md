@@ -8,6 +8,7 @@ review-cycle: "quarterly"
 og_title: "AI Safety Standards and Legislation in Australia"
 og_description: "Australian and international AI standards, legislation and governance frameworks"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # AI Standards & Legislation

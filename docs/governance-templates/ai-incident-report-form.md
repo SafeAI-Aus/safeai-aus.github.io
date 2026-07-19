@@ -31,6 +31,7 @@ faq:
     answer: "Critical incidents should be reported within 4 hours, High severity within 24 hours, and Medium or Low severity within 72 hours. Earlier reporting allows faster containment."
   - question: "Who should I submit the completed report to?"
     answer: "Submit to your designated AI governance officer, IT/security team or senior manager. Critical incidents require immediate notification to CEO, Board and regulators as required."
+robots: "index, follow"
 ---
 
 # AI Incident Report Form

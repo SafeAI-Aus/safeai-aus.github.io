@@ -7,6 +7,7 @@ last-reviewed: "2026-01-31"
 review-cycle: "quarterly"
 og_description: "Discover 11+ free AI learning resources for Australian SMEs. Access government programs, university courses and open-source training to build AI capability."
 og_type: "article"
+robots: "index, follow"
 ---
 
 # AI & Emerging Tech Learning Directory for SMEs

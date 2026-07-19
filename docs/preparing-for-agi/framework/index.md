@@ -23,6 +23,7 @@ tags:
   - Alignment
   - Governance
   - Resilience
+robots: "index, follow"
 ---
 
 # Containment · Alignment · Governance · Resilience Framework

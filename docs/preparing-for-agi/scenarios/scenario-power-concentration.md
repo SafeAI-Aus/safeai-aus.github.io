@@ -16,6 +16,7 @@ tags:
   - Business
   - Government
   - Democracy
+robots: "index, follow"
 ---
 
 # Scenario 1: AI Power Concentration & Governance Failure

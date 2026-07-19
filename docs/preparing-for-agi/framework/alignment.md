@@ -14,6 +14,7 @@ tags:
   - Alignment
   - Safety
   - Research
+robots: "index, follow"
 ---
 
 # Alignment: Making AI Systems Reliably Safe

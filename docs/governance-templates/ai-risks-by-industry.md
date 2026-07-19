@@ -30,6 +30,7 @@ faq:
     answer: "Yes. These examples are licensed under CC BY 4.0. You may copy, adapt and use them with attribution to SafeAI-Aus. They are designed as starting points to be tailored to your specific context."
   - question: "Are these risk lists exhaustive?"
     answer: "No. These represent common risk patterns but are not exhaustive. Every organisation should conduct its own risk assessment considering its specific AI applications, data, stakeholders and regulatory environment."
+robots: "index, follow"
 ---
 
 # AI Risks by Industry (Australia)

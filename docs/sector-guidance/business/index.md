@@ -14,6 +14,7 @@ tags:
   - Advanced AI
   - AGI
   - Guidance
+robots: "index, follow"
 ---
 
 # Business & Industry

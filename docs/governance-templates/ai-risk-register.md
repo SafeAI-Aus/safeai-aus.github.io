@@ -31,6 +31,7 @@ faq:
     answer: "The register supports alignment with the Australian Voluntary AI Safety Standard's 10 guardrails, particularly around accountability, risk management and transparency. It also aligns with international standards such as ISO/IEC 42001 and NIST AI RMF."
   - question: "How often should the risk register be reviewed?"
     answer: "Review at least quarterly, or more frequently when deploying new AI systems, changing regulations, or after an AI incident. Both technology and regulation evolve rapidly in this space."
+robots: "index, follow"
 ---
 
 # AI Risk Register Template

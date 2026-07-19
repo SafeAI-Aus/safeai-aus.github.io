@@ -16,6 +16,7 @@ tags:
   - Policy
   - Democracy
   - International
+robots: "index, follow"
 ---
 
 # Governance: Laws, Institutions and Coordination

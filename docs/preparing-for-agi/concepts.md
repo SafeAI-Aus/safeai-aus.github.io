@@ -21,6 +21,7 @@ faq:
 tags:
   - Resources
   - Framework
+robots: "index, follow"
 ---
 
 # Key Concepts & Glossary

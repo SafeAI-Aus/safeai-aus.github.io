@@ -7,6 +7,7 @@ last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # Australian Government AI Resources (Federal, State & Territory)

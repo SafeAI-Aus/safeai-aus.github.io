@@ -33,6 +33,7 @@ howto:
       text: "Review results against success criteria. Decide whether to scale, adjust or stop."
     - name: "Scale with guardrails"
       text: "Expand gradually with proper monitoring, incident reporting and regular reviews in place."
+robots: "index, follow"
 ---
 
 # Safe AI Adoption - Getting Started

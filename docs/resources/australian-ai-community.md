@@ -10,6 +10,7 @@ last-reviewed: "2026-01-31"
 review-cycle: "quarterly"
 tags:
   - Resources
+robots: "index, follow"
 ---
 
 # Australian AI Community

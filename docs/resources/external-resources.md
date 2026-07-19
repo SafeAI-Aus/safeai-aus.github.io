@@ -10,6 +10,7 @@ og_type: "article"
 twitter_description: "Curated starting points for democratic and decentralised approaches to AI."
 tags:
   - Resources
+robots: "index, follow"
 ---
 
 # External Resources

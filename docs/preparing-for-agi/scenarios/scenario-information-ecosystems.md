@@ -15,6 +15,7 @@ tags:
   - Governance
   - Alignment
   - Democracy
+robots: "index, follow"
 ---
 
 # Scenario 3: AI, Democracy & Information Ecosystem Risks

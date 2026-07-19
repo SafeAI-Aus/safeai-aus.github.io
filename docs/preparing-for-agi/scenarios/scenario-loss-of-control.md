@@ -16,6 +16,7 @@ tags:
   - Alignment
   - Safety
   - Research
+robots: "index, follow"
 ---
 
 # Scenario 6: AI Loss of Control and Misalignment Risks

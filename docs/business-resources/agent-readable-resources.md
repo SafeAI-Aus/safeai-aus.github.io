@@ -7,6 +7,7 @@ last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
 og_description: "Machine-readable files covering Australian AI governance and advanced AI preparedness"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # Agent-Readable Resources

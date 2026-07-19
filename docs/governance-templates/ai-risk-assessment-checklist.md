@@ -33,6 +33,7 @@ howto:
       text: "Use the quantitative scoring framework to calculate probability × impact for each identified risk."
     - name: "Develop mitigations"
       text: "Create a mitigation plan for high-risk items and obtain appropriate sign-off before deployment."
+robots: "index, follow"
 ---
 
 # AI Risk Assessment Checklist

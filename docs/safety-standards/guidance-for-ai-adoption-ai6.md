@@ -7,6 +7,7 @@ last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
 og_description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # Guidance for AI Adoption (AI6) – 6 Essential Practices

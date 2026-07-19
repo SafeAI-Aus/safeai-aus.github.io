@@ -7,6 +7,7 @@ last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
 og_description: "Stay informed with practical tools, resources and updates on safe AI adoption in Australia"
 og_type: "website"
+robots: "index, follow"
 ---
 
 # Subscribe to Our Newsletter

@@ -17,6 +17,7 @@ faq:
     answer: "Six key scenarios: Power Concentration & Governance Failure, Gradual Disempowerment, Information Ecosystem Degradation, Critical Infrastructure Failure, Catastrophic Misuse and Loss of Control."
   - question: "Do all AGI risks require misaligned AI?"
     answer: "No. Power concentration, gradual disempowerment and information ecosystem risks happen even with perfectly safe, aligned AGI. These are governance challenges, not just safety challenges."
+robots: "index, follow"
 ---
 
 # AGI Risk Scenarios for Australia

@@ -10,6 +10,7 @@ preload_image: "assets/hero-background-v3.webp"
 hide:
   - navigation
   - toc
+robots: "index, follow"
 ---
 
 <div class="hero-section" markdown>

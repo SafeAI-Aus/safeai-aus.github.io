@@ -14,6 +14,7 @@ tags:
   - Defence
   - Governance
   - Resilience
+robots: "index, follow"
 ---
 
 # National Security

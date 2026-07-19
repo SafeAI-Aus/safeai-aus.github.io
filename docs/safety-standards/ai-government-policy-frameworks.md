@@ -7,6 +7,7 @@ last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # Australian Government AI Policy and Frameworks

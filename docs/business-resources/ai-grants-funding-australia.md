@@ -7,6 +7,7 @@ last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # AI Grants and Funding Opportunities for Australian Businesses

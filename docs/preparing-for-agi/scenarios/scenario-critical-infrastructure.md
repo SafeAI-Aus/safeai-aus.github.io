@@ -16,6 +16,7 @@ tags:
   - Resilience
   - Government
   - Infrastructure
+robots: "index, follow"
 ---
 
 # Scenario 4: AI Critical Infrastructure Failure Cascade

@@ -32,6 +32,7 @@ faq:
     answer: "Yes. The Digital Transformation Agency's updated AI policy introduces mandatory requirements for Commonwealth agencies. The first wave takes effect 15 June 2026, including mandatory AI Impact Assessments, procurement guidance and foundational AI training for all public service staff."
   - question: "How does Australian AI regulation compare internationally?"
     answer: "Australia takes a voluntary, principles-based approach — unlike the EU's binding AI Act or China's specific AI regulations. Australia relies on existing technology-neutral laws supported by guidance frameworks. The EU AI Act's high-risk compliance date is August 2026, which affects Australian businesses with EU operations."
+robots: "index, follow"
 ---
 
 # Australian AI Governance FAQ

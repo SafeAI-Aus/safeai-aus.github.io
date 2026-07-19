@@ -14,6 +14,7 @@ tags:
   - Containment
   - Safety
   - Policy
+robots: "index, follow"
 ---
 
 # Containment: Preventing Dangerous AI Systems

@@ -31,6 +31,7 @@ faq:
     answer: "Typically 4-8 weeks for initial pilots, or 8-12 weeks for defensive or security use cases. This allows enough time for setup, training, regular use and meaningful evaluation."
   - question: "How do we address staff concerns about AI replacing jobs?"
     answer: "Frame AI as helping with tedious work, not replacing people. Be honest about what you don't know, start small with low-risk tasks, and emphasise that humans review all AI outputs. Include staff in pilot design to build ownership."
+robots: "index, follow"
 ---
 
 # AI Change Management

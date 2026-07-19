@@ -18,6 +18,7 @@ tags:
   - Framework
   - Visions
   - Strategy
+robots: "index, follow"
 ---
 
 # Strategic Visions for AGI

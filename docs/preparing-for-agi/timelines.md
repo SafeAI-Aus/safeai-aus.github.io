@@ -11,6 +11,7 @@ tags:
   - Resources
   - Timelines
   - Research
+robots: "index, follow"
 ---
 
 # AGI Timelines: When Could Advanced AI Arrive?

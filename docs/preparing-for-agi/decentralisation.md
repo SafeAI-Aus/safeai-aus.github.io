@@ -15,6 +15,7 @@ tags:
   - Resilience
   - Decentralisation
   - Democracy
+robots: "index, follow"
 ---
 
 # Building Decentralised AI: Democratic Alternatives

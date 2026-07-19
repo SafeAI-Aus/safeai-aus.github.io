@@ -16,6 +16,7 @@ faq:
     answer: "Organisations scoring 70% or higher are generally well-positioned to begin AI adoption. Those below 50% should focus on building foundational capabilities first."
   - question: "Is this checklist free to use?"
     answer: "Yes. This checklist is licensed under CC BY 4.0. You may copy, adapt and use it commercially with attribution to SafeAI-Aus."
+robots: "index, follow"
 ---
 
 # AI Readiness Checklist

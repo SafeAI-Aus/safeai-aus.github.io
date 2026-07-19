@@ -11,6 +11,7 @@ twitter_description: "Frequently asked questions about the C·A·G·R Framework 
 tags:
   - Framework
   - Resources
+robots: "index, follow"
 ---
 
 # C·A·G·R Framework FAQ

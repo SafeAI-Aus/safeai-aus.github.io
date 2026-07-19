@@ -14,6 +14,7 @@ faq:
     answer: "Consider buying when you need proven, low-risk solutions with vendor support. Consider building when you need deep customisation, competitive advantage, or have specific data security requirements."
   - question: "How long does an AI vendor evaluation take?"
     answer: "A thorough evaluation typically takes 1-2 hours per vendor using this checklist, plus time for reference checks and proof of concept testing for shortlisted vendors."
+robots: "index, follow"
 ---
 
 # AI Vendor Evaluation Checklist

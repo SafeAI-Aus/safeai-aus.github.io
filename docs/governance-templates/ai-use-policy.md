@@ -24,6 +24,7 @@ faq:
     answer: "Schedule a review at least annually or whenever Australian AI regulations, ISO/IEC standards, or internal risk thresholds change."
   - question: "Can we share this template externally?"
     answer: "Yes. The template is published under CC BY 4.0, so you can adapt and redistribute it with attribution to SafeAI-Aus."
+robots: "index, follow"
 ---
 
 # AI Use Policy Template

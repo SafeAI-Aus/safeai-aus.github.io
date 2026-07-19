@@ -15,6 +15,7 @@ tags:
   - Governance
   - Alignment
   - Democracy
+robots: "index, follow"
 ---
 
 # Scenario 2: AI Over-Reliance and Institutional Disempowerment

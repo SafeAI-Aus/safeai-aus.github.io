@@ -7,6 +7,7 @@ last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
 og_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
 og_type: "article"
+robots: "index, follow"
 ---
 
 # Current Legal Landscape for AI in Australia

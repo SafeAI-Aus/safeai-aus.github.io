@@ -15,6 +15,7 @@ tags:
   - Resilience
   - Infrastructure
   - Communities
+robots: "index, follow"
 ---
 
 # Resilience: Withstanding and Recovering from Disruptions

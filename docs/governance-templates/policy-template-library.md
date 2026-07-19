@@ -7,6 +7,7 @@ last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
 og_description: "Download free AI governance templates for Australian businesses. Get instant access to risk assessments, incident reports and project management tools."
 og_type: "article"
+robots: "index, follow"
 ---
 
 # Governance Templates
