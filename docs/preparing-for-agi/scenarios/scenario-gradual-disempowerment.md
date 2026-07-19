@@ -26,9 +26,6 @@ tags:
 
 ![AI Over-Reliance and Institutional Disempowerment](scenario-gradual-disempowerment-hero.jpg)
 
-!!! note "Scenario, not prediction"
-    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
-
 ## Summary
 
 In 2029, Services Australia deploys an AI system to assess welfare eligibility and payment amounts. Initial results are promising: faster processing, fewer errors, more consistent decisions. By 2031, 85% of Centrelink decisions are AI-recommended, with human case workers reviewing only flagged cases.

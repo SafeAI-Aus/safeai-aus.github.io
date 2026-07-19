@@ -27,9 +27,6 @@ tags:
 
 ![AI Critical Infrastructure Failure Cascade](scenario-critical-infrastructure-hero.jpg)
 
-!!! note "Scenario, not prediction"
-    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
-
 ## Summary
 
 By 2032, AI systems manage much of Australia's critical infrastructure. AEMO uses AI to optimise the National Electricity Market across solar, wind and coal. Sydney Trains runs AI-assisted scheduling and signal control. Telstra and Optus use AI network management for 5G and fibre. Major ports in Melbourne, Sydney and Brisbane rely on AI logistics coordination.

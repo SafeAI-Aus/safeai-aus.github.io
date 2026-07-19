@@ -27,9 +27,6 @@ tags:
 
 ![AI Power Concentration & Governance Failure](scenario-power-concentration-hero.jpg)
 
-!!! note "Scenario, not prediction"
-    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
-
 ## Summary
 
 **2028-2033:** Three US tech firms come to dominate frontier AI models and infrastructure. By 2031, most Australian government departments rely on one of these providers for document analysis, policy modelling and decision support. The big four banks all licence AI systems from the same two vendors for credit assessment, fraud detection and trading.

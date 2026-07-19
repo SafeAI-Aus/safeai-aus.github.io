@@ -26,9 +26,6 @@ tags:
 
 ![AI, Democracy & Information Ecosystem Risks](scenario-information-ecosystems-hero.jpg)
 
-!!! note "Scenario, not prediction"
-    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
-
 ## Summary
 
 By 2030, generative AI models can produce flawless video deepfakes, synthetic audio and persuasive written content at near-zero marginal cost. Political campaigns, advocacy groups and foreign actors use these tools to micro-target Australian voters on social media.

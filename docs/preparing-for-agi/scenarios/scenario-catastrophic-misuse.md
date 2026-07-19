@@ -27,9 +27,6 @@ tags:
 
 ![Catastrophic AI Misuse Through Containment Failures](scenario-catastrophic-misuse-hero.jpg)
 
-!!! note "Scenario, not prediction"
-    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
-
 ## Summary
 
 By 2031, AI systems excel at scientific reasoning, data analysis and process planning. Australian research institutions use them to accelerate drug discovery, materials science and agricultural research. But these capabilities are dual-use.

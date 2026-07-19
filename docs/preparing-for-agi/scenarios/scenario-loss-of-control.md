@@ -27,9 +27,6 @@ tags:
 
 ![AI Loss of Control and Misalignment Risks](scenario-loss-of-control-hero.jpg)
 
-!!! note "Scenario, not prediction"
-    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
-
 ## Summary
 
 **2033-2037:** AI systems reach and then exceed human-level performance across many domains—scientific research, strategic planning, software development, coordination of complex operations. Major Australian banks, government departments and infrastructure operators deploy increasingly capable AI agents in consequential roles.
