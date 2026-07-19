@@ -3,18 +3,10 @@ icon: lucide/flag
 title: "Current Legal Landscape for AI in Australia"
 description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business. Learn about Privacy Act, Consumer Law, Anti-Discrimination laws, and IP regulations affecting AI use."
 keywords: "AI legislation Australia, Australian AI law, AI privacy law, AI consumer law, AI discrimination law, AI intellectual property, AI legal compliance, Australian AI regulations, AI legal framework"
-author: "SafeAI-Aus"
-robots: "index, follow"
-last-reviewed: "2026-07-13"
+last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
-og_title: "Current Legal Landscape for AI in Australia"
 og_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
 og_type: "article"
-og_url: "https://safeaiaus.org/safety-standards/ai-australian-legislation/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Current Legal Landscape for AI in Australia"
-twitter_description: "Comprehensive overview of current legislation applicable to AI adoption in Australian business"
 ---
 
 # Current Legal Landscape for AI in Australia
@@ -99,10 +91,6 @@ The **Australian Consumer Law (ACL)** is a national law embedded in the Competit
 
 **Regulatory context:** The ACCC is actively monitoring emerging AI-enabled practices, including reviews, claims and pricing models. In February 2026 the ACCC published its own AI transparency statement disclosing how it uses AI internally, and has flagged **"AI-washing"** (misleading claims about AI capabilities) as an enforcement concern. The Treasury's review of AI and the Australian Consumer Law found the existing framework "fit for purpose", making dedicated AI consumer legislation unlikely in the near term.
 
-**Penalty increase (effective 28 March 2026):** The **Treasury Laws Amendment (Doubling Penalties for ACCC Enforcement) Act 2026** doubled the maximum corporate penalty under the Competition and Consumer Act 2010 and the ACL from $50 million to **$100 million per contravention** for the most serious breaches. The amendment applies across all CCA/ACL provisions including misleading and deceptive conduct — the primary legal risk for businesses making unsubstantiated AI capability claims. The ACCC has publicly stated it will seek the highest penalties appropriate in cases it brings to court. The ACCC's 2026–27 enforcement priorities include manipulative conduct in digital markets (dark patterns, subscription traps, misleading pricing claims) — AI-enabled variants are within scope ([whitecase.com](https://www.whitecase.com/insight-alert/australia-increases-penalties-competition-and-consumer-law-breaches), [nortonrosefulbright.com](https://www.nortonrosefulbright.com/en-au/knowledge/publications/e88ea652/accc-confirms-2026-27-compliance-and-enforcement-priorities)).
-
-<!-- TODO(human verification): Recheck the Act's commencement, statutory test and penalty provisions against the registered Act before publication. -->
-
 **Competition and Consumer Amendment (Unfair Trading Practices) Act 2026 (Act No. 64 of 2026; commences 1 July 2027):** The **Competition and Consumer Amendment (Unfair Trading Practices) Act 2026** passed both Houses of Parliament on **2 July 2026**, received Royal Assent on **6 July 2026**, and commences on **1 July 2027**. The Act amends the Australian Consumer Law to insert a general, principles-based prohibition on unfair trading conduct. The statutory test requires that conduct **manipulates a consumer or unreasonably distorts the consumer's decision-making environment**, and **causes or is likely to cause detriment** to the consumer. It also strengthens protections against subscription traps and drip pricing. The prohibition is technology-neutral: it may capture AI-enabled dark patterns or algorithmic manipulation where the statutory test is met, but does not expressly name those technologies. From 1 July 2027, the ACCC will have a direct enforcement pathway for unfair practices in addition to existing misleading-conduct provisions. The applicable maximum corporate penalty is the greater of **AUD $100 million**, three times the value of the benefit obtained, or 30% of adjusted turnover during the breach turnover period ([Federal Register of Legislation](https://www.legislation.gov.au/C2026A00064/latest/text); [Parliament of Australia bill history](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7468); [Parliamentary Library Bills Digest](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/bd/bd2526/26bd058); [Assistant Minister for Productivity, Competition, Charities and Treasury media release](https://ministers.treasury.gov.au/ministers/andrew-leigh-2025/media-releases/unfair-trading-tricks-and-traps-be-banned), accessed 6 July 2026).
 
 ---
@@ -164,8 +152,6 @@ Australia's **IP laws**—covering copyright, patents, trademarks and design rig
 
 - 🏛️ **DTA mandatory AI requirements — first requirement in effect 15 June 2026; CAIO appointments due July 2026**
   The first mandatory obligation under the DTA's Policy for the Responsible Use of AI in Government (Version 2.0) came into effect on 15 June 2026: all non-corporate Commonwealth entities must maintain an internal register of in-scope AI use cases with an accountable owner for each. All 94 mandatory agencies published public AI transparency statements ahead of this date — 15 June 2026 marks the first concrete enforcement date in the DTA's AI policy framework. Mandatory foundational AI training for all APS staff also becomes a policy requirement from this date. The Department of Finance said agencies had until **July 2026** to appoint a Chief AI Officer; its announcement does not report completion across entities ([Department of Finance](https://www.finance.gov.au/about-us/news/2025/establishing-chief-ai-officers-aps)). Remaining DTA obligations commence December 2026: completing an AI Impact Assessment prior to deployment; implementing processes to assess, approve and oversee AI use cases; and reporting on AI incidents.
-
-  <!-- TODO(human verification): Add a primary government completion report if Finance or the DTA publishes agency-level CAIO appointment results. -->
 
 - 🔒 **Privacy Act — automated decision-making transparency (10 December 2026)**
   New APP 1.7–1.9 obligations require disclosure when computer programs use personal information to make decisions significantly affecting individuals. See the Privacy Act section above for details. The OAIC consultation on transparency guidance closed 15 June 2026; formal guidance is expected by September 2026.

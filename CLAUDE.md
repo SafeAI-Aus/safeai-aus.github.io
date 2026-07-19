@@ -25,7 +25,9 @@ All content is Markdown in `docs/`. Navigation is defined in `zensical.toml` (no
 | Safety & Standards | `docs/safety-standards/` | Australian legislation, VAISS, international overview |
 | Governance Templates | `docs/governance-templates/` | 11 templates aligned with VAISS |
 | Business Resources | `docs/business-resources/` | Grants, tools, learning directory |
-| Resources | `docs/resources/` | Glossary, community page |
+| Preparing for AGI | `docs/preparing-for-agi/` | Advanced AI futures, risk scenarios, C·A·G·R framework, concepts and decentralisation |
+| Sector Guidance | `docs/sector-guidance/` | Guidance for government, business, communities and national security |
+| Resources | `docs/resources/` | Glossary, community page and supporting external resources |
 
 ## Key Files
 
@@ -34,7 +36,7 @@ All content is Markdown in `docs/`. Navigation is defined in `zensical.toml` (no
 | `zensical.toml` | Site config, nav structure, theme |
 | `overrides/main.html` | Custom Jinja2 template (SEO, JSON-LD, favicons, frontmatter metadata) |
 | `docs/stylesheets/extra.css` | Custom CSS (header, nav, newsletter form, dark mode) |
-| `docs/assets/extra.js` | Umami analytics, canonical URLs |
+| `docs/assets/extra.js` | Umami analytics loader |
 | `.github/workflows/deploy.yml` | CI/CD — builds, generates sitemap, deploys to Pages |
 | `robots.txt` (repo root) | Robots policy — copied to `site/robots.txt` by `deploy.yml`. **This is the file agents and crawlers see.** A separate `docs/robots.txt` used to exist but was dead code (never reached production) and has been removed. |
 | `llms.txt`, `llms-full.txt` (repo root) | AI-agent-readable inventory of the site. Same root-level lifecycle as `robots.txt`. |
@@ -43,7 +45,6 @@ All content is Markdown in `docs/`. Navigation is defined in `zensical.toml` (no
 
 - **Analytics:** Umami Cloud (configured in `extra.js`)
 - **Newsletter:** Listmonk self-hosted at lists.safeaiaus.org (form in `newsletter.md` and `index.md`)
-- **AI Chat Widget:** Airia chatbot (configured in `overrides/main.html`)
 
 ## Content Guidelines
 
@@ -55,7 +56,7 @@ All content is Markdown in `docs/`. Navigation is defined in `zensical.toml` (no
 
 ### Frontmatter
 
-Include YAML frontmatter for SEO on important pages (title, description, keywords, og_* fields). Template in `overrides/main.html` reads these values.
+Include YAML frontmatter for SEO on important pages. Use `title`, `description`, `keywords` and `og_type`; add Open Graph or Twitter titles and descriptions only when they should differ from the normal page metadata. The template supplies the site author, canonical URL, default social image and Twitter card type.
 
 ### Template License Footer
 
@@ -98,7 +99,6 @@ The subject line tells humans *what changed*. The body tells agents *why it matt
 
 ## Important Notes
 
-- Images for chat widget must be compressed to <100KB (use Python Pillow)
 - Never document API keys or credentials in this file — read source files directly
 - `llms.txt` and `llms-full.txt` provide AI crawler context (CC BY 4.0)
 - `updates.json` is auto-generated at build time from git history — do not edit manually

@@ -3,18 +3,10 @@ icon: lucide/landmark
 title: "Australian Government AI Policy and Frameworks"
 description: "Overview of Australian Government AI policy, guidance and institutional developments including the National AI Plan, AI Safety Institute, DTA mandatory requirements, AI6 and VAISS."
 keywords: "Australian AI policy, National AI Plan, AI Safety Institute, DTA AI policy, AI6 guidance, VAISS, AI governance Australia, mandatory AI requirements, Senate AI Committee"
-author: "SafeAI-Aus"
-robots: "index, follow"
-last-reviewed: "2026-07-13"
+last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
-og_title: "Australian Government AI Policy and Frameworks"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 og_type: "article"
-og_url: "https://safeaiaus.org/safety-standards/ai-government-policy-frameworks/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Australian Government AI Policy and Frameworks"
-twitter_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 ---
 
 # Australian Government AI Policy and Frameworks

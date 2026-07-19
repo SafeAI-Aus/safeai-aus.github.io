@@ -74,6 +74,43 @@ nav = [
     { "Australian AI Community" = "resources/australian-ai-community.md" },
     { "Agent-Readable Resources" = "business-resources/agent-readable-resources.md" },
   ]},
+  { "Preparing for AGI" = [
+    { "Overview" = "preparing-for-agi/index.md" },
+    { "Futures" = [
+      { "Timelines" = "preparing-for-agi/timelines.md" },
+      { "Strategic Visions" = "preparing-for-agi/visions.md" },
+    ]},
+    { "Risk Scenarios" = [
+      { "Overview" = "preparing-for-agi/scenarios/index.md" },
+      { "Loss of Control" = "preparing-for-agi/scenarios/scenario-loss-of-control.md" },
+      { "Catastrophic Misuse" = "preparing-for-agi/scenarios/scenario-catastrophic-misuse.md" },
+      { "Critical Infrastructure" = "preparing-for-agi/scenarios/scenario-critical-infrastructure.md" },
+      { "Power Concentration" = "preparing-for-agi/scenarios/scenario-power-concentration.md" },
+      { "Information Ecosystems" = "preparing-for-agi/scenarios/scenario-information-ecosystems.md" },
+      { "Gradual Disempowerment" = "preparing-for-agi/scenarios/scenario-gradual-disempowerment.md" },
+    ]},
+    { "C·A·G·R Framework" = [
+      { "Overview" = "preparing-for-agi/framework/index.md" },
+      { "Containment" = "preparing-for-agi/framework/containment.md" },
+      { "Alignment" = "preparing-for-agi/framework/alignment.md" },
+      { "Governance" = "preparing-for-agi/framework/governance.md" },
+      { "Resilience" = "preparing-for-agi/framework/resilience.md" },
+      { "AGI Assurance" = "preparing-for-agi/framework/assurance.md" },
+    ]},
+    { "Sector Guidance" = [
+      { "Overview" = "sector-guidance/index.md" },
+      { "Government" = "sector-guidance/government/index.md" },
+      { "Business" = "sector-guidance/business/index.md" },
+      { "Communities" = "sector-guidance/communities/index.md" },
+      { "National Security" = "sector-guidance/government/national-security.md" },
+    ]},
+    { "Reference" = [
+      { "Concepts & Glossary" = "preparing-for-agi/concepts.md" },
+      { "FAQ" = "preparing-for-agi/framework/faq.md" },
+      { "Decentralisation" = "preparing-for-agi/decentralisation.md" },
+      { "External Resources" = "resources/external-resources.md" },
+    ]},
+  ]},
 ]
 
 # ----------------------------------------------------------------------------
@@ -81,12 +118,12 @@ nav = [
 # ----------------------------------------------------------------------------
 [project.theme]
 
-# Custom template directory for Airia widget and SEO overrides
+# Custom template directory for SEO and footer overrides
 custom_dir = "overrides"
 
 # Favicon and logo
 favicon = "assets/favicon.svg"
-logo = "assets/safeaiaus-logo-600px.png"
+logo = "assets/favicon-64x64.png"
 
 # Language
 language = "en"
@@ -137,7 +174,6 @@ toggle.name = "Switch to light mode"
 # Extra configuration (SEO and social media)
 # ----------------------------------------------------------------------------
 [project.extra]
-canonical_base = "https://safeaiaus.org"
 generator = false
 
 # Social media links

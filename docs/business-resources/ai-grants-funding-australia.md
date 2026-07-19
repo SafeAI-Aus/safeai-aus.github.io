@@ -3,18 +3,10 @@ icon: lucide/dollar-sign
 title: "AI Grants and Funding Opportunities for Australian Businesses"
 description: "Comprehensive guide to AI grants, funding programs and financial support available for Australian businesses implementing AI responsibly. Includes federal, state and industry programs."
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
-author: "SafeAI-Aus"
-robots: "index, follow"
-last-reviewed: "2026-07-13"
+last-reviewed: "2026-07-19"
 review-cycle: "quarterly"
-og_title: "AI Grants and Funding Opportunities for Australian Businesses"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 og_type: "article"
-og_url: "https://safeaiaus.org/business-resources/ai-grants-funding-australia/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "AI Grants and Funding Opportunities for Australian Businesses"
-twitter_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 ---
 
 # AI Grants and Funding Opportunities for Australian Businesses
@@ -78,8 +70,6 @@ AI is reshaping industries across Australia. To support businesses in responsibl
     The ARC Discovery Indigenous 2027 scheme opened 2 June 2026 and closes **25 August 2026 at 5:00 pm AEST**. The scheme supports research projects led by Aboriginal and/or Torres Strait Islander researchers (as Chief Investigator) across all disciplines; non-Indigenous researchers may participate as Partner Investigators. The scheme is not AI-specific but is relevant to AI research grant pipelines at institutions with eligible researchers.
 
     ➡️ [ARC Discovery Indigenous 2027](https://www.arc.gov.au/news-and-publications/media/now-open-applications-discovery-indigenous-2027) (accessed 21 June 2026)
-
-<!-- TODO(human verification): Recheck the ARC Discovery Indigenous 2027 status after its stated 25 August 2026 closing date. -->
 
 !!! info "ARC Generative AI Policy — effective 28 April 2026"
     The Australian Research Council (jointly with the NHMRC) released an updated **Policy on Use of Generative Artificial Intelligence in the ARC's Grants Programs** in April 2026. The policy applies to all applications and assessments for ARC scheme rounds opening from **28 April 2026**.
@@ -181,8 +171,6 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 - A featured program is **VICTOR:AI** — an eight-week cohort for AI-native startups offering AI tools, co-working space and milestone-based grants.
 - Provider intake arrangements and timing vary. The Victorian Government announcement did not specify which programs were accepting applications or confirm that funding had been disbursed.
 - ➡️ [Victorian Government announcement](https://djsir.vic.gov.au/news-and-articles/victoria-backs-the-next-generation-of-ai-and-deeptech-startups) | [LaunchVic programs](https://launchvic.org/programs/)
-
-<!-- TODO(human verification): Recheck provider intake status and timing before describing any program as open or active; the 17 June 2026 announcement did not provide application dates. -->
 
 ---
 

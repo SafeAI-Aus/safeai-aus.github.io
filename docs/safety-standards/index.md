@@ -3,18 +3,11 @@ icon: lucide/scale
 title: "AI Standards & Legislation"
 description: "Australian and international AI standards, legislation and regulatory frameworks for safe and compliant AI adoption."
 keywords: "AI standards Australia, AI legislation, Voluntary AI Safety Standard, AI regulation, AI compliance, Australian AI law"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
 og_title: "AI Safety Standards and Legislation in Australia"
 og_description: "Australian and international AI standards, legislation and governance frameworks"
 og_type: "article"
-og_url: "https://safeaiaus.org/safety-standards/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "AI Safety Standards and Legislation in Australia"
-twitter_description: "Australian and international AI standards, legislation and governance frameworks"
 ---
 
 # AI Standards & Legislation

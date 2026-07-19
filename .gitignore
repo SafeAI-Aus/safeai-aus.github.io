@@ -12,4 +12,7 @@ sitemap.xml
 
 # Claude Code local settings (not tracked)
 .claude/settings.local.json
+
+# Local agent configuration and skills (not tracked)
+/.agents/
 /tmp/
