@@ -27,6 +27,9 @@ tags:
 
 ![AI Power Concentration & Governance Failure](scenario-power-concentration-hero.jpg)
 
+!!! note "Scenario, not prediction"
+    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
+
 ## Summary
 
 **2028-2033:** Three US tech firms come to dominate frontier AI models and infrastructure. By 2031, most Australian government departments rely on one of these providers for document analysis, policy modelling and decision support. The big four banks all licence AI systems from the same two vendors for credit assessment, fraud detection and trading.
@@ -116,6 +119,12 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 
 ---
 
+## Why this scenario matters for Governance and Resilience
+
+This scenario tests whether Australian institutions can retain meaningful oversight and continuity when critical AI capability is concentrated in a few foreign providers. [Governance](../framework/governance.md) shapes procurement, accountability and negotiating leverage; [Resilience](../framework/resilience.md) asks whether essential functions can continue if a provider withdraws access or changes terms.
+
+---
+
 ## Timeline: How governance failure compounds power concentration
 
 **Years 1-3 (underway):**
@@ -146,9 +155,7 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 ??? note "Sources & Further Reading"
     This scenario draws from research on tech sovereignty, concentration of AI capabilities and the challenges of international AI governance coordination.
 
-    **Australian precedents:** [Australian Cyber Security Centre](https://www.cyber.gov.au/) sovereign capability initiatives · [National AI Centre](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/national-ai-centre) coordination efforts · [List of Critical Technologies in the National Interest](https://www.industry.gov.au/publications/list-critical-technologies-national-interest) (Department of Industry, Science and Resources)
-
-    <!-- TODO(human verification): Reconfirm the ACSC and National AI Centre programme characterisations and the current critical-technologies list against official sources before publication. -->
+    **Australian context:** [Australian Cyber Security Centre](https://www.cyber.gov.au/) operational guidance · [National AI Centre](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/national-ai-centre) · [List of Critical Technologies in the National Interest](https://www.industry.gov.au/publications/list-critical-technologies-national-interest) (Department of Industry, Science and Resources)
 
     **Academic and policy research:** Brookings (2024) ["Examining advanced AI capabilities and risks"](https://www.brookings.edu/articles/examining-advanced-ai-capabilities-and-risks/) · Maas (2019) ["How viable is international arms control for military artificial intelligence?"](https://doi.org/10.1080/13523260.2019.1576464) · Bradford (2020) *The Brussels Effect: How the EU Rules the World*
 

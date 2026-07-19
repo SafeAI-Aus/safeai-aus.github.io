@@ -27,6 +27,9 @@ tags:
 
 ![AI Critical Infrastructure Failure Cascade](scenario-critical-infrastructure-hero.jpg)
 
+!!! note "Scenario, not prediction"
+    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
+
 ## Summary
 
 By 2032, AI systems manage much of Australia's critical infrastructure. AEMO uses AI to optimise the National Electricity Market across solar, wind and coal. Sydney Trains runs AI-assisted scheduling and signal control. Telstra and Optus use AI network management for 5G and fibre. Major ports in Melbourne, Sydney and Brisbane rely on AI logistics coordination.
@@ -132,9 +135,7 @@ This is your **"everything fails at once" scenario**—the most comprehensive te
 ??? note "Sources & Further Reading"
     This scenario draws from research on critical infrastructure resilience, cascading failures in complex systems and the increasing role of AI in energy, transport and logistics networks.
 
-    **Australian precedents:** [Security of Critical Infrastructure Act 2018](https://www.cisc.gov.au/) (SOCI Act) · [Australian Energy Market Operator](https://www.aemo.com.au/) (AEMO) system security frameworks · 2016 South Australia statewide blackout cascading failure analysis · [Cyber and Infrastructure Security Centre](https://www.cisc.gov.au/)
-
-    <!-- TODO(human verification): Reconfirm the SOCI Act reference, applicable current CISC obligations and AEMO framework characterisation against official sources before publication. -->
+    **Australian precedents:** [Security of Critical Infrastructure Act 2018 guidance](https://www.cisc.gov.au/how-we-support-industry/regulatory-obligations) · [Australian Energy Market Operator](https://www.aemo.com.au/) system operations and incident reporting · 2016 South Australia statewide blackout · [Cyber and Infrastructure Security Centre](https://www.cisc.gov.au/)
 
     **Academic research:** Perrow (1984) *Normal Accidents: Living with High-Risk Technologies* · Helbing (2013) ["Globally networked risks and how to respond"](https://doi.org/10.1038/nature12047) · Taleb (2012) *Antifragile* · Woods (2015) ["Four concepts for resilience"](https://doi.org/10.1016/j.ress.2015.03.018)
 

@@ -26,6 +26,9 @@ tags:
 
 ![AI, Democracy & Information Ecosystem Risks](scenario-information-ecosystems-hero.jpg)
 
+!!! note "Scenario, not prediction"
+    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
+
 ## Summary
 
 By 2030, generative AI models can produce flawless video deepfakes, synthetic audio and persuasive written content at near-zero marginal cost. Political campaigns, advocacy groups and foreign actors use these tools to micro-target Australian voters on social media.
@@ -129,9 +132,7 @@ This scenario treats **epistemic security** as critical infrastructure: democrac
 ??? note "Sources & Further Reading"
     This scenario draws from research on deepfakes, election integrity, synthetic media detection and the challenges facing information ecosystems in democratic societies.
 
-    **Australian precedents:** [Australian Electoral Commission](https://www.aec.gov.au/) disinformation monitoring · [RMIT Information Integrity Hub](https://www.rmit.edu.au/news/all-news/2025/apr/information-integrity-hub) research and media literacy · [RMIT CrossCheck](https://www.rmit.edu.au/news/crosscheck/countering-voice-misinformation) election misinformation research · [eSafety Commissioner](https://www.esafety.gov.au/) synthetic media regulatory considerations · [ABC Fact Check](https://www.abc.net.au/news/factcheck/)
-
-    <!-- TODO(human verification): Reconfirm the AEC and eSafety Commissioner programme and regulatory characterisations against current official sources before publication. -->
+    **Australian precedents:** [Australian Electoral Commission](https://www.aec.gov.au/) electoral-integrity resources · [RMIT Information Integrity Hub](https://www.rmit.edu.au/news/all-news/2025/apr/information-integrity-hub) research and media literacy · [RMIT CrossCheck](https://www.rmit.edu.au/news/crosscheck/countering-voice-misinformation) election misinformation research · [eSafety Commissioner deepfake guidance](https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes) · [ABC Fact Check](https://www.abc.net.au/news/factcheck/)
 
     **Academic research:** Chesney & Citron (2019) ["Deep fakes: A looming challenge for privacy, democracy and national security"](https://doi.org/10.17863/CAM.38952) · Wardle & Derakhshan (2017) ["Information disorder"](https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c) · Woolley & Howard (2018) *Computational Propaganda*
 

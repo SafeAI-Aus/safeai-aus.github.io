@@ -84,7 +84,7 @@ For each pillar, we identify the core assurance question, what evidence demonstr
 | **Owner** | CISO |
 | **Review** | Quarterly to board |
 
-**Key test:** Can you shut down your most autonomous AI system within 4 hours? Have you tested this under realistic conditions (not just tabletop)?
+**Illustrative test:** Could you shut down your most autonomous AI system within a risk-appropriate timeframe—for example, four hours—and have you tested this under realistic conditions rather than only in a tabletop exercise?
 
 ### Alignment: Do systems behave as intended?
 
@@ -123,7 +123,7 @@ For each pillar, we identify the core assurance question, what evidence demonstr
 | **Owner** | COO/Emergency Management |
 | **Review** | Bi-annual drills |
 
-**Key test:** If your primary AI systems were unavailable for 72 hours, how long would it take to restore essential services using manual processes? Have you tested this?
+**Illustrative test:** If your primary AI systems were unavailable for an extended period—for example, 72 hours—how long would it take to restore essential services using manual processes, and have you tested this?
 
 ---
 
@@ -137,8 +137,6 @@ For systems at the frontier of capability, standard assurance is insufficient. S
 - **Autonomous capabilities:** Can it pursue goals across extended time horizons?
 
 **Who should evaluate:** Appropriately qualified external evaluators, working with the relevant regulator and drawing on Australia's [AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) where relevant. The institute provides technical analysis and regulator support; it is not the enforcement body for every sector.
-
-<!-- TODO(human verification): Reconfirm the AI Safety Institute's technical-analysis and regulator-support functions against the linked Department of Industry, Science and Resources page before publication. Source checked 18 July 2026. -->
 
 **When to re-evaluate:** At deployment, after significant capability upgrades and periodically as capabilities scale.
 

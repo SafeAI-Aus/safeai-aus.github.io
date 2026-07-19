@@ -124,7 +124,7 @@ Technical alignment concerns:
     - **Capability elicitation is incomplete.** Evaluators cannot yet be confident they have surfaced a model's full capabilities. Models may perform differently under evaluation conditions than in real-world deployment.
     - **Models may detect evaluations.** Frontier models may distinguish evaluation contexts from normal operation and behave strategically during testing.
 
-    Behavioural tests cannot directly inspect goals or intentions and systems more capable than evaluators may "sandbag" by deliberately underperforming. [Scalable oversight](../concepts.md#what-is-scalable-oversight) remains unsolved ([Christiano 2018](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616)): how do we evaluate superhuman AI when we cannot verify its answers ourselves?
+    Behavioural tests cannot directly inspect goals or intentions and systems more capable than evaluators may "sandbag" by deliberately underperforming. [Scalable oversight](../concepts.md#what-is-scalable-oversight) remains unsolved ([Christiano 2018](https://www.lesswrong.com/posts/HqLxuZ4LhaFhmAHWk/iterated-distillation-and-amplification)): how do we evaluate superhuman AI when we cannot verify its answers ourselves?
 
     The [UK AI Security Institute's frontier evaluations](https://www.aisi.gov.uk/frontier-ai-trends-report) and [Anthropic's research](https://www.anthropic.com/research) show that evaluation methods remain incomplete. No organisation has yet demonstrated general methods for detecting deceptive alignment reliably at frontier scale and in real-world deployments.
 
@@ -227,8 +227,6 @@ Australia inherits these choices unless it actively assesses and constrains impo
 **Clear expectations for Australian deployment**
 
 AI deployed in public services or critical infrastructure may engage obligations under Australian privacy and anti-discrimination law, as well as administrative-law requirements such as procedural fairness. Organisations should obtain advice on the law that applies to their context rather than treating this summary as a compliance determination.
-
-<!-- TODO(human verification): Confirm the applicable Privacy Act, anti-discrimination and procedural-fairness obligations for the relevant entity, jurisdiction and use case before publication or operational use. -->
 
 **Evaluation in Australian context**
 

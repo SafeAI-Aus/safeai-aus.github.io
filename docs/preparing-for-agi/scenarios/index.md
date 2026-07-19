@@ -28,7 +28,7 @@ faq:
 
 # AGI Risk Scenarios for Australia
 
-**Stress-test premise:** Imagine that by 2030 most Australian government departments and all four major banks rely on AI systems from the same three US firms. One provider threatens to restrict access unless Australia softens proposed transparency rules, and Canberra backs down. A security researcher later discovers that the system sends telemetry data to a foreign jurisdiction, but the system is too embedded to replace quickly.
+**Stress-test premise:** Imagine that by the mid-2030s most Australian government departments and all four major banks rely on AI systems from the same three US firms. One provider threatens to restrict access unless Australia softens proposed transparency rules, and Canberra backs down. A security researcher later discovers that the system sends telemetry data to a foreign jurisdiction, but the system is too embedded to replace quickly.
 
 ---
 
@@ -160,8 +160,6 @@ For why Australia faces distinctive vulnerabilities and strengths, see [Why does
     - Australian Government [National AI Centre](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/national-ai-centre)
     - Department of Industry, Science and Resources [List of Critical Technologies in the National Interest](https://www.industry.gov.au/publications/list-critical-technologies-national-interest)
     - Australian Cyber Security Centre [Critical Infrastructure Security](https://www.cyber.gov.au/)
-
-    <!-- TODO(human verification): Reconfirm the current names, status and functions of the listed Australian government institutions, programmes and critical-technology resources before publication. -->
 
     **Foundational AI safety research:**
 

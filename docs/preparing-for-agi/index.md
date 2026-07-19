@@ -51,8 +51,6 @@ Australia is a small, advanced economy that imports most **frontier AI** while d
 - **Universities and research organisations** can contribute to independent evaluation and safety research
 - **Procurement, sectoral regulation and deployment decisions** give Australia practical influence over systems used here, even when their development happens elsewhere
 
-<!-- TODO(human verification): Reconfirm the date, legal status and scope of Australia's under-16 social-media restrictions against current official legislation and regulator guidance before publication. -->
-
 This section addresses Australia's specific context—not the US, UK or EU.
 
 ---
@@ -68,8 +66,6 @@ Frontier AI providers assure us their systems are safe and aligned. But we face 
 !!! info "Australia's AI Safety Institute: National evaluation capability"
 
     Australia's [**AI Safety Institute**](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) is operating within the Department of Industry, Science and Resources (as at July 2026). It analyses and tests emerging AI models and applications, supports regulators and agencies and contributes to international AI safety work. It strengthens Australia's independent technical capability, but does not replace the enforcement roles of sectoral regulators.
-
-    <!-- TODO(human verification): Reconfirm the AI Safety Institute's operating department and stated functions against the linked Department of Industry, Science and Resources page before publication. Source checked 18 July 2026. -->
 
 ### The coordination problem: International cooperation is hard
 
@@ -200,7 +196,7 @@ These pillars form **layers of defence**. Containment aims to prevent dangerous 
 
 ---
 
-## Common Questions
+## Common questions
 
 ??? question "Isn't this just science fiction? Why worry about AGI now?"
 
@@ -211,8 +207,6 @@ These pillars form **layers of defence**. Containment aims to prevent dangerous 
 ??? question "What can Australia realistically do? We don't build frontier AI."
 
     **Australia's practical leverage is over deployment:** Australia does not currently host a leading frontier-model developer. Existing laws, sectoral regulation, government procurement and critical-infrastructure obligations nevertheless shape how AI systems can be used here. The exact approval and enforcement pathway depends on the sector and use case. Domestic evaluation capability can help regulators and organisations assess provider claims rather than relying on assurances alone.
-
-    <!-- TODO(human verification): Confirm the laws, regulatory requirements and critical-infrastructure obligations that apply to the relevant sector and use case before relying on this general summary. -->
 
     **Where Australia can act:** Procurement, sectoral regulation, Five Eyes cooperation, universities and domestic evaluation capability give Australia several practical channels for influence. The strength of each channel depends on the system, sector and international context.
 
@@ -228,7 +222,7 @@ These pillars form **layers of defence**. Containment aims to prevent dangerous 
 
     **This is one of the most contentious questions in AI governance.** Arguments for slowing down: more time for safety research, less deployment under competitive pressure, room for societal adaptation. Arguments against: ceding advantage to competitors, forgoing genuine benefits (medical research, climate science), political infeasibility.
 
-    **SafeAI-Aus position:** Australia should advocate for coordinated international capability limits—do not deploy systems above certain risk levels without safety validation—rather than blanket slowdowns. Building domestic evaluation capabilities lets Australia verify safety claims independently. See the [C·A·G·R Framework](framework/index.md) for more on containment approaches.
+    A practical Australian debate could focus on coordinated, risk-based capability thresholds and evidence before high-risk deployment, rather than treating a blanket slowdown as the only option. Domestic evaluation capability would make that debate better informed. See the [C·A·G·R Framework](framework/index.md) for the trade-offs across containment, alignment, governance and resilience.
 
 ??? question "This feels overwhelming. Where should I start?"
 

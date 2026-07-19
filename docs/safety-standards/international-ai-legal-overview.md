@@ -65,8 +65,6 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 
 **Status & scope:** The **EU AI Act (Regulation (EU) 2024/1689)** is live with a **risk-tiered** regime (prohibited, high, limited, minimal), dedicated **GPAI** obligations and strong enforcement (up to 7% global turnover). Key dates under the **original Act** include **2 Feb 2025** (prohibitions), **2 Aug 2025** (GPAI, governance/penalties) and **2 Aug 2026** (the original high-risk AI deadline). Parliament adopted the **Digital Omnibus on AI** on 16 June 2026, followed by the Council on 29 June 2026. The Omnibus schedules the Annex III deadline for **2 December 2027** and the Article 50 watermarking date for **2 December 2026**, but these amendments are not legally effective until the regulation is published in the Official Journal and enters into force.
 
-<!-- TODO(human verification): Confirm Official Journal publication and the exact entry-into-force date before treating the amended dates as legally effective. -->
-
 !!! info "EU Digital Omnibus on AI — Adopted; entry into force pending"
     The European Parliament adopted the **EU Digital Omnibus on AI** on **16 June 2026** (423 to 57, 174 abstentions), followed by formal adoption by the Council of the EU on **29 June 2026**. Publication in the Official Journal remains pending. The Omnibus will enter into force three days after publication; until then, its amended dates are adopted and scheduled rather than legally effective.
 

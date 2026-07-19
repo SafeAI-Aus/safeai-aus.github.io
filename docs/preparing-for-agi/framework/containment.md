@@ -37,7 +37,7 @@ Can your organisation prevent a dangerous AI system from being deployed, restric
 2. **Restricting deployment** of high-risk **frontier AI** systems through licensing and evaluation (Layer 2)
 3. **Maintaining technical controls** using **AI control methods** to limit what powerful systems can do
 
-Containment is the preventive and control layer of **defence-in-depth**, reducing reliance on alignment, governance or recovery measures alone.
+Within the **C·A·G·R framework**, Containment is the preventive and control layer of **defence-in-depth**. It reduces reliance on Alignment, Governance or Resilience measures working perfectly after a dangerous capability exists.
 
 ---
 
@@ -276,8 +276,6 @@ Before deployment, require evidence of:
 - Don't rely solely on developer assurances
 - Build Australian evaluation capacity or recognise international evaluation bodies
 - Use evidence from Australia's [AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) where relevant, alongside sectoral regulators and appropriately qualified independent evaluators
-
-<!-- TODO(human verification): Reconfirm the AI Safety Institute's current functions against the linked Department of Industry, Science and Resources page before publication. Source checked 18 July 2026. -->
 
 **Ongoing monitoring**
 

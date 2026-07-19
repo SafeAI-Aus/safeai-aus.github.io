@@ -55,8 +55,6 @@ Identify decisions where an AI-generated recommendation cannot become action wit
 
 The design question is not whether a person appears somewhere in the workflow. It is whether that person has enough time, information, authority and technical understanding to challenge the system. Defence's March 2026 policy settings preserve individual accountability for AI-enabled decisions and outcomes, require compliance with domestic and international law and call for proportionate controls.
 
-<!-- TODO(human verification): Reconfirm the March 2026 Defence policy's lawful-use, risk-based-control and individual-accountability obligations against the linked Department of Defence page before publication. Source checked 18 July 2026. -->
-
 ### 2. Which dependencies could limit Australian freedom of action?
 
 Map the models, cloud services, chips, data pipelines, licences, updates and overseas support arrangements behind critical AI-enabled functions. Ask what happens if access is restricted, a vendor changes a model without notice, an ally's priorities diverge or a service becomes unreliable during a regional crisis.
@@ -146,11 +144,9 @@ Use the [Business](../business/index.md) and [Communities](../communities/index.
 
 - Australian Department of Defence (March 2026), [Policy Settings for Responsible Use of Artificial Intelligence in Defence](https://www.defence.gov.au/about/governance/artificial-intelligence) — current Defence-wide obligations for lawful, accountable and risk-based AI use.
 
-<!-- TODO(human verification): Reconfirm the Defence policy date, scope and current obligations against the linked Department of Defence page before publication. Source checked 18 July 2026. -->
 - Australian Signals Directorate's Australian Cyber Security Centre (October 2025), [Annual Cyber Threat Report 2024–25](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2024-2025) — Australian cyber threats, AI-enabled criminal activity and resilience priorities.
 - [Australian Signals Directorate's Australian Cyber Security Centre](https://www.cyber.gov.au/) — current operational cyber-security guidance, advisories and reporting pathways.
 
-<!-- TODO(human verification): Reconfirm the Annual Cyber Threat Report publication details and the ACSC's current guidance and reporting pathways against the linked official sources before publication. -->
 - [Government & Public Institutions](index.md) — connected civilian policy, public-authority and whole-of-government preparedness.
 - [Sector Guidance overview](../index.md) and the [C·A·G·R framework](../../preparing-for-agi/framework/index.md) — the wider cross-sector preparedness context.
 

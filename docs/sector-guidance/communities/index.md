@@ -195,6 +195,5 @@ For connected strategic responsibilities, see [Government & Public Institutions]
 - [Australian Government National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) (2 December 2025) — national direction covering opportunity, shared benefits, communities and safety.
 - Australian eSafety Commissioner, [Deepfakes](https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes) (updated 2026) — risks to individuals, institutions and democratic processes and available support.
 
-<!-- TODO(human verification): Reconfirm the National AI Plan date and status and the eSafety deepfakes page's update date, scope and support pathways against the linked official sources before publication. -->
 - [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) — scientific assessment of general-purpose AI capabilities, risks and risk-management approaches.
 - [SafeAI-Aus C·A·G·R framework](../../preparing-for-agi/framework/index.md) — the organising framework used selectively on this page.

@@ -104,7 +104,7 @@ Decentralisation isn't just theory. Relevant infrastructure and governance model
 
 **Blockchain and cryptographic tools** can support coordination without relying on a single central authority:
 
-- [**Worldcoin**](https://worldcoin.org/) — Proof-of-personhood to distinguish humans from AI agents at scale
+- [**World**](https://world.org/) — A proof-of-personhood approach intended to distinguish humans from AI agents at scale. Biometric identity systems also create substantial privacy, consent and regulatory risks; Spain's data protection authority, for example, [ordered a precautionary halt to Worldcoin data processing in 2024](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain).
 - **Prediction markets** ([Polymarket](https://polymarket.com/), [Metaculus](https://www.metaculus.com/)) — Aggregate distributed knowledge about AI timelines and risks
 - [**Gitcoin**](https://www.gitcoin.co/) — Quadratic funding for public goods, including AI safety research
 - **DAOs** (decentralised autonomous organisations) — On-chain mechanisms for collective decision-making, with governance and legal limitations that vary by design and jurisdiction
@@ -276,7 +276,7 @@ Achieving scale alone is difficult. **Regional cooperation** with Pacific and So
 
     **Australian context:**
 
-    - [BCCM National Mutual Economy Report](https://bccm.coop/resources/national-mutual-economy-report/) — Australian cooperative sector data
+    - [BCCM National Mutual Economy Report](https://bccm.coop/about/what-we-do/research/national-mutual-economy-report/) — Australian cooperative sector data
     - Australian energy cooperatives — community renewable energy models
     - Credit union and mutual banking sector — member-owned financial services
 
@@ -290,5 +290,5 @@ Achieving scale alone is difficult. **Regional cooperation** with Pacific and So
     **Democratic AI governance research:**
 
     - Seger et al. (2023) ["Democratising AI"](https://arxiv.org/abs/2303.12642) — taxonomy of democratic AI approaches
-    - Korinek & Suh (2023) ["Scenarios for the Transition to AGI"](https://daedalus.mit.edu/Scenarios-for-the-Transition-to-AGI) — governance models for transformative AI
+    - Korinek & Suh (2024) ["Scenarios for the Transition to AGI"](https://www.nber.org/papers/w32255) — economic scenarios for transformative AI
     - Anthropic (2023) ["Collective Constitutional AI"](https://www.anthropic.com/index/collective-constitutional-ai-aligning-a-language-model-with-public-input) — experiments in democratic AI alignment

@@ -43,8 +43,6 @@ When your organisation deploys AI, who is responsible if something goes wrong, w
 
 Governance provides the social and legal infrastructure for containment, alignment and resilience. Even well-aligned systems need rules for appropriate deployment and redress when harm occurs.
 
-<!-- TODO(human verification): Reconfirm the AI Safety Institute's functions and the division of responsibility with sectoral regulators against the official Department of Industry, Science and Resources page before publication. Source checked 18 July 2026. -->
-
 ---
 
 ## Why does AI governance matter even if AGI is perfectly safe?
@@ -171,8 +169,6 @@ The [US NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-mana
 - If you're in government procurement, you have immediate leverage: require safety standards before buying
 - For business, understanding emerging requirements now helps you prepare before they become mandatory
 
-<!-- TODO(human verification): Reconfirm the October 2025 Guidance for AI Adoption status, the December 2025 National AI Plan and the AI Safety Institute's current operating department against the linked official source pages before publication. -->
-
 ---
 
 ### 2. Clear institutional roles and mandates
@@ -226,8 +222,6 @@ Funding and mandate for:
 
 Australia's [AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) is operating as a national technical capability. Its stated functions include analysing and testing models and applications, supporting regulators and agencies and contributing to international governance; statutory enforcement remains with the relevant regulators. [Expert survey data](https://www.goodancestors.org.au/our-work/ai-safety/aisi-expert-survey) from Good Ancestors (December 2025, n=139) predates the institute's launch and records respondents' preferred resourcing rather than its current budget or mandate. If you're engaging with government on AI policy, identify both the technical body and the regulator responsible for your sector.
 
-<!-- TODO(human verification): Reconfirm the AI Safety Institute's stated functions against the linked Department of Industry, Science and Resources page and confirm the relevant sector regulator before applying this guidance. Source checked 18 July 2026. -->
-
 ---
 
 ### 3. Transparency and accountability mechanisms
@@ -266,8 +260,6 @@ Governance frameworks should clarify liability for AI harms and provide accessib
 **What this means for you:**
 
 Australian privacy law already includes a new automated decision-making transparency obligation that commences on 10 December 2026. Covered APP entities will need to describe in their privacy policies certain uses of personal information in substantially automated decisions that significantly affect individuals' rights or interests. Other transparency, audit and incident-reporting duties depend on the applicable law and sector. Regardless of whether reporting is legally required, establishing an internal AI incident process now builds useful practice and institutional knowledge. See the [OAIC's current guidance development](https://www.oaic.gov.au/engage-with-us/consultations/consultation-on-guidance-for-transparency-in-automated-decision-making) for scope and commencement details.
-
-<!-- TODO(human verification): Reconfirm the 10 December 2026 commencement, covered APP entities and required privacy-policy disclosures against the linked OAIC guidance and registered legislation before publication. -->
 
 ---
 
@@ -313,9 +305,7 @@ Cooperation with the US, UK and other Five Eyes partners, together with particip
 
 **International landscape (as at July 2026)**
 
-The [International AI Safety Report](https://internationalaisafetyreport.org/) (2026) distinguishes misuse risks from AI malfunction risks. China's AI risk taxonomy (version 2) covers labour displacement and catastrophic risks, suggesting some international convergence in risk recognition ([Sheehan & Singer 2025](https://carnegieendowment.org/research/2025/10/how-china-views-ai-risks-and-what-to-do-about-them)). US governance is fragmenting to state level as federal legislation stalls ([Leicht 2026](https://writing.antonleicht.me/p/the-next-three-phases-of-ai-politics)). Australia therefore has more potential partners but a more complex range of approaches to navigate.
-
-<!-- TODO(human verification): Reconfirm the current international network membership, Chinese AI risk taxonomy and US federal/state governance position against primary official sources before publication. -->
+The [International AI Safety Report](https://internationalaisafetyreport.org/) (2026) provides a shared evidence base on misuse and malfunction risks, but national governance approaches still differ. Australia should plan for cooperation across several regulatory and technical networks rather than assume that a single global regime will emerge.
 
 **Learning from peers**
 

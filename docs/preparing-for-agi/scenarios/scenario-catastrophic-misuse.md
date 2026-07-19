@@ -27,6 +27,9 @@ tags:
 
 ![Catastrophic AI Misuse Through Containment Failures](scenario-catastrophic-misuse-hero.jpg)
 
+!!! note "Scenario, not prediction"
+    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
+
 ## Summary
 
 By 2031, AI systems excel at scientific reasoning, data analysis and process planning. Australian research institutions use them to accelerate drug discovery, materials science and agricultural research. But these capabilities are dual-use.
@@ -131,9 +134,7 @@ This scenario illustrates the importance of **Layer 1 (Prevention)** in the [Con
 ??? note "Sources & Further Reading"
     This scenario draws from research on dual-use AI capabilities, export controls for emerging technologies, model weight security and AI-enabled cyber and biological threats.
 
-    **Australian precedents:** [Defence Export Controls Act 2012](https://www.defence.gov.au/business-industry/export/controls) · [Australian Cyber Security Centre](https://www.cyber.gov.au/) threat assessments · [Defence Strategic Review](https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review) (2023) emerging technology risks · [ASIO Annual Threat Assessment 2025](https://www.asio.gov.au/director-generals-annual-threat-assessment-2025) cyber and espionage threats
-
-    <!-- TODO(human verification): Reconfirm the Defence export-control legislation, review/report dates and current agency characterisations against the linked official sources before publication. -->
+    **Australian precedents:** [Defence Trade Controls Act 2012](https://www.legislation.gov.au/C2012A00153/latest/details) · [Australian Cyber Security Centre](https://www.cyber.gov.au/) threat assessments · [Defence Strategic Review](https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review) (2023) · [ASIO Annual Threat Assessment 2025](https://www.asio.gov.au/director-generals-annual-threat-assessment-2025)
 
     **Academic and policy research:** Brundage et al. (2018) ["The Malicious Use of AI"](https://arxiv.org/abs/1802.07228) · CSET (2023) ["Skating to Where the Puck Is Going: Anticipating and Managing Risks from Frontier AI Systems"](https://cset.georgetown.edu/wp-content/uploads/Frontier-AI-Roundtable-Paper-Final-2023CA004-v2.pdf) · Shevlane et al. (2023) ["Model evaluation for extreme risks"](https://arxiv.org/abs/2305.15324)
 

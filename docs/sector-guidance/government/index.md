@@ -78,8 +78,6 @@ Thresholds should connect evidence to action. Government needs to know which tec
 
 Australia's [AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute), within the Department of Industry, Science and Resources, analyses and tests emerging AI capabilities and supports regulators and agencies responding to risks. Its role strengthens the evidence available to government; it does not remove the need for clear authority across the wider institutional system.
 
-<!-- TODO(human verification): Reconfirm the AI Safety Institute's operating department and stated functions against the linked Department of Industry, Science and Resources page before publication. Source checked 18 July 2026. -->
-
 Leaders should clarify the connections between:
 
 - the AI Safety Institute's technical analysis and testing;
@@ -165,7 +163,6 @@ Use current Australian policy and SafeAI-Aus core content for present-day implem
 
 - [Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) — mandatory requirements for in-scope non-corporate Commonwealth entities, effective 15 December 2025.
 
-<!-- TODO(human verification): Reconfirm version, scope and effective date against the linked Digital Transformation Agency policy. Source checked 18 July 2026: version 2.0 is mandatory for in-scope non-corporate Commonwealth entities and effective from 15 December 2025. -->
 - [Australian Government AI resources](https://www.digital.gov.au/policy/ai) — current public-sector policy, standards, impact assessment and implementation material.
 - [Guidance for AI Adoption (AI6)](../../safety-standards/guidance-for-ai-adoption-ai6.md) — six practices for responsible adoption across Australian organisations.
 - [AI Standards & Legislation](../../safety-standards/) — current Australian and international context.
@@ -181,7 +178,6 @@ For connected strategic guidance, return to the [Sector Guidance overview](../in
 - [Australian Government National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) (2 December 2025) — whole-of-government direction for opportunity, shared benefits and safety.
 - [Australian Government Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) (effective 15 December 2025) — operational governance requirements for in-scope Commonwealth entities.
 
-<!-- TODO(human verification): Reconfirm the AI Safety Institute and National AI Plan descriptions and the government AI policy's scope and effective date against the linked official sources before publication. Source pages checked 18 July 2026. -->
 - Joel Predd, [“Taking AGI Seriously, Not Literally”](https://geopoliticsagi.substack.com/p/taking-agi-seriously-not-literally) (25 November 2025) — reflections from work at RAND's Center for the Geopolitics of AGI, including the “options, not odds” approach.
 - [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) — scientific assessment of general-purpose AI capabilities, risks and risk-management approaches.
 - [SafeAI-Aus C·A·G·R framework](../../preparing-for-agi/framework/index.md) — the organising framework used on this page.

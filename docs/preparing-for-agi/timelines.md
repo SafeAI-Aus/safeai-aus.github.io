@@ -80,7 +80,7 @@ The defensible conclusion is that several leading developers are actively prepar
 
 ### Australian and Australia-connected perspectives
 
-Australian perspectives span the same disagreement. **[Toby Walsh](https://www.unsw.edu.au/staff/toby-walsh)** (UNSW) has argued for more cautious timelines and sustained policy preparation rather than confidence in a single arrival date. **Helen Toner**, who was born in Melbourne and later served on OpenAI's board, frames the disagreement through [three unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) about scaling, AI-assisted research and autonomous agents; those questions are used below to explain why forecasts diverge.
+Australian perspectives span the same disagreement. **[Toby Walsh](https://www.unsw.edu.au/staff/toby-walsh)** (UNSW) has used 2062 as a longer planning horizon while arguing for sustained policy preparation rather than confidence in a precise arrival date. **Helen Toner**, who was born in Melbourne and later served on OpenAI's board, frames the disagreement through [three unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) about scaling, AI-assisted research and autonomous agents; those questions are used below to explain why forecasts diverge.
 
 **Epoch AI** [reviews](https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines) published forecasting literature and maintains empirical datasets on model capabilities. **METR** measures the length of software tasks that frontier models can complete autonomously; its observed trend is a capability indicator, not a direct AGI arrival forecast.
 
@@ -241,33 +241,11 @@ Rather than relying on predictions, monitor these concrete signals that timeline
 
 ??? question "Should we slow down AI development to extend timelines?"
 
-    **This is one of the most contentious questions in AI governance:**
-
-    **Arguments for slowing down:**
-    - Buys time for safety research and governance to catch up
-    - Reduces risk of deploying misaligned systems under competitive pressure
-    - Allows society to adapt to transformation rather than being overwhelmed
-
-    **Arguments against:**
-    - Unilateral slowdowns cede advantage to competitors (China, other countries)
-    - AI provides genuine benefits (medical research, climate science, productivity)
-    - Slowing down may not be technically or politically feasible
-
-    **SafeAI-Aus position:** Australia should advocate for **coordinated international capability thresholds** (don't deploy systems above certain risk levels without safety validation) rather than blanket slowdowns. We should also build domestic evaluation capabilities so Australia can independently verify safety claims.
-
-    See our [C·A·G·R Framework](framework/index.md) for more on containment, alignment, governance and resilience approaches.
+    Slower development could create more time for safety research, governance and adaptation, but unilateral action may shift development elsewhere and delay genuine benefits. The [Preparing for AGI overview](index.md#common-questions) sets out this debate and a risk-based Australian framing; the [C·A·G·R Framework](framework/index.md) examines the available safeguards.
 
 ??? question "This feels overwhelming. Where should I start?"
 
-    **Start with understanding, not implementation:**
-
-    1. **Read the [AGI Scenarios](scenarios/index.md)** to understand how risks could unfold in Australia
-    2. **Review the [C·A·G·R Framework](framework/index.md)** for a structured approach to preparation
-    3. **Identify which pillar matters most** for your role (containment for regulators, resilience for infrastructure operators, etc.)
-
-    **Start with your responsibilities:** You do not need to solve every problem. Identify your organisation's specific risks and preparation needs.
-
-    **For immediate actions:** See our [core SafeAI-Aus resources](../safety-standards/index.md) for day-to-day AI governance while building longer-term AGI preparedness.
+    The [Preparing for AGI overview](index.md#common-questions) offers a short route through scenarios, the C·A·G·R framework and sector-specific planning questions. For current operational governance, use the [core SafeAI-Aus resources](../safety-standards/index.md).
 
 ---
 
@@ -291,7 +269,7 @@ Rather than relying on predictions, monitor these concrete signals that timeline
     **Australian and Australia-connected researchers:**
     - Legg, Shane (2009-2024) — DeepMind co-founder, 50% AGI by 2028 prediction maintained since 2009 | [Dwarkesh interview](https://www.dwarkesh.com/p/shane-legg) | [The Decoder analysis](https://the-decoder.com/deepmind-co-founder-shane-legg-sees-50-percent-chance-of-minimal-agi-by-2028/)
     - Hutter, Marcus — ANU Professor, DeepMind senior researcher, AIXI and universal AI theory | [Lex Fridman interview](https://lexfridman.com/marcus-hutter/) | [Google Scholar](https://scholar.google.com/citations?user=7hmCntEAAAAJ&hl=en)
-    - Walsh, Toby — UNSW Scientia Professor, CSIRO Data61, AGI timeline surveys predicting ~2062 | [UNSW profile](https://www.unsw.edu.au/staff/toby-walsh) | [Griffith News timeline profile](https://news.griffith.edu.au/2023/03/29/toby-walsh/) | [AI Expert Group](https://www.minister.industry.gov.au/ministers/husic/media-releases/new-artificial-intelligence-expert-group)
+    - Walsh, Toby — UNSW Scientia Professor, CSIRO Data61; used 2062 as a planning horizon informed by expert surveys | [UNSW profile](https://www.unsw.edu.au/staff/toby-walsh) | [UNSW on the 2062 horizon](https://www.unsw.edu.au/newsroom/news/2018/11/ai-will-match-human-intelligence-by-2062-claims-unsw-expert) | [AI Expert Group](https://www.minister.industry.gov.au/ministers/husic/media-releases/new-artificial-intelligence-expert-group)
     - Toner, Helen (2024) ["Unresolved debates about the future of AI"](https://helentoner.substack.com/p/unresolved-debates-about-the-future) — Melbourne-born, former OpenAI board member on three fundamental questions
     - Toner, Helen (2025) ["Long timelines to advanced AI have substantial benefits"](https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have) — Analysis of slower development benefits
 
@@ -311,7 +289,6 @@ Rather than relying on predictions, monitor these concrete signals that timeline
     - [CSIRO AI Roadmap](https://www.csiro.au/en/research/technology-space/ai) — National AI capability planning
     - [National AI Centre](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/national-ai-centre) — Responsible AI adoption and industry capability
 
-    <!-- TODO(human verification): Reconfirm the AI Expert Group and National AI Centre names, status and stated functions against current Department of Industry, Science and Resources pages before publication. -->
     - Australian Strategic Policy Institute [Critical Technology Tracker](https://www.aspi.org.au/report/critical-technology-tracker) — International AI capability monitoring
 
 ---

@@ -88,7 +88,7 @@ AGI could change how we communicate, create and make decisions. Key questions:
 - **Meaningful choice:** As AI systems become more capable, how do we preserve genuine human agency over important decisions?
 
 !!! tip "The balanced view"
-    AGI could bring extraordinary benefits—or concentrate power and displace human purpose. The outcome depends on choices about governance, distribution and what we choose to optimise for. Dario Amodei argues that "most people are underestimating just how radical the upside of AI could be" while also underestimating the risks ([*Machines of Loving Grace*](https://darioamodei.com/essay/machines-of-loving-grace), 2024). AI pioneer Yoshua Bengio argues for advancing with sufficient understanding and risk management so the benefits can be widely shared ([Bengio, 2024](https://yoshuabengio.org/2024/10/30/implications-of-artificial-general-intelligence-on-national-and-international-security/)).
+    AGI could bring extraordinary benefits—or concentrate power and displace human purpose. The outcome depends on choices about governance, distribution and what we choose to optimise for. Dario Amodei argues that "most people are underestimating just how radical the upside of AI could be" while also underestimating the risks ([*Machines of Loving Grace*](https://darioamodei.com/essay/machines-of-loving-grace), 2024). AI researcher Yoshua Bengio argues for advancing with sufficient understanding and risk management so the benefits can be widely shared ([Bengio, 2024](https://yoshuabengio.org/2024/10/30/implications-of-artificial-general-intelligence-on-national-and-international-security/)).
 
 ---
 
@@ -121,9 +121,7 @@ Australian voices on AI futures emphasise both opportunity and the need for acti
 
 **Australian research capability:** AI researcher Toby Walsh (UNSW) argues that Australia has research strength disproportionate to its population, while warning that delayed regulation and investment could weaken competitiveness ([IEEE Spectrum, 2025](https://spectrum.ieee.org/ai-sydney)). This is one expert assessment, not a settled international ranking.
 
-**The trust-safety-adoption link:** [Good Ancestors](https://www.goodancestors.org.au/whitepaper) (2025) reported that 69% of Australians surveyed expressed apprehension about AI safety. [KPMG and the University of Melbourne](https://kpmg.com/au/en/home/insights/2025/04/trust-in-ai-global-insights-2025.html) (2025) reported that 30% of Australian respondents believed the benefits of AI outweighed its risks. These surveys use different samples and questions, but both suggest that credible safety measures and public trust will influence adoption.
-
-<!-- TODO(human verification): Reconfirm the survey wording, samples and comparative rankings before publication; the summary above intentionally avoids treating cross-survey figures as directly comparable. -->
+**The trust-safety-adoption link:** Australian surveys use different samples and questions, but both [Good Ancestors](https://www.goodancestors.org.au/whitepaper) (2025) and [KPMG and the University of Melbourne](https://kpmg.com/au/en/home/insights/2025/04/trust-in-ai-global-insights-2025.html) (2025) reported material public concern about AI risk and trust. Treat them as separate indicators rather than directly comparable measures.
 
 **Safety as a source of capability:** Some Australian organisations argue that evaluation, assurance and safety expertise could become areas of comparative strength, rather than trying to compete only on raw model capability. This is a strategic proposition, not an established economic outcome.
 
@@ -172,7 +170,6 @@ Australia should therefore build capacity that remains useful across different f
 
 - [National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) (December 2025)
 
-<!-- TODO(human verification): Reconfirm the National AI Plan's publication date and current status against the linked Department of Industry, Science and Resources page before publication. -->
 - [Good Ancestors AI Policy White Paper](https://www.goodancestors.org.au/whitepaper) (May 2025)
 - [Human Technology Institute](https://www.uts.edu.au/research/centres/human-technology-institute)
 

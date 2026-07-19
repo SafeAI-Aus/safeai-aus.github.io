@@ -26,6 +26,9 @@ tags:
 
 ![AI Over-Reliance and Institutional Disempowerment](scenario-gradual-disempowerment-hero.jpg)
 
+!!! note "Scenario, not prediction"
+    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
+
 ## Summary
 
 In 2029, Services Australia deploys an AI system to assess welfare eligibility and payment amounts. Initial results are promising: faster processing, fewer errors, more consistent decisions. By 2031, 85% of Centrelink decisions are AI-recommended, with human case workers reviewing only flagged cases.
@@ -126,9 +129,7 @@ This scenario illustrates **the frog-in-boiling-water problem**: gradual changes
 ??? note "Sources & Further Reading"
     This scenario draws from research on algorithmic governance, automation of public services and real-world precedents of over-reliance on automated decision systems.
 
-    **Australian precedents:** [Royal Commission into the Robodebt Scheme](https://robodebt.royalcommission.gov.au/) (2023) · [Australian Government Digital Transformation Agency](https://www.dta.gov.au/help-and-advice/about-digital-identity/identity-data-and-privacy-principles) automated decision-making guidelines
-
-    <!-- TODO(human verification): Reconfirm the Royal Commission date and the DTA guidance title, scope and current URL against official sources before publication. -->
+    **Australian precedents:** [Royal Commission into the Robodebt Scheme](https://robodebt.royalcommission.gov.au/) (2023) · [Digital Transformation Agency identity, data and privacy principles](https://www.dta.gov.au/help-and-advice/about-digital-identity/identity-data-and-privacy-principles)
 
     **Academic research:** Eubanks (2018) *Automating Inequality* · Yeung (2018) ["Algorithmic regulation"](https://doi.org/10.1111/rego.12158) · Pasquale (2015) *The Black Box Society*
 

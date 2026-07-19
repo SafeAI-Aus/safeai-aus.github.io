@@ -61,9 +61,9 @@ Australia has active organisations working on digital rights, cooperative econom
     If you're considering forming a cooperative or want to understand cooperative models, **[BCCM](https://bccm.coop/)** is a valuable starting point. They provide formation guidance, legal templates, case studies and connections to state-based agencies. Other organisations (listed below) offer state-specific or sector-specific support.
 
 - [Business Council of Co-operatives and Mutuals (BCCM)](https://bccm.coop/) — Peak body for Australian cooperatives, comprehensive resources
-- [Cooperative Federation of Victoria](https://www.federationofvictoria.coop/) — Victoria-specific support
-- [Co-operatives NSW](https://www.coop.nsw.gov.au/) — NSW cooperative development
-- [WA Co-operatives](https://www.commerce.wa.gov.au/consumer-protection/cooperatives) — Western Australia
+- [Consumer Affairs Victoria: register a co-operative](https://www.consumer.vic.gov.au/licensing-and-registration/co-operatives/register-a-co-operative) — official Victorian guidance
+- [NSW Government: co-operatives](https://www.nsw.gov.au/business-and-economy/co-operatives) — official NSW guidance
+- [Consumer Protection WA: co-operatives](https://www.consumerprotection.wa.gov.au/what-co-operative) — official Western Australian guidance
 
 ### Community Technology
 
@@ -86,7 +86,7 @@ These international networks provide models, tools and knowledge for cooperative
 
 ### Community Networks and Tech
 
-- [Community Network Knowledge Base](https://www.apc.org/en/community-networks)
+- [APC digital inclusion work](https://www.apc.org/en/apc-wide-activities/digital-inclusion)
 - [Internet Society Community Networks](https://www.internetsociety.org/issues/community-networks/)
 
 ### Research and Advocacy
@@ -144,7 +144,7 @@ These platforms enable democratic decision-making and transparent governance for
 
 ### Cooperative Development
 
-- [BCCM Resources](https://bccm.coop/resources/) — Australian cooperative guides
+- [BCCM research](https://bccm.coop/about/what-we-do/research/) — Australian cooperative reports and resources
 - [Grassroots Economic Organising](https://geo.coop/) — Cooperative economy
 
 ### AI and Technology
@@ -188,14 +188,12 @@ Key AI safety and governance research organisations:
 - **Governance research centres:** Centre for the Governance of AI (GovAI), CSET (Georgetown), AI Now Institute
 - **Evaluation organisations:** METR, UK AI Safety Institute, [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute)
 
-<!-- TODO(human verification): Reconfirm the Australian AI Safety Institute's current name, operating department and functions against the linked Department of Industry, Science and Resources page before publication. Source checked 18 July 2026. -->
-
 For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing-for-agi/framework/faq.md).
 
 ### Cooperative and Commons Research
 
 - [International Cooperative Alliance](https://www.ica.coop/) — Global cooperative movement and principles
-- [Institute for the Cooperative Digital Economy](https://icde.coop/) — Research on cooperative platform economics
+- [Institute for the Cooperative Digital Economy](https://platform.coop/about/icde/) — Research on cooperative platform economics
 
 ---
 
@@ -204,7 +202,6 @@ For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing
 ### Newsletters and Blogs
 
 - [Platform Cooperativism Consortium Blog](https://platform.coop/blog/)
-- [Data Justice Newsletter](https://datajusticelab.org/newsletter/)
 - [Mozilla Internet Health Report](https://foundation.mozilla.org/)
 
 ### Books and Reports
@@ -247,8 +244,6 @@ For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing
 **Start with Australian organisations** — they understand local context, legal frameworks and cultural factors that international resources may miss.
 
 **Start with specialist Australian cooperative guidance** — [BCCM](https://bccm.coop/) and the relevant state or territory agency can help explain formation pathways and local requirements. Obtain legal advice for the law that applies to your proposed cooperative.
-
-<!-- TODO(human verification): Confirm the relevant state or territory cooperative-law requirements and current official formation guidance before relying on this resource list. -->
 
 **International examples inform, don't prescribe** — what works in Barcelona or Taiwan provides ideas, but any Australian approach should be adapted to local law, institutions and community needs.
 

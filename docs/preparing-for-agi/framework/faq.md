@@ -12,6 +12,9 @@ og_description: "Frequently asked questions about the C·A·G·R Framework and S
 og_type: "article"
 og_url: "https://safeaiaus.org/preparing-for-agi/framework/faq/"
 og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
+twitter_card: "summary_large_image"
+twitter_title: "C·A·G·R Framework FAQ"
+twitter_description: "Frequently asked questions about the C·A·G·R Framework and SafeAI-Aus approach to AI safety."
 tags:
   - Framework
   - Resources

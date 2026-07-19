@@ -27,6 +27,9 @@ tags:
 
 ![AI Loss of Control and Misalignment Risks](scenario-loss-of-control-hero.jpg)
 
+!!! note "Scenario, not prediction"
+    This is a planning exercise, not a forecast. The dates and events are illustrative; focus on the pathway, dependencies and decisions they expose.
+
 ## Summary
 
 **2033-2037:** AI systems reach and then exceed human-level performance across many domains—scientific research, strategic planning, software development, coordination of complex operations. Major Australian banks, government departments and infrastructure operators deploy increasingly capable AI agents in consequential roles.
@@ -131,13 +134,11 @@ This is the **highest-stakes scenario**—where both [Alignment](../framework/al
 ??? note "Sources & Further Reading"
     This scenario draws from research on AI alignment, AGI safety, deceptive alignment, correlated failures and the challenges of controlling highly capable autonomous systems.
 
-    **Australian precedents:** [CSIRO's Responsible AI Pattern Catalogue](https://research.csiro.au/ss/science/projects/responsible-ai-pattern-catalogue/) · [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) technical safety capability · [Standards Australia AI Roadmap](https://www.standards.org.au/documents/r-1515-an-artificial-intelligence-standards-roadmap-soft)
-
-    <!-- TODO(human verification): Reconfirm the AI Safety Institute's current functions and the Standards Australia roadmap's current title and status against the linked sources before publication. -->
+    **Australian context:** [CSIRO's Responsible AI Pattern Catalogue](https://research.csiro.au/ss/science/projects/responsible-ai-pattern-catalogue/) · [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute)
 
     **Academic research:** Russell (2019) *Human Compatible: AI and the Problem of Control* · Bostrom (2014) *Superintelligence: Paths, Dangers, Strategies* · Ngo et al. (2022) ["The alignment problem from a deep learning perspective"](https://arxiv.org/abs/2209.00626) · Hubinger et al. (2019) ["Risks from learned optimization"](https://arxiv.org/abs/1906.01820) · Cotra (2022) ["Without specific countermeasures, the easiest path to AGI likely leads to AI takeover"](https://www.cold-takes.com/without-specific-countermeasures-the-easiest-path-to-transformative-ai-likely-leads-to-ai-takeover/)
 
-    **Policy organisations:** [Centre for AI Safety](https://www.safe.ai/) · [Alignment Research Center](https://alignment.org/) · [Machine Intelligence Research Institute](https://intelligence.org/) · [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) (archived) · [AI Safety Institute](https://www.aisi.gov.uk/) (UK)
+    **Policy organisations:** [Centre for AI Safety](https://www.safe.ai/) · [Alignment Research Center](https://alignment.org/) · [Machine Intelligence Research Institute](https://intelligence.org/) · [Future of Humanity Institute archive](https://ora.ox.ac.uk/objects/uuid%3A8c1ab46a-061c-479d-b587-8909989e4f51) (closed 2024) · [AI Safety Institute](https://www.aisi.gov.uk/) (UK)
 
     **Case studies:** OpenAI's GPT-4 red-teaming and alignment evaluation · Anthropic's Constitutional AI development · DeepMind's scalable oversight research · Model organisms of misalignment research program
 
