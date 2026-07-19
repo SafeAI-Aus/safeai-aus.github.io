@@ -3,17 +3,10 @@ icon: lucide/users
 title: "Sector Guidance for Advanced AI and AGI"
 description: "Strategic advanced AI and AGI preparedness guidance for Australian government, business, communities and national-security contexts."
 keywords: "advanced AI sector guidance, AGI preparedness Australia, government AI preparedness, business AI preparedness, community AI resilience"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "Sector Guidance for Advanced AI and AGI"
 og_description: "Apply the C·A·G·R framework to Australian government, business, community and national-security responsibilities."
 og_type: "article"
-og_url: "https://safeaiaus.org/sector-guidance/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Sector Guidance for Advanced AI and AGI"
 twitter_description: "Strategic preparedness guidance for Australian sectors facing advanced AI change."
 tags:
   - Sector Guidance

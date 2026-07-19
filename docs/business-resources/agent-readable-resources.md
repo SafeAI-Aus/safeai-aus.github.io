@@ -3,18 +3,10 @@ icon: lucide/bot
 title: "Agent-Readable Resources for AI Systems"
 description: "Machine-readable files for AI agents to monitor Australian AI governance updates, check usage policies, and discover governance and advanced AI preparedness resources."
 keywords: "AI agent resources, machine-readable AI governance, llms.txt, updates feed, AI compliance monitoring, AGI preparedness, C·A·G·R framework, Australian AI updates"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "Agent-Readable Resources for AI Systems"
 og_description: "Machine-readable files covering Australian AI governance and advanced AI preparedness"
 og_type: "article"
-og_url: "https://safeaiaus.org/business-resources/agent-readable-resources/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Agent-Readable Resources for AI Systems"
-twitter_description: "Machine-readable files covering Australian AI governance and advanced AI preparedness"
 ---
 
 # Agent-Readable Resources
@@ -66,7 +58,7 @@ The feed also includes metadata — `schema_version` for format compatibility an
 
 **URL:** [https://safeaiaus.org/llms.txt](https://safeaiaus.org/llms.txt)
 
-A structured policy file declaring how AI systems may use SafeAI-Aus content. Covers permissions (reading, indexing, training), attribution requirements, disclaimers, and brand protection.
+A Markdown policy and discovery file declaring how AI systems may use SafeAI-Aus content. It covers permissions (reading, indexing, training), attribution requirements, disclaimers and brand protection, and links agents to the site's principal guidance.
 
 Key points:
 
@@ -162,7 +154,7 @@ my last check. Highlight anything tagged "safety-standards" or
 
 ## Technical Details
 
-- **Format:** JSON (`updates.json`), TOML-like text (`llms.txt`), Markdown (`llms-full.txt`)
+- **Format:** JSON (`updates.json`), Markdown (`llms.txt` and `llms-full.txt`)
 - **Update frequency:** The updates feed is regenerated on every site deployment
 - **History:** The feed contains the full history of content changes — no rolling window or truncation
 - **Licence:** All content is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution: *"Source: SafeAI-Aus (safeaiaus.org)"*

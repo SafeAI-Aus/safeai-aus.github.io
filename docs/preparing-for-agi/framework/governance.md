@@ -3,16 +3,11 @@ icon: lucide/scale
 title: "AI Governance - Laws, Institutions and International Coordination"
 description: "How laws, institutions and international cooperation can support accountability and safer advanced-AI deployment in Australia."
 keywords: "AI governance, AI regulation Australia, AI policy, AI transparency, AI accountability, international AI coordination, AI Safety Institute Australia, risk-based AI regulation"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
 og_title: "AI Governance - Laws, Institutions and Coordination"
 og_description: "How laws and institutions shape safe AI development and deployment in Australia."
 og_type: "article"
-og_url: "https://safeaiaus.org/preparing-for-agi/framework/governance/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
 twitter_title: "AI Governance Framework"
 twitter_description: "Laws, institutions and coordination for safe AI in Australia."
 tags:
@@ -439,11 +434,7 @@ Not through unilateral regulation of frontier training (mostly happens overseas)
 
 **"Why not just let industry self-regulate?"**
 
-Self-regulation has a role — but the problem isn't that labs are acting in bad faith. It's that there is significant variation in what "self-regulation" means across frontier labs. Anthropic's Responsible Scaling Policy, OpenAI's Preparedness Framework and DeepMind's safety protocols differ substantially in disclosure practices, risk thresholds, evaluation methods and commitments to halt development if thresholds are crossed.
-
-This variance is itself the governance problem. When each lab defines safety differently, "trust the lab" provides limited assurance. METR's analysis of frontier lab safety policies ([2025](https://metr.org/common-elements)) found nine elements that appear across most policies — suggesting convergence is possible — but adoption remains voluntary and no formal enforcement mechanism yet exists.
-
-A proportionate approach: self-regulation for low-risk systems, mandatory standards (drawing on emerging convergence like METR's common elements) for high-risk and frontier systems, with independent verification rather than self-assessment alone.
+See the [Framework FAQ](faq.md#why-not-just-let-industry-self-regulate) for the role and limits of voluntary frontier-lab safety policies.
 
 **"Isn't international coordination unrealistic given geopolitical tensions?"**
 

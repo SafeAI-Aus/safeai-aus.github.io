@@ -3,18 +3,10 @@ icon: lucide/wrench
 title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated collection of AI tools, frameworks and resources for Australian businesses implementing AI safely and responsibly. Includes risk management, governance and technical testing tools."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
-author: "SafeAI-Aus"
 last-reviewed: "2026-06-15"
 review-cycle: "quarterly"
-robots: "index, follow"
-og_title: "AI Tools & Frameworks for Australian Businesses"
 og_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"
 og_type: "article"
-og_url: "https://safeaiaus.org/business-resources/ai-aus-tools-frameworks/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "AI Tools & Frameworks for Australian Businesses"
-twitter_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"
 ---
 
 # Tools & Frameworks

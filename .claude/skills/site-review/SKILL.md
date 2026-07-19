@@ -311,11 +311,11 @@ Every content page should have:
 title: "Page Title"
 description: "120-155 character description"
 keywords: "keyword1, keyword2, keyword3"
-og_title: "Social Media Title"
-og_description: "Social media description"
-og_image: "assets/safeaiaus-logo-600px.png"
+og_type: "article"
 ---
 ```
+
+The site template supplies the author, canonical URL, default social image and Twitter card type. Add `og_title`, `og_description`, `twitter_title` or `twitter_description` only when a social card should differ from the normal page metadata.
 
 ### Validation
 

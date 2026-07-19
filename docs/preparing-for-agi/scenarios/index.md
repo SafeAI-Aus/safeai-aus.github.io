@@ -3,17 +3,10 @@ icon: lucide/map
 title: "AGI Risk Scenarios for Australia"
 description: "Six detailed scenarios showing how AGI and advanced AI risks could unfold in Australia. Power concentration, loss of control, critical infrastructure and more."
 keywords: "AGI scenarios, AI risk scenarios, AI catastrophic risk, AI power concentration, AI loss of control, critical infrastructure AI, AI misuse scenarios, Australia AI risks"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "AGI Risk Scenarios for Australia"
 og_description: "Six detailed scenarios showing how AGI and advanced AI risks could unfold in Australia."
 og_type: "article"
-og_url: "https://safeaiaus.org/preparing-for-agi/scenarios/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "AGI Risk Scenarios for Australia"
 twitter_description: "How AGI and advanced AI risks could unfold in Australia."
 tags:
   - Scenario

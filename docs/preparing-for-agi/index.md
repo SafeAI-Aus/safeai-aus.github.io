@@ -3,18 +3,10 @@ icon: lucide/zap
 title: "Preparing for AGI - Advanced AI Transformation"
 description: "Strategic guidance for Australian organisations exploring advanced AI and AGI through scenarios, planning frameworks and sector guidance."
 keywords: "AGI Australia, advanced AI transformation, AI governance Australia, AGI scenarios, C·A·G·R framework, AI safety Australia, future AI planning, AGI preparation"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "Preparing for AGI - Advanced AI Transformation"
 og_description: "Strategic guidance for Australian organisations preparing for advanced AI and AGI transformation"
 og_type: "article"
-og_url: "https://safeaiaus.org/preparing-for-agi/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Preparing for AGI - Advanced AI Transformation"
-twitter_description: "Strategic guidance for Australian organisations preparing for advanced AI and AGI transformation"
 tags:
   - Framework
   - Governance

@@ -3,18 +3,10 @@ icon: lucide/globe
 title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
 description: "Comprehensive overview of international AI regulations and legal frameworks that Australian businesses need to understand for global operations and compliance."
 keywords: "international AI law, EU AI Act, US AI regulation, global AI compliance, AI legal landscape, Australian businesses abroad, AI regulation 2026"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-06"
 review-cycle: "quarterly"
-og_title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
 og_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
 og_type: "article"
-og_url: "https://safeaiaus.org/safety-standards/international-ai-legal-overview/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
-twitter_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
 ---
 
 # International AI Legal Landscape (2026) — What Australian Businesses Should Know

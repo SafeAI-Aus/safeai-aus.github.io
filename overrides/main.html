@@ -2,9 +2,6 @@
 
 {% block site_meta %}
   {{ super() }}
-  {% if config.extra.canonical_base %}
-    <meta name="canonical-base" content="{{ config.extra.canonical_base }}">
-  {% endif %}
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ base_url }}/assets/apple-touch-icon.png">
@@ -15,12 +12,17 @@
   <link rel="icon" type="image/png" sizes="192x192" href="{{ base_url }}/assets/android-chrome-192x192.png">
   <link rel="icon" type="image/png" sizes="512x512" href="{{ base_url }}/assets/android-chrome-512x512.png">
   <link rel="manifest" href="{{ base_url }}/assets/site.webmanifest">
-  <link rel="mask-icon" href="{{ base_url }}/assets/safari-pinned-tab.svg" color="#0b6428">
+  <link rel="mask-icon" href="{{ base_url }}/assets/favicon.svg" color="#0b6428">
   <meta name="msapplication-TileColor" content="#f7f1e6">
   <meta name="theme-color" content="#ffffff">
 
   {# -- SEO Metadata (OpenGraph, Twitter, Structured Data) ------------------ #}
   {% set meta = page.meta if page and page.meta else {} %}
+
+  {# Preload a page's primary visual when explicitly requested in frontmatter. #}
+  {% if meta.preload_image %}
+    <link rel="preload" as="image" href="{{ base_url }}/{{ meta.preload_image }}" type="image/webp" fetchpriority="high">
+  {% endif %}
 
   {# -- Canonical URL ------------------------------------------------------- #}
   {% if page and page.canonical_url %}
@@ -33,23 +35,12 @@
     {% set canonical = None %}
   {% endif %}
 
-  {% if canonical %}
-    <link rel="canonical" href="{{ canonical | e }}">
-  {% endif %}
-
-  {# -- Basic metadata ------------------------------------------------------ #}
+  {# -- Metadata used by social cards and structured data ------------------ #}
   {% set title = meta.og_title or meta.title or page.title or config.site_name %}
   {% set description = meta.og_description or meta.description or config.site_description %}
   {% set robots = meta.robots if meta.robots is defined else none %}
   {% set keywords = meta.keywords %}
-  {% set author = meta.author or config.site_author %}
 
-  {% if description %}
-    <meta name="description" content="{{ description | e }}">
-  {% endif %}
-  {% if author %}
-    <meta name="author" content="{{ author | e }}">
-  {% endif %}
   {% if robots is not none %}
     <meta name="robots" content="{{ robots | e }}">
   {% endif %}
@@ -245,27 +236,4 @@
     </div>
   </footer>
 
-  <!-- Widget mount point; the module below initialises it once per full page load. -->
-  <div id="airia-chat-root"></div>
-{% endblock %}
-
-{% block scripts %}
-  {{ super() }}
-
-  <!-- SafeAI-Aus Knowledge Assistant Chat Widget -->
-  <script type="module">
-    import AiriaChat from "https://prodaus.embed-api.airia.ai/get-chat-embed.js"
-    AiriaChat.init({
-      pipelineId: "082a8566-0662-4ce1-83fb-42503ac7fb64",
-      apiKey: "ak-MTk2NTI1MjYwNnwxNzY3MzUxOTcwNzczfHRpLWMybHRjR3hsWm5rdVlXa3R8MXw5MTE4ODgyMTQg",
-      apiUrl: "https://prodaus.embed-api.airia.ai",
-      greeting: "Hi! I can help you find AI safety resources and answer questions about Australian AI governance. What would you like to know?",
-      imagePath: "{{ base_url }}/assets/safeai-aus-chat-logo-compressed.png",
-      imageSize: "medium",
-      imageBgColor: "#FFFFFF",
-      imageBorderColor: "#4a4a4a",
-      imageBorderWidth: "3px",
-      autoOpen: false
-    })
-  </script>
 {% endblock %}

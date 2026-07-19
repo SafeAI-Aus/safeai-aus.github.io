@@ -3,18 +3,10 @@ icon: lucide/newspaper
 title: "Subscribe to SafeAI-Aus Newsletter"
 description: "Stay informed with practical tools, resources and updates on safe AI adoption in Australia. Monthly newsletter for Australian businesses and organisations."
 keywords: "AI newsletter Australia, AI safety updates, Australian AI news, AI governance resources, AI compliance updates, AI policy news, AI safety newsletter"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-04-15"
 review-cycle: "quarterly"
-og_title: "Subscribe to SafeAI-Aus Newsletter"
 og_description: "Stay informed with practical tools, resources and updates on safe AI adoption in Australia"
 og_type: "website"
-og_url: "https://safeaiaus.org/newsletter/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Subscribe to SafeAI-Aus Newsletter"
-twitter_description: "Stay informed with practical tools, resources and updates on safe AI adoption in Australia"
 ---
 
 # Subscribe to Our Newsletter

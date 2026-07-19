@@ -3,17 +3,9 @@ icon: lucide/users
 title: "Communities — Advanced AI Preparedness"
 description: "Guidance for Australian communities preserving voice, trust and local resilience through advanced AI change."
 keywords: "advanced AI community guidance, AGI preparedness communities Australia, community AI resilience, democratic AI participation, local AI capability"
-author: "SafeAI-Aus"
-robots: "index, follow"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
-og_title: "Communities — Advanced AI Preparedness"
-og_description: "Guidance for Australian communities preserving voice, trust and local resilience through advanced AI change."
 og_type: "article"
-og_url: "https://safeaiaus.org/sector-guidance/communities/"
-og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-twitter_card: "summary_large_image"
-twitter_title: "Communities — Advanced AI Preparedness"
 twitter_description: "Preserve community voice, trust and local resilience through advanced AI change."
 tags:
   - Communities
