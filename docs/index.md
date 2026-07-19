@@ -70,6 +70,14 @@ hide:
 
     [:octicons-arrow-right-24: Legal Landscape](safety-standards/ai-australian-legislation.md)
 
+-   :material-telescope:{ .lg .middle } **Planning for Advanced AI?**
+
+    ---
+
+    Explore practical preparation for advanced AI and AGI scenarios
+
+    [:octicons-arrow-right-24: Preparing for AGI](preparing-for-agi/index.md)
+
 </div>
 
 ---
@@ -162,6 +170,13 @@ Subscribe for practical tools to make AI safe — and work for your growth.
 - [AI Project Register](governance-templates/ai-project-register.md)
 - [AI Vendor Evaluation](governance-templates/ai-vendor-evaluation-checklist.md)
 - [AI Incident Report Form](governance-templates/ai-incident-report-form.md)
+
+### :material-telescope: Advanced AI & AGI
+
+- [Preparing for AGI Overview](preparing-for-agi/index.md)
+- [Risk Scenarios](preparing-for-agi/scenarios/index.md)
+- [C·A·G·R Framework](preparing-for-agi/framework/index.md)
+- [Sector Guidance](sector-guidance/index.md)
 
 ### :material-information: About
 

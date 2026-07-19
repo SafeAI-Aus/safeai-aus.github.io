@@ -1,20 +1,20 @@
 ---
 icon: lucide/bot
 title: "Agent-Readable Resources for AI Systems"
-description: "Machine-readable files for AI agents to monitor Australian AI governance updates, check usage policies, and access the SafeAI-Aus knowledge base programmatically."
-keywords: "AI agent resources, machine-readable AI governance, llms.txt, updates feed, AI compliance monitoring, automated governance updates, Australian AI updates"
+description: "Machine-readable files for AI agents to monitor Australian AI governance updates, check usage policies, and discover governance and advanced AI preparedness resources."
+keywords: "AI agent resources, machine-readable AI governance, llms.txt, updates feed, AI compliance monitoring, AGI preparedness, C·A·G·R framework, Australian AI updates"
 author: "SafeAI-Aus"
 robots: "index, follow"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-07-18"
 review-cycle: "quarterly"
 og_title: "Agent-Readable Resources for AI Systems"
-og_description: "Machine-readable files for AI agents to monitor Australian AI governance updates"
+og_description: "Machine-readable files covering Australian AI governance and advanced AI preparedness"
 og_type: "article"
 og_url: "https://safeaiaus.org/business-resources/agent-readable-resources/"
 og_image: "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
 twitter_card: "summary_large_image"
 twitter_title: "Agent-Readable Resources for AI Systems"
-twitter_description: "Machine-readable files for AI agents to monitor Australian AI governance updates"
+twitter_description: "Machine-readable files covering Australian AI governance and advanced AI preparedness"
 ---
 
 # Agent-Readable Resources
@@ -78,7 +78,9 @@ Key points:
 
 **URL:** [https://safeaiaus.org/llms-full.txt](https://safeaiaus.org/llms-full.txt)
 
-A structured summary of the site's content — governance templates, legislation guides, business resources, and key frameworks. Useful for agents that need an overview of what SafeAI-Aus covers without crawling every page.
+A structured summary of the site's content — governance templates, legislation guides, business resources, advanced AI and AGI preparedness, the C·A·G·R framework, six Australian risk scenarios, sector guidance, and curated external resources. Useful for agents that need an overview of what SafeAI-Aus covers without crawling every page.
+
+The summary identifies scenarios as planning tools rather than predictions and preserves the uncertainty around advanced AI capabilities and timelines. Agents should also carry forward the site's legal, regulatory and government-advice disclaimers when using this material.
 
 ---
 
@@ -95,6 +97,10 @@ If your organisation has adopted SafeAI-Aus governance templates, your agent can
 ### General AI Assistants
 
 AI assistants answering questions about Australian AI governance can fetch `/llms-full.txt` for a current overview, and check `/updates.json` for recent changes that might affect their answers.
+
+### Advanced AI Preparedness
+
+Strategy, risk and resilience agents can use `/llms-full.txt` to locate the C·A·G·R framework, select one or more Australian risk scenarios, and find sector guidance relevant to government, business, communities or national security. The material can support workshops, assumption testing and preparedness backlogs, but must not be represented as a prediction or as definitive legal, regulatory or government advice.
 
 ---
 
@@ -126,6 +132,16 @@ and guides could help us get started?
 Fetch https://safeaiaus.org/updates.json and check if any recent updates
 affect AI risk assessment or vendor evaluation. Our organisation uses
 the SafeAI-Aus risk register and vendor checklist templates.
+```
+
+### Prepare a scenario-planning exercise
+
+```
+Fetch https://safeaiaus.org/llms-full.txt and identify the advanced AI
+scenario and sector guidance most relevant to our organisation. Propose
+questions for a planning workshop, clearly treating the scenario as a
+planning tool rather than a prediction. Flag any legal, regulatory or
+government claims that participants should verify against primary sources.
 ```
 
 ### Set up ongoing monitoring in Claude Code

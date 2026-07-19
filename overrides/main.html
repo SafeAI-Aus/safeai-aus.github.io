@@ -164,28 +164,6 @@
 
 {% endblock %}
 
-{% block content %}
-  {{ super() }}
-
-  <!-- SafeAI-Aus Knowledge Assistant Chat Widget -->
-  <div id="airia-chat-root"></div>
-  <script type="module">
-    import AiriaChat from "https://prodaus.embed-api.airia.ai/get-chat-embed.js"
-    AiriaChat.init({
-      pipelineId: "082a8566-0662-4ce1-83fb-42503ac7fb64",
-      apiKey: "ak-MTk2NTI1MjYwNnwxNzY3MzUxOTcwNzczfHRpLWMybHRjR3hsWm5rdVlXa3R8MXw5MTE4ODgyMTQg",
-      apiUrl: "https://prodaus.embed-api.airia.ai",
-      greeting: "Hi! I can help you find AI safety resources and answer questions about Australian AI governance. What would you like to know?",
-      imagePath: "{{ base_url }}/assets/safeai-aus-chat-logo-compressed.png",
-      imageSize: "medium",
-      imageBgColor: "#FFFFFF",
-      imageBorderColor: "#4a4a4a",
-      imageBorderWidth: "3px",
-      autoOpen: false
-    })
-  </script>
-{% endblock %}
-
 {% block footer %}
   <style>
     .md-footer-custom-nav {
@@ -266,4 +244,28 @@
       </div>
     </div>
   </footer>
+
+  <!-- Widget mount point; the module below initialises it once per full page load. -->
+  <div id="airia-chat-root"></div>
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+
+  <!-- SafeAI-Aus Knowledge Assistant Chat Widget -->
+  <script type="module">
+    import AiriaChat from "https://prodaus.embed-api.airia.ai/get-chat-embed.js"
+    AiriaChat.init({
+      pipelineId: "082a8566-0662-4ce1-83fb-42503ac7fb64",
+      apiKey: "ak-MTk2NTI1MjYwNnwxNzY3MzUxOTcwNzczfHRpLWMybHRjR3hsWm5rdVlXa3R8MXw5MTE4ODgyMTQg",
+      apiUrl: "https://prodaus.embed-api.airia.ai",
+      greeting: "Hi! I can help you find AI safety resources and answer questions about Australian AI governance. What would you like to know?",
+      imagePath: "{{ base_url }}/assets/safeai-aus-chat-logo-compressed.png",
+      imageSize: "medium",
+      imageBgColor: "#FFFFFF",
+      imageBorderColor: "#4a4a4a",
+      imageBorderWidth: "3px",
+      autoOpen: false
+    })
+  </script>
 {% endblock %}

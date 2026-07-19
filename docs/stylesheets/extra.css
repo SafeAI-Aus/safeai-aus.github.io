@@ -809,3 +809,42 @@ h3 {
         gap: 2rem;
     }
 }
+
+/* Keep four-part framework tabs legible on narrow screens. */
+@media (max-width: 600px) {
+    .md-typeset .tabbed-set > .tabbed-labels {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        overflow: visible;
+        scroll-snap-type: none;
+    }
+
+    .md-typeset .tabbed-set > .tabbed-labels::before {
+        display: none;
+    }
+
+    .md-typeset .tabbed-set > input:first-child:checked ~ .tabbed-labels > :first-child,
+    .md-typeset .tabbed-set > input:nth-child(2):checked ~ .tabbed-labels > :nth-child(2),
+    .md-typeset .tabbed-set > input:nth-child(3):checked ~ .tabbed-labels > :nth-child(3),
+    .md-typeset .tabbed-set > input:nth-child(4):checked ~ .tabbed-labels > :nth-child(4) {
+        background: var(--md-default-fg-color--lightest);
+        border-radius: 0.2rem;
+        color: var(--md-primary-fg-color);
+        font-weight: 700;
+    }
+
+    .md-typeset .tabbed-set > .tabbed-labels > label {
+        align-items: center;
+        display: flex;
+        line-height: 1.25;
+        min-height: 2.75rem;
+        min-width: 0;
+        padding: 0.5rem 0.6rem;
+        white-space: normal;
+        width: auto;
+    }
+
+    .md-typeset .tabbed-set > .tabbed-control {
+        display: none;
+    }
+}

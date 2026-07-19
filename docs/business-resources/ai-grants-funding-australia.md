@@ -79,8 +79,6 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 
     ➡️ [ARC Discovery Indigenous 2027](https://www.arc.gov.au/news-and-publications/media/now-open-applications-discovery-indigenous-2027) (accessed 21 June 2026)
 
-<!-- TODO(human verification): Recheck the ARC Discovery Indigenous 2027 status after its stated 25 August 2026 closing date. -->
-
 !!! info "ARC Generative AI Policy — effective 28 April 2026"
     The Australian Research Council (jointly with the NHMRC) released an updated **Policy on Use of Generative Artificial Intelligence in the ARC's Grants Programs** in April 2026. The policy applies to all applications and assessments for ARC scheme rounds opening from **28 April 2026**.
 
@@ -181,8 +179,6 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 - A featured program is **VICTOR:AI** — an eight-week cohort for AI-native startups offering AI tools, co-working space and milestone-based grants.
 - Provider intake arrangements and timing vary. The Victorian Government announcement did not specify which programs were accepting applications or confirm that funding had been disbursed.
 - ➡️ [Victorian Government announcement](https://djsir.vic.gov.au/news-and-articles/victoria-backs-the-next-generation-of-ai-and-deeptech-startups) | [LaunchVic programs](https://launchvic.org/programs/)
-
-<!-- TODO(human verification): Recheck provider intake status and timing before describing any program as open or active; the 17 June 2026 announcement did not provide application dates. -->
 
 ---
 

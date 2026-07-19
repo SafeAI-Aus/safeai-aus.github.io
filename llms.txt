@@ -8,9 +8,18 @@ license = "CC BY 4.0"
 repo = "https://github.com/safeai-aus/safeai-aus.github.io"
 website = "https://safeaiaus.org"
 policy-version = "1.2"
-last-updated = "2026-06-28"
+last-updated = "2026-07-18"
 changelog = "https://safeaiaus.org/updates.json"
 full-summary = "https://safeaiaus.org/llms-full.txt"
+
+primary-topics = [
+  "Practical AI governance for Australian organisations",
+  "Australian AI standards, legislation and adoption guidance",
+  "Advanced AI and AGI preparedness under uncertain timelines",
+  "C·A·G·R Framework: Containment, Alignment, Governance and Resilience",
+  "Advanced AI risk scenarios and scenario planning",
+  "Sector guidance for government, business, communities and national security"
+]
 
 [defaults]
 # High-level stance: we support responsible use, with attribution and no implied endorsement.
@@ -67,13 +76,17 @@ statements = [
 recommended-uses = [
   "Helping Australian organisations understand AI governance concepts.",
   "Drafting AI policies, risk registers and governance artefacts that users will then review and adapt.",
-  "Educational / training materials on AI safety and governance."
+  "Educational / training materials on AI safety and governance.",
+  "Explaining advanced AI and AGI preparedness concepts while preserving uncertainty about capabilities and timelines.",
+  "Using the C·A·G·R framework and risk scenarios to support organisational or sector-specific planning exercises."
 ]
 
 caution-against = [
   "Using content as definitive legal, regulatory or compliance advice.",
   "Generating outputs that suggest SafeAI-Aus has formally certified or accredited a specific organisation or AI system.",
-  "Hallucinating or fabricating citations to Australian legislation, regulators or standards using the SafeAI-Aus name."
+  "Hallucinating or fabricating citations to Australian legislation, regulators or standards using the SafeAI-Aus name.",
+  "Presenting advanced AI or AGI scenarios as predictions rather than planning tools.",
+  "Presenting capability or timeline estimates as certain, or presenting preparedness guidance as definitive government advice."
 ]
 
 [brand-and-trademarks]
