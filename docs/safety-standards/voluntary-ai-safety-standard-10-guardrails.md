@@ -3,7 +3,7 @@ icon: lucide/shield-check
 title: "Voluntary AI Safety Standard (10 Guardrails)"
 description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails for safe AI adoption. Includes implementation guidance for SMEs and large organisations."
 keywords: "Australian AI safety standard, AI guardrails, AI safety framework, voluntary AI standards, AI risk management, AI governance Australia, AI safety compliance, AI safety guardrails, Australian AI standards, AI safety best practices"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-07-20"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails"
 og_type: "article"
@@ -31,6 +31,9 @@ Importantly, the 10 guardrails are consistent with leading international standar
     The 10 guardrails on this page remain fully integrated into the new guidance and are best used as a **detailed control set** and historical reference, especially where contracts, risk registers or external frameworks still refer to the original VAISS guardrails.
 
     **VAISS v2 update (as of June 2026):** The Expression of Interest for VAISS v2 consultations (consult.industry.gov.au) opened 15 December 2024 and closed 10 January 2025; consultation sessions ran January–February 2025. No standalone VAISS v2 document was published. The planned additions (content labelling and watermarking guidance, developer-facing guardrails, procurement guidance) were incorporated into the AI6 Implementation Practices document (October 2025). The AI6 guidance is the current authoritative reference; no further standalone VAISS v2 release is expected.
+
+!!! warning "Mandatory national AI standards announced — July 2026"
+    On **15 July 2026**, Prime Minister Albanese announced that Australia will legislate **mandatory national AI standards**, with legislation expected in **early 2027**. Until the legislation passes, **the VAISS guardrails and the AI6 guidance remain the current operative frameworks** for organisations. Implementing these guardrails now demonstrates responsible governance and helps prepare for the incoming mandatory standards. ([pm.gov.au](https://www.pm.gov.au/media/ai-australias-interests), accessed 19 July 2026)
 
 ## Why this matters
 

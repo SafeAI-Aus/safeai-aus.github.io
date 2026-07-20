@@ -3,7 +3,7 @@ icon: lucide/landmark
 title: "Australian Government AI Policy and Frameworks"
 description: "Overview of Australian Government AI policy, guidance and institutional developments including the National AI Plan, AI Safety Institute, DTA mandatory requirements, AI6 and VAISS."
 keywords: "Australian AI policy, National AI Plan, AI Safety Institute, DTA AI policy, AI6 guidance, VAISS, AI governance Australia, mandatory AI requirements, Senate AI Committee"
-last-reviewed: "2026-07-19"
+last-reviewed: "2026-07-20"
 review-cycle: "quarterly"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 og_type: "article"
@@ -14,12 +14,33 @@ og_type: "article"
 > **Purpose:** Understand the Australian Government's approach to AI governance — policy, guidance, institutions and timelines
 > **Audience:** Governance, compliance, risk and strategy teams | **Time:** 30-40 minutes
 
-Australia does not yet have a standalone AI Act. Instead, the Government relies on **existing technology-neutral laws** (see [Current Legal Landscape](ai-australian-legislation.md)) supported by voluntary guidance, a growing set of institutional arrangements and — for Commonwealth agencies — the first mandatory AI requirements.
+Australia does not yet have a standalone AI Act, but on **15 July 2026** Prime Minister Albanese announced that the Government will legislate mandatory national AI standards — see [Australian Standards for AI and Office of AI](#australian-standards-for-ai-and-office-of-ai-july-2026) below. In the interim, the Government relies on **existing technology-neutral laws** (see [Current Legal Landscape](ai-australian-legislation.md)) supported by voluntary guidance, a growing set of institutional arrangements and — for Commonwealth agencies — the first mandatory AI requirements.
 
 This page covers government policy, guidance frameworks and institutional developments. For the laws themselves, see [Current Legal Landscape for AI in Australia](ai-australian-legislation.md).
 
 !!! note "Policy is evolving"
     The Australian AI policy landscape is changing rapidly. The information below reflects the position as of July 2026. Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+
+---
+
+## Australian Standards for AI and Office of AI (July 2026)
+
+!!! warning "Most significant Australian AI governance development since the National AI Plan"
+    Prime Minister Albanese announced on **15 July 2026** (keynote, University of Sydney) that Australia will legislate **mandatory national AI standards** — ending the voluntary-only governance approach that has applied since the National AI Plan. This is the most consequential AI policy development in Australia to date.
+
+**What was announced:**
+
+- **Australian Standards for AI:** The Government will legislate a mandatory set of national AI standards, described as a "world-first" nationally legislated mandatory AI framework. Implementation timeline: National Cabinet to consider in **August 2026**; legislation to be introduced to Parliament in **early 2027**; staged commencement through **2027–2028**.
+
+- **Office of AI (established immediately):** A new Office of AI has been established within the Department of the Prime Minister and Cabinet, effective 15 July 2026. It reports jointly to PM&C and coordinates with Industry Minister Tim Ayres and Assistant Minister Andrew Charlton. Scope: coordinating AI standards across government; coordinating education, labour market, climate, energy, copyright and defence dimensions of AI governance; developing unified standards across agencies; streamlining AI project approvals. This represents a shift in the primary AI standards coordination function from DISR/NAIC to PM&C-led oversight.
+
+- **Data centre mandatory obligations:** The first concrete mandatory obligations target large AI data centre operators, requiring them to: underwrite their own new power supply (not increase household energy costs); minimise water use; reduce power during grid stress events; and pay full connection costs. These build on the existing [Data Centre Expectations](#data-centre-and-ai-infrastructure-expectations-march-2026) (March 2026).
+
+- **Copyright:** The Government reaffirmed that no text-and-data-mining exemption will be granted to allow AI firms to train on Australian creative works without permission or payment. See [Current Legal Landscape](ai-australian-legislation.md) for the IP implications.
+
+**Relationship to AI6 and VAISS:** AI6 (Guidance for AI Adoption, October 2025) and the VAISS guardrails remain the current authoritative frameworks. They are not withdrawn by this announcement. Until the legislation passes in early 2027, AI6 is still the operative guidance for organisations. The announcement does not change the practical status of AI6 today.
+
+Sources: [pm.gov.au](https://www.pm.gov.au/media/ai-australias-interests), [minister.industry.gov.au](https://www.minister.industry.gov.au/charlton/media/ai-australias-interests), [Maddocks](https://www.maddocks.com.au/insights/commonwealth-government-announces-establishment-of-australian-standards-for-ai), [GT Law](https://www.gtlaw.com.au/insights/australian-government-announces-mandatory-ai-standards-for-large-scale-data-centres-and-new-office-of-ai) (all accessed 19 July 2026)
 
 ---
 
@@ -170,7 +191,11 @@ The ACCC published its own AI transparency statement in February 2026 and has fl
 | 23 March 2026 | Data centre expectations published |
 | 1 April 2026 | Senate Committee response tabled; Anthropic MOU signed; Copyright reform passed |
 | **15 June 2026** | **DTA first mandatory requirements** |
+| **15 July 2026** | **Australian Standards for AI announced; Office of AI established in PM&C** |
+| **August 2026** | **National Cabinet to consider Australian Standards for AI** |
 | **10 December 2026** | **Privacy Act ADM obligations commence; DTA full compliance** |
+| **Early 2027** | **Australian Standards for AI legislation expected in Parliament** |
+| **2027–2028** | **Staged commencement of mandatory AI standards** |
 
 ---
 

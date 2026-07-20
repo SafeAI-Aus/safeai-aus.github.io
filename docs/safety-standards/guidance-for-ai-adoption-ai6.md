@@ -3,7 +3,7 @@ icon: lucide/compass
 title: "Guidance for AI Adoption (AI6) – 6 Essential Practices"
 description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption. Practical guide to the six essential practices replacing the Voluntary AI Safety Standard."
 keywords: "AI6 guidance Australia, Guidance for AI Adoption, AI essential practices, AI governance Australia, National AI Centre guidance, NAIC AI6, responsible AI adoption, AI6 vs VAISS, voluntary AI safety standard update, AI governance framework Australia"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-07-20"
 review-cycle: "quarterly"
 og_description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption"
 og_type: "article"
@@ -15,7 +15,12 @@ og_type: "article"
 > **Audience:** Executive, governance, risk and compliance teams | **Time:** 30-45 minutes
 
 !!! info "Status"
-    Federal government guidance in effect from 21 October 2025. Non-binding, but now the primary reference for responsible AI adoption in Australia.
+    Federal government guidance in effect from 21 October 2025. Non-binding, and the primary reference for responsible AI adoption in Australia until mandatory Australian Standards for AI are legislated (see note below).
+
+!!! warning "Mandatory national AI standards announced — July 2026"
+    On **15 July 2026**, Prime Minister Albanese announced that Australia will legislate **mandatory national AI standards**, with a new **Office of AI** established immediately within PM&C. National Cabinet will consider the Standards in August 2026; legislation is expected in **early 2027**.
+
+    **AI6 remains the current operative framework.** Organisations should continue implementing AI6 now — it prepares you for the incoming mandatory standards and demonstrates responsible governance in the interim. ([pm.gov.au](https://www.pm.gov.au/media/ai-australias-interests), accessed 19 July 2026)
 
 ## What is the Guidance for AI Adoption?
 
