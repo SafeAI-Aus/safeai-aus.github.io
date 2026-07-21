@@ -14,7 +14,7 @@ from urllib.parse import urljoin
 
 GENERAL_SCHEMA_ID = "safeai-general-schema"
 SCRIPT_PATTERN = re.compile(
-    r"(<script\b(?=[^>]*\bid=[\"']safeai-general-schema[\"'])[^>]*>)(.*?)(</script\s*>)",
+    rf"(<script\b(?=[^>]*\bid=[\"']{re.escape(GENERAL_SCHEMA_ID)}[\"'])[^>]*>)(.*?)(</script\s*>)",
     re.IGNORECASE | re.DOTALL,
 )
 
@@ -35,7 +35,8 @@ class PageSignalsParser(HTMLParser):
         self.canonicals: list[str] = []
         self.path_depth = 0
         self.path_links: list[tuple[str, str]] = []
-        self.current_path_link: dict[str, object] | None = None
+        self.current_path_href: str | None = None
+        self.current_path_parts: list[str] | None = None
         self.h1_depth = 0
         self.h1_parts: list[str] = []
         self.headerlink_depth = 0
@@ -63,9 +64,10 @@ class PageSignalsParser(HTMLParser):
             self.path_depth = 1
 
         if self.path_depth and tag == "a" and "md-path__link" in self._classes(attributes):
-            if self.current_path_link is not None:
+            if self.current_path_parts is not None:
                 raise EnrichmentError("nested breadcrumb links are not supported")
-            self.current_path_link = {"href": attributes.get("href"), "parts": []}
+            self.current_path_href = attributes.get("href")
+            self.current_path_parts = []
 
         if not self.h1_parts and self.h1_depth == 0 and tag == "h1":
             self.h1_depth = 1
@@ -77,15 +79,14 @@ class PageSignalsParser(HTMLParser):
     def handle_endtag(self, tag: str) -> None:
         tag = tag.lower()
 
-        if tag == "a" and self.current_path_link is not None:
-            href = self.current_path_link["href"]
-            parts = self.current_path_link["parts"]
-            assert isinstance(parts, list)
-            name = " ".join("".join(parts).split())
+        if tag == "a" and self.current_path_parts is not None:
+            name = " ".join("".join(self.current_path_parts).split())
+            href = self.current_path_href
             if not href or not name:
                 raise EnrichmentError("breadcrumb links require non-empty href and text")
-            self.path_links.append((str(href), name))
-            self.current_path_link = None
+            self.path_links.append((href, name))
+            self.current_path_href = None
+            self.current_path_parts = None
 
         if self.headerlink_depth and self.h1_depth == self.headerlink_depth and tag == "a":
             self.headerlink_depth = 0
@@ -96,10 +97,8 @@ class PageSignalsParser(HTMLParser):
             self.path_depth -= 1
 
     def handle_data(self, data: str) -> None:
-        if self.current_path_link is not None:
-            parts = self.current_path_link["parts"]
-            assert isinstance(parts, list)
-            parts.append(data)
+        if self.current_path_parts is not None:
+            self.current_path_parts.append(data)
         if self.h1_depth and not self.headerlink_depth:
             self.h1_parts.append(data)
 
@@ -117,8 +116,7 @@ def _safe_json(data: object) -> str:
     )
 
 
-def _enrich_page(path: Path) -> bool:
-    html = path.read_text(encoding="utf-8")
+def _enrich_page(path: Path, html: str) -> bool | None:
     parser = PageSignalsParser()
     try:
         parser.feed(html)
@@ -129,7 +127,7 @@ def _enrich_page(path: Path) -> bool:
     if not parser.canonicals:
         if SCRIPT_PATTERN.search(html):
             raise EnrichmentError(f"{path}: non-canonical page contains the general schema")
-        return False
+        return None
     if len(parser.canonicals) != 1:
         raise EnrichmentError(f"{path}: expected exactly one canonical link")
     canonical = parser.canonicals[0]
@@ -212,16 +210,15 @@ def enrich_site(site: Path) -> EnrichmentResult:
         if path.relative_to(site).as_posix() == "404.html":
             continue
         html = path.read_text(encoding="utf-8")
-        if not SCRIPT_PATTERN.search(html) and "rel=\"canonical\"" not in html:
-            continue
         try:
-            has_breadcrumb = _enrich_page(path)
+            has_breadcrumb = _enrich_page(path, html)
         except EnrichmentError as error:
             if str(error).startswith(str(path)):
                 raise
             raise EnrichmentError(f"{path}: {error}") from error
-        processed += 1
-        breadcrumb_pages += int(has_breadcrumb)
+        if has_breadcrumb is not None:
+            processed += 1
+            breadcrumb_pages += int(has_breadcrumb)
 
     return EnrichmentResult(processed_pages=processed, breadcrumb_pages=breadcrumb_pages)
 

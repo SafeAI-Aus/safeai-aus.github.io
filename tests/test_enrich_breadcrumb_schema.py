@@ -141,6 +141,15 @@ class BreadcrumbEnrichmentTests(unittest.TestCase):
         with self.assertRaisesRegex(EnrichmentError, "canonical"):
             enrich_site(self.site)
 
+    def test_rejects_canonical_page_without_graph_regardless_of_attribute_style(self) -> None:
+        self.write_page(
+            "guides/current/index.html",
+            "<html><head><link href='https://safeaiaus.org/guides/current/' rel='canonical'></head></html>",
+        )
+
+        with self.assertRaisesRegex(EnrichmentError, "marked general schema"):
+            enrich_site(self.site)
+
 
 if __name__ == "__main__":
     unittest.main()

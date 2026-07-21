@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 from datetime import date
 from pathlib import Path
 
+from scripts.generate_sitemap import SITEMAP_NAMESPACE
 from scripts.validate_seo import _normalise_non_substantive_body, validate_project
 
 
@@ -133,7 +134,7 @@ class SeoValidationTests(unittest.TestCase):
             html_page(canonical, None if pending else reviewed, breadcrumb=breadcrumb),
             encoding="utf-8",
         )
-        namespace = "http://www.sitemaps.org/schemas/sitemap/0.9"
+        namespace = SITEMAP_NAMESPACE
         ET.register_namespace("", namespace)
         root = ET.Element(ET.QName(namespace, "urlset"))
         entry = ET.SubElement(root, ET.QName(namespace, "url"))

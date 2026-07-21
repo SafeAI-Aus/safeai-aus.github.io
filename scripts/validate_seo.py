@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import calendar
 import json
 import re
 import subprocess
@@ -15,7 +16,6 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 
-
 ORIGIN = "https://safeaiaus.org"
 ORG_ID = f"{ORIGIN}/#organization"
 OPERATOR_ID = f"{ORIGIN}/#legal-operator"
@@ -25,6 +25,7 @@ EXCLUDED_PREFIXES = ("/plans/", "/brainstorms/", "/templates/")
 REVIEW_CYCLES = {"quarterly": 3}
 TITLE_LIMIT = 60
 DESCRIPTION_LIMIT = 165
+SITEMAP_NAMESPACE = "http://www.sitemaps.org/schemas/sitemap/0.9"
 SPECIALISED_SCHEMA = {
     "/business-resources/ai-grants-funding-australia/": {"FAQPage"},
     "/governance-templates/ai-risk-assessment-checklist/": {"FAQPage", "HowTo"},
@@ -272,8 +273,7 @@ def _subtract_months(value: date, months: int) -> date:
     month_index = value.year * 12 + value.month - 1 - months
     year, month_zero = divmod(month_index, 12)
     month = month_zero + 1
-    month_lengths = [31, 29 if year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) else 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-    return date(year, month, min(value.day, month_lengths[month - 1]))
+    return date(year, month, min(value.day, calendar.monthrange(year, month)[1]))
 
 
 def _load_sitemap(path: Path, result: ValidationResult) -> dict[str, str | None]:
@@ -282,7 +282,7 @@ def _load_sitemap(path: Path, result: ValidationResult) -> dict[str, str | None]
     except (ET.ParseError, OSError) as error:
         result.errors.append(f"{path}: cannot parse sitemap: {error}")
         return {}
-    namespace = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+    namespace = {"s": SITEMAP_NAMESPACE}
     entries: dict[str, str | None] = {}
     for element in root.findall("s:url", namespace):
         location = element.findtext("s:loc", namespaces=namespace)

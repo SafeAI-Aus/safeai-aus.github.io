@@ -155,6 +155,10 @@
 
   {# -- Connected general schema graph ------------------------------------ #}
   {% if page and page.canonical_url %}
+    {% set site_root = "https://safeaiaus.org/" %}
+    {% set organisation_id = site_root ~ "#organization" %}
+    {% set operator_id = site_root ~ "#legal-operator" %}
+    {% set website_id = site_root ~ "#website" %}
     {% set page_type = "Article" if og_type == "article" else "WebPage" %}
     {% set page_id_suffix = "#article" if page_type == "Article" else "#webpage" %}
     {% set review_status = meta["review-status"] if "review-status" in meta else none %}
@@ -164,14 +168,14 @@
       "@context": "https://schema.org",
       "@graph": [
         {
-          "@id": "https://safeaiaus.org/#organization",
+          "@id": {{ organisation_id | tojson }},
           "@type": ["Organization", "Project"],
           "name": "SafeAI-Aus",
           "alternateName": "SafeAI Australia",
-          "url": "https://safeaiaus.org/",
+          "url": {{ site_root | tojson }},
           "logo": {
             "@type": "ImageObject",
-            "url": "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
+            "url": {{ (site_root ~ "assets/safeaiaus-logo-600px.png") | tojson }}
           },
           "description": "Open-source Australian resource for practical AI safety, governance and responsible adoption.",
           "areaServed": {
@@ -199,24 +203,24 @@
             "email": "contact@safeaiaus.org",
             "contactType": "General enquiry"
           },
-          "parentOrganization": {"@id": "https://safeaiaus.org/#legal-operator"}
+          "parentOrganization": {"@id": {{ operator_id | tojson }}}
         },
         {
-          "@id": "https://safeaiaus.org/#legal-operator",
+          "@id": {{ operator_id | tojson }},
           "@type": "Organization",
           "name": "Safe AI Australia Inc",
           "legalName": "Safe AI Australia Inc",
           "description": "The incorporated not-for-profit association that operates SafeAI-Aus."
         },
         {
-          "@id": "https://safeaiaus.org/#website",
+          "@id": {{ website_id | tojson }},
           "@type": "WebSite",
           "name": "SafeAI-Aus",
           "alternateName": "SafeAI Australia",
-          "url": "https://safeaiaus.org/",
+          "url": {{ site_root | tojson }},
           "description": {{ config.site_description | tojson }},
           "inLanguage": "en-AU",
-          "publisher": {"@id": "https://safeaiaus.org/#organization"}
+          "publisher": {"@id": {{ organisation_id | tojson }}}
         },
         {
           "@id": {{ (page.canonical_url ~ page_id_suffix) | tojson }},
@@ -228,9 +232,9 @@
           "image": {{ image | tojson }},
           "inLanguage": "en-AU",
           "license": "https://creativecommons.org/licenses/by/4.0/",
-          "isPartOf": {"@id": "https://safeaiaus.org/#website"},
-          "author": {"@id": "https://safeaiaus.org/#organization"},
-          "publisher": {"@id": "https://safeaiaus.org/#organization"}{% if reviewed and review_status != "pending" %},
+          "isPartOf": {"@id": {{ website_id | tojson }}},
+          "author": {"@id": {{ organisation_id | tojson }}},
+          "publisher": {"@id": {{ organisation_id | tojson }}}{% if reviewed and review_status != "pending" %},
           "dateModified": {{ reviewed | tojson }}{% endif %}
         }
       ]

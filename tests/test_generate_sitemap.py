@@ -3,7 +3,7 @@ import unittest
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from scripts.generate_sitemap import SitemapError, generate_sitemap
+from scripts.generate_sitemap import SITEMAP_NAMESPACE, SitemapError, generate_sitemap
 
 
 def html_page(canonical: str | None, reviewed: str | None = None) -> str:
@@ -33,7 +33,7 @@ class SitemapGenerationTests(unittest.TestCase):
 
     def entries(self) -> list[tuple[str, str | None]]:
         root = ET.parse(self.output).getroot()
-        namespace = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+        namespace = {"s": SITEMAP_NAMESPACE}
         return [
             (
                 element.findtext("s:loc", namespaces=namespace) or "",
