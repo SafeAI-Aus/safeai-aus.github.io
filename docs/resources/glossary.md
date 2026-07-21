@@ -4,6 +4,7 @@ title: "AI Glossary (Australia)"
 description: "A practical glossary of key AI terms in the Australian context. Comprehensive definitions for AI safety, governance and compliance in Australia."
 keywords: "AI glossary Australia, AI terms, AI definitions, AI safety glossary, AI governance terms, Australian AI terminology, AI compliance glossary"
 last-reviewed: "2026-04-15"
+review-status: "pending"
 review-cycle: "quarterly"
 og_description: "A practical glossary of key AI terms in the Australian context"
 og_type: "article"
@@ -183,7 +184,7 @@ This glossary is published by **SafeAI-Aus** under [CC BY 4.0](https://creativec
   "name": "AI Glossary (Australia)",
   "inLanguage": "en-AU",
   "url": "https://safeaiaus.org/resources/glossary/",
-  "creator": { "@type": "Organization", "name": "SafeAI-Aus", "url": "https://safeaiaus.org" },
+  "creator": { "@id": "https://safeaiaus.org/#organization" },
   "license": "https://creativecommons.org/licenses/by/4.0/"
 }
 </script>

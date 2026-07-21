@@ -15,7 +15,7 @@ og_type: "article"
 > **Audience:** SME owners, HR/L&D teams, AI champions and technical staff | **Time:** 30-45 minutes
 
 !!! warning "Program availability changes"
-    Government programs may change eligibility, funding or availability. **Always verify current status** directly with the relevant provider before investing time in applications. Last reviewed: January 2026.
+    Government programs may change eligibility, funding or availability. **Always verify current status** directly with the relevant provider before investing time in applications.
 
 !!! info "About This Directory"
     Australian businesses often face barriers to adopting AI and other emerging technologies due to limited skills, budget and time.

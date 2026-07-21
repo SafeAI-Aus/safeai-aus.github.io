@@ -1,5 +1,36 @@
 /* SEO and UX improvements for SafeAI-Aus */
 
+/* Page-level editorial provenance */
+.page-provenance {
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    padding-top: 0.8rem;
+}
+
+.md-typeset .page-provenance__heading {
+    border: 0;
+    color: var(--md-default-fg-color--light);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    margin: 0 0 0.4rem;
+    padding: 0;
+}
+
+.page-provenance__facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.9rem;
+}
+
+.page-provenance .md-source-file__fact {
+    margin: 0;
+}
+
+.page-provenance .md-source-file__fact strong {
+    color: var(--md-default-fg-color--light);
+    font-weight: 600;
+}
+
 /* ============================================================================
    Navigation Header Styling - Match logo background
    ============================================================================ */

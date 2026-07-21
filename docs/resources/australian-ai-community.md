@@ -21,7 +21,6 @@ This page provides curated Australian and international resources for AI safety,
 
 !!! note "About this resource list"
 
-    **Last reviewed:** January 2026
     **Focus:** Australian AI community groups, digital rights organisations and relevant international AI safety resources
     **Maintenance:** Resources are periodically reviewed for accuracy. If you find broken links or outdated information, please let us know.
     **Not endorsements:** Inclusion doesn't constitute endorsement of all positions. These are starting points for your own investigation.

@@ -23,7 +23,7 @@ og_type: "article"
 AI is reshaping industries across Australia. To support businesses in responsibly adopting and scaling AI, a mix of government grants, research programs and industry‑backed accelerators are available. This article provides a consolidated overview of the most relevant opportunities for Australian businesses today.
 
 !!! warning "Program status changes frequently"
-    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application. Last reviewed: April 2026.
+    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application.
 
 ---
 
@@ -332,60 +332,6 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 
 ---
 
-<!-- JSON-LD: Article schema for crawlers and LLMs -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "AI Grants and Funding Opportunities for Australian Businesses",
-  "description": "Discover 11+ free AI learning resources for Australian SMEs. Access government programs, university courses, and open-source training to build AI capability and stay competitive.",
-  "author": {
-    "@type": "Organization",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-    }
-  },
-  "datePublished": "2025-01-27",
-  "dateModified": "2025-01-27",
-  "inLanguage": "en-AU",
-  "url": "https://safeaiaus.org/business-resources/ai-grants-funding-australia/",
-  "mainEntityOfPage": "https://safeaiaus.org/business-resources/ai-grants-funding-australia/",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "AI Funding",
-      "description": "Financial support programs for AI adoption in Australian businesses"
-    },
-    {
-      "@type": "Thing",
-      "name": "AI Grants Australia",
-      "description": "Government and industry grants for AI projects and development"
-    },
-    {
-      "@type": "Thing",
-      "name": "AI Business Support",
-      "description": "Resources and programs supporting AI implementation in Australian businesses"
-    }
-  ],
-  "keywords": "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding",
-  "articleSection": "Business Resources",
-  "wordCount": "2500"
-}
-</script>
 
 ---
 

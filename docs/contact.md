@@ -3,7 +3,7 @@ icon: lucide/mail
 title: "Contact SafeAI-Aus"
 description: "How to connect with the SafeAI-Aus community and get involved in our open-source AI safety initiative"
 keywords: "SafeAI-Aus contact, AI community Australia, open source AI governance, AI safety Australia, contribute AI safety, AI governance templates"
-last-reviewed: "2026-04-15"
+last-reviewed: "2026-07-21"
 review-cycle: "quarterly"
 og_type: "website"
 permalink: /contact/
@@ -15,7 +15,7 @@ SafeAI-Aus is an open-source, community-driven initiative.
 
 We share resources to help Australian organisations adopt AI safely and in line with global standards.  
 
-We're not a company — just a group of contributors who believe in practical, open resources for AI governance. 
+SafeAI-Aus is operated by Safe AI Australia Inc, an incorporated not-for-profit association. SafeAI-Aus is the public initiative and publisher of the resources on this site.
 
 If you'd like to contribute, suggest ideas, or just say hello, here's how you can reach us:  
 
@@ -23,6 +23,8 @@ If you'd like to contribute, suggest ideas, or just say hello, here's how you ca
 
 ## Email
 Community inbox: [contact@safeaiaus.org](mailto:contact@safeaiaus.org)
+
+You can also use this address to report a correction or outdated source. Our review and correction process is explained in the [editorial methodology](../about/#editorial-methodology).
 
 ## Join the community
 - Contribute on GitHub: [SafeAI-Aus Repository](https://github.com/safeai-aus/safeai-aus.github.io)

@@ -6,6 +6,8 @@
 
 SafeAI-Aus is Australia's open-source resource for practical AI governance and strategic preparedness. We provide adaptable tools, open guidance and planning resources for responsible AI adoption and for managing risks from increasingly capable AI systems.
 
+SafeAI-Aus is the publisher of this knowledge base. SafeAI-Aus is operated by Safe AI Australia Inc, an incorporated not-for-profit association.
+
 - **Website:** https://safeaiaus.org
 - **License:** CC BY 4.0 (attribution required)
 - **Focus:** Australian AI governance, responsible adoption, assurance, resilience, and advanced AI and AGI preparedness
@@ -137,4 +139,4 @@ Agents can poll `/updates.json` to discover what has changed since their last vi
 - GitHub: github.com/safeai-aus/safeai-aus.github.io
 
 ---
-Last updated: 2026-07-18
+Last updated: 2026-07-21

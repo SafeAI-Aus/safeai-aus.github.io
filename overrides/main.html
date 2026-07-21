@@ -153,6 +153,91 @@
     {% endif %}
   {% endif %}
 
+  {# -- Connected general schema graph ------------------------------------ #}
+  {% if page and page.canonical_url %}
+    {% set page_type = "Article" if og_type == "article" else "WebPage" %}
+    {% set page_id_suffix = "#article" if page_type == "Article" else "#webpage" %}
+    {% set review_status = meta["review-status"] if "review-status" in meta else none %}
+    {% set reviewed = meta["last-reviewed"] if "last-reviewed" in meta else none %}
+    <script id="safeai-general-schema" type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://safeaiaus.org/#organization",
+          "@type": ["Organization", "Project"],
+          "name": "SafeAI-Aus",
+          "alternateName": "SafeAI Australia",
+          "url": "https://safeaiaus.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
+          },
+          "description": "Open-source Australian resource for practical AI safety, governance and responsible adoption.",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Australia"
+          },
+          "knowsAbout": [
+            "AI Safety",
+            "AI Governance",
+            "AI Risk Assessment",
+            "AI Compliance",
+            "Australian AI Standards",
+            "AI Policy Templates",
+            "AI Safety Guardrails",
+            "AI Ethics",
+            "Responsible AI"
+          ],
+          "sameAs": [
+            "https://github.com/safeai-aus/safeai-aus.github.io",
+            "https://twitter.com/safeai_aus",
+            "https://www.linkedin.com/company/safeai-aus"
+          ],
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "email": "contact@safeaiaus.org",
+            "contactType": "General enquiry"
+          },
+          "parentOrganization": {"@id": "https://safeaiaus.org/#legal-operator"}
+        },
+        {
+          "@id": "https://safeaiaus.org/#legal-operator",
+          "@type": "Organization",
+          "name": "Safe AI Australia Inc",
+          "legalName": "Safe AI Australia Inc",
+          "description": "The incorporated not-for-profit association that operates SafeAI-Aus."
+        },
+        {
+          "@id": "https://safeaiaus.org/#website",
+          "@type": "WebSite",
+          "name": "SafeAI-Aus",
+          "alternateName": "SafeAI Australia",
+          "url": "https://safeaiaus.org/",
+          "description": {{ config.site_description | tojson }},
+          "inLanguage": "en-AU",
+          "publisher": {"@id": "https://safeaiaus.org/#organization"}
+        },
+        {
+          "@id": {{ (page.canonical_url ~ page_id_suffix) | tojson }},
+          "@type": {{ page_type | tojson }},
+          {% if page_type == "Article" %}"headline": {{ title | tojson }},{% else %}"name": {{ title | tojson }},{% endif %}
+          "url": {{ page.canonical_url | tojson }},
+          "mainEntityOfPage": {"@id": {{ page.canonical_url | tojson }}},
+          "description": {{ description | tojson }},
+          "image": {{ image | tojson }},
+          "inLanguage": "en-AU",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "isPartOf": {"@id": "https://safeaiaus.org/#website"},
+          "author": {"@id": "https://safeaiaus.org/#organization"},
+          "publisher": {"@id": "https://safeaiaus.org/#organization"}{% if reviewed and review_status != "pending" %},
+          "dateModified": {{ reviewed | tojson }}{% endif %}
+        }
+      ]
+    }
+    </script>
+  {% endif %}
+
 {% endblock %}
 
 {% block footer %}
@@ -195,6 +280,12 @@
       color: var(--md-accent-fg-color);
     }
 
+    .md-footer-operator {
+      color: var(--md-footer-fg-color--light);
+      font-size: 0.64rem;
+      margin: 0.35rem 0 0;
+    }
+
     @media screen and (max-width: 30em) {
       .md-footer-custom-nav__inner {
         padding: 1rem 0.75rem;
@@ -215,6 +306,7 @@
       <div class="md-footer-custom-nav__inner">
         <nav class="md-footer-custom-links" aria-label="Footer navigation">
           <a href="{{ base_url }}/about/">About</a>
+          <a href="{{ base_url }}/about/#editorial-methodology">Editorial methodology</a>
           <a href="{{ base_url }}/contact/">Contact</a>
           <a href="{{ base_url }}/newsletter/">Newsletter</a>
         </nav>
@@ -224,6 +316,7 @@
       <div class="md-footer-meta__inner md-grid">
         <div class="md-copyright">
           {{ config.copyright }}
+          <p class="md-footer-operator">SafeAI-Aus is operated by Safe AI Australia Inc, an incorporated not-for-profit association.</p>
         </div>
         <div class="md-social">
           {% for social in config.extra.social %}

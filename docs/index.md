@@ -4,6 +4,7 @@ title: "SafeAI-Aus: Australia's AI Safety Resource"
 description: "Practical tools, open standards and trusted guidance for Australian businesses adopting AI safely. Free governance templates, risk assessments and compliance checklists."
 keywords: "AI safety, Australian AI standards, AI governance, AI risk assessment, AI compliance, AI safety templates, Australian business AI, AI safety Australia, AI governance templates, AI risk management, free AI templates, responsible AI Australia, AI policy Australia, AI for small business"
 last-reviewed: "2026-04-15"
+review-status: "pending"
 review-cycle: "quarterly"
 og_description: "Practical tools, open standards and trusted guidance for Australian businesses adopting AI safely"
 preload_image: "assets/hero-background-v3.webp"
@@ -195,25 +196,3 @@ All content is freely available, adaptable and community-contributed.
 [Learn More About Our Mission :material-arrow-right:](about.md){ .md-button }
 
 </div>
-
-<!-- JSON-LD schemas remain the same -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "SafeAI-Aus",
-  "alternateName": "SafeAI Australia",
-  "url": "https://safeaiaus.org/",
-  "description": "Australia's AI safety resource — practical tools, open standards and trusted guidance for responsible AI adoption.",
-  "inLanguage": "en-AU",
-  "publisher": {
-    "@type": "Organization",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-    }
-  }
-}
-</script>
