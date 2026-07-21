@@ -1,7 +1,7 @@
 ---
 icon: lucide/shield-alert
-title: "C·A·G·R Framework - AGI Safety & Governance Framework"
-description: "The Containment, Alignment, Governance, Resilience (C·A·G·R) framework helps Australian organisations manage advanced AI and AGI risks using defence-in-depth principles."
+title: "C·A·G·R - AI Safety & Governance Framework"
+description: "The C·A·G·R framework helps Australian organisations manage advanced AI and AGI risks through containment, alignment, governance and resilience."
 keywords: "CAGR framework, AGI safety framework, AI governance framework Australia, defence in depth AI, AI containment, AI alignment, AI resilience, advanced AI risk management, AI safety Australia"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"

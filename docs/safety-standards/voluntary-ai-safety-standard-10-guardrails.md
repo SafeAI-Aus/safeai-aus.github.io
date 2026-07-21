@@ -1,7 +1,7 @@
 ---
 icon: lucide/shield-check
 title: "Voluntary AI Safety Standard (10 Guardrails)"
-description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails for safe AI adoption. Includes implementation guidance for SMEs and large organisations."
+description: "Australia's Voluntary AI Safety Standard explained through 10 practical guardrails for safer AI adoption and governance."
 keywords: "Australian AI safety standard, AI guardrails, AI safety framework, voluntary AI standards, AI risk management, AI governance Australia, AI safety compliance, AI safety guardrails, Australian AI standards, AI safety best practices"
 last-reviewed: "2026-04-15"
 review-status: "pending"

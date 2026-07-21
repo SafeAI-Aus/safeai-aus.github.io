@@ -1,6 +1,6 @@
 ---
 icon: lucide/globe
-title: "AI Information Ecosystem Scenario - Democracy and Misinformation"
+title: "AI, Democracy & Information Ecosystem Risks"
 description: "How AI could degrade information ecosystems and threaten democracy. Deepfakes, synthetic media and AI-powered misinformation at scale explored."
 keywords: "AI misinformation, AI deepfakes, AI democracy threat, synthetic media, AI propaganda, information ecosystem, AI manipulation, AI trust"
 last-reviewed: "2026-07-18"

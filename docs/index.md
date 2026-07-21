@@ -1,7 +1,7 @@
 ---
 icon: lucide/home
-title: "SafeAI-Aus: Australia's AI Safety Resource"
-description: "Practical tools, open standards and trusted guidance for Australian businesses adopting AI safely. Free governance templates, risk assessments and compliance checklists."
+title: "Australia's AI Safety Resource"
+description: "Practical tools, open standards and trusted guidance for Australian businesses adopting AI safely, including governance templates and risk assessments."
 keywords: "AI safety, Australian AI standards, AI governance, AI risk assessment, AI compliance, AI safety templates, Australian business AI, AI safety Australia, AI governance templates, AI risk management, free AI templates, responsible AI Australia, AI policy Australia, AI for small business"
 last-reviewed: "2026-04-15"
 review-status: "pending"

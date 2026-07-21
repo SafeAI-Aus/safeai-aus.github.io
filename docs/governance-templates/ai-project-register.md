@@ -1,7 +1,7 @@
 ---
 icon: lucide/folder-kanban
 title: "AI Project Register Template"
-description: "Comprehensive AI project register template for Australian businesses. Centralised tracking of AI initiatives, compliance status and governance oversight aligned with safety standards."
+description: "AI project register template for Australian businesses to track initiatives, governance responsibilities, risks and review status."
 keywords: "AI project register template, AI project tracking, AI governance tracking, AI compliance register, AI project management, Australian AI safety, AI project oversight"
 last-reviewed: "2026-04-15"
 review-status: "pending"

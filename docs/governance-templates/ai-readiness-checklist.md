@@ -1,7 +1,7 @@
 ---
 icon: lucide/clipboard-check
-title: "AI Readiness Checklist for Australian Businesses"
-description: "Comprehensive AI readiness checklist for Australian businesses. Assess your organisation's preparedness for safe, responsible and effective AI adoption with our step-by-step evaluation tool."
+title: "Australian Business AI Readiness Checklist"
+description: "AI readiness checklist for Australian businesses to assess preparedness for safe, responsible and effective AI adoption."
 keywords: "AI readiness checklist, Australian business AI, AI adoption checklist, AI governance checklist, AI safety checklist, AI risk assessment, AI readiness assessment, Australian AI standards, AI implementation checklist, free AI checklist"
 last-reviewed: "2026-04-15"
 review-status: "pending"
