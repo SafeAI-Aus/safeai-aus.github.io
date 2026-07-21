@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from datetime import date
 from pathlib import Path
 
-from scripts.validate_seo import validate_project
+from scripts.validate_seo import _normalise_non_substantive_body, validate_project
 
 
 ORG_ID = "https://safeaiaus.org/#organization"
@@ -204,6 +204,15 @@ class SeoValidationTests(unittest.TestCase):
 
         self.assertTrue(any("last-reviewed" in error for error in result.errors))
         self.assertTrue(any("title" in error.lower() and "60" in error for error in result.errors))
+
+    def test_review_label_cleanup_is_not_treated_as_substantive(self) -> None:
+        old = "Always verify current status. Last reviewed: April 2026.\n*Last updated: 6 July 2026. This is not legal advice.*\n**Last reviewed:** January 2026\n**Focus:** Australia"
+        new = "Always verify current status.\n*This is not legal advice.*\n**Focus:** Australia"
+
+        self.assertEqual(
+            _normalise_non_substantive_body(old),
+            _normalise_non_substantive_body(new),
+        )
 
 
 if __name__ == "__main__":

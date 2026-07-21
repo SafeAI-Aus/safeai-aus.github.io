@@ -408,7 +408,18 @@ def _normalise_non_substantive_body(body: str) -> str:
         flags=re.DOTALL,
     )
     body = re.sub(r"<script[^>]*type=[\"']application/ld\+json[\"'][^>]*>.*?</script>", "", body, flags=re.DOTALL)
-    body = re.sub(r"^.*\bLast (?:reviewed|updated):.*$", "", body, flags=re.MULTILINE | re.IGNORECASE)
+    body = re.sub(
+        r"\*\*Last (?:reviewed|updated):\*\*\s*[^.\n]+\.?\s*",
+        "",
+        body,
+        flags=re.IGNORECASE,
+    )
+    body = re.sub(
+        r"\bLast (?:reviewed|updated):\s*[^.\n]+\.?\s*",
+        "",
+        body,
+        flags=re.IGNORECASE,
+    )
     return " ".join(body.split())
 
 
