@@ -1,7 +1,7 @@
 ---
 icon: lucide/bot
 title: "Agent-Readable Resources for AI Systems"
-description: "Machine-readable files for AI agents to monitor Australian AI governance updates, check usage policies, and discover governance and advanced AI preparedness resources."
+description: "Machine-readable files for AI agents to monitor Australian AI updates, check usage policies and discover governance and advanced AI preparedness resources."
 keywords: "AI agent resources, machine-readable AI governance, llms.txt, updates feed, AI compliance monitoring, AGI preparedness, C·A·G·R framework, Australian AI updates"
 last-reviewed: "2026-07-18"
 review-cycle: "quarterly"

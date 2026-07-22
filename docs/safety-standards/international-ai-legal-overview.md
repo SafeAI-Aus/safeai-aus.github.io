@@ -1,6 +1,6 @@
 ---
 icon: lucide/globe
-title: "International AI Legal Landscape (2026) — What Australian Businesses Should Know"
+title: "International AI Legal Landscape (2026)"
 description: "Comprehensive overview of international AI regulations and legal frameworks that Australian businesses need to understand for global operations and compliance."
 keywords: "international AI law, EU AI Act, US AI regulation, global AI compliance, AI legal landscape, Australian businesses abroad, AI regulation 2026"
 last-reviewed: "2026-07-06"
@@ -14,7 +14,7 @@ og_type: "article"
 > **Purpose:** Navigate international AI regulations affecting Australian organisations operating globally
 > **Audience:** Legal, compliance, international business and governance teams | **Time:** 60-90 minutes
 
-*Last updated: 6 July 2026. This page is informational and not legal advice.*
+*This page is informational and not legal advice.*
 
 !!! note "Rapidly evolving landscape"
     International AI regulations are changing fast. The European Parliament adopted the **Digital Omnibus on AI** on **16 June 2026** (423 to 57, 174 abstentions), followed by the Council of the EU on **29 June 2026**. Official Journal publication and entry into force remain pending; the revised high-risk AI dates have been adopted but are not yet legally effective. South Korea's AI Basic Act took effect in January 2026 with implementing rules still emerging. Canada's AIDA died on the Order Paper and any replacement may differ substantially. Always verify current status with official sources before making compliance decisions.

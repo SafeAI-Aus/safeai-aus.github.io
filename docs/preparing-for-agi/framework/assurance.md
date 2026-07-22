@@ -1,6 +1,6 @@
 ---
 icon: lucide/shield-check
-title: "AGI Assurance - Evidence for Advanced AI Preparedness"
+title: "AGI Assurance - Evidence for Preparedness"
 description: "How Australian organisations can seek evidence, testing and accountability for advanced-AI preparedness using the C·A·G·R framework."
 keywords: "AGI assurance, AI safety evidence, advanced AI testing, AI preparedness verification, C·A·G·R assurance, AI safety auditing"
 last-reviewed: "2026-07-18"

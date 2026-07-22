@@ -1,0 +1,51 @@
+{#-
+  SafeAI-Aus provenance override.
+  Based on Zensical 0.0.32 templates/partials/source-file.html; compare this
+  vendored override when upgrading Zensical.
+-#}
+{% set meta = page.meta if page and page.meta else {} %}
+{% set review_status = meta["review-status"] if "review-status" in meta else none %}
+{% set reviewed = meta["last-reviewed"] if "last-reviewed" in meta else none %}
+{% set review_cycle = meta["review-cycle"] if "review-cycle" in meta else none %}
+
+{% macro render_reviewed_date(value) %}
+  {% set month_number = value[5:7] %}
+  {% if month_number == "01" %}{% set month = "January" %}
+  {% elif month_number == "02" %}{% set month = "February" %}
+  {% elif month_number == "03" %}{% set month = "March" %}
+  {% elif month_number == "04" %}{% set month = "April" %}
+  {% elif month_number == "05" %}{% set month = "May" %}
+  {% elif month_number == "06" %}{% set month = "June" %}
+  {% elif month_number == "07" %}{% set month = "July" %}
+  {% elif month_number == "08" %}{% set month = "August" %}
+  {% elif month_number == "09" %}{% set month = "September" %}
+  {% elif month_number == "10" %}{% set month = "October" %}
+  {% elif month_number == "11" %}{% set month = "November" %}
+  {% elif month_number == "12" %}{% set month = "December" %}
+  {% else %}{% set month = month_number %}
+  {% endif %}
+  {{ value[8:10] | int }} {{ month }} {{ value[0:4] }}
+{% endmacro %}
+
+{% if page %}
+  <aside class="md-source-file page-provenance" aria-labelledby="page-provenance-heading" data-seo-provenance>
+    <h2 id="page-provenance-heading" class="page-provenance__heading">Page provenance</h2>
+    <div class="page-provenance__facts">
+      <span class="md-source-file__fact"><strong>Published by:</strong> SafeAI-Aus</span>
+      {% if review_status == "pending" %}
+        <span class="md-source-file__fact">Substantive review pending</span>
+      {% elif reviewed %}
+        <span class="md-source-file__fact">
+          <strong>Last reviewed:</strong>
+          <time datetime="{{ reviewed }}" data-seo-last-reviewed>{{ render_reviewed_date(reviewed) | trim }}</time>
+        </span>
+        {% if review_cycle %}
+          <span class="md-source-file__fact"><strong>Review cycle:</strong> {{ review_cycle | capitalize }}</span>
+        {% endif %}
+      {% endif %}
+      <span class="md-source-file__fact">
+        <a href="{{ base_url }}/about/#editorial-methodology">Editorial methodology</a>
+      </span>
+    </div>
+  </aside>
+{% endif %}

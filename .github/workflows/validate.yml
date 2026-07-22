@@ -1,0 +1,56 @@
+name: Validate site
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run unit tests
+        run: python -m unittest discover -s tests
+      - name: Validate headings
+        run: python scripts/validate_headings.py
+      - name: Build site
+        run: zensical build --strict
+      - name: Enrich breadcrumb schema
+        run: python scripts/enrich_breadcrumb_schema.py --site site
+      - name: Generate sitemap.xml
+        run: python scripts/generate_sitemap.py --site site --output site/sitemap.xml
+      - name: Generate updates.json
+        run: python scripts/generate_updates.py
+      - name: Copy root-level files
+        run: |
+          cp robots.txt site/
+          cp llms.txt site/
+          cp llms-full.txt site/
+      - name: Validate SEO contract
+        run: >-
+          python scripts/validate_seo.py
+          --docs docs
+          --site site
+          --sitemap site/sitemap.xml
+          --base-ref ${{ github.event.pull_request.base.sha }}
+      - name: Verify required files
+        run: |
+          test -f site/index.html
+          test -f site/sitemap.xml
+          test -f site/robots.txt
+          test -f site/llms.txt
+          test -f site/llms-full.txt
+          test -f site/updates.json
