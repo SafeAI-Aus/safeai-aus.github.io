@@ -3,8 +3,7 @@ icon: lucide/shield-check
 title: "Voluntary AI Safety Standard (10 Guardrails)"
 description: "Australia's Voluntary AI Safety Standard explained through 10 practical guardrails for safer AI adoption and governance."
 keywords: "Australian AI safety standard, AI guardrails, AI safety framework, voluntary AI standards, AI risk management, AI governance Australia, AI safety compliance, AI safety guardrails, Australian AI standards, AI safety best practices"
-last-reviewed: "2026-04-15"
-review-status: "pending"
+last-reviewed: "2026-07-22"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails"
 og_type: "article"
@@ -15,28 +14,28 @@ og_type: "article"
 > **Purpose:** Detailed control catalogue for implementing Australia's 10 AI safety guardrails
 > **Audience:** Governance, risk, compliance and technical teams | **Time:** 45-60 minutes for full review
 
-Australia's **Voluntary AI Safety Standard (VAISS)** provides ten practical guardrails organisations can adopt now to deploy and use AI safely and responsibly.  
+Australia's **Voluntary AI Safety Standard (VAISS)** provides 10 practical guardrails organisations can adopt to develop, deploy and use AI safely and responsibly.
 
-The standard was developed by the Department of Industry, Science and Resources (DISR) and first published in November 2023. In 2024, the guardrails were updated following consultation to align more closely with the Government’s proposed mandatory guardrails for high-risk AI applications.  
+The National AI Centre, within the Department of Industry, Science and Resources, published VAISS on **5 September 2024**. The Department updated the online publication in December 2025 to point readers to the newer Guidance for AI Adoption.
 
-The standard is **voluntary** and complements existing Australian law. It provides a practical framework for organisations to manage AI safely while future regulation is considered.  
+The standard is **voluntary** and does not create new legal duties. It complements existing Australian law by helping organisations identify risks, controls and relevant obligations.
 
 Importantly, the 10 guardrails are consistent with leading international standards and frameworks, including:
 
 - [**ISO/IEC 42001:2023** – AI Management System Standard](https://www.iso.org/standard/81230.html)
 - [**NIST AI Risk Management Framework 1.0**](https://www.nist.gov/itl/ai-risk-management-framework)
 
-!!! info "Status Update (October 2025)"
-    In October 2025 the National AI Centre released the **Guidance for AI Adoption**, which sets out 6 essential practices (AI6) for responsible AI governance and adoption. This guidance is described as the **first update of the Voluntary AI Safety Standard (VAISS)** and is now the primary reference for organisations using AI in Australia.
+!!! info "Current status"
+    On 21 October 2025 the National AI Centre released the **Guidance for AI Adoption**, which sets out 6 essential practices (AI6) for responsible AI governance and adoption. The Department describes it as updated and simplified guidance that **evolves VAISS**.
 
-    The 10 guardrails on this page remain fully integrated into the new guidance and are best used as a **detailed control set** and historical reference, especially where contracts, risk registers or external frameworks still refer to the original VAISS guardrails.
+    The AI6 implementation guidance includes an appendix that maps the original VAISS controls to the new practices. The 10 guardrails are best used as a **detailed control set** and historical reference, especially where contracts, risk registers or external frameworks still refer to VAISS.
 
-    **VAISS v2 update (as of June 2026):** The Expression of Interest for VAISS v2 consultations (consult.industry.gov.au) opened 15 December 2024 and closed 10 January 2025; consultation sessions ran January–February 2025. No standalone VAISS v2 document was published. The planned additions (content labelling and watermarking guidance, developer-facing guardrails, procurement guidance) were incorporated into the AI6 Implementation Practices document (October 2025). The AI6 guidance is the current authoritative reference; no further standalone VAISS v2 release is expected.
+    A consultation process for a proposed **VAISS v2** ran in early 2025. As at 22 July 2026, the Government's publication catalogue does not contain a standalone VAISS v2. Use the published AI6 guidance for current implementation work and the original VAISS guardrails where a detailed or legacy mapping is useful.
 
 !!! warning "Australian Standards for AI framework announced — July 2026"
     On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not withdraw or make the VAISS guardrails mandatory. Organisations can continue using these guardrails and AI6 as non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
 
-<!-- TODO: Human verification required before publication: confirm the proposed standards' scope and timetable against the latest PM&C and National Cabinet material. -->
+<!-- TODO: Recheck the scope and timetable after National Cabinet considers the proposed standards in August 2026. -->
 
 ## Why this matters
 
@@ -44,20 +43,21 @@ Adopting the guardrails early helps organisations build **trust, resilience and 
 
 - 🛡️ Reduce risks from bias, errors and misuse of AI
 - 🤝 Strengthen transparency and customer confidence
-- 🚀 Position themselves ahead of future mandatory compliance requirements
+- 🚀 Build evidence of systematic AI governance and risk management
 - ⭐ Demonstrate leadership in responsible AI adoption  
 
-## The 10 Guardrails
-1. Establish, implement and publish an accountability process
-2. Establish and implement a risk management process
-3. Protect AI systems and implement data governance measures
-4. Test AI models and systems
-5. Enable human control or intervention
-6. Inform end-users regarding AI-enabled decisions
-7. Establish processes for people to challenge use or outcomes
-8. Be transparent with other organisations across the AI supply chain
-9. Keep and maintain records
-10. Engage your stakeholders and evaluate their needs  
+## The 10 guardrails
+
+1. Establish, implement and publish an accountability process, including governance, internal capability and a strategy for regulatory compliance.
+2. Establish and implement a risk management process to identify and mitigate risks.
+3. Protect AI systems, and implement data governance measures to manage data quality and provenance.
+4. Test AI models and systems to evaluate model performance and monitor the system once deployed.
+5. Enable human control or intervention in an AI system to achieve meaningful human oversight across the life cycle.
+6. Inform end users about AI-enabled decisions, interactions with AI and AI-generated content.
+7. Establish processes for people impacted by AI systems to challenge use or outcomes.
+8. Be transparent with other organisations across the AI supply chain about data, models and systems so they can address risks.
+9. Keep and maintain records to allow third parties to assess compliance with the guardrails.
+10. Engage stakeholders and evaluate their needs and circumstances, with a focus on safety, diversity, inclusion and fairness.
 
 !!! success "What the guardrails do"
     - ✅ Encourage **transparency and accountability** for AI systems
@@ -67,16 +67,16 @@ Adopting the guardrails early helps organisations build **trust, resilience and 
 
 ## How this maps to the 6 essential practices (AI6)
 
-The Guidance for AI Adoption condenses the 10 VAISS guardrails into 6 essential practices. At a high level:
+The Guidance for AI Adoption condenses the 10 VAISS guardrails into 6 essential practices. The table below is a practical SafeAI-Aus summary, not a substitute for the detailed crosswalk in the [official AI6 implementation guidance](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance).
 
 | AI6 practice                         | Closest VAISS guardrails and themes                            |
 |-------------------------------------|-----------------------------------------------------------------|
-| Decide who is accountable           | 1. Establish accountability; 9. Maintain records                |
-| Understand impacts and plan accordingly | 2. Implement risk management; 7. Monitor impacts; 10. Support human autonomy |
-| Measure and manage risks            | 2. Implement risk management; 3. Protect data                   |
-| Share essential information         | 4. Ensure transparency; 8. Ensure accountability in the supply chain; elements of 7 and 10 |
-| Test and monitor                    | 6. Test reliability; 7. Monitor impacts                         |
-| Maintain human control              | 5. Enable human control; 10. Support human autonomy             |
+| Decide who is accountable           | 1. Accountability; 9. Records                                   |
+| Understand impacts and plan accordingly | 2. Risk management; 7. Challenge processes; 10. Stakeholder engagement |
+| Measure and manage risks            | 2. Risk management; 3. System and data protection               |
+| Share essential information         | 6. End-user information; 8. Supply-chain transparency; 9. Records |
+| Test and monitor                    | 3. System and data protection; 4. Testing and monitoring        |
+| Maintain human control              | 5. Human control; 7. Challenge processes                        |
 
 !!! tip "How to use this mapping"
     - 📊 Use **AI6** as your top-level framework when explaining AI governance to boards, executives and regulators
@@ -84,153 +84,116 @@ The Guidance for AI Adoption condenses the 10 VAISS guardrails into 6 essential 
         - building or updating AI policies and standards
         - designing AI risk assessments and risk registers
         - writing contractual clauses and supplier questionnaires
-    - 🔗 Where you see references to "VAISS" or "guardrails" in external documents, you can confidently interpret them through this AI6 lens
+    - 🔗 Check the official AI6 crosswalk before claiming exact equivalence between a VAISS control and an AI6 action
 
 !!! tip "How to use this in your business"
-    1. ✅ Adopt the 10 guardrails as acceptance criteria for any AI initiative
+    1. ✅ Assess each AI initiative against all 10 guardrails and apply controls proportionate to its risks
     2. 📝 Update policies and procurement to reflect supplier alignment with the guardrails
     3. 🔄 Integrate testing, documentation and oversight into your normal change-management
     4. 📅 Review systems at least annually or on material change
 
 ---
 
-## SME-Scaled Implementation Approach
+## SME-scaled implementation approach
 
-While the 10 guardrails apply to all organisations, SMEs can adopt them at different maturity levels:
+While the 10 guardrails apply to all organisations, SMEs can adopt them at different maturity levels. The levels below are a practical SafeAI-Aus scaling model, not part of the official VAISS.
 
-**Guardrail 1: Establish, implement and publish an accountability process** 
+**Guardrail 1: Establish, implement and publish an accountability process**
 
 - *Minimum:* Designate an AI responsible person  
 - *Better:* Create simple AI governance policy  
 - *Best:* Regular board/leadership AI updates  
 
-**Guardrail 2: Establish and implement a risk management process**  
+**Guardrail 2: Establish and implement a risk management process**
 
-- *Minimum:* Use SAAM risk assessment tool  
-- *Better:* Quarterly risk reviews  
-- *Best:* Integrated risk management system  
+- *Minimum:* Complete a documented AI risk and impact assessment
+- *Better:* Review risks on material change and at a defined cadence
+- *Best:* Integrate AI risks and controls into enterprise risk management
 
-**Guardrail 3: Protect AI systems and implement data governance measures** 
+**Guardrail 3: Protect AI systems and implement data governance measures**
 
-- *Minimum:* Follow existing cybersecurity practices  
-- *Better:* AI-specific data controls  
-- *Best:* Enhanced encryption and access controls  
+- *Minimum:* Apply existing privacy, cybersecurity and data governance controls
+- *Better:* Add controls for AI-specific data, model and prompt risks
+- *Best:* Verify data provenance, access controls and security measures throughout the AI life cycle
 
 **Guardrail 4: Test AI models and systems**
 
-- *Minimum:* Pre-deployment testing
-- *Better:* Monthly performance monitoring
-- *Best:* Continuous testing and validation  
+- *Minimum:* Test against documented acceptance criteria before deployment
+- *Better:* Monitor performance and review after incidents or material changes
+- *Best:* Use ongoing, risk-proportionate evaluation and independent review where warranted
 
-**Guardrail 5: Enable human control or intervention** 
+**Guardrail 5: Enable human control or intervention**
 
-- *Minimum:* Override capability for all AI decisions  
-- *Better:* Human review of significant decisions  
-- *Best:* Human-in-the-loop for all critical processes  
+- *Minimum:* Define when and how a person can pause, override or escalate the system
+- *Better:* Require meaningful human review for significant decisions
+- *Best:* Design and test risk-proportionate human oversight across the life cycle
 
 **Guardrail 6: Inform end-users regarding AI-enabled decisions**
 
-- *Minimum:* "Powered by AI" labels
-- *Better:* Explain AI role in decisions
-- *Best:* Full algorithmic transparency  
+- *Minimum:* Tell people when they interact with AI or receive AI-generated content
+- *Better:* Explain the AI system's role, capabilities and limitations in plain language
+- *Best:* Tailor accessible explanations and disclosures to affected stakeholder needs and risk
 
 **Guardrail 7: Establish processes for people to challenge use or outcomes**
 
-- *Minimum:* Complaint email or form
-- *Better:* Documented appeal process
-- *Best:* Independent review mechanism  
+- *Minimum:* Provide a channel to question or complain about AI use or outcomes
+- *Better:* Document response, escalation and correction processes
+- *Best:* Offer review independent of the original AI-assisted decision where the risk warrants it
 
 **Guardrail 8: Be transparent with other organisations across the AI supply chain**
 
-- *Minimum:* Vendor compliance check  
-- *Better:* Contractual AI requirements  
-- *Best:* Regular vendor audits  
+- *Minimum:* Ask suppliers for system purpose, limitations, data and testing information
+- *Better:* Put information-sharing and incident obligations in contracts
+- *Best:* Use ongoing assurance or audit for material suppliers and higher-risk systems
 
 **Guardrail 9: Keep and maintain records**
 
-- *Minimum:* Keep AI decision logs  
-- *Better:* Comprehensive documentation  
-- *Best:* Automated compliance reporting  
+- *Minimum:* Maintain an AI inventory with an owner, purpose, risk rating and review date
+- *Better:* Record assessments, controls, tests, incidents and approvals
+- *Best:* Maintain evidence proportionate to external assurance and regulatory needs
 
 **Guardrail 10: Engage your stakeholders and evaluate their needs**
 
-- *Minimum:* Stakeholder consultation at design
-- *Better:* Regular stakeholder feedback loops
-- *Best:* Co-design with diverse stakeholder groups  
-
----
-
-## Summary Table
-
-| Guardrail                        | Minimum Requirement                        | Better Practice                         | Best Practice                                      |
-|----------------------------------|--------------------------------------------|-----------------------------------------|---------------------------------------------------|
-| **1. Establish accountability**  | Designate responsible person                | Simple governance policy                 | Regular board/leadership AI updates                |
-| **2. Risk management**           | Use SAAM risk tool                         | Quarterly reviews                        | Integrated risk management system                  |
-| **3. Protect data**              | Follow cybersecurity basics                 | AI-specific controls                     | Enhanced encryption & access controls              |
-| **4. Transparency**              | “Powered by AI” labels                      | Explain role in decisions                | Full algorithmic transparency                      |
-| **5. Human control**             | Override capability                         | Human review of major decisions          | Human-in-the-loop for critical processes           |
-| **6. Reliability testing**       | Pre-deployment testing                      | Monthly monitoring                       | Continuous testing & validation                    |
-| **7. Monitor impacts**           | Track errors & complaints                   | Proactive assessments                    | Real-time monitoring dashboards                    |
-| **8. Supply chain accountability** | Vendor compliance check                   | Contractual AI requirements              | Regular vendor audits                              |
-| **9. Maintain records**          | Keep decision logs                          | Comprehensive documentation              | Automated compliance reporting                     |
-| **10. Human autonomy**           | Opt-out options                             | User control preferences                 | Full user agency over interactions                 |
+- *Minimum:* Identify people and groups who may be affected
+- *Better:* Seek feedback during design, deployment and review
+- *Best:* Use inclusive engagement or co-design where impacts or stakeholder needs warrant it
 
 ---
 
 ## Regulatory outlook and the future of the guardrails
 
-As at December 2025, the position on AI-specific regulation in Australia has shifted.
+As at 22 July 2026, Australia still has no general AI Act and VAISS remains voluntary.
 
-The **National AI Plan** confirms that the Government will, for now, rely on **existing technology-neutral laws and sector regulators** (for example, privacy, consumer law, financial services, safety, anti-discrimination) to manage AI-related harms. Earlier proposals to introduce standalone mandatory guardrails and a dedicated AI Act for high-risk AI applications have been **paused**.
+The **National AI Plan** retains **existing technology-neutral laws and sector regulators** — including privacy, consumer law, financial services, safety and anti-discrimination frameworks — as the foundation for managing AI-related harms. The **Australian AI Safety Institute** is operating within the Department of Industry, Science and Resources to analyse AI capabilities, risks and harms and support regulators and agencies.
 
-Instead:
+In July 2026, the Government separately announced plans for **Australian Standards for AI**. Published material focuses on a proposed framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The final scope, duties and commencement arrangements remain subject to design, National Cabinet consideration and legislation.
 
-- the **Guidance for AI Adoption (AI6)** provides voluntary but strongly endorsed governance expectations
-- a new **AI Safety Institute** will be established from 2026 to monitor, test and advise on emerging AI capabilities, risks and harms
-- regulators will continue to apply and, where necessary, adapt existing frameworks to AI use cases.
-
-The 2024 consultation on mandatory guardrails and high-risk AI remains an important signal of how future regulation might be framed if the Government decides that existing laws are not sufficient. The principles-based definition of "high-risk AI" and the examples of sensitive domains (healthcare, employment, financial services, critical infrastructure, government decision-making, etc.) remain useful reference points for organisations when they assess and prioritise their own AI risk.
+The 2024 consultation on mandatory guardrails for high-risk AI remains useful policy history, but its proposed guardrails and definition of high-risk AI are **not current legal requirements**.
 
 In practical terms, organisations should:
 
-- treat the **10 guardrails + AI6** as **best-practice voluntary standards** rather than imminent hard law
+- treat the **10 guardrails and AI6** as voluntary guidance, not proof of legal compliance
 - focus on integrating these controls into existing privacy, risk, safety, security and compliance processes
-- monitor future updates from the AI Safety Institute, NAIC and sector regulators, which may influence how strongly certain guardrails are expected in particular industries.
+- monitor the Office of AI, AI Safety Institute, NAIC and relevant sector regulators for changes.
 
-### Government's principles-based definition of "high-risk AI"
+### Assess risk by use and context
 
-In its earlier consultation on mandatory guardrails for high-risk settings, the Australian Government proposed a principles-based definition of "high-risk AI".
+The 2024 mandatory-guardrails proposal is not a current legal risk classification. For operational decisions, use the current AI6 screening and risk-assessment approach instead.
 
-An AI application may be considered high-risk if it has a high likelihood of causing material harm in one or more of the following areas:
-
-- human rights or freedoms
-- health and safety
-- legal rights or obligations
-- democratic processes
-- environmental outcomes
-- broader societal impacts.
-
-Risk was to be assessed based on context, severity and scale, rather than a static list of application types.
-
-### Illustrative examples from public commentary
-
-The following examples are not part of any official legal definition. They are drawn from media, legal analyses and the 2024 Senate inquiry into AI, which suggested that some systems and general-purpose models might warrant stronger oversight:
-
-- healthcare diagnosis or treatment
-- employment decisions (hiring, firing, promotion)
-- financial services (loans, insurance, credit scoring)
-- government service delivery and eligibility assessments
-- critical infrastructure operation and security
-- legal or quasi-legal decisions.
-
-By contrast, many common "everyday" uses of AI (marketing automation, customer service chatbots, internal productivity tools, content generation and basic analytics) are generally treated as **lower-risk**, but must still comply with existing law and good-practice governance.
+Do not assume a use is lower-risk because the technology is common. Assess the specific purpose, data, affected people, degree of human reliance and the likelihood, severity and scale of harm. Reassess when the system, use or operating context changes.
 
 ---
 
-### Further Reading & Official Resources
+### Further reading and official resources
+
+- [Guidance for AI Adoption: implementation guidance (National AI Centre)](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance)
 - [Voluntary AI Safety Standard – Overview and guardrails (Department of Industry)](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)  
 - [The 10 guardrails – full guidance and examples (Department of Industry)](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails)  
 - [Legal landscape for AI in Australia (Department of Industry)](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/legal-landscape-ai-australia)  
-- [Consultation: Mandatory guardrails for high-risk settings (Australian Government)](https://consult.industry.gov.au/ai-mandatory-guardrails)  
+- [Archived 2024 consultation: mandatory guardrails for high-risk settings (Australian Government)](https://consult.industry.gov.au/ai-mandatory-guardrails)
+- [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute)
+
+!!! note "Legal status"
+    VAISS and AI6 are voluntary guidance and do not replace legal advice. Existing Australian laws and sector-specific obligations continue to apply.
 
 ---

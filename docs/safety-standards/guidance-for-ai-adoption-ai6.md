@@ -3,8 +3,7 @@ icon: lucide/compass
 title: "Guidance for AI Adoption (AI6)"
 description: "How Australian organisations can apply the National AI Centre's six practices for responsible AI governance and adoption."
 keywords: "AI6 guidance Australia, Guidance for AI Adoption, AI essential practices, AI governance Australia, National AI Centre guidance, NAIC AI6, responsible AI adoption, AI6 vs VAISS, voluntary AI safety standard update, AI governance framework Australia"
-last-reviewed: "2026-04-15"
-review-status: "pending"
+last-reviewed: "2026-07-22"
 review-cycle: "quarterly"
 og_description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption"
 og_type: "article"
@@ -16,27 +15,27 @@ og_type: "article"
 > **Audience:** Executive, governance, risk and compliance teams | **Time:** 30-45 minutes
 
 !!! info "Status"
-    Federal government guidance in effect from 21 October 2025. It remains the primary published, non-binding reference for responsible AI adoption in Australia.
+    Federal government guidance published on 21 October 2025. It is the current general, non-binding guidance for responsible AI adoption in Australia.
 
 !!! warning "Australian Standards for AI framework announced — July 2026"
     On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. A new **Office of AI** has been established within PM&C to coordinate its design. National Cabinet is expected to consider the approach in August 2026, with standards expected to be legislated in **early 2027**.
 
     The announcement does not withdraw or make AI6 mandatory. Organisations can continue using AI6 as current non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
 
-<!-- TODO: Human verification required before publication: confirm the proposed standards' scope and timetable against the latest PM&C and National Cabinet material. -->
+<!-- TODO: Recheck the scope and timetable after National Cabinet considers the proposed standards in August 2026. -->
 
 ## What is the Guidance for AI Adoption?
 
-In October 2025 the National AI Centre (NAIC), within the Department of Industry, Science and Resources, released the **Guidance for AI Adoption**. It sets out **six essential practices** ("AI6") for responsible AI governance and adoption by organisations operating in Australia.
+On 21 October 2025 the National AI Centre (NAIC), within the Department of Industry, Science and Resources, released the **Guidance for AI Adoption**. It sets out **six essential practices** ("AI6") for responsible AI governance and adoption by organisations operating in Australia.
 
-This guidance **updates and replaces the Voluntary AI Safety Standard as the main reference for business**. The underlying **10 voluntary guardrails** have been retained and integrated into the new framework instead of being discarded.
+The Department describes this guidance as an updated and simplified framework that **evolves the Voluntary AI Safety Standard (VAISS)**. The VAISS publication and its **10 voluntary guardrails** remain available as a more detailed control catalogue.
 
 There are two versions of the guidance:
 
-- **Foundations** – for organisations getting started with AI or using AI in low-risk ways
-- **Implementation practices** – detailed step-by-step guidance for more mature or higher-risk AI use
+- **Foundations** – for organisations getting started with AI or using AI in lower-risk ways
+- **Implementation guidance** – detailed practices for organisations building or customising AI, using complex or higher-risk systems, or needing stronger controls
 
-You can download both versions, along with an **AI screening tool**, **AI policy template** and **AI system register template**, from the Department of Industry website (`industry.gov.au`).
+The [official implementation guidance](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) links to supporting resources including an **AI screening tool**, **AI policy template** and **AI register template**.
 
 ---
 
@@ -132,15 +131,15 @@ People remain responsible for decisions and outcomes.
 
 ## How AI6 relates to the 10 voluntary guardrails
 
-The Guidance for AI Adoption is described by government as the **first update of the Voluntary AI Safety Standard (VAISS)**. It:
+The Department describes the Guidance for AI Adoption as updated and simplified guidance that **evolves VAISS**. It:
 
 - **Condenses** the 10 guardrails into 6 practices
-- **Removes duplicated language** and expands guidance for developers as well as deployers
-- Provides a **"VAISS × implementation practices crosswalk"** showing how every VAISS practice maps into AI6 actions
+- Groups detailed controls under the 6 practices and adds guidance for developers as well as deployers
+- Includes a detailed **VAISS-to-implementation-guidance crosswalk** in its appendix
 
 On SafeAI-Aus:
 
-- The **"Voluntary AI Safety Standard (10 Guardrails)"** page is maintained as a **detailed control catalogue** and historical reference
+- The [Voluntary AI Safety Standard (10 Guardrails)](voluntary-ai-safety-standard-10-guardrails.md) page is maintained as a **detailed control catalogue** and historical reference
 - This AI6 page provides the **current, higher-level framework** that Australian organisations are encouraged to follow
 
 If your organisation has already aligned to the 10 guardrails, you **do not need to start again**. Instead:
@@ -159,7 +158,11 @@ AI6 aligns with:
 - Existing **technology-neutral laws and regulators** (privacy, consumer law, workplace, safety, anti-discrimination, financial services, etc.)
 - International AI governance frameworks such as **ISO/IEC 42001** and the **NIST AI Risk Management Framework**
 
-The **National AI Plan** released in December 2025 confirms that Australia will, at least in the short term, rely on **existing laws plus voluntary guidance (including AI6)** rather than introducing a standalone AI Act or immediate mandatory guardrails, supported by a new **AI Safety Institute** from 2026.
+The **National AI Plan** released in December 2025 retained **existing laws and sector regulators** as the foundation for addressing AI-related risks, supported by voluntary guidance including AI6. The **Australian AI Safety Institute** is now operating within the Department of Industry, Science and Resources to analyse AI capabilities, risks and harms and support regulators and agencies.
+
+The separate **Australian Standards for AI** announced in July 2026 are still being designed. Published material focuses on a proposed framework for large data centres and AI training; it does not turn AI6 into a mandatory standard or create general duties for organisations using AI.
+
+See [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md) for the current policy position.
 
 ---
 
@@ -169,4 +172,14 @@ The **National AI Plan** released in December 2025 confirms that Australia will,
     1. 📊 **Adopt AI6 as your top-level framework** for AI governance and risk management
     2. 📋 **Use the SafeAI-Aus toolkit** (AI use policy, AI risk register, vendor checklist and project intake templates) to **operationalise the 6 practices**
     3. 🔗 **Refer to the 10 guardrails** when you need more granular control statements or when external documents still reference VAISS
-    4. 🔄 **Review annually** against future updates from NAIC, sector regulators, privacy and consumer regulators and the AI Safety Institute
+    4. 🔄 **Review at least annually and after material changes** against updates from NAIC, sector regulators, privacy and consumer regulators, the Office of AI and the AI Safety Institute
+
+## Official sources
+
+- [Guidance for AI Adoption: implementation guidance (National AI Centre)](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance)
+- [Voluntary AI Safety Standard (Department of Industry, Science and Resources)](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
+- [National AI Plan: Keep Australians safe (Department of Industry, Science and Resources)](https://www.industry.gov.au/publications/national-ai-plan/keep-australians-safe)
+- [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute)
+
+!!! note "Legal status"
+    AI6 is voluntary guidance and does not replace legal advice. Existing Australian laws and sector-specific obligations continue to apply.
