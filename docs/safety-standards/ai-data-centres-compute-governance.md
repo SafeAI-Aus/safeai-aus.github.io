@@ -95,7 +95,7 @@ The Office of AI within the Department of the Prime Minister and Cabinet is coor
 
 ---
 
-## South Australia: the first detailed state strategy
+## South Australia: a detailed state strategy
 
 South Australia's **Data Centre Strategy**, published in June 2026, provides a detailed state-level case study. It combines investment facilitation with proposed controls over energy, water, security and public benefit.
 

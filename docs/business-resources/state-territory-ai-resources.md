@@ -131,7 +131,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
     <!-- TODO: Human-verify the June 2026 strategy and proposed Act status against the latest South Australian Government material. -->
 
-    See [AI Data Centres and Compute Governance in Australia](../safety-standards/ai-data-centres-compute-governance.md#south-australia-the-first-detailed-state-strategy) for a detailed, source-led summary and the [official South Australian strategy](https://www.dpc.sa.gov.au/__data/assets/pdf_file/0010/1424737/SA-Data-Centre-Strategy.pdf).
+    See [AI Data Centres and Compute Governance in Australia](../safety-standards/ai-data-centres-compute-governance.md#south-australia-a-detailed-state-strategy) for a detailed, source-led summary and the [official South Australian strategy](https://www.dpc.sa.gov.au/__data/assets/pdf_file/0010/1424737/SA-Data-Centre-Strategy.pdf).
 
 ---
 
