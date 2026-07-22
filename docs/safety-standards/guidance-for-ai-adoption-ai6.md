@@ -16,7 +16,14 @@ og_type: "article"
 > **Audience:** Executive, governance, risk and compliance teams | **Time:** 30-45 minutes
 
 !!! info "Status"
-    Federal government guidance in effect from 21 October 2025. Non-binding, but now the primary reference for responsible AI adoption in Australia.
+    Federal government guidance in effect from 21 October 2025. It remains the primary published, non-binding reference for responsible AI adoption in Australia.
+
+!!! warning "Australian Standards for AI framework announced — July 2026"
+    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. A new **Office of AI** has been established within PM&C to coordinate its design. National Cabinet is expected to consider the approach in August 2026, with standards expected to be legislated in **early 2027**.
+
+    The announcement does not withdraw or make AI6 mandatory. Organisations can continue using AI6 as current non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
+
+<!-- TODO: Human verification required before publication: confirm the proposed standards' scope and timetable against the latest PM&C and National Cabinet material. -->
 
 ## What is the Guidance for AI Adoption?
 

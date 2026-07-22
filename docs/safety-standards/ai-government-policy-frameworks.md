@@ -3,7 +3,7 @@ icon: lucide/landmark
 title: "Australian Government AI Policy and Frameworks"
 description: "Australian Government AI policy and guidance, including the National AI Plan, AI Safety Institute, DTA requirements, AI6 and VAISS."
 keywords: "Australian AI policy, National AI Plan, AI Safety Institute, DTA AI policy, AI6 guidance, VAISS, AI governance Australia, mandatory AI requirements, Senate AI Committee"
-last-reviewed: "2026-07-19"
+last-reviewed: "2026-07-22"
 review-cycle: "quarterly"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 og_type: "article"
@@ -14,12 +14,37 @@ og_type: "article"
 > **Purpose:** Understand the Australian Government's approach to AI governance — policy, guidance, institutions and timelines
 > **Audience:** Governance, compliance, risk and strategy teams | **Time:** 30-40 minutes
 
-Australia does not yet have a standalone AI Act. Instead, the Government relies on **existing technology-neutral laws** (see [Current Legal Landscape](ai-australian-legislation.md)) supported by voluntary guidance, a growing set of institutional arrangements and — for Commonwealth agencies — the first mandatory AI requirements.
+Australia does not yet have a standalone AI Act. On **15 July 2026**, Prime Minister Albanese announced plans to legislate an **Australian Standards for AI** framework for large data centres and AI training, including mandatory requirements for large AI data centres — see [Australian Standards for AI and Office of AI](#australian-standards-for-ai-and-office-of-ai-july-2026) below. The announcement is not itself legislation. In the interim, the Government relies on **existing technology-neutral laws** (see [Current Legal Landscape](ai-australian-legislation.md)) supported by voluntary guidance, a growing set of institutional arrangements and — for Commonwealth agencies — existing mandatory AI policy requirements.
 
 This page covers government policy, guidance frameworks and institutional developments. For the laws themselves, see [Current Legal Landscape for AI in Australia](ai-australian-legislation.md).
 
 !!! note "Policy is evolving"
-    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of July 2026. Monitor [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of 22 July 2026. Monitor the [Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+
+---
+
+## Australian Standards for AI and Office of AI (July 2026)
+
+!!! warning "New national AI framework announced"
+    Prime Minister Albanese announced on **15 July 2026** that the Government plans to legislate the Australian Standards for AI. Official material describes a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not itself create new legal duties and should not be read as a general mandatory standard for every organisation using AI.
+
+<!-- TODO: Human verification required before publication: confirm the proposed standards' scope and timetable against the latest PM&C and National Cabinet material. -->
+
+**What was announced:**
+
+- **Australian Standards for AI:** The Government plans to legislate a national framework for large data centres and AI training. National Cabinet is expected to consider the approach in **August 2026**, with standards expected to be legislated in **early 2027**. The final scope, duties and commencement arrangements have not yet been published.
+
+- **Office of AI (established 15 July 2026):** The Office sits within the Department of the Prime Minister and Cabinet. PM&C says it will coordinate across Australian Government agencies to design and legislate the new standard, working with the responsible ministers and the Department of Industry, Science and Resources.
+
+- **Proposed data centre requirements:** The announced standards would require large AI data centres to underwrite new power supply, pay their share of connection costs, reduce power when needed to support the grid and be as water-efficient as possible. These proposals build on the existing [Data Centre Expectations](#data-centre-and-ai-infrastructure-expectations-march-2026) (March 2026), but require legislation before they become legal obligations.
+
+- **Copyright:** The announcement says Australian writers, artists and journalists should retain ownership over their work and that companies should not use Australian creative works to train AI without the artist's control. It does not specify the legal mechanism. See [Current Legal Landscape](ai-australian-legislation.md) for the separate April 2026 TDM development.
+
+**Relationship to AI6 and VAISS:** The announcement does not withdraw AI6 (Guidance for AI Adoption, October 2025) or the VAISS guardrails. They remain published, non-binding guidance. Organisations must continue to comply with existing laws while the proposed standards are designed and considered.
+
+On **20 July 2026**, the Government separately announced five whole-of-government AI safety priorities: a Digital Duty of Care, further privacy reform, workplace AI safety, examination of consumer-law options, and a framework for automated decision-making in federal agencies. These are policy workstreams rather than enacted duties. ([AI consumer safety priorities](https://www.minister.industry.gov.au/charlton/media/ai-consumer-safety-priorities), accessed 22 July 2026)
+
+Sources: [Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests), [Office of AI — PM&C](https://www.pmc.gov.au/domestic-policy/office-ai), [Department of Industry ministers](https://www.minister.industry.gov.au/charlton/media/ai-australias-interests) (accessed 22 July 2026)
 
 ---
 
@@ -170,13 +195,19 @@ The ACCC published its own AI transparency statement in February 2026 and has fl
 | 23 March 2026 | Data centre expectations published |
 | 1 April 2026 | Senate Committee response tabled; Anthropic MOU signed; Copyright reform passed |
 | **15 June 2026** | **DTA first mandatory requirements** |
+| **15 July 2026** | **Australian Standards for AI announced; Office of AI established in PM&C** |
+| **20 July 2026** | **Whole-of-government AI consumer safety priorities announced** |
+| **August 2026** | **National Cabinet to consider Australian Standards for AI** |
 | **10 December 2026** | **Privacy Act ADM obligations commence; DTA full compliance** |
+| **Early 2027** | **Australian Standards for AI legislation expected in Parliament** |
 
 ---
 
 ### Key References
 
 - [National AI Plan](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) — industry.gov.au
+- [Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai) — pmc.gov.au
+- [AI consumer safety priorities](https://www.minister.industry.gov.au/charlton/media/ai-consumer-safety-priorities) — minister.industry.gov.au
 - [AI Safety Institute](https://www.industry.gov.au/news/australia-establish-new-institute-strengthen-ai-safety) — industry.gov.au
 - [DTA AI Policy Update](https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government) — dta.gov.au
 - [AI Impact Assessment Tool](https://www.digital.gov.au/ai/impact-assessment-tool/introduction) — digital.gov.au

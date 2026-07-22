@@ -33,6 +33,11 @@ Importantly, the 10 guardrails are consistent with leading international standar
 
     **VAISS v2 update (as of June 2026):** The Expression of Interest for VAISS v2 consultations (consult.industry.gov.au) opened 15 December 2024 and closed 10 January 2025; consultation sessions ran January–February 2025. No standalone VAISS v2 document was published. The planned additions (content labelling and watermarking guidance, developer-facing guardrails, procurement guidance) were incorporated into the AI6 Implementation Practices document (October 2025). The AI6 guidance is the current authoritative reference; no further standalone VAISS v2 release is expected.
 
+!!! warning "Australian Standards for AI framework announced — July 2026"
+    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not withdraw or make the VAISS guardrails mandatory. Organisations can continue using these guardrails and AI6 as non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
+
+<!-- TODO: Human verification required before publication: confirm the proposed standards' scope and timetable against the latest PM&C and National Cabinet material. -->
+
 ## Why this matters
 
 Adopting the guardrails early helps organisations build **trust, resilience and regulatory readiness**. By embedding these practices now, businesses can:
