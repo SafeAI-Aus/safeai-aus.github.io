@@ -38,6 +38,9 @@ Australia's approach to AI regulation combines existing legislation with new vol
 - **[Relevant Australian Legislation](ai-australian-legislation.md)**
   Overview of Privacy Act, consumer law, discrimination law and other existing regulations that apply to AI systems in Australia.
 
+- **[AI Data Centres and Compute Governance](ai-data-centres-compute-governance.md)**
+  Current national and state policy for large AI infrastructure, including energy, water, planning, security and South Australia's Data Centre Strategy.
+
 - **[Voluntary AI Safety Standard (VAISS) - 10 Guardrails](voluntary-ai-safety-standard-10-guardrails.md)**
   Australia's voluntary framework for safe AI development and deployment, with practical guidance on implementing each of the 10 guardrails.
 
