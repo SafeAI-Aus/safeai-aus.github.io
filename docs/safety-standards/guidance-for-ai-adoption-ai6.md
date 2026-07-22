@@ -20,7 +20,7 @@ og_type: "article"
 !!! warning "Australian Standards for AI framework announced — July 2026"
     On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. A new **Office of AI** has been established within PM&C to coordinate its design. National Cabinet is expected to consider the approach in August 2026, with standards expected to be legislated in **early 2027**.
 
-    The announcement does not withdraw or make AI6 mandatory. Organisations can continue using AI6 as current non-binding guidance while complying with existing law. See [AI Data Centres and Compute Governance in Australia](ai-data-centres-compute-governance.md) for the infrastructure framework and current status. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
+    The announcement does not withdraw or make AI6 mandatory. Organisations can continue using AI6 as current non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
 
 <!-- TODO: Recheck the scope and timetable after National Cabinet considers the proposed standards in August 2026. -->
 
@@ -160,7 +160,7 @@ AI6 aligns with:
 
 The **National AI Plan** released in December 2025 retained **existing laws and sector regulators** as the foundation for addressing AI-related risks, supported by voluntary guidance including AI6. The **Australian AI Safety Institute** is now operating within the Department of Industry, Science and Resources to analyse AI capabilities, risks and harms and support regulators and agencies.
 
-The separate **Australian Standards for AI** announced in July 2026 are still being designed. Published material focuses on a proposed framework for large data centres and AI training; it does not turn AI6 into a mandatory standard or create general duties for organisations using AI. See [AI Data Centres and Compute Governance in Australia](ai-data-centres-compute-governance.md).
+The separate **Australian Standards for AI** announced in July 2026 are still being designed. Published material focuses on a proposed framework for large data centres and AI training; it does not turn AI6 into a mandatory standard or create general duties for organisations using AI.
 
 See [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md) for the current policy position.
 

@@ -33,7 +33,7 @@ Importantly, the 10 guardrails are consistent with leading international standar
     A consultation process for a proposed **VAISS v2** ran in early 2025. As at 22 July 2026, the Government's publication catalogue does not contain a standalone VAISS v2. Use the published AI6 guidance for current implementation work and the original VAISS guardrails where a detailed or legacy mapping is useful.
 
 !!! warning "Australian Standards for AI framework announced — July 2026"
-    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not withdraw or make the VAISS guardrails mandatory. Organisations can continue using these guardrails and AI6 as non-binding guidance while complying with existing law. See [AI Data Centres and Compute Governance in Australia](ai-data-centres-compute-governance.md) for the infrastructure framework and current status. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
+    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not withdraw or make the VAISS guardrails mandatory. Organisations can continue using these guardrails and AI6 as non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
 
 <!-- TODO: Recheck the scope and timetable after National Cabinet considers the proposed standards in August 2026. -->
 
@@ -166,7 +166,7 @@ As at 22 July 2026, Australia still has no general AI Act and VAISS remains volu
 
 The **National AI Plan** retains **existing technology-neutral laws and sector regulators** — including privacy, consumer law, financial services, safety and anti-discrimination frameworks — as the foundation for managing AI-related harms. The **Australian AI Safety Institute** is operating within the Department of Industry, Science and Resources to analyse AI capabilities, risks and harms and support regulators and agencies.
 
-In July 2026, the Government separately announced plans for **Australian Standards for AI**. Published material focuses on a proposed framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The final scope, duties and commencement arrangements remain subject to design, National Cabinet consideration and legislation. See [AI Data Centres and Compute Governance in Australia](ai-data-centres-compute-governance.md).
+In July 2026, the Government separately announced plans for **Australian Standards for AI**. Published material focuses on a proposed framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The final scope, duties and commencement arrangements remain subject to design, National Cabinet consideration and legislation.
 
 The 2024 consultation on mandatory guardrails for high-risk AI remains useful policy history, but its proposed guardrails and definition of high-risk AI are **not current legal requirements**.
 
