@@ -31,69 +31,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name: Run unit tests
+        run: python -m unittest discover -s tests
+      - name: Validate headings
+        run: python scripts/validate_headings.py
       - name: Build site
-        run: zensical build
+        run: zensical build --strict
+      - name: Enrich breadcrumb schema
+        run: python scripts/enrich_breadcrumb_schema.py --site site
       - name: Generate sitemap.xml
-        run: |
-          python - << 'PY'
-          import os
-          from datetime import datetime
-          import tomllib
-          import xml.etree.ElementTree as ET
-
-          # Extract site_url from zensical.toml
-          site_url = ''
-          with open('zensical.toml', 'rb') as f:
-              config = tomllib.load(f)
-              site_url = config.get('project', {}).get('site_url', '')
-          base_url = (site_url or '').rstrip('/') + '/'
-          site_dir = 'site'
-
-          urlset = ET.Element('urlset', xmlns='http://www.sitemaps.org/schemas/sitemap/0.9')
-
-          for root, _, files in os.walk(site_dir):
-              for name in files:
-                  if not name.endswith('.html'):
-                      continue
-                  file_path = os.path.join(root, name)
-                  rel_path = os.path.relpath(file_path, site_dir)
-                  if rel_path == '404.html':
-                      continue
-
-                  # Build URL
-                  loc = base_url
-                  if rel_path == 'index.html':
-                      pass
-                  else:
-                      rel_url = rel_path.replace(os.sep, '/')
-                      if rel_url.endswith('/index.html'):
-                          rel_url = rel_url[:-10]
-                      loc += rel_url
-
-                  url = ET.SubElement(urlset, 'url')
-                  ET.SubElement(url, 'loc').text = loc
-
-                  # Add lastmod from file modification time
-                  mtime = os.path.getmtime(file_path)
-                  lastmod = datetime.fromtimestamp(mtime).strftime('%Y-%m-%d')
-                  ET.SubElement(url, 'lastmod').text = lastmod
-
-                  # Add priority based on path
-                  if rel_path == 'index.html':
-                      priority = '1.0'
-                  elif 'governance-templates' in rel_path or 'safety-standards' in rel_path:
-                      priority = '0.8'
-                  elif 'business-resources' in rel_path:
-                      priority = '0.7'
-                  else:
-                      priority = '0.5'
-                  ET.SubElement(url, 'priority').text = priority
-
-                  # Add changefreq
-                  ET.SubElement(url, 'changefreq').text = 'monthly'
-
-          ET.ElementTree(urlset).write(os.path.join(site_dir, 'sitemap.xml'), encoding='utf-8', xml_declaration=True)
-          PY
+        run: python scripts/generate_sitemap.py --site site --output site/sitemap.xml
       - name: Generate updates.json
         run: python scripts/generate_updates.py
       - name: Copy root-level files
@@ -101,6 +48,8 @@ jobs:
           cp robots.txt site/
           cp llms.txt site/
           cp llms-full.txt site/
+      - name: Validate SEO contract
+        run: python scripts/validate_seo.py --docs docs --site site --sitemap site/sitemap.xml
       - name: Verify build
         run: |
           test -f site/index.html || { echo "Error: site/index.html not found"; exit 1; }

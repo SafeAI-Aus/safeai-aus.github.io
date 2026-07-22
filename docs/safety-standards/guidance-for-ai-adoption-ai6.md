@@ -1,9 +1,10 @@
 ---
 icon: lucide/compass
-title: "Guidance for AI Adoption (AI6) – 6 Essential Practices"
-description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption. Practical guide to the six essential practices replacing the Voluntary AI Safety Standard."
+title: "Guidance for AI Adoption (AI6)"
+description: "How Australian organisations can apply the National AI Centre's six practices for responsible AI governance and adoption."
 keywords: "AI6 guidance Australia, Guidance for AI Adoption, AI essential practices, AI governance Australia, National AI Centre guidance, NAIC AI6, responsible AI adoption, AI6 vs VAISS, voluntary AI safety standard update, AI governance framework Australia"
-last-reviewed: "2026-07-20"
+last-reviewed: "2026-04-15"
+review-status: "pending"
 review-cycle: "quarterly"
 og_description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption"
 og_type: "article"
@@ -15,12 +16,14 @@ og_type: "article"
 > **Audience:** Executive, governance, risk and compliance teams | **Time:** 30-45 minutes
 
 !!! info "Status"
-    Federal government guidance in effect from 21 October 2025. Non-binding, and the primary reference for responsible AI adoption in Australia until mandatory Australian Standards for AI are legislated (see note below).
+    Federal government guidance in effect from 21 October 2025. It remains the primary published, non-binding reference for responsible AI adoption in Australia.
 
-!!! warning "Mandatory national AI standards announced — July 2026"
-    On **15 July 2026**, Prime Minister Albanese announced that Australia will legislate **mandatory national AI standards**, with a new **Office of AI** established immediately within PM&C. National Cabinet will consider the Standards in August 2026; legislation is expected in **early 2027**.
+!!! warning "Australian Standards for AI framework announced — July 2026"
+    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. A new **Office of AI** has been established within PM&C to coordinate its design. National Cabinet is expected to consider the approach in August 2026, with standards expected to be legislated in **early 2027**.
 
-    **AI6 remains the current operative framework.** Organisations should continue implementing AI6 now — it prepares you for the incoming mandatory standards and demonstrates responsible governance in the interim. ([pm.gov.au](https://www.pm.gov.au/media/ai-australias-interests), accessed 19 July 2026)
+    The announcement does not withdraw or make AI6 mandatory. Organisations can continue using AI6 as current non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
+
+<!-- TODO: Human verification required before publication: confirm the proposed standards' scope and timetable against the latest PM&C and National Cabinet material. -->
 
 ## What is the Guidance for AI Adoption?
 

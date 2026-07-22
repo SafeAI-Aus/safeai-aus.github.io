@@ -1,7 +1,7 @@
 ---
 icon: lucide/external-link
-title: "Australian AI Community - Networks, Groups & Resources"
-description: "Connect with Australian AI safety groups, digital rights advocates, research institutions and international AI governance resources. Curated directory for AI professionals."
+title: "Australian AI Community & Networks"
+description: "Australian AI safety groups, digital rights advocates, research institutions and international governance resources for practitioners."
 keywords: "Australian AI community, AI safety Australia, AI research groups, digital rights Australia, AI networks, Australian tech community, AI meetups Australia, AI governance resources"
 og_title: "Australian AI Community - Networks & Resources"
 og_description: "Connect with Australian AI safety groups, research institutions and international resources"
@@ -21,7 +21,6 @@ This page provides curated Australian and international resources for AI safety,
 
 !!! note "About this resource list"
 
-    **Last reviewed:** January 2026
     **Focus:** Australian AI community groups, digital rights organisations and relevant international AI safety resources
     **Maintenance:** Resources are periodically reviewed for accuracy. If you find broken links or outdated information, please let us know.
     **Not endorsements:** Inclusion doesn't constitute endorsement of all positions. These are starting points for your own investigation.

@@ -1,6 +1,6 @@
 ---
 icon: lucide/shield
-title: "AI Resilience - Withstanding and Recovering from AI Disruptions"
+title: "AI Resilience - Withstanding AI Disruption"
 description: "How Australian organisations and communities can prepare to detect, respond to and recover from advanced-AI disruption while maintaining essential functions."
 keywords: "AI resilience, AI disruption recovery, critical infrastructure AI, AI continuity planning, community resilience, AI crisis response, societal resilience AI"
 last-reviewed: "2026-07-18"

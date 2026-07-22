@@ -1,6 +1,6 @@
 ---
 icon: lucide/chart-no-axes-combined
-title: "AI Power Concentration Scenario - Governance Failure"
+title: "AI Power Concentration Scenario"
 description: "How AI power concentration could leave Australia dependent on foreign-controlled systems. Market consolidation, regulatory capture and loss of sovereignty explored."
 keywords: "AI power concentration, AI governance failure, AI sovereignty, Big Tech AI, AI monopoly, regulatory capture AI, AI dependency Australia"
 last-reviewed: "2026-07-18"

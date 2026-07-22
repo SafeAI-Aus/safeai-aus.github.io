@@ -1,9 +1,10 @@
 ---
 icon: lucide/shield-check
 title: "Voluntary AI Safety Standard (10 Guardrails)"
-description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails for safe AI adoption. Includes implementation guidance for SMEs and large organisations."
+description: "Australia's Voluntary AI Safety Standard explained through 10 practical guardrails for safer AI adoption and governance."
 keywords: "Australian AI safety standard, AI guardrails, AI safety framework, voluntary AI standards, AI risk management, AI governance Australia, AI safety compliance, AI safety guardrails, Australian AI standards, AI safety best practices"
-last-reviewed: "2026-07-20"
+last-reviewed: "2026-04-15"
+review-status: "pending"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails"
 og_type: "article"
@@ -32,8 +33,10 @@ Importantly, the 10 guardrails are consistent with leading international standar
 
     **VAISS v2 update (as of June 2026):** The Expression of Interest for VAISS v2 consultations (consult.industry.gov.au) opened 15 December 2024 and closed 10 January 2025; consultation sessions ran January–February 2025. No standalone VAISS v2 document was published. The planned additions (content labelling and watermarking guidance, developer-facing guardrails, procurement guidance) were incorporated into the AI6 Implementation Practices document (October 2025). The AI6 guidance is the current authoritative reference; no further standalone VAISS v2 release is expected.
 
-!!! warning "Mandatory national AI standards announced — July 2026"
-    On **15 July 2026**, Prime Minister Albanese announced that Australia will legislate **mandatory national AI standards**, with legislation expected in **early 2027**. Until the legislation passes, **the VAISS guardrails and the AI6 guidance remain the current operative frameworks** for organisations. Implementing these guardrails now demonstrates responsible governance and helps prepare for the incoming mandatory standards. ([pm.gov.au](https://www.pm.gov.au/media/ai-australias-interests), accessed 19 July 2026)
+!!! warning "Australian Standards for AI framework announced — July 2026"
+    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not withdraw or make the VAISS guardrails mandatory. Organisations can continue using these guardrails and AI6 as non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
+
+<!-- TODO: Human verification required before publication: confirm the proposed standards' scope and timetable against the latest PM&C and National Cabinet material. -->
 
 ## Why this matters
 
@@ -231,58 +234,3 @@ By contrast, many common "everyday" uses of AI (marketing automation, customer s
 - [Consultation: Mandatory guardrails for high-risk settings (Australian Government)](https://consult.industry.gov.au/ai-mandatory-guardrails)  
 
 ---
-
-<!-- JSON-LD: Article schema for crawlers and LLMs -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Voluntary AI Safety Standard (10 Guardrails) - Australian AI Safety Framework",
-  "description": "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails for safe AI adoption. Includes implementation guidance for SMEs and large organisations.",
-  "author": {
-    "@type": "Organization",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-    }
-  },
-  "datePublished": "2025-01-27",
-  "dateModified": "2025-01-27",
-  "inLanguage": "en-AU",
-  "url": "https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/",
-  "mainEntityOfPage": "https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "AI Safety Standards",
-      "description": "Voluntary safety standards for AI implementation in Australia"
-    },
-    {
-      "@type": "Thing",
-      "name": "AI Guardrails",
-      "description": "Practical principles for safe and responsible AI use"
-    },
-    {
-      "@type": "Thing",
-      "name": "Australian AI Governance",
-      "description": "Governance frameworks for AI adoption in Australian businesses"
-    }
-  ],
-  "keywords": "Australian AI safety standard, AI guardrails, AI safety framework, voluntary AI standards, AI risk management, AI governance Australia, AI safety compliance, AI safety guardrails, Australian AI standards, AI safety best practices",
-  "articleSection": "Safety Standards",
-  "wordCount": "2800"
-}
-</script>

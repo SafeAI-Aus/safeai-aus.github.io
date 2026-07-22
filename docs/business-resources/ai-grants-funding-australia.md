@@ -1,9 +1,9 @@
 ---
 icon: lucide/dollar-sign
-title: "AI Grants and Funding Opportunities for Australian Businesses"
-description: "Comprehensive guide to AI grants, funding programs and financial support available for Australian businesses implementing AI responsibly. Includes federal, state and industry programs."
+title: "AI Grants & Funding for Australian Businesses"
+description: "Australian AI grants, funding programs and financial support for businesses adopting AI responsibly, including federal, state and industry opportunities."
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
-last-reviewed: "2026-07-19"
+last-reviewed: "2026-07-22"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 og_type: "article"
@@ -15,15 +15,17 @@ og_type: "article"
 > **Audience:** Business owners, CFOs, project managers and grant applicants | **Time:** 30-45 minutes
 
 !!! info "Recent closures and open rounds"
-    - **CRC Program Round 27** Stage 1 closed 29 April 2026. Stage 1 outcomes announced — **Stage 2 is now open (July–September 2026, invited applicants only)**. Stage 2 outcomes expected early 2027.
+    - **CRC Program Round 27** Stage 1 closed 29 April 2026. **Stage 2 is under way from July to September 2026 for invited applicants only**. Stage 2 outcomes are expected in early 2027.
     - **CRC-P Round 19 (AI Accelerator stream, $20M)** closed 12 May 2026 at 5:00 PM AEST. Outcomes now expected October 2026 (delayed from August due to high application volume).
 
     The next AI Accelerator full CRC opportunity (Round 28) is expected in 2027.
 
+<!-- TODO: Human verification required before publication: confirm CRC Round 27 Stage 2 dates and invitation-only status on business.gov.au. -->
+
 AI is reshaping industries across Australia. To support businesses in responsibly adopting and scaling AI, a mix of government grants, research programs and industry‑backed accelerators are available. This article provides a consolidated overview of the most relevant opportunities for Australian businesses today.
 
 !!! warning "Program status changes frequently"
-    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application. Last reviewed: April 2026.
+    Government programs open, close and change eligibility regularly. **Always verify current status** with the relevant funding body before investing time in an application.
 
 ---
 
@@ -117,7 +119,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 - Industry-research consortia grants, typically **$2–5 million** over 3–10 years.
 - Supports large-scale collaborative research partnerships between industry and research organisations.
 - General research collaboration (not AI-specific) but AI components are eligible.
-- **Status:** Stage 1 **closed 29 April 2026**. Stage 1 outcomes announced — meritorious applicants have been invited to submit Stage 2 applications. **Stage 2 is now open (July–September 2026, invited applicants only)**; Stage 2 outcomes expected early 2027. Note: Stage 2 is not an open call — only organisations invited by the Minister following Stage 1 assessment may apply.
+- **Status:** Stage 1 **closed 29 April 2026**. The published timetable lists Stage 2 from **July to September 2026**, with outcomes expected in early 2027. Stage 2 is invitation-only: the Minister invites selected Stage 1 applicants to submit a Stage 2 application and attend an interview.
 - ➡️ [CRC Program details](https://business.gov.au/grants-and-programs/cooperative-research-centres-crc-grants)
 
 ### AI Accelerator CRC (Future)
@@ -240,7 +242,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 | CSIRO Next Gen Graduates | Federal Program | Varies | AI workforce development | Active |
 | CSIRO-NSF AI Collaboration | International Grant | $9.6m (2023) | Responsible AI research | Active |
 | CRC-P Round 19 (AI Stream) | Federal Grant | $100k–$3m ($20m pool) | Collaborative AI research | Closed 12 May 2026; outcomes expected Oct 2026 |
-| CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Stage 2 open Jul–Sep 2026 (invited applicants only); outcomes expected early 2027 |
+| CRC Program Round 27 | Federal Grant | $2–5m | Industry-research consortia | Stage 2 under way Jul–Sep 2026 (invited applicants only); outcomes expected early 2027 |
 | AI Accelerator CRC | Federal (Future) | ~$50m | Dedicated AI CRC | Expected 2027 |
 | AWS AI Accelerator | Corporate | US$230m pool | Generative AI startups | Active |
 | NRFC | Co‑investment fund | $550m+ | Large-scale ventures | Active |
@@ -332,60 +334,6 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 
 ---
 
-<!-- JSON-LD: Article schema for crawlers and LLMs -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "AI Grants and Funding Opportunities for Australian Businesses",
-  "description": "Discover 11+ free AI learning resources for Australian SMEs. Access government programs, university courses, and open-source training to build AI capability and stay competitive.",
-  "author": {
-    "@type": "Organization",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://safeaiaus.org/assets/safeaiaus-logo-600px.png"
-    }
-  },
-  "datePublished": "2025-01-27",
-  "dateModified": "2025-01-27",
-  "inLanguage": "en-AU",
-  "url": "https://safeaiaus.org/business-resources/ai-grants-funding-australia/",
-  "mainEntityOfPage": "https://safeaiaus.org/business-resources/ai-grants-funding-australia/",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "SafeAI-Aus",
-    "url": "https://safeaiaus.org"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "AI Funding",
-      "description": "Financial support programs for AI adoption in Australian businesses"
-    },
-    {
-      "@type": "Thing",
-      "name": "AI Grants Australia",
-      "description": "Government and industry grants for AI projects and development"
-    },
-    {
-      "@type": "Thing",
-      "name": "AI Business Support",
-      "description": "Resources and programs supporting AI implementation in Australian businesses"
-    }
-  ],
-  "keywords": "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding",
-  "articleSection": "Business Resources",
-  "wordCount": "2500"
-}
-</script>
 
 ---
 

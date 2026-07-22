@@ -1,9 +1,10 @@
 ---
 icon: lucide/folder-kanban
 title: "AI Project Register Template"
-description: "Comprehensive AI project register template for Australian businesses. Centralised tracking of AI initiatives, compliance status and governance oversight aligned with safety standards."
+description: "AI project register template for Australian businesses to track initiatives, governance responsibilities, risks and review status."
 keywords: "AI project register template, AI project tracking, AI governance tracking, AI compliance register, AI project management, Australian AI safety, AI project oversight"
 last-reviewed: "2026-04-15"
+review-status: "pending"
 review-cycle: "quarterly"
 og_description: "Comprehensive AI project register template for Australian businesses"
 og_type: "article"
@@ -154,4 +155,4 @@ This register helps you maintain a central record of all AI initiatives. It:
 ??? note "Disclaimer & Licence"
     **Disclaimer:** This template provides best practice guidance for Australian organisations. SafeAI-Aus has exercised care in preparation but does not guarantee accuracy, reliability, or completeness. Organisations should adapt to their specific context and may wish to seek advice from legal, governance, or compliance professionals before formal adoption.
 
-    **Licence:** Licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to copy, adapt and redistribute with attribution: *"Source: SafeAI-Aus (safeaiaus.org)"*  
+    **Licence:** Licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to copy, adapt and redistribute with attribution: *"Source: SafeAI-Aus (safeaiaus.org)"*

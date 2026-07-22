@@ -1,7 +1,7 @@
 ---
 icon: lucide/map-pin
-title: "Australian Government AI Resources (Federal, State & Territory)"
-description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments. Find official AI strategies, policies, assurance frameworks and statutory body guidance for public sector AI use."
+title: "Australian Government AI Resources"
+description: "Official AI strategies, policies, assurance frameworks and statutory guidance from Australian federal, state and territory governments."
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
 last-reviewed: "2026-07-19"
 review-cycle: "quarterly"

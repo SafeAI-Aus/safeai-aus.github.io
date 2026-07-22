@@ -1,6 +1,6 @@
 ---
 icon: lucide/compass
-title: "Strategic Visions for AGI - What Could AGI Look Like?"
+title: "Strategic Visions for AGI"
 description: "What could AGI look like? Explore how advanced AI might transform work, health, knowledge and daily life—and what 'good' outcomes could look like for Australia."
 keywords: "AGI futures, what could AGI look like, AGI benefits, AGI risks, AGI transformation, Australia AGI strategy, AI human impact"
 last-reviewed: "2026-07-18"

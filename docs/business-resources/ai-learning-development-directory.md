@@ -1,7 +1,7 @@
 ---
 icon: lucide/book-open
 title: "AI & Emerging Tech Learning Directory for SMEs"
-description: "Discover 11+ free AI learning resources for Australian SMEs. Access government programs, university courses and open-source training to build AI capability and stay competitive."
+description: "Free AI learning resources for Australian SMEs, including government programs, university courses and open-source training to build capability."
 keywords: "AI learning, SME training, AI resources Australia, safe AI adoption, government AI courses, open source AI learning"
 last-reviewed: "2026-01-31"
 review-cycle: "quarterly"
@@ -15,7 +15,7 @@ og_type: "article"
 > **Audience:** SME owners, HR/L&D teams, AI champions and technical staff | **Time:** 30-45 minutes
 
 !!! warning "Program availability changes"
-    Government programs may change eligibility, funding or availability. **Always verify current status** directly with the relevant provider before investing time in applications. Last reviewed: January 2026.
+    Government programs may change eligibility, funding or availability. **Always verify current status** directly with the relevant provider before investing time in applications.
 
 !!! info "About This Directory"
     Australian businesses often face barriers to adopting AI and other emerging technologies due to limited skills, budget and time.
