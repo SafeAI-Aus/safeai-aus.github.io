@@ -3,7 +3,7 @@ icon: lucide/map-pin
 title: "Australian Government AI Resources"
 description: "Official AI strategies, policies, assurance frameworks and statutory guidance from Australian federal, state and territory governments."
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
-last-reviewed: "2026-07-19"
+last-reviewed: "2026-07-22"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
 og_type: "article"
@@ -127,18 +127,11 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 - **[State Budget — Digital Investment Fund: AI program](https://www.statebudget.sa.gov.au/our-budget/digital-capabilities)** — funding context to grow AI use in services.
 
 !!! info "South Australia — Data Centre and AI Infrastructure Act proposed (June 2026)"
-    The South Australian Government's June 2026 Data Centre Strategy commits to developing and consulting on a proposed **Data Centre and AI Infrastructure Act**. Key elements of the strategy include:
+    The South Australian Government's June 2026 **Data Centre Strategy** commits to consulting on a proposed Act covering development approvals, energy, water, security and local benefits. The Act remains proposed; existing planning mechanisms and the proposed future legislation have different legal status.
 
-    - Staged approvals and coordinated assessment pathways for data centre developments
-    - Matching demand growth with new, firmed energy supply
-    - Energy-use transparency, grid-stability requirements and fair allocation of network costs
-    - Water-supply planning, efficient cooling and monitoring of material changes in water use
-    - Cyber security and appropriate information sharing
-    - Local jobs and skills, local AI capability and alignment with the national interest
+    <!-- TODO: Human-verify the June 2026 strategy and proposed Act status against the latest South Australian Government material. -->
 
-    The Act remains proposed, with its detailed requirements to be developed through consultation. It concerns physical infrastructure and planning rather than the separate statewide AI strategy.
-
-    (Source: [South Australian Government — Data Centre Strategy](https://www.dpc.sa.gov.au/__data/assets/pdf_file/0010/1424737/SA-Data-Centre-Strategy.pdf), June 2026; accessed 19 July 2026)
+    See [AI Data Centres and Compute Governance in Australia](../safety-standards/ai-data-centres-compute-governance.md#south-australia-a-detailed-state-strategy) for a detailed, source-led summary and the [official South Australian strategy](https://www.dpc.sa.gov.au/__data/assets/pdf_file/0010/1424737/SA-Data-Centre-Strategy.pdf).
 
 ---
 
