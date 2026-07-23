@@ -1,11 +1,11 @@
 ---
 icon: lucide/server
 title: "AI Data Centres and Compute Governance"
-description: "Current Australian policy and trusted directories for AI data centres, covering energy, water, planning, security and sovereignty."
-keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
+description: "Australian AI data centre policy, state strategies and trusted directories, covering energy, water, planning, security and sovereignty."
+keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, Victoria Sustainable Data Centre Action Plan, NSW Data Centre Consultation Paper, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
 last-reviewed: "2026-07-23"
 review-cycle: "quarterly"
-og_description: "A source-led guide to Australian data centre policy, compute governance and trusted facility directories"
+og_description: "A source-led guide to Australian data centre policy, state approaches, compute governance and trusted facility directories"
 og_type: "article"
 ---
 
@@ -47,10 +47,12 @@ The outcome depends on location, design, contracts, operating behaviour and tran
 
 ---
 
-## National policy timeline
+## Australian policy timeline
 
 | Date | Development | Legal effect as at 23 July 2026 |
 |---|---|---|
+| **27 November 2025** | Victoria announced its **Sustainable Data Centre Action Plan**, subsequently published under the state's AI Mission Statement. | State coordination and investment framework; it does not itself create a new statutory approval regime. |
+| **March 2026** | NSW published a **Data Centre Consultation Paper** to develop principles for sustainable and equitable investment. | Consultation paper rather than a final strategy; the consultation has closed and the policy position remains under development. |
 | **23 March 2026** | The Department of Industry, Science and Resources published five national **Expectations of data centres and AI infrastructure developers**. | Non-binding expectations used to inform Commonwealth prioritisation and coordination. Existing laws continue to apply. |
 | **June 2026** | South Australia published its **Data Centre Strategy** and committed to consult on a proposed Data Centre and AI Infrastructure Act. | Strategy and policy commitment; the proposed Act has not been enacted. |
 | **15 July 2026** | The Prime Minister announced planned **Australian Standards for AI** for large data centres and AI training. The Office of AI was established in PM&C. | Policy announcement only; no new statutory duties commenced. |
@@ -95,7 +97,47 @@ The Office of AI within the Department of the Prime Minister and Cabinet is coor
 
 ---
 
-## South Australia: a detailed state strategy
+## State approaches
+
+Victoria and South Australia have published dedicated state-level plans. NSW has published a consultation paper and is still developing its policy position. Other states and territories may address data centres through broader planning, energy, digital or investment policies without a dedicated published strategy.
+
+| Jurisdiction | Published document | Status at 23 July 2026 | Main emphasis |
+|---|---|---|---|
+| **Victoria** | Sustainable Data Centre Action Plan | Published action plan | Coordinated infrastructure, sustainable energy and water, workforce and investment facilitation |
+| **New South Wales** | Data Centre Consultation Paper | Consultation closed; final policy position not yet published | Infrastructure costs, energy and water efficiency, transparent assessment, planning and community needs |
+| **South Australia** | Data Centre Strategy | Published strategy; proposed Act not enacted | Legislation, accelerated approvals, energy and water coordination, security and local capability |
+
+### Victoria: Sustainable Data Centre Action Plan
+
+Victoria announced its **Sustainable Data Centre Action Plan** on 27 November 2025 and publishes it as a whole-of-government framework under the state's AI Mission Statement. The Victorian Government describes the plan as primarily an internal coordination framework for well-managed, efficient and sustainable sector growth.
+
+Its five areas are:
+
+1. Coordinate infrastructure, land and connectivity information
+2. Support energy innovation and grid readiness
+3. Plan for sustainable water security and management
+4. Develop a skilled and future-ready workforce
+5. Strengthen government leadership and coordination
+
+The action plan is focused on planning, coordination and investment certainty. It should not be read as creating standalone statutory duties for developers or replacing existing Victorian approval processes.
+
+See the [Victorian Government Sustainable Data Centre Action Plan](https://djsir.vic.gov.au/priorities-and-initiatives/ai-mission-statement/sustainable-data-centre-action-plan).
+
+### New South Wales: consultation and policy development
+
+The NSW Government's **Data Centre Consultation Paper**, published in March 2026, proposes five principles for developing the state's policy position:
+
+1. Data centre investment should support a wider technology ecosystem, jobs and economic growth
+2. Developers and operators should fund additional infrastructure requirements so households do not bear the costs
+3. Facilities should use energy, water and environmental resources efficiently and sustainably
+4. Approval and compliance should be based on reliable and transparent data
+5. Planning and regulatory settings should reflect facility size, location and community needs
+
+The consultation period has closed. The paper says feedback will inform a transparent assessment framework and updates to the NSW Government's policy position. It is therefore a policy-development document, not a final state strategy or a source of new legal duties. The NSW Planning website separately describes existing data-centre approval pathways.
+
+See the [NSW Data Centre Consultation Paper (March 2026)](https://www.infrastructure.nsw.gov.au/expert-advice/nsw-data-centre-consultation-paper/) and [NSW data-centre planning framework](https://www.planning.nsw.gov.au/the-planning-system/planning-reforms/ssd-warehouses-and-data-centres).
+
+### South Australia: a detailed state strategy
 
 South Australia's **Data Centre Strategy**, published in June 2026, provides a detailed state-level case study. It combines investment facilitation with proposed controls over energy, water, security and public benefit.
 
@@ -144,7 +186,7 @@ See the [South Australian Government Data Centre Strategy (June 2026)](https://w
 
 ## What applies now
 
-The emerging national and South Australian frameworks sit alongside existing requirements. Depending on the project, these may include planning and environmental approvals, electricity and water connection requirements, privacy, cybersecurity, foreign investment, critical-infrastructure and workplace laws. Applicability depends on the facility, entities, customers, location and services involved.
+The emerging national, Victorian, NSW and South Australian approaches sit alongside existing requirements. Depending on the project, these may include planning and environmental approvals, electricity and water connection requirements, privacy, cybersecurity, foreign investment, critical-infrastructure and workplace laws. Applicability depends on the facility, entities, customers, location and services involved.
 
 For operational environmental performance, **NABERS Energy for Data Centres** provides an existing Australian rating system based on measured performance. Its ratings cover IT equipment, data centre infrastructure or a whole facility, depending on who controls the equipment and supporting services. A NABERS rating is useful evidence of performance, but it does not by itself demonstrate compliance with every approval or future AI infrastructure standard.
 
@@ -175,6 +217,8 @@ No single public directory provides a definitive count of Australian data centre
 - Definitions and thresholds for a **large AI data centre**, AI training facility or expanded development
 - Which regulators and approval bodies will verify energy, water, security and community requirements
 - How federal standards will interact with state planning, energy and water regimes
+- Delivery and further detail under Victoria's Sustainable Data Centre Action Plan
+- NSW's final policy position following its March 2026 consultation
 - Consultation and drafting of South Australia's proposed Data Centre and AI Infrastructure Act
 - AEMO and Australian Energy Market Commission work on large inverter-based load connections
 - Whether reporting requirements use common measures such as power usage effectiveness, water usage effectiveness and demand-response capability
@@ -191,6 +235,9 @@ This page will be reviewed after material government announcements. Until detail
 - [Digital demand surge: preparing Australia's power systems for the rise of data centres](https://www.aemo.com.au/newsroom/news-updates/digital-demand-surge) — AEMO, 1 June 2026
 - [Water supply — 2026 Infrastructure Priority List](https://www.infrastructureaustralia.gov.au/ipl/secure-sustainable-water-for-growth/water-supply) — Infrastructure Australia, 2026
 - [Data Centres](https://www.nabers.gov.au/ratings/spaces-we-rate/data-centres) — NABERS
+- [Sustainable Data Centre Action Plan](https://djsir.vic.gov.au/priorities-and-initiatives/ai-mission-statement/sustainable-data-centre-action-plan) — Victorian Government, announced 27 November 2025; page updated 6 March 2026
+- [NSW Data Centre Consultation Paper](https://www.infrastructure.nsw.gov.au/expert-advice/nsw-data-centre-consultation-paper/) — NSW Government, March 2026
+- [State significant development: warehouses and data centres](https://www.planning.nsw.gov.au/the-planning-system/planning-reforms/ssd-warehouses-and-data-centres) — NSW Planning
 - [South Australian Government Data Centre Strategy](https://www.dpc.sa.gov.au/__data/assets/pdf_file/0010/1424737/SA-Data-Centre-Strategy.pdf) — June 2026
 
 ??? note "Disclaimer & Licence"
