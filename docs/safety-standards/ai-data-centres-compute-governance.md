@@ -1,11 +1,11 @@
 ---
 icon: lucide/server
 title: "AI Data Centres and Compute Governance"
-description: "Current Australian policy for AI data centres, covering energy, water, planning, security, sovereignty and South Australia's strategy."
-keywords: "AI data centres Australia, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
-last-reviewed: "2026-07-22"
+description: "Current Australian policy and trusted directories for AI data centres, covering energy, water, planning, security and sovereignty."
+keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
+last-reviewed: "2026-07-23"
 review-cycle: "quarterly"
-og_description: "A source-led guide to Australia's emerging AI data centre and compute governance framework"
+og_description: "A source-led guide to Australian data centre policy, compute governance and trusted facility directories"
 og_type: "article"
 ---
 
@@ -14,7 +14,7 @@ og_type: "article"
 > **Purpose:** Track Australia's emerging policy for large data centres and AI compute infrastructure
 > **Audience:** Government, infrastructure, energy, technology, risk and community leaders | **Time:** 20-25 minutes
 
-!!! warning "Current status — 22 July 2026"
+!!! warning "Current status — 23 July 2026"
     Australia does **not yet have a legislated national AI data centre standard**. The Australian Government published voluntary **Data Centre Expectations** on 23 March 2026 and announced on 15 July 2026 that it intends to legislate Australian Standards for AI covering large data centres and AI training.
 
     National Cabinet is expected to consider the approach in **August 2026**, with legislation expected in **early 2027**. The final coverage, thresholds, duties, regulators and commencement arrangements have not been published. The announcement does not itself create new legal obligations.
@@ -25,7 +25,7 @@ Data centres are the physical infrastructure behind cloud services and modern AI
 
 The policy question is therefore broader than energy efficiency. **Compute governance** asks how access to large-scale computing infrastructure should be planned, monitored and governed so its benefits, costs and risks align with Australia's interests.
 
-This page focuses on **large new or expanded data centres, hyperscale facilities and large-scale AI compute centres**. It is not a directory of operators or a guide to small on-site server rooms.
+This page focuses on **large new or expanded data centres, hyperscale facilities and large-scale AI compute centres**. SafeAI-Aus does not maintain its own facility registry; the [external directories below](#australian-data-centre-directories) provide broader market coverage. This page is not a guide to small on-site server rooms.
 
 ---
 
@@ -49,7 +49,7 @@ The outcome depends on location, design, contracts, operating behaviour and tran
 
 ## National policy timeline
 
-| Date | Development | Legal effect as at 22 July 2026 |
+| Date | Development | Legal effect as at 23 July 2026 |
 |---|---|---|
 | **23 March 2026** | The Department of Industry, Science and Resources published five national **Expectations of data centres and AI infrastructure developers**. | Non-binding expectations used to inform Commonwealth prioritisation and coordination. Existing laws continue to apply. |
 | **June 2026** | South Australia published its **Data Centre Strategy** and committed to consult on a proposed Data Centre and AI Infrastructure Act. | Strategy and policy commitment; the proposed Act has not been enacted. |
@@ -149,6 +149,22 @@ The emerging national and South Australian frameworks sit alongside existing req
 For operational environmental performance, **NABERS Energy for Data Centres** provides an existing Australian rating system based on measured performance. Its ratings cover IT equipment, data centre infrastructure or a whole facility, depending on who controls the equipment and supporting services. A NABERS rating is useful evidence of performance, but it does not by itself demonstrate compliance with every approval or future AI infrastructure standard.
 
 Organisations buying cloud or AI services can also use the [AI Vendor Evaluation Checklist](../governance-templates/ai-vendor-evaluation-checklist.md) to ask about data location, security, resilience, energy and supplier controls.
+
+---
+
+## Australian data centre directories
+
+No single public directory provides a definitive count of Australian data centres. Sources differ in whether they count individual buildings, campuses, cloud regions, edge facilities and proposed projects. These four sources provide complementary starting points:
+
+| Directory | Best used for | Important limits |
+|---|---|---|
+| [Hosting Certification Framework — Certified Service Providers](https://www.hostingcertification.gov.au/certified-service-providers) | The authoritative Australian Government list of facilities and enclaves certified for government hosting. | Covers certified providers rather than the whole Australian market. The framework is undergoing reform. |
+| [Data Center Map — Australia](https://www.datacentermap.com/australia/) | Broad, freely accessible coverage organised by Australian city and facility. | A commercial directory with expansive coverage; listing counts should not be treated as the number of operational large data centres. |
+| [Scrutica Facility Directory — Australia](https://scrutica.com/facilities?country=AU) | Research, source provenance and downloadable data. Estimates and conflicting values are identified in the interface. | Combines several public datasets and includes multiple facility types; some values are modelled or inferred rather than operator-reported. |
+| [Baxtel — Australian Data Centre Market](https://baxtel.com/data-center/australia) | Industry research on operators and project stages, including operational, construction and planned facilities. | Commercial market intelligence; some detailed data requires an account or paid dataset. |
+
+!!! note "Use directory listings as a starting point"
+    Inclusion in a directory does not demonstrate planning approval, government certification, environmental performance or compliance. Verify material claims against current operator disclosures, planning records and government sources.
 
 ---
 
