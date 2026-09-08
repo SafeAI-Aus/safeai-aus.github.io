@@ -25,6 +25,8 @@ og_type: "article"
 ## Artificial intelligence (AI)
 Computer systems that perform tasks normally requiring human intelligence. In Australia, AI use is guided by government guardrails, privacy law and international standards such as ISO/IEC 42001.
 
+<!-- TODO: Human-verify VAISS (2024)/AI6 status and the distinction between voluntary guidance and legal duties. -->
+
 ## AI Guardrails (Australia)
 Voluntary principles from the Australian Government that set practical expectations for safe and responsible AI. They help organisations align practice with community standards and emerging regulation.
 
@@ -33,6 +35,8 @@ Any harmful, biased, unsafe or unexpected behaviour from an AI system (e.g., dis
 
 ## AI Inventory (System Register)
 A catalogue of AI systems and use cases across the organisation, including owners, purpose, data sources, risks and status. Supports accountability and audits.
+
+<!-- TODO: Human-verify ISO/IEC 42001:2023 and ISO/IEC 23894:2023 scope and the alignment claim. -->
 
 ## AI Risk Assessment
 A structured process to identify, analyse and mitigate risks for AI systems and use cases. Often mapped to ISO/IEC 42001 (management systems) or ISO/IEC 23894 (risk management). Start with the [AI Risk Assessment Template](../governance-templates/ai-risk-assessment-checklist.md).
@@ -43,8 +47,12 @@ An internal policy that sets boundaries, roles and responsibilities for AI tools
 ## Algorithmic Impact Assessment (AIA)
 An assessment of potential impacts (e.g., fairness, safety, human rights). In Australia this is often paired with a Privacy Impact Assessment (PIA) where personal information is processed.
 
+<!-- TODO: Human-verify Legal de-identification in context; reducing identification risk alone is insufficient. -->
+
 ## Anonymisation / De-identification
 Techniques to reduce the risk of re-identification in datasets. Australia commonly uses “de-identification” under the Privacy Act; truly irreversible anonymisation is difficult in practice.
+
+<!-- TODO: Human-verify APP entity coverage under the Privacy Act 1988 (Cth). -->
 
 ## APPs (Australian Privacy Principles)
 The 13 principles under the **Privacy Act 1988 (Cth)** that govern handling of personal information by APP entities (most Australian Government agencies and many businesses).
@@ -55,14 +63,20 @@ Australian Signals Directorate’s baseline mitigation strategies for cyber secu
 ## Bias (Algorithmic Bias)
 Systematic errors that favour or disadvantage groups (e.g., by gender, ethnicity, age). Manage via representative data, fairness testing, documentation and human oversight.
 
+<!-- TODO: Human-verify C2PA standard scope; provenance does not establish factual truth. -->
+
 ## C2PA (Content Authenticity)
 An open standard for attaching provenance metadata to content. Useful for signalling AI-generated or edited media and supporting authenticity claims.
+
+<!-- TODO: Human-verify CDR sector coverage, consent and permitted-use requirements. -->
 
 ## Consumer Data Right (CDR)
 Australian framework enabling data portability in designated sectors. Relevant when AI uses consumer data that may be shared or accessed under CDR rules.
 
 ## Content Moderation / Safety Filters
 Controls that reduce harmful or disallowed outputs (e.g., hate speech, self-harm). Often combined with human review for higher-risk contexts.
+
+<!-- TODO: Human-verify The ISO/IEC 42001:2023 management-system requirement and its distinction from model updates. -->
 
 ## Continuous Improvement (AI)
 Ongoing monitoring, feedback and updates to models, prompts and controls. A core requirement in management-system approaches such as ISO/IEC 42001.
@@ -94,8 +108,12 @@ A confident but incorrect output from a generative model. Mitigate with retrieva
 ## Human-in-the-Loop (HITL)
 Design pattern where humans review or approve AI outputs for higher-risk tasks, or provide feedback to improve models.
 
+<!-- TODO: Human-verify ISO/IEC 23894:2023 status as risk-management guidance. -->
+
 ## ISO/IEC 23894 (AI Risk Management)
 International guidance for managing AI risks across the lifecycle. Complements management-system standards and local guardrails.
+
+<!-- TODO: Human-verify ISO/IEC 42001:2023 management-system scope and certification claims. -->
 
 ## ISO/IEC 42001 (AI Management System)
 International standard for governing AI (policy, risk, controls, monitoring and continual improvement). Useful for phased adoption by SMEs.
@@ -112,6 +130,8 @@ Documentation describing a model or dataset: purpose, training data, limitations
 ## Model Monitoring
 Operational tracking of model quality, drift, latency, cost and safety incidents in production.
 
+<!-- TODO: Human-verify NDB entity coverage, eligible-breach criteria and remedial-action exceptions. -->
+
 ## NDB Scheme (Notifiable Data Breaches)
 Australian scheme requiring notification to the OAIC and affected individuals when an eligible data breach is likely to cause serious harm.
 
@@ -124,8 +144,12 @@ Australia’s independent regulator for privacy and information access. Oversees
 ## Open-Weight vs Closed-Weight Models
 Open-weight models allow running the model locally or in private environments; closed-weight models are accessed via APIs. Each has different governance and risk profiles.
 
+<!-- TODO: Human-verify The definition against Privacy Act 1988 (Cth), s 6(1), including statutory qualifiers. -->
+
 ## Personal Information (Australia)
 Information or an opinion about an identifiable individual, as defined in the **Privacy Act 1988 (Cth)**. Includes obvious identifiers and information that could reasonably identify someone.
+
+<!-- TODO: Human-verify Which PIA duties are mandatory; avoid implying a blanket requirement for Australian AI use. -->
 
 ## PIA (Privacy Impact Assessment)
 Analyses privacy impacts and mitigations for projects that handle personal information. Often required or strongly recommended for AI implementations in Australia.
@@ -153,6 +177,8 @@ The level and types of risk an organisation is willing to accept in AI adoption.
 
 ## Safety Case (AI)
 Documented argument and evidence that an AI system is acceptably safe for its intended use. More common for higher-risk sectors.
+
+<!-- TODO: Human-verify Sensitive-information categories, biometric scope, consent and collection exceptions under Australian privacy law. -->
 
 ## Sensitive Information (Australia)
 A specific category of personal information as defined in the **Privacy Act 1988 (Cth)**, including health information, biometrics, racial or ethnic origin, political opinions, religious beliefs, sexual orientation and criminal records. Sensitive information is generally subject to higher collection and handling thresholds, such as explicit consent, with exceptions for legally required processing and certain permitted purposes. See [OAIC guidance on handling personal information](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/handling-personal-information) for detailed requirements.
