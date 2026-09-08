@@ -180,6 +180,8 @@ Outline the AI products or services provided, including version numbers and inte
 
 *Sources: Guardrail 1; Australian AI Ethics Principle: Transparency*
 
+<!-- TODO: Human-verify Certification claims: ISO/IEC 23894:2023 is guidance; SOC 2 is assurance reporting. -->
+
 ### 3. Compliance & Certifications
 List certifications (ISO/IEC 23894, ISO/IEC 42001, SOC 2) and confirm regulatory compliance.
 
@@ -191,6 +193,8 @@ List certifications (ISO/IEC 23894, ISO/IEC 42001, SOC 2) and confirm regulatory
 - How do you handle Australian regulatory updates?
 
 *Sources: Guardrail 7; ISO/IEC 42001*
+
+<!-- TODO: Human-verify Privacy Act/APP 8 applicability; Australian data residency is not a universal legal requirement. -->
 
 ### 4. Data Governance
 Check vendor policies on data handling, privacy protection, IP safeguards and data provenance.
@@ -252,6 +256,8 @@ Confirm the vendor's process for incident reporting, investigation and resolutio
 - Can you provide examples of how you've handled past incidents?
 
 *Sources: Guardrail 10; ISO/IEC 27035*
+
+<!-- TODO: Human-verify Australian Consumer Law applicability and contractual enforceability for the parties and use case. -->
 
 ### 9. Contractual Safeguards
 Review liability clauses, service-level agreements, IP ownership terms and termination rights.

@@ -54,6 +54,8 @@ This register provides a starting point for organisations to identify, assess an
 
 ---
 
+<!-- TODO: Human-verify Entity-specific legal obligations and consequences in illustrative risks R1-R3. -->
+
 ## AI Risk Register
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** | **Example Control Measures** | **Likelihood** | **Residual Risk** | **Risk Owner** |

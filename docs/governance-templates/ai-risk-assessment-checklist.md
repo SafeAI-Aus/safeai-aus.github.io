@@ -51,6 +51,8 @@ howto:
     7. Keep completed checklist in project records
     8. Schedule regular review cadence
 
+<!-- TODO: Human-verify The claimed VAISS (2024), ISO/IEC 42001:2023 and NIST AI RMF 1.0 (2023) alignment, including section mappings. -->
+
 This checklist aligns with **Australian AI Safety Standard (VAISS)**, **ISO/IEC 42001:2023**, and **NIST AI Risk Management Framework**.
 
 !!! info "When to Use This Checklist"
@@ -91,6 +93,8 @@ This checklist aligns with **Australian AI Safety Standard (VAISS)**, **ISO/IEC 
 - [ ] Regulatory compliance implications assessed
 - [ ] Reputational impact evaluated
 
+<!-- TODO: Human-verify EU AI Act applicability; these Low/Medium/High examples are not statutory classifications. -->
+
 *Aligns with: Guardrail 3; EU AI Act classification (adapted)*
 
 ---
@@ -101,6 +105,8 @@ This checklist aligns with **Australian AI Safety Standard (VAISS)**, **ISO/IEC 
 - [ ] Do you know who owns the training data and outputs (IP rights)?
 - [ ] Are you keeping only the data you really need (data minimisation)?
 - [ ] Can you track where the data came from (provenance)?
+
+<!-- TODO: Human-verify Privacy Act applicability and ISO/IEC 23894:2023 scope. -->
 
 *Aligns with: Privacy Act 1988 (APPs); Guardrails 4 & 7; ISO/IEC 23894*
 
@@ -254,6 +260,8 @@ This checklist implements key requirements from Australian AI frameworks:
         ✓ **Guardrail 3 – Data protection** — Sections 3-4 ensure privacy and security safeguards
 
 ---
+
+<!-- TODO: Human-verify Applicable jurisdictions and published editions for the listed laws, standards and frameworks. -->
 
 ## References & Standards
 

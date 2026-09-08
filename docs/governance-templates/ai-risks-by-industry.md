@@ -47,6 +47,8 @@ These examples help businesses identify context-specific risks before adapting t
 
 ---
 
+<!-- TODO: Human-verify State environmental penalties and licence consequences in M3. -->
+
 ## 1. Mining
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** |
@@ -56,6 +58,8 @@ These examples help businesses identify context-specific risks before adapting t
 | M3 | **Environmental Impact Misrepresentation** | AI-generated reporting may understate emissions or ecological effects. | State environmental regulator penalties, loss of licence, reputational damage. |
 
 ---
+
+<!-- TODO: Human-verify APRA/ASIC jurisdiction, expectations and enforcement consequences in F1-F3. -->
 
 ## 2. Finance
 
@@ -67,6 +71,8 @@ These examples help businesses identify context-specific risks before adapting t
 
 ---
 
+<!-- TODO: Human-verify Privacy Act and Australian Consumer Law applicability in R1-R2. -->
+
 ## 3. Retail Trade
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** |
@@ -76,6 +82,8 @@ These examples help businesses identify context-specific risks before adapting t
 | R3 | **Inventory Forecasting Model Degradation** | Model drift causes gradual decline in stock prediction accuracy over time. | Financial loss, supply chain disruption, excess inventory or stockouts, waste. |
 
 ---
+
+<!-- TODO: Human-verify Contractual, negligence and professional-code consequences in P1-P3. -->
 
 ## 4. Professional, Scientific & Technical Services
 
@@ -87,6 +95,8 @@ These examples help businesses identify context-specific risks before adapting t
 
 ---
 
+<!-- TODO: Human-verify Health-regulator powers and My Health Record/Privacy Act applicability in H1-H2. -->
+
 ## 5. Healthcare
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** |
@@ -96,6 +106,8 @@ These examples help businesses identify context-specific risks before adapting t
 | H3 | **Bias in Clinical Algorithms** | Narrow or unrepresentative datasets produce unequal treatment outcomes across patient groups. | Health inequities, ethical breaches, discrimination claims, loss of patient confidence. |
 
 ---
+
+<!-- TODO: Human-verify Building-code and state workplace-safety duties and enforcement powers in C1-C2. -->
 
 ## 6. Construction
 
@@ -107,6 +119,8 @@ These examples help businesses identify context-specific risks before adapting t
 
 ---
 
+<!-- TODO: Human-verify State environmental enforcement and licence consequences in E3. -->
+
 ## 7. Energy (including Renewables)
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** |
@@ -116,6 +130,8 @@ These examples help businesses identify context-specific risks before adapting t
 | E3 | **Environmental Compliance Gaps** | Automated emissions or incident reporting misses critical data or misrepresents environmental impact. | State environmental regulator enforcement, loss of licence, fines, reputational damage. |
 
 ---
+
+<!-- TODO: Human-verify Contract and Australian Consumer Law applicability in W2. -->
 
 ## 8. Wholesale Trade
 
@@ -127,6 +143,8 @@ These examples help businesses identify context-specific risks before adapting t
 
 ---
 
+<!-- TODO: Human-verify Environmental penalties and biosecurity/export consequences in A2-A3. -->
+
 ## 9. Agriculture
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** |
@@ -136,6 +154,8 @@ These examples help businesses identify context-specific risks before adapting t
 | A3 | **Biosecurity Data Misclassification** | Models miss or misreport pest, disease or weed patterns critical to biosecurity. | Crop loss, livestock disease, export restrictions, biosecurity incident response failures. |
 
 ---
+
+<!-- TODO: Human-verify IP rights and state workplace-safety duties and penalties in MN2-MN3. -->
 
 ## 10. Manufacturing
 
@@ -147,6 +167,8 @@ These examples help businesses identify context-specific risks before adapting t
 
 ---
 
+<!-- TODO: Human-verify Discrimination, consumer-law and privacy obligations in HT1-HT3. -->
+
 ## 11. Hospitality & Tourism
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** |
@@ -156,6 +178,8 @@ These examples help businesses identify context-specific risks before adapting t
 | HT3 | **Guest Data Privacy Breaches** | AI systems processing customer preferences or behaviour data breach privacy obligations. | Privacy Act violations, OAIC complaints, loss of customer trust, data breach notification costs. |
 
 ---
+
+<!-- TODO: Human-verify ASQA/TEQSA jurisdiction and student-privacy obligations in ED1-ED3. -->
 
 ## 12. Education & Training
 
@@ -167,6 +191,8 @@ These examples help businesses identify context-specific risks before adapting t
 
 ---
 
+<!-- TODO: Human-verify Chain of Responsibility coverage and workplace-surveillance duties in TL1/TL3. -->
+
 ## 13. Transport & Logistics
 
 | **Risk ID** | **Risk Name** | **Description** | **Potential Impact** |
@@ -176,6 +202,8 @@ These examples help businesses identify context-specific risks before adapting t
 | TL3 | **Driver Monitoring Privacy Issues** | AI systems monitoring driver behaviour breach privacy or workplace surveillance obligations. | Privacy complaints, employee relations issues, Fair Work concerns, trust erosion. |
 
 ---
+
+<!-- TODO: Human-verify Discrimination, Fair Trading, consumer-law and licence consequences in RE2-RE3. -->
 
 ## 14. Real Estate & Property Services
 
