@@ -47,4 +47,6 @@ We share:
 
 **Frequency**: Occasional updates (typically monthly) — we respect your inbox.
 
+<!-- TODO: Human-verify The third-party disclosure promise against actual service providers and the privacy page. -->
+
 **Privacy**: We use [Listmonk](https://listmonk.app/) for newsletter management. Your email is only used for this newsletter and is never shared with third parties. You can unsubscribe at any time.
