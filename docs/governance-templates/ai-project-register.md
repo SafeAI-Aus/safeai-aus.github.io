@@ -122,6 +122,8 @@ This register helps you maintain a central record of all AI initiatives. It:
 
 ---
 
+<!-- TODO: Human-verify The scope of AI6/VAISS (2024) alignment; register entries alone do not establish compliance. -->
+
 ## Alignment with Australian Standards
 
 !!! success "Standards Compliance"

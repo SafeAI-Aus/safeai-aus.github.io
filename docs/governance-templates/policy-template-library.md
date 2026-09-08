@@ -156,6 +156,8 @@ Mechanism to capture, respond and learn from AI-related issues.
 
 ---
 
+<!-- TODO: Human-verify Every VAISS (2024) guardrail number, name and coverage claim; this taxonomy differs from the published catalogue. -->
+
 ## Guardrail-to-Template Mapping
 
 | Guardrail | Focus Area | Covered By Templates |

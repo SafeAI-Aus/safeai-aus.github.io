@@ -51,6 +51,8 @@ Tick the boxes that apply to your organisation. A higher score means greater rea
 - [ ] Change management plan for AI adoption
 - [ ] Stakeholder communication strategy defined
 
+<!-- TODO: Human-verify Privacy Act and Copyright Act applicability, including the de-identification checks below. -->
+
 ### 2️⃣ Data & Privacy
 - [ ] Up-to-date data inventory and quality checks
 - [ ] Compliance with the Privacy Act 1988 (APPs)
@@ -124,6 +126,8 @@ Tick the boxes that apply to your organisation. A higher score means greater rea
     **Example:** Organisation with mature AI governance deploying multiple systems
 
 ---
+
+<!-- TODO: Human-verify VAISS (2024) guardrail mappings and the claimed scope of standards alignment. -->
 
 ## Alignment with Australian Standards
 

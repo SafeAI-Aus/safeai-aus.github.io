@@ -57,6 +57,8 @@ This template provides a **complete AI Use Policy** for Australian businesses se
 
 ---
 
+<!-- TODO: Human-verify Which listed laws apply to the adopting organisation; distinguish voluntary standards from legal duties. -->
+
 ### 1. Purpose
 This policy governs AI use at [Organisation Name]. It sets expectations for how AI should support organisational goals, protect people and align with applicable laws.
 
@@ -80,6 +82,8 @@ This policy applies across the organisation wherever AI technologies are develop
 - Any third-party AI services or APIs integrated into organisational workflows
 
 ---
+
+<!-- TODO: Human-verify The personal-information definition against Privacy Act 1988 (Cth), s 6(1). -->
 
 ### 3. Terms & Definitions
 To ensure consistency and clarity, the following definitions apply within this policy:
@@ -134,6 +138,8 @@ To manage risks and maintain compliance, certain uses of AI are not permitted un
 
 ---
 
+<!-- TODO: Human-verify Applicable privacy, copyright and sector-specific data duties. -->
+
 ### 7. Privacy, Intellectual Property & Data Rights
 Respecting privacy and protecting intellectual property is central to responsible AI adoption. AI use must safeguard both personal information and organisational assets, while also respecting the rights of third parties.
 
@@ -177,6 +183,8 @@ Compliance with this policy is mandatory. Breaches will be addressed in line wit
 This policy will be reviewed at least annually, or sooner if required by law, organisational change, or updates to standards (e.g. ISO/IEC 42001:2023).
 
 ---
+
+<!-- TODO: Human-verify Standards editions and legal applicability, including employee-data and surveillance obligations. -->
 
 ### 11. Related Standards & References
 This policy is guided by relevant standards and legislation that inform responsible AI practice. These include:
