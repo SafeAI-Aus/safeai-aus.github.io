@@ -91,6 +91,8 @@ System name, version, vendor and deployment environment
 Description of what happened, including inputs, outputs and observed issues  
 ☐ Evidence attached
 
+<!-- TODO: Human-verify NDB eligibility, entity coverage and any sector-specific notification duties. -->
+
 ### 5. Impact Assessment
 Actual or potential harm (individuals, organisation, or public).  
 ☐ Evidence attached
@@ -127,6 +129,8 @@ Preventive measures identified: __________
 ☐ Evidence attached
 
 ---
+
+<!-- TODO: Human-verify Applicable reporting duties and editions of the listed standards; internal targets are not statutory deadlines. -->
 
 ### Standards Alignment
 This form aligns with:

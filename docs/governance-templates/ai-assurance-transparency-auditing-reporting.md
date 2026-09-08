@@ -108,6 +108,8 @@ The Australian Voluntary AI Safety Standard and international frameworks (ISO/IE
 
     AI assurance helps close this gap by making your safety work visible and verifiable.
 
+<!-- TODO: Human-verify The stale late-2025 VAISS-v2 forecast and matching FAQ against current AI6 guidance and the legal status of proposed reforms. -->
+
 The regulatory landscape is evolving. Version 2 of the Voluntary AI Safety Standard is in development (expected late 2025) with enhanced developer guidance and the government is considering mandatory guardrails for high-risk AI uses. Building good assurance practices now means you're ready when regulations arrive.
 
 SafeAI-Aus turns these principles into practical patterns any organisation can use.
@@ -291,6 +293,8 @@ Good assurance creates a feedback loop: transparency reveals risks, auditing fin
 If you're using AI to make decisions that affect people—hiring, customer service, pricing, access to services—you're not too small. Size doesn't exempt you from explaining what you're doing and showing you've thought about the risks.
 
 The templates SafeAI-Aus provides are designed for small teams. You don't need a governance department. You do need someone who owns the question "How do we know our AI is working safely?"—often your CTO, operations lead, or risk manager.
+
+<!-- TODO: Human-verify Case-specific legal liability and applicable duties in the vendor-accountability claims below. -->
 
 ## "Our vendor handles all this"
 
