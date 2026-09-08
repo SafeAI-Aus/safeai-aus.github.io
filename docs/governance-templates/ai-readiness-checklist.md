@@ -14,7 +14,7 @@ faq:
   - question: "How long does an AI readiness assessment take?"
     answer: "This checklist takes 15-30 minutes to complete. For a thorough team discussion, allow 1-2 hours to work through all sections together."
   - question: "What score indicates we're ready for AI?"
-    answer: "Organisations scoring 70% or higher are generally well-positioned to begin AI adoption. Those below 50% should focus on building foundational capabilities first."
+    answer: "No score approves AI use. Count completed items out of 26 to track progress: 0–10, 11–20 and 21–26 are indicative planning bands, not validated safety thresholds. Before a pilot or wider deployment, document the use-case risk assessment, required controls, testing, accountable owner and approval. Unresolved safety, privacy or approval requirements cannot be offset by other checked items."
   - question: "Is this checklist free to use?"
     answer: "Yes. This checklist is licensed under CC BY 4.0. You may copy, adapt and use it commercially with attribution to SafeAI-Aus."
 ---
@@ -35,9 +35,9 @@ faq:
 
 This checklist helps Australian businesses decide if they are ready to adopt AI safely, responsibly and effectively.
 
-This checklist reflects the **AI6 Essential Practices** released by the Australian Government and aligns with international frameworks such as **ISO/IEC 42001:2023** and the **NIST AI Risk Management Framework**.
+This checklist supports practical work under the Australian Government’s [Guidance for AI Adoption (AI6)](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) and selected governance topics in [ISO/IEC 42001:2023](https://www.iso.org/standard/42001) and [NIST AI RMF 1.0 (2023)](https://www.nist.gov/itl/ai-risk-management-framework). It is a planning aid, not a conformity assessment.
 
-Tick the boxes that apply to your organisation. A higher score means greater readiness.
+Tick an item only when you can point to supporting evidence. Record unresolved or not-applicable items with a reason; do not count them as completed. The total tracks progress across this checklist and does not determine whether a particular AI use is safe to proceed.
 
 ---
 
@@ -52,10 +52,15 @@ Tick the boxes that apply to your organisation. A higher score means greater rea
 - [ ] Stakeholder communication strategy defined
 
 ### 2️⃣ Data & Privacy
+
+<!-- TODO: Human-verify Privacy Act 1988 and Copyright Act 1968 applicability, data rights and de-identification in the proposed use. -->
+
 - [ ] Up-to-date data inventory and quality checks
-- [ ] Compliance with the Privacy Act 1988 (APPs)
-- [ ] Protections for business IP (Copyright Act 1968)
-- [ ] Processes to anonymise or pseudonymise personal data
+- [ ] Applicable privacy duties identified and the required controls documented, including the Privacy Act 1988 and APPs where they apply
+- [ ] Protections for business IP and checks on data rights, copyright and licences
+- [ ] Processes to anonymise or pseudonymise personal data, with re-identification risks assessed for the intended use
+
+Pseudonymisation does not by itself make information legally de-identified. Use the [OAIC’s de-identification guidance](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/handling-personal-information/de-identification-and-the-privacy-act) to assess whether people remain identifiable in context.
 
 ### 3️⃣ Risk & Impact
 - [ ] Risk and impact assessments completed (bias, safety, rights)
@@ -73,7 +78,7 @@ Tick the boxes that apply to your organisation. A higher score means greater rea
 - [ ] Records kept of models, prompts and key decisions
 
 ### 6️⃣ Suppliers & Partners
-- [ ] Vendors align with Australia's 10 Guardrails
+- [ ] Vendor evidence assessed against relevant VAISS (2024) guardrails, with gaps and responsibilities recorded
 - [ ] Contracts cover privacy, IP and security requirements
 - [ ] Regular review of vendor practices and updates
 
@@ -87,64 +92,74 @@ Tick the boxes that apply to your organisation. A higher score means greater rea
 
 ## Interpreting Your Score
 
+Count completed items out of **26**. The bands below are indicative ways to organise follow-up work; they are not validated readiness thresholds.
+
+**Before starting a pilot or wider deployment:** confirm an accountable owner, approved tools and permitted data, a use-case risk assessment, required privacy and IP controls, pre-deployment testing, human oversight, an incident escalation path and recorded approval. A high total cannot compensate for an unresolved requirement in these areas. Wider deployment also needs evidence that the controls work at the proposed scale.
+
 !!! info "Early Stage (0–10 items checked)"
     **Status:** Building foundations
-    **Recommendation:** Focus on governance and staff skills before deploying AI
+    **Recommendation:** Prioritise governance and staff skills, and resolve the conditions above before any deployment
 
     **Priority actions:**
 
     1. 📋 Draft an [AI Use Policy](ai-use-policy.md)
     2. 👥 Identify a senior executive to lead AI initiatives
-    3. 🎯 Complete [AI Risk Assessment](ai-risk-assessment-checklist.md) training
+    3. 🎯 Work through the [AI Risk Assessment Checklist](ai-risk-assessment-checklist.md)
 
     **Example:** Organisation exploring AI but lacking formal processes
 
 !!! success "Mid Stage (11–20 items checked)"
-    **Status:** Ready for pilots
-    **Recommendation:** Run controlled AI trials with strong oversight
+    **Status:** Building evidence for a pilot decision
+    **Recommendation:** Resolve the conditions above before authorising a controlled trial
 
     **Priority actions:**
 
-    1. 🧪 Start small-scale pilot projects
-    2. 📊 Set up [AI Project Register](ai-project-register.md)
-    3. ⚠️ Conduct risk assessments for each use case
+    1. 🧪 Define a small pilot’s scope, controls and approval conditions
+    2. 📊 Set up an [AI Project Register](ai-project-register.md)
+    3. ⚠️ Conduct a risk assessment for each use case
 
-    **Example:** Organisation with basic governance running controlled AI trials
+    **Example:** Organisation with basic governance preparing evidence for a controlled trial
 
-!!! success "Advanced Stage (21–30 items checked)"
-    **Status:** Ready to scale
-    **Recommendation:** Deploy with continuous improvement processes
+!!! success "Advanced Stage (21–26 items checked)"
+    **Status:** Preparing for a scaling decision
+    **Recommendation:** Review pilot results, remaining gaps and controls before approving wider deployment
 
     **Priority actions:**
 
-    1. 🚀 Scale successful pilots to production
-    2. 📈 Implement [AI Assurance](ai-assurance-transparency-auditing-reporting.md) framework
+    1. 🚀 Assess whether successful pilots can operate safely at the proposed scale
+    2. 📈 Implement [AI Assurance](ai-assurance-transparency-auditing-reporting.md) practices
     3. 🔄 Establish regular governance reviews
 
-    **Example:** Organisation with mature AI governance deploying multiple systems
+    **Example:** Organisation with established governance assessing wider use of its AI systems
 
 ---
 
 ## Alignment with Australian Standards
 
-This checklist helps you verify compliance with key Australian AI frameworks:
+<!-- TODO: Human-verify The scope of the proposed AI6 and VAISS (2024) mappings; checklist completion does not establish conformity. -->
 
-!!! success "Standards Compliance"
+These examples show how the checklist can support selected framework practices. They do not establish compliance with every requirement.
+
+!!! success "Framework Support"
     === "AI6 Essential Practices"
-        ✓ **Understand impacts and plan accordingly** — Section 3 (Risk & Impact) ensures risk assessments are completed
+        ✓ **Understand impacts and plan accordingly** — Section 3 prompts risk and impact assessment
 
-        ✓ **Decide who is accountable** — Section 1 (Strategy & Governance) verifies executive accountability
+        ✓ **Decide who is accountable** — Section 1 prompts executive ownership and approval arrangements
 
-        ✓ **Test and monitor** — Section 5 (Testing & Monitoring) confirms testing protocols exist
+        ✓ **Test and monitor** — Section 5 prompts testing and monitoring evidence
 
     === "Voluntary AI Safety Standard (10 Guardrails)"
-        ✓ **Guardrail 9 – Governance & oversight** — Section 1 aligns with governance structure requirements
+        ✓ **Guardrail 1 – Accountability and governance** — Section 1 prompts ownership and governance arrangements
 
-        ✓ **Guardrail 2 – Risk management** — Section 3 supports risk management processes
+        ✓ **Guardrail 2 – Risk management** — Section 3 prompts risk assessment and controls
 
-        ✓ **Guardrail 6 – Testing & assurance** — Section 5 verifies testing for performance and fairness
+        ✓ **Guardrail 4 – Testing and monitoring** — Section 5 prompts evaluation before and during use
 
-        ✓ **Guardrail 8 – Supply chain accountability** — Section 6 ensures vendor alignment checks
+        ✓ **Guardrail 8 – Supply-chain information sharing** — Section 6 prompts supplier evidence and review; information-sharing arrangements still need to be agreed
+
+        ✓ **Guardrail 9 – Records** — Section 5 prompts records of models, prompts and decisions
+
+Guardrail labels are shortened summaries of the [published VAISS (2024) catalogue](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails).
 
 ---
 
@@ -154,7 +169,7 @@ This checklist helps you verify compliance with key Australian AI frameworks:
 
 - ✅ **Score 0–10?** Start with: [AI Use Policy](ai-use-policy.md)
 - ✅ **Score 11–20?** Set up: [AI Project Register](ai-project-register.md)
-- ✅ **Score 21–30?** Implement: [AI Implementation Roadmap](ai-implementation-roadmap.md)
+- ✅ **Score 21–26?** Plan a scaling review with: [AI Implementation Roadmap](ai-implementation-roadmap.md)
 
 **Related templates:**
 
