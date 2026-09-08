@@ -25,6 +25,8 @@ From getting started to vendor selection, funding opportunities to training reso
 **[Safe AI Adoption - Getting Started](safe-ai-adoption-getting-started.md)**
 Your first stop for AI adoption—practical guidance on where to start, what to avoid and how to build resilience while managing risk.
 
+<!-- TODO: Human-verify Funding status and eligibility; the destination also includes closed and proposed programs. -->
+
 **[AI Grants & Funding](ai-grants-funding-australia.md)**
 Current funding programs, grants and financial support available across federal and state governments for Australian businesses adopting AI.
 

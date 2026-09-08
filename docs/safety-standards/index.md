@@ -69,6 +69,8 @@ Australia's approach to AI regulation combines existing legislation with new vol
 
 ---
 
+<!-- TODO: Human-verify The claims about mandatory regulation and liability; existing laws already apply alongside voluntary guidance. -->
+
 !!! success "Key Principles"
     Australian AI regulation is built on several core principles:
 
