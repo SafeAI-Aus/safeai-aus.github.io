@@ -3,7 +3,7 @@ icon: lucide/server
 title: "AI Data Centres and Compute Governance"
 description: "Australian AI data centre policy, state strategies and trusted directories, covering energy, water, planning, security and sovereignty."
 keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, Victoria Sustainable Data Centre Action Plan, NSW Data Centre Consultation Paper, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
-last-reviewed: "2026-09-07"
+last-reviewed: "2026-09-27"
 review-cycle: "quarterly"
 og_description: "A source-led guide to Australian data centre policy, state approaches, compute governance and trusted facility directories"
 og_type: "article"
@@ -14,14 +14,16 @@ og_type: "article"
 > **Purpose:** Track Australia's emerging policy for large data centres and AI compute infrastructure
 > **Audience:** Government, infrastructure, energy, technology, risk and community leaders | **Time:** 20-25 minutes
 
-!!! warning "Current status — 6 September 2026"
+!!! warning "Current status — 27 September 2026"
     Australia does **not yet have a legislated national AI data centre standard**. The Australian Government published voluntary **Data Centre Expectations** on 23 March 2026 and announced on 15 July 2026 that it intends to legislate Australian Standards for AI covering large data centres and AI training.
 
     **National Cabinet met on 26 August 2026** and endorsed developing nationally consistent **mandatory** standards for large data centres — covering energy, water, land-use and skills/training — building on the March 2026 Data Centre Expectations. The Commonwealth has committed to work with states and territories to legislate the standards in **early 2027**. This outcome is corroborated across independent secondary sources (see the note below) but had not been confirmed against a primary government communique as at this review. The final coverage, thresholds, duties, regulators and commencement arrangements remain unknown, and the announcement does not itself create new legal obligations.
 
-    The **ACT Government announced its own Data Centre Framework on 26 August 2026**, and the **Senate's Artificial Intelligence and Data Centres inquiry closed for submissions on schedule on 1 September 2026** (reporting 16 November 2026) — see below.
+    A detailed public consultation paper substantiating that 26 August endorsement — ***Getting it right: Building AI infrastructure that works for Australia*** — opened **18 September 2026** and closes **9 October 2026**. It proposes a tiered mandatory standards framework for large data centres (excluding facilities below 30MW, with baseline requirements for 30–100MW and more substantial requirements above 100MW) and separately seeks feedback on conditions for frontier AI model training in Australia, including support for Australian creatives and copyright holders. See below for detail.
 
-<!-- TODO: Human-verify the 26 August 2026 National Cabinet outcome against the primary pm.gov.au communique once direct access is available, and check for any bill or consultation paper published since 30 August 2026. -->
+    The **ACT Government announced its own Data Centre Framework on 26 August 2026** (release now targeted for **early 2027**, aligning with the national legislative timeline), and the **Senate's Artificial Intelligence and Data Centres inquiry closed for submissions on schedule on 1 September 2026** (reporting 16 November 2026) — see below.
+
+<!-- TODO: Human-verify the 26 August 2026 National Cabinet outcome against the primary pm.gov.au communique once direct access is available. The PM&C consultation paper's existence, dates and scope are corroborated across 5 independent secondary/law-firm sources as at 27 September 2026, but the primary pmc.gov.au page itself was not directly fetchable this cycle — verify before treating it as an accessed primary source. -->
 
 Data centres are the physical infrastructure behind cloud services and modern AI. Large AI facilities can concentrate substantial demand for electricity, grid connections, cooling water, land and specialist equipment. They can also support domestic computing capacity, research, skilled employment and investment in new energy infrastructure.
 
@@ -62,7 +64,9 @@ The outcome depends on location, design, contracts, operating behaviour and tran
 | **26 August 2026** | National Cabinet endorsed developing mandatory national data centre standards (energy, water, land-use, skills/training). | Intergovernmental commitment to legislate; not itself a legal instrument. Corroborated via secondary sources, pending primary-source confirmation. |
 | **26 August 2026** | The ACT Government announced its own **Data Centre Framework**, restricting future data centre development to land already zoned for commercial, industrial, transport/services or certain non-urban use. | Territory planning position; the ACT Government describes it as already broadly aligned with the emerging national standards. |
 | **1 September 2026** | Submissions closed for the Senate's Artificial Intelligence and Data Centres inquiry. | Parliamentary process; committee reports by 16 November 2026. |
-| **Early 2027** | The Commonwealth has committed, following National Cabinet's 26 August endorsement, to legislate the standards. | Target only; subject to design, intergovernmental agreement and Parliament. |
+| **18 September 2026** | PM&C Office for AI opened the *"Getting it right: Building AI infrastructure that works for Australia"* consultation paper, covering both data centre standards and frontier AI training conditions. | Consultation paper; submissions close 9 October 2026. Not itself a legal instrument. |
+| **9 October 2026** | Submissions close for the National Cabinet AI infrastructure consultation paper. | Deadline for public/industry input ahead of legislative design. |
+| **Early 2027** | The Commonwealth has committed, following National Cabinet's 26 August endorsement, to legislate the standards. The ACT Government has also aligned its Data Centre Framework release to this timeline. | Target only; subject to design, intergovernmental agreement and Parliament. |
 
 ---
 
@@ -112,6 +116,27 @@ The endorsed standards are expected to build on the March 2026 Data Centre Expec
     SafeAI-Aus's usual direct sources — including pm.gov.au and industry.gov.au — were not reachable this research cycle. This summary is corroborated across independent secondary sources: [Clayton Utz](https://www.claytonutz.com/insights/2026/august/nine-governments-one-rulebook-national-cabinet-backs-mandatory-ai-and-data-centre-standards), [The ABJ](https://theabj.com.au/2026/08/27/australia-ai-data-centre-rules-national-cabinet/) and [GTLaw](https://www.gtlaw.com.au/insights/australian-government-announces-mandatory-ai-standards-for-large-scale-data-centres-and-new-office-of-ai) (all accessed 30 August 2026). Treat as high-confidence pending confirmation against the official National Cabinet communique.
 
 <!-- TODO: Human-verify against the primary pm.gov.au National Cabinet communique when direct access is available. -->
+
+---
+
+## Consultation paper: "Getting it right" (opened 18 September 2026)
+
+The PM&C Office for AI opened a detailed public consultation paper, ***"Getting it right: Building AI infrastructure that works for Australia"***, at 6am AEST on **18 September 2026**. Submissions close **5pm AEDT, 9 October 2026**. It substantiates National Cabinet's 26 August 2026 in-principle decision (above) with specific proposed settings.
+
+The paper proposes a **tiered mandatory national standards framework** for large data centres:
+
+- Facilities below **30MW** would be excluded from the new framework
+- **30–100MW** facilities would face baseline requirements
+- Facilities above **100MW** would face more substantial requirements
+
+Proposed coverage spans energy (including an expectation that new facilities offset additional demand with new renewable generation), water, community/workforce obligations and land use. The framework is designed to sit **atop, not replace**, existing state and territory planning regimes.
+
+New in this consultation: the paper also seeks feedback on **conditions for frontier AI model training in Australia**, including support for Australian creatives and copyright holders. Legislation remains targeted for **early 2027**.
+
+!!! note "Pending primary-source confirmation"
+    The consultation paper's existence, dates and scope are corroborated across five independent secondary and law-firm sources — [Herbert Smith Freehills Kramer](https://www.hsfkramer.com/insights/2026-09/australias-ai-infrastructure-consultation-proposed-standards-for-data-centres-and-frontier-ai), [Capital Brief](https://www.capitalbrief.com/briefing/federal-laws-on-ai-model-training-data-centre-development-open-for-public-consultation-caf70267-cf25-4225-baad-edd0d8c9c9b2/), [Cyber Daily](https://www.cyberdaily.au/government/14201-australian-government-launches-consultation-period-on-the-future-of-ai-in-the-country), [Digital Watch Observatory](https://dig.watch/updates/australia-ai-infrastructure-consultation) and [McCullough Robertson](https://mccullough.com.au/2026/09/22/australias-new-data-centre-standards/) (all accessed 27 September 2026) — but the primary PM&C consultation page itself was not directly fetchable this cycle. Verify pmc.gov.au before citing it as an accessed primary source.
+
+<!-- TODO: Human-verify the consultation paper directly against pmc.gov.au / the official consultation hub once reachable, and confirm the tiered MW thresholds against the primary document. -->
 
 ---
 
@@ -191,8 +216,10 @@ The **ACT Government** announced its own **Data Centre Framework** on 26 August 
 
 The ACT Government has characterised the Territory's existing planning settings as already broadly aligned with the emerging national standards discussed by National Cabinet (above). This is a jurisdiction-specific planning position, not new legislation, and it does not itself create data-centre-specific statutory duties beyond existing ACT planning law.
 
+As at 27 September 2026, the framework's formal release is targeted for **early 2027**, aligning with the national legislative timeline rather than following imminently from the August announcement.
+
 !!! note "Pending primary-source confirmation"
-    Direct WebFetch access to cmtedd.act.gov.au was blocked this research cycle. This summary is drawn from [ABC News](https://www.abc.net.au/news/2026-08-23/act-data-centre-policy-already-aligned-with-national-ai-standard/106936530) and the [Canberra Times](https://www.canberratimes.com.au/story/9338161/act-government-plans-data-centre-strategy-to-boost-economy/) (both accessed 6 September 2026), corroborating the ACT Government's own media release title. Moderate-high confidence; primary-source text not yet directly verified.
+    Direct WebFetch access to cmtedd.act.gov.au was blocked this research cycle. This summary is drawn from [ABC News](https://www.abc.net.au/news/2026-08-23/act-data-centre-policy-already-aligned-with-national-ai-standard/106936530) and the [Canberra Times](https://www.canberratimes.com.au/story/9338161/act-government-plans-data-centre-strategy-to-boost-economy/) (both accessed 6 September 2026), corroborating the ACT Government's own media release title. Moderate-high confidence; primary-source text not yet directly verified. A single secondary source this cycle also reported an ACT Greens motion for a temporary data-centre moratorium pending the framework's finalisation, citing water and energy supply concerns — this is not yet corroborated and is not asserted here as confirmed policy.
 
 See also our broader [state and territory AI resources](../business-resources/state-territory-ai-resources.md#australian-capital-territory-act).
 
