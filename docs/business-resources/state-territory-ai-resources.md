@@ -3,7 +3,7 @@ icon: lucide/map-pin
 title: "Australian Government AI Resources"
 description: "Official AI strategies, policies, assurance frameworks and statutory guidance from Australian federal, state and territory governments."
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
-last-reviewed: "2026-09-08"
+last-reviewed: "2026-09-27"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
 og_type: "article"
@@ -128,6 +128,9 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
     <!-- TODO: Checked against the Victorian legislation register's bills list (year introduced 2026) on 8 September 2026: a search for "vilification" returned two bills — Equal Opportunity Amendment (Work from Home) and Crimes Amendment — and a search for "social media" returned three — Workplace Legislation Amendment (Accident Compensation), Education and Training Reform and Justice Legislation Amendment (Family Violence) — none of which is either announced reform. Recheck when a bill is introduced, and verify consultation outcomes and final legal scope against the bill as introduced. -->
 
+!!! info "Victoria — premier change (28 July 2026): open question for pending AI-adjacent bills"
+    Victoria's Premier changed from Jacinta Allan to Ben Carroll on 28 July 2026 (with Gabrielle Williams as Deputy Premier). As at 27 September 2026, no AI-specific commentary has been found on whether the Carroll Government maintains the Allan Government's commitments to the two pending AI-adjacent proposals above (workplace surveillance/AI-in-hiring curbs; online safety/negligence threshold for minors). This is an **open question, not a confirmed change** — both proposals remain pre-legislative and are tied to the November 2026 state election. Do not assume either continuity or discontinuation until a bill is introduced or the Government states a position.
+
 ---
 
 ## Queensland (QLD)
@@ -160,13 +163,13 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
     See [AI Data Centres and Compute Governance in Australia](../safety-standards/ai-data-centres-compute-governance.md#south-australia-a-detailed-state-strategy) for a detailed, source-led summary and the [official South Australian strategy](https://www.dpc.sa.gov.au/__data/assets/pdf_file/0010/1424737/SA-Data-Centre-Strategy.pdf).
 
 !!! info "South Australia — Royal Commission into Artificial Intelligence announced (11 August 2026)"
-    The South Australian Government announced that it would establish a Royal Commission into Artificial Intelligence, reported as the first of its kind in Australia. A **panel of commissioners** is intended, the commission is intended to commence on **1 October 2026**, and a final report is intended no later than **1 July 2027**. Terms of reference were still to be developed at the time of the announcement. The announcement said they would focus on policy and regulatory settings at state and national level, education including schools and higher education, public services provided by the state including health, skills and workforce, and AI-related infrastructure including energy transformation and water usage.
+    The South Australian Government announced that it would establish a Royal Commission into Artificial Intelligence, reported as the first of its kind in Australia. A **panel of commissioners** is intended, the commission is intended to commence on **1 October 2026**, and a final report is intended no later than **1 July 2027**. As at 27 September 2026, broad terms-of-reference areas have been indicated — (1) state and national policy/regulatory settings; (2) education impacts across schools, tertiary and VET; (3) public service impacts including health; (4) skills and workforce impacts; (5) AI infrastructure opportunities including the energy/water interrelationship) — though the complete formal terms-of-reference document had not been located as published in detail, and commissioners had not yet been named.
 
     A royal commission is an inquiry. It does not itself create obligations for organisations using AI.
 
-    See the [official Department of the Premier and Cabinet announcement](https://www.dpc.sa.gov.au/news/royal-commission-into-artificial-intelligence-announced) (dated 11 August 2026, verified 8 September 2026).
+    See the [official Department of the Premier and Cabinet announcement](https://www.dpc.sa.gov.au/news/royal-commission-into-artificial-intelligence-announced) (dated 11 August 2026, verified 8 September 2026) and [ai.sa.gov.au](https://ai.sa.gov.au/royal-commission-into-artificial-intelligence) (accessed 27 September 2026, via search — not directly fetched).
 
-    <!-- TODO: The DPC release was verified against the primary source on 8 September 2026: announcement date 11 August 2026, a panel of commissioners, intended commencement 1 October 2026, final report no later than 1 July 2027, terms of reference still to be developed. The release states no commissioner count and no cost figure, so none is given here. Still to be published and to be verified when available: the final terms of reference, the commissioner appointments and the public submission process. -->
+    <!-- TODO: The DPC release was verified against the primary source on 8 September 2026. The broad terms-of-reference areas above are corroborated across the SA Government's own AI portal and SBS reporting as at 27 September 2026, but the complete formal terms-of-reference document and commissioner appointments remain unconfirmed — recheck ahead of the 1 October 2026 start date. -->
 
 ---
 
@@ -193,7 +196,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 - **[ACTPS Acceptable Use of ICT Resources Policy](https://www.cmtedd.act.gov.au/__data/assets/pdf_file/0006/818034/Acceptable_ICT_Use_Policy.pdf)** — includes specific conditions for generative AI (appropriateness, confidentiality, security).
 - **[Education Directorate — Position on use of AI in ACT public schools](https://www.act.gov.au/__data/assets/pdf_file/0009/2824146/Position-on-use-of-AI-in-ACT-public-schools.pdf)** — classroom and teacher guidance for safe use.
 - **[ACT Government Technology Directions](https://www.act.gov.au/open/act-government-technology-directions)** — strategic context for digital/AI capability across ACT Government (PDF available on page).
-- **[ACT Government Data Centre Framework (announced 26 August 2026)](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/barr/2026/providing-a-clear-framework-for-data-centres-in-the-act)** — restricts future data centre development to land already zoned for commercial, industrial, transport/services or certain non-urban use. See [AI Data Centres and Compute Governance](../safety-standards/ai-data-centres-compute-governance.md#australian-capital-territory-data-centre-framework-announced-26-august-2026) for full detail.
+- **[ACT Government Data Centre Framework (announced 26 August 2026)](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/barr/2026/providing-a-clear-framework-for-data-centres-in-the-act)** — restricts future data centre development to land already zoned for commercial, industrial, transport/services or certain non-urban use; formal release now targeted for **early 2027**. See [AI Data Centres and Compute Governance](../safety-standards/ai-data-centres-compute-governance.md#australian-capital-territory-data-centre-framework-announced-26-august-2026) for full detail, including a single-source, not-yet-corroborated report of an ACT Greens moratorium motion pending finalisation.
 
 ---
 
