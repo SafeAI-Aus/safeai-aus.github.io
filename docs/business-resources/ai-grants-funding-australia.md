@@ -3,7 +3,7 @@ icon: lucide/dollar-sign
 title: "AI Grants & Funding for Australian Businesses"
 description: "Australian AI grants, funding programs and financial support for businesses adopting AI responsibly, including federal, state and industry opportunities."
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
-last-reviewed: "2026-08-22"
+last-reviewed: "2026-10-04"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 og_type: "article"
@@ -16,9 +16,9 @@ og_type: "article"
 
 !!! info "Recent closures and open rounds"
     - **CRC Program Round 27** Stage 1 closed 29 April 2026. **Stage 2 opened 31 July 2026 and closes 17 September 2026 for invited applicants only**. Stage 2 outcomes are expected in early 2027, with funding expected to start in July 2027.
-    - **CRC-P Round 19 (AI Accelerator stream, $20M)** closed 12 May 2026 at 5:00 PM AEST. Outcomes now expected October 2026 (delayed from August due to high application volume).
+    - **CRC-P Round 19 (AI Accelerator stream, $20M)** closed 12 May 2026 at 5:00 PM AEST. Outcomes still not announced as at 4 October 2026 (delayed from an original August target to October 2026 due to high application volume).
 
-    The next AI Accelerator full CRC opportunity (Round 28) is expected in 2027.
+    The next dedicated AI-focused CRC opportunity (Round 28, ~$50M, announced 5 March 2026) is not expected to open for applications until 2027.
 
 <!-- TODO: Human verification required before publication: confirm CRC Round 27 Stage 2 dates and invitation-only status on business.gov.au. -->
 
@@ -122,11 +122,12 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 - **Status:** Stage 1 **closed 29 April 2026**. Stage 2 **opened 31 July 2026 and closes 17 September 2026** for invited applicants only. Outcomes are expected in early 2027, with funding expected to start in July 2027.
 - ➡️ [CRC Program details](https://business.gov.au/grants-and-programs/cooperative-research-centres-crc-grants)
 
-### AI Accelerator CRC (Future)
+### AI Accelerator CRC (Future) — CRC Round 28
 
-- Approximately **$50 million** planned for a dedicated AI Cooperative Research Centre.
+- The Government announced on **5 March 2026** that approximately **$50 million** will support at least one new AI-focused Cooperative Research Centre under **CRC Round 28**.
+- Targeting AI capability-building, with applications in healthcare, agriculture, resources and manufacturing, plus commercialisation.
 - Part of the broader AI Accelerator initiative to drive industry-led AI research at scale.
-- CRC Round 28 expected to open in **2027**.
+- Applications are **not expected to open until 2027** — not yet actionable, but worth monitoring.
 - ➡️ [AI Accelerator initiative](https://www.industry.gov.au/news/ai-accelerator-initiative-kicks-funding-industry-led-research)
 
 ---
@@ -173,6 +174,14 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 - ➡️ [Queensland Government announcement](https://statements.qld.gov.au/statements/105371)
 
 <!-- TODO: Human verification required before publication: confirm the official program name, guidelines, eligibility and opening date when the Queensland Government publishes them. -->
+
+### Queensland: CSIRO SME AI/Digital Support Program ($750,000)
+
+- The Queensland Government and CSIRO launched a free program, reported **30 September 2026**, to help small and medium enterprises advance AI and digital-technology ideas.
+- This appears to be an **open support program rather than a competitive grant round** — distinct from, and smaller than, the unnamed $10 million program above.
+- ➡️ [CSIRO](https://www.csiro.au/)
+
+<!-- TODO: Human verification required before publication: confirm eligibility criteria, application process and official program name directly with CSIRO or the Queensland Government before advising businesses to apply. -->
 
 ### Victoria: AI and Deeptech Pre-Accelerators (LaunchVic, $3.5M)
 
@@ -246,6 +255,7 @@ AI is reshaping industries across Australia. To support businesses in responsibl
 | NSW Early Adopter Program | State Grant | $2.7m+ (2024) | Planning system AI trials | Active (2024) |
 | QLD Quantum & Advanced Tech | State Program | $53m | Quantum/AI infrastructure | Active |
 | QLD Small and Family Business AI Support | State Program | $10m announced | AI adoption by eligible small and family businesses | Announced 23 Jun 2026; application details not published |
+| QLD CSIRO SME AI/Digital Support | State/Federal Program | $750k | SME AI and digital-technology adoption | Reported 30 Sep 2026; appears open — verify details before applying |
 | VIC AI and Deeptech Pre-Accelerators (LaunchVic, $3.5M) | State Program | $3.5m announced (up to $400k/provider) | AI and deeptech startup pre-acceleration | Operators announced 17 Jun 2026; provider intake varies |
 | MRFF AI in Health | Federal Grant | $30m | Healthcare AI transformation | Active |
 | CSIRO Next Gen Graduates | Federal Program | Varies | AI workforce development | Active |
