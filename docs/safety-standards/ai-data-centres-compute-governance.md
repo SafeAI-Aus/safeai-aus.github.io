@@ -3,7 +3,7 @@ icon: lucide/server
 title: "AI Data Centres and Compute Governance"
 description: "Australian AI data centre policy, state strategies and trusted directories, covering energy, water, planning, security and sovereignty."
 keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, Victoria Sustainable Data Centre Action Plan, NSW Data Centre Consultation Paper, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
-last-reviewed: "2026-09-07"
+last-reviewed: "2026-10-04"
 review-cycle: "quarterly"
 og_description: "A source-led guide to Australian data centre policy, state approaches, compute governance and trusted facility directories"
 og_type: "article"
@@ -14,12 +14,14 @@ og_type: "article"
 > **Purpose:** Track Australia's emerging policy for large data centres and AI compute infrastructure
 > **Audience:** Government, infrastructure, energy, technology, risk and community leaders | **Time:** 20-25 minutes
 
-!!! warning "Current status — 6 September 2026"
+!!! warning "Current status — 4 October 2026"
     Australia does **not yet have a legislated national AI data centre standard**. The Australian Government published voluntary **Data Centre Expectations** on 23 March 2026 and announced on 15 July 2026 that it intends to legislate Australian Standards for AI covering large data centres and AI training.
 
     **National Cabinet met on 26 August 2026** and endorsed developing nationally consistent **mandatory** standards for large data centres — covering energy, water, land-use and skills/training — building on the March 2026 Data Centre Expectations. The Commonwealth has committed to work with states and territories to legislate the standards in **early 2027**. This outcome is corroborated across independent secondary sources (see the note below) but had not been confirmed against a primary government communique as at this review. The final coverage, thresholds, duties, regulators and commencement arrangements remain unknown, and the announcement does not itself create new legal obligations.
 
-    The **ACT Government announced its own Data Centre Framework on 26 August 2026**, and the **Senate's Artificial Intelligence and Data Centres inquiry closed for submissions on schedule on 1 September 2026** (reporting 16 November 2026) — see below.
+    A related **National Cabinet AI infrastructure consultation** — "Getting it right: Building AI infrastructure that works for Australia" — opened 18 September 2026 and **closes 5pm AEDT Friday 9 October 2026**. See [below](#national-cabinet-ai-infrastructure-consultation-closes-9-october-2026) for detail.
+
+    The **ACT Government announced its own Data Centre Framework on 26 August 2026** (the ACT Government has since declined to support a Greens motion for a data-centre moratorium — see [state approaches](#australian-capital-territory-data-centre-framework-announced-26-august-2026)), and the **Senate's Artificial Intelligence and Data Centres inquiry closed for submissions on schedule on 1 September 2026** and **held its final hearing in Canberra on 1 October 2026** (reporting 16 November 2026) — see below.
 
 <!-- TODO: Human-verify the 26 August 2026 National Cabinet outcome against the primary pm.gov.au communique once direct access is available, and check for any bill or consultation paper published since 30 August 2026. -->
 
@@ -62,6 +64,9 @@ The outcome depends on location, design, contracts, operating behaviour and tran
 | **26 August 2026** | National Cabinet endorsed developing mandatory national data centre standards (energy, water, land-use, skills/training). | Intergovernmental commitment to legislate; not itself a legal instrument. Corroborated via secondary sources, pending primary-source confirmation. |
 | **26 August 2026** | The ACT Government announced its own **Data Centre Framework**, restricting future data centre development to land already zoned for commercial, industrial, transport/services or certain non-urban use. | Territory planning position; the ACT Government describes it as already broadly aligned with the emerging national standards. |
 | **1 September 2026** | Submissions closed for the Senate's Artificial Intelligence and Data Centres inquiry. | Parliamentary process; committee reports by 16 November 2026. |
+| **18 September 2026** | National Cabinet AI infrastructure consultation ("Getting it right") opened. | Public consultation; closes 9 October 2026. |
+| **1 October 2026** | The Senate inquiry held its final hearing in Canberra; invited OpenAI and Anthropic chief executives did not attend. | Parliamentary process; committee reports by 16 November 2026. |
+| **9 October 2026** | National Cabinet AI infrastructure consultation closes. | Public consultation closes; feeds into early-2027 legislation. |
 | **Early 2027** | The Commonwealth has committed, following National Cabinet's 26 August endorsement, to legislate the standards. | Target only; subject to design, intergovernmental agreement and Parliament. |
 
 ---
@@ -112,6 +117,28 @@ The endorsed standards are expected to build on the March 2026 Data Centre Expec
     SafeAI-Aus's usual direct sources — including pm.gov.au and industry.gov.au — were not reachable this research cycle. This summary is corroborated across independent secondary sources: [Clayton Utz](https://www.claytonutz.com/insights/2026/august/nine-governments-one-rulebook-national-cabinet-backs-mandatory-ai-and-data-centre-standards), [The ABJ](https://theabj.com.au/2026/08/27/australia-ai-data-centre-rules-national-cabinet/) and [GTLaw](https://www.gtlaw.com.au/insights/australian-government-announces-mandatory-ai-standards-for-large-scale-data-centres-and-new-office-of-ai) (all accessed 30 August 2026). Treat as high-confidence pending confirmation against the official National Cabinet communique.
 
 <!-- TODO: Human-verify against the primary pm.gov.au National Cabinet communique when direct access is available. -->
+
+---
+
+## National Cabinet AI infrastructure consultation (closes 9 October 2026)
+
+The Government opened a public consultation, **"Getting it right: Building AI infrastructure that works for Australia,"** on 18 September 2026. Submissions close **5pm AEDT Friday 9 October 2026** via an online form on pmc.gov.au.
+
+The consultation covers:
+
+- energy and renewable-generation requirements
+- water use
+- community engagement
+- workforce skills
+- land-use thresholds for data centres (proposed to exclude facilities below 30MW)
+- frontier AI training conditions
+
+This consultation feeds into the mandatory data-centre standards endorsed by National Cabinet on 26 August 2026 (above). Legislation remains targeted for **early 2027**.
+
+!!! note "Pending primary-source confirmation"
+    This summary is corroborated across [PM&C's own consultation page](https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia) and [PM&C news item](https://www.pmc.gov.au/news/have-your-say-future-ai-training-and-infrastructure-australia) (both accessed 4 October 2026, via search), plus [Technology Decisions](https://www.technologydecisions.com.au/content/data-centres/news/government-seeks-consultation-on-the-future-of-ai-in-australia-506969460) (accessed 4 October 2026). High confidence, though the PM&C pages were returned by search rather than directly fetched this cycle.
+
+<!-- TODO: Human-verify the consultation scope and closing time directly against pmc.gov.au, and check for a response or next-steps publication after 9 October 2026. -->
 
 ---
 
@@ -191,6 +218,8 @@ The **ACT Government** announced its own **Data Centre Framework** on 26 August 
 
 The ACT Government has characterised the Territory's existing planning settings as already broadly aligned with the emerging national standards discussed by National Cabinet (above). This is a jurisdiction-specific planning position, not new legislation, and it does not itself create data-centre-specific statutory duties beyond existing ACT planning law.
 
+Separately, ACT Greens members moved a motion calling for a moratorium on new data-centre development in the Territory, alongside a proposal that data-centre waste heat be put to community use (such as heating public pools). The **ACT Government has confirmed it does not support the moratorium motion**; the Chief Minister was also reported as dismissive of the waste-heat proposal. The Territory's Data Centre Framework (above) remains the operative planning position, with the fuller framework still targeted for **early 2027**. ([Queanbeyan CityNews](https://citynewsqbn.com.au/2026/push-to-pause-new-act-data-centres/), accessed 4 October 2026; [ABC News](https://www.abc.net.au/news/2026-09-22/act-greens-proposal-pair-data-centres-swimming-pools/107181808), accessed 4 October 2026)
+
 !!! note "Pending primary-source confirmation"
     Direct WebFetch access to cmtedd.act.gov.au was blocked this research cycle. This summary is drawn from [ABC News](https://www.abc.net.au/news/2026-08-23/act-data-centre-policy-already-aligned-with-national-ai-standard/106936530) and the [Canberra Times](https://www.canberratimes.com.au/story/9338161/act-government-plans-data-centre-strategy-to-boost-economy/) (both accessed 6 September 2026), corroborating the ACT Government's own media release title. Moderate-high confidence; primary-source text not yet directly verified.
 
@@ -202,11 +231,13 @@ See also our broader [state and territory AI resources](../business-resources/st
 
 The Senate's **Environment and Communications References Committee** conducted an inquiry into **"Artificial Intelligence and Data Centres"**. The Senate referred the inquiry on **13 May 2026**; submissions **closed on schedule on 1 September 2026**, and the committee is due to report by **16 November 2026**.
 
-The terms of reference cover the effectiveness of existing regulatory frameworks for data-centre growth, government-to-AI-company deals, and the environmental and energy/water impacts of AI infrastructure — overlapping directly with the National Cabinet Australian Standards for AI work described above. This is a separate process from the earlier Senate Select Committee on Adopting AI, whose government response is covered on [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md).
+The terms of reference cover the effectiveness of existing regulatory frameworks for data-centre growth, government-to-AI-company deals, and the environmental and energy/water impacts of AI infrastructure — overlapping directly with the National Cabinet Australian Standards for AI work described above. This is a separate process from the earlier Senate Select Committee on Adopting AI, whose government response is covered on [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md). It is also a **separate committee** from the Joint Select Committee on Artificial Intelligence (covered on [Current Legal Landscape for AI in Australia](ai-australian-legislation.md)) — the two should not be conflated.
 
-The dates and terms above were checked directly against the [official inquiry page](https://www.aph.gov.au/search/url/Inquiry/27377_34_) on 22 August 2026. No published submissions or report were located as at 6 September 2026.
+The committee held its **final hearing in Canberra on 1 October 2026**. The invited chief executives of OpenAI and Anthropic did not attend, reportedly citing insufficient notice to arrange executive travel; OpenAI's Chief Strategy Officer was instead scheduled to appear before the separate Joint Select Committee on Artificial Intelligence. The same hearing day also heard from Melbourne residents and councils affected by a nearby data-centre development, on remediation and compensation options.
 
-<!-- TODO: Human-verify any published submissions or report ahead of the 16 November 2026 reporting date. -->
+The dates and terms above were checked directly against the [official inquiry page](https://www.aph.gov.au/search/url/Inquiry/27377_34_) on 22 August 2026. No published report was located as at 4 October 2026.
+
+<!-- TODO: Human-verify the committee's published report once issued ahead of the 16 November 2026 reporting date, and confirm the 1 October hearing attendance list against the official Hansard transcript (this cycle's summary rests on secondary press coverage, not a directly-fetched aph.gov.au source). -->
 
 ---
 
@@ -256,7 +287,8 @@ No single public directory provides a definitive count of Australian data centre
 
 - Primary-source confirmation of the **26 August 2026 National Cabinet outcome** against the official communique, and any consultation paper or bill giving it legal effect
 - Primary-source confirmation of the **ACT Government's Data Centre Framework** (announced 26 August 2026) against the official ACT Government media release
-- Findings from the **Senate Environment and Communications References Committee inquiry into AI and data centres** (submissions closed 1 September 2026; committee reports by 16 November 2026)
+- Findings from the **Senate Environment and Communications References Committee inquiry into AI and data centres** (final hearing held 1 October 2026; committee reports by 16 November 2026)
+- The outcome of the **National Cabinet AI infrastructure consultation** (closes 9 October 2026) and any resulting consultation response or draft legislation
 - Draft legislation, consultation papers or impact analysis for the Australian Standards for AI
 - Definitions and thresholds for a **large AI data centre**, AI training facility or expanded development
 - Which regulators and approval bodies will verify energy, water, security and community requirements
@@ -284,6 +316,7 @@ This page will be reviewed after material government announcements. Until detail
 - [State significant development: warehouses and data centres](https://www.planning.nsw.gov.au/the-planning-system/planning-reforms/ssd-warehouses-and-data-centres) — NSW Planning
 - [South Australian Government Data Centre Strategy](https://www.dpc.sa.gov.au/__data/assets/pdf_file/0010/1424737/SA-Data-Centre-Strategy.pdf) — June 2026
 - [Senate inquiry: Artificial Intelligence and Data Centres](https://www.aph.gov.au/search/url/Inquiry/27377_34_) — Senate Environment and Communications References Committee, referred 13 May 2026
+- [Getting it right: Building AI infrastructure that works for Australia](https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia) — Department of the Prime Minister and Cabinet, consultation opened 18 September 2026, closes 9 October 2026
 - [ACT Government Data Centre Framework media release](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/barr/2026/providing-a-clear-framework-for-data-centres-in-the-act) — ACT Government, announced 26 August 2026 (direct fetch blocked this cycle; title corroborated via secondary sources)
 
 ??? note "Disclaimer & Licence"
