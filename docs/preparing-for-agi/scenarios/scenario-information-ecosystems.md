@@ -22,7 +22,7 @@ tags:
 ![AI, Democracy & Information Ecosystem Risks](scenario-information-ecosystems-hero.jpg)
 
 !!! warning "Planning scenario, not a prediction"
-    The events, dates, figures and systems in this scenario are invented to test preparedness. Real organisations are named only to set the scene; the scenario does not describe their plans or systems. Real-world examples are labelled separately.
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Where real organisations are named in the narrative, their actions and systems are hypothetical. Real-world examples are labelled separately.
 
 ## Summary
 
@@ -104,7 +104,7 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 
     - As generation improves, detection becomes harder
     - Adversaries can test content against detectors before release
-    - Even at 95% accuracy, one fake in twenty gets through, which adds up to a very large number at platform scale
+    - Even a detector that catches 95% of fakes misses one in twenty, which adds up to a very large number at platform scale
     - Attribution (who created it) is often impossible
 
     **More promising approaches:**
@@ -133,7 +133,7 @@ This scenario treats **epistemic security** as critical infrastructure: democrac
 
     **Policy organisations:** [Reset Australia](https://au.reset.tech/) · [First Draft News](https://firstdraftnews.org/) (archived since 2022) · [Centre for Responsible Technology](https://www.responsible.tech/) · [International Fact-Checking Network](https://www.poynter.org/ifcn/)
 
-    **Case studies:** 2024 US and EU elections deepfake incidents · Taiwan's approach to disinformation resilience · Slovakia election deepfake (2023) · Indonesian election synthetic media (2024)
+    **Case studies:** 2024 US and EU elections deepfake incidents · [Taiwan's approach to disinformation resilience](https://dset.tw/en/research/resilience-in-truth-public-private-collaboration-in-taiwans-response-to-disinformation/) · Slovakia election deepfake (2023) · Indonesian election synthetic media (2024)
 
     **Key concepts:** See our [Concepts & Glossary](../concepts.md) for definitions of deepfakes, synthetic media, information operations, epistemic security and computational propaganda
 

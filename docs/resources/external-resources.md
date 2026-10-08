@@ -62,6 +62,7 @@ Australia has active organisations working on digital rights, cooperative econom
 
 - [Infoxchange](https://www.infoxchange.org/) — Tech for social good, Australian community technology projects
 - [Australian Digital Inclusion Alliance](https://www.digitalinclusion.org.au/) — Business, government, academic and community organisations working on digital inclusion
+- [Hepburn Energy](https://www.hepburnenergy.coop/about/) — Community energy co-operative that started as Australia's first community-owned wind farm; a model for community infrastructure ownership (applicable to AI compute infrastructure)
 - Community technology centres — Search locally (libraries, councils, community centres often run programs)
 - Local government digital inclusion programmes — Contact your council about existing initiatives
 
@@ -165,6 +166,7 @@ For detailed, current grant opportunities, see the [AI Grants & Funding in Austr
 
 ### International Funding
 
+No current international funding opportunities are listed. See the Australian grants above.
 
 ---
 
@@ -210,6 +212,7 @@ For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing
 
 ### Technology Standards
 
+- [Ethical Explorer](https://www.artefactgroup.com/case-studies/ethical-explorer-pack/) — toolkit for anticipating ethical risks in technology, which evolved from EthicalOS
 - [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
 
 ---

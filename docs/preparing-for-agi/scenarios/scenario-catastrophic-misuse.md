@@ -23,7 +23,7 @@ tags:
 ![Catastrophic AI Misuse Through Containment Failures](scenario-catastrophic-misuse-hero.jpg)
 
 !!! warning "Planning scenario, not a prediction"
-    The events, dates, figures and systems in this scenario are invented to test preparedness. Real organisations are named only to set the scene; the scenario does not describe their plans or systems. Real-world examples are labelled separately.
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Where real organisations are named in the narrative, their actions and systems are hypothetical. Real-world examples are labelled separately.
 
 ## Summary
 

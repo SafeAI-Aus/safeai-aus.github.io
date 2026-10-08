@@ -23,7 +23,7 @@ tags:
 ![AI Critical Infrastructure Failure Cascade](scenario-critical-infrastructure-hero.jpg)
 
 !!! warning "Planning scenario, not a prediction"
-    The events, dates, figures and systems in this scenario are invented to test preparedness. Real organisations are named only to set the scene; the scenario does not describe their plans or systems. Real-world examples are labelled separately.
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Where real organisations are named in the narrative, their actions and systems are hypothetical. Real-world examples are labelled separately.
 
 ## Summary
 
@@ -136,7 +136,7 @@ This is your **"everything fails at once" scenario**—the most comprehensive te
 
     **Policy organisations:** [Resilience Shift](https://www.resilienceshift.org/) · [Stockholm Resilience Centre](https://www.stockholmresilience.org/) · [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/) foresight research · [World Economic Forum Global Risks Report](https://www.weforum.org/publications/global-risks-report/)
 
-    **Real-world precedents for cascading failure (none involved AI):** Texas power grid failure (2021) · UK National Grid frequency deviation incident (2019) · Colonial Pipeline ransomware shutdown (2021) · CrowdStrike global IT outage (2024)
+    **Real-world precedents for cascading failure (none was caused by AI decision-making):** Texas power grid failure (2021) · UK National Grid frequency deviation incident (2019) · Colonial Pipeline ransomware shutdown (2021) · CrowdStrike global IT outage (2024)
 
     **Key concepts:** See our [Concepts & Glossary](../concepts.md) for definitions of cascading failures, complex systems, resilience, normal accidents and tight coupling
 

@@ -156,7 +156,7 @@ my last check. Highlight anything tagged "safety-standards" or
 
 - **Format:** JSON (`updates.json`), Markdown (`llms.txt` and `llms-full.txt`)
 - **Update frequency:** The updates feed is regenerated on every site deployment
-- **History:** The feed covers all commits on the main branch that changed content pages, with no rolling window or truncation
+- **History:** The feed covers first-parent commits on the main branch that added or modified published content pages (deletions are not listed), with no rolling window or truncation
 - **Licence:** All content is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution: *"Source: SafeAI-Aus (safeaiaus.org)"*
 - **Cross-references:** Each file references the others, so discovering any one file leads to the rest
 
