@@ -19,7 +19,7 @@ edit_uri = "edit/main/docs/"
 # Copyright notice (appears in footer)
 copyright = """
 © SafeAI-Aus — Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
-See our <a href="https://safeaiaus.org/about/#attribution--licence">full licence and disclaimer</a> for details.
+See our <a href="https://safeaiaus.org/about/#attribution-licence">full licence and disclaimer</a> for details.
 """
 
 # Custom CSS and JavaScript
