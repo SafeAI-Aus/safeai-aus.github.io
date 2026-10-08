@@ -174,10 +174,10 @@ Use established Australian guidance for present-day adoption, digital safety and
 - [Guidance for AI Adoption (AI6)](../../safety-standards/guidance-for-ai-adoption-ai6.md) — six practices for responsible adoption by Australian organisations.
 - [AI Standards & Legislation](../../safety-standards/) — current Australian rights, safety and governance context.
 - [OAIC: transparency for AI and automated decision-making](https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making) (30 September 2026) — guidance on the privacy policy disclosures APP entities must make from 10 December 2026 where computer programs use personal information to make, or substantially and directly inform, decisions that significantly affect individuals.
-
-<!-- TODO: Human-verify the OAIC transparency obligation scope against the APP 1 Guidelines before relying on this summary. -->
 - [eSafety guidance on deepfakes](https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes) — current Australian information about synthetic-media harms and support.
 - [Community Engagement for Disaster Resilience Handbook](https://knowledge.aidr.org.au/resources/handbook-community-engagement-for-disaster-resilience/) — nationally agreed Australian principles for inclusive community engagement and resilience.
+
+<!-- TODO: Human-verify the OAIC transparency obligation scope against the APP 1 Guidelines before relying on this summary. -->
 
 For connected strategic responsibilities, see [Government & Public Institutions](../government/index.md), [Business & Industry](../business/index.md), the [Sector Guidance overview](../index.md) and the [C·A·G·R framework](../../preparing-for-agi/framework/index.md).
 
