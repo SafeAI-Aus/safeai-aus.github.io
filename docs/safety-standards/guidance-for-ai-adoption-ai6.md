@@ -3,7 +3,7 @@ icon: lucide/compass
 title: "Guidance for AI Adoption (AI6)"
 description: "How Australian organisations can apply the National AI Centre's six practices for responsible AI governance and adoption."
 keywords: "AI6 guidance Australia, Guidance for AI Adoption, AI essential practices, AI governance Australia, National AI Centre guidance, NAIC AI6, responsible AI adoption, AI6 vs VAISS, voluntary AI safety standard update, AI governance framework Australia"
-last-reviewed: "2026-07-22"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption"
 og_type: "article"
@@ -17,25 +17,25 @@ og_type: "article"
 !!! info "Status"
     Federal government guidance published on 21 October 2025. It is the current general, non-binding guidance for responsible AI adoption in Australia.
 
-!!! warning "Australian Standards for AI framework announced — July 2026"
-    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. A new **Office of AI** has been established within PM&C to coordinate its design. National Cabinet is expected to consider the approach in August 2026, with standards expected to be legislated in **early 2027**.
+!!! warning "Australian Standards for AI: update, October 2026"
+    On **15 July 2026**, the Government announced plans to legislate a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. A new **Office of AI** has been established within PM&C to coordinate its design. On **26 August 2026**, National Cabinet agreed to develop nationally consistent mandatory standards for large data centres, and the Commonwealth said it intends to legislate the AI standards in **early 2027**, including conditions for AI training. A public consultation paper took submissions until 9 October 2026. Media reports say the legislation may also require AI companies to report serious AI incidents to the affected organisation and the Australian Signals Directorate. These are proposals, not law.
 
     The announcement does not withdraw or make AI6 mandatory. Organisations can continue using AI6 as current non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
 
-<!-- TODO: Recheck the scope and timetable after National Cabinet considers the proposed standards in August 2026. -->
+<!-- TODO: National Cabinet outcome checked against the communique (https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26) on 9 October 2026. Still to check: the PM&C consultation paper (pmc.gov.au blocks automated checks), the reported incident-reporting requirement (ABC News, 29 September 2026) and any bill introduced after 9 October 2026. -->
 
 ## What is the Guidance for AI Adoption?
 
 On 21 October 2025 the National AI Centre (NAIC), within the Department of Industry, Science and Resources, released the **Guidance for AI Adoption**. It sets out **six essential practices** ("AI6") for responsible AI governance and adoption by organisations operating in Australia.
 
-The Department describes this guidance as an updated and simplified framework that **evolves the Voluntary AI Safety Standard (VAISS)**. The VAISS publication and its **10 voluntary guardrails** remain available as a more detailed control catalogue.
+The Department describes this guidance as an updated and simplified framework that **evolves the Voluntary AI Safety Standard (VAISS)**. The VAISS publication and its **10 voluntary guardrails** remain available. The implementation guidance says all VAISS practices have been integrated into its implementation practices.
 
 There are two versions of the guidance:
 
 - **Foundations** – for organisations getting started with AI or using AI in lower-risk ways
 - **Implementation guidance** – detailed practices for organisations building or customising AI, using complex or higher-risk systems, or needing stronger controls
 
-The [official implementation guidance](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) links to supporting resources including an **AI screening tool**, **AI policy template** and **AI register template**.
+The [foundations guidance](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-foundations) links to supporting resources including **AI screening questions**, an **AI policy template** and an **AI register template**. The [implementation guidance](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) links to the AI register template.
 
 ---
 
@@ -45,7 +45,7 @@ The [official implementation guidance](https://www.ai.gov.au/staying-safe-and-re
 
 Every AI use case should have clear owners.
 
-- Nominate an **executive accountable official** for AI across the organisation
+- Assign a **senior leader** as the overall AI governance owner, with enough authority and understanding to oversee AI use
 - Define who is responsible for **approving, operating and monitoring** each AI system
 - Clarify decision rights between IT, business units, risk/compliance and vendors
 - Make sure accountability appears in **policies, job descriptions and governance forums** (e.g. risk committee, digital steering group)
@@ -65,8 +65,9 @@ Before deploying AI, understand what could go wrong and who could be affected.
 
 - Identify **people and groups** who may be impacted (customers, staff, suppliers, vulnerable communities)
 - Consider impacts on **privacy, safety, fairness, security, employment and reputation**
-- Classify each use case as **lower-risk or higher-risk** based on context and consequences
-- Plan mitigations for high-impact scenarios, including **fallback processes** if the AI fails
+- Carry out a **stakeholder impact assessment**, paying particular attention to vulnerable or marginalised groups
+- Set up ways for people to **raise problems, complain, or challenge AI decisions** and get help
+- Monitor feedback over time to spot **systemic issues**
 
 !!! tip "For SMEs"
     Use a simple **AI screening / intake form** to document purpose, data, users and potential harms before you start building or buying.
@@ -77,6 +78,7 @@ Before deploying AI, understand what could go wrong and who could be affected.
 
 Treat AI use like any other material business risk.
 
+- Use a **risk screening process** to flag AI systems and use cases that pose unacceptable risk or need extra governance attention
 - Add AI-related risks to your **enterprise risk register** (privacy, cyber, safety, conduct, IP, regulatory)
 - Align to existing frameworks (privacy management, cyber security, WHS, consumer law, financial services)
 - Define **risk appetite** for AI in different areas (e.g. marketing vs safety-critical operations)
@@ -122,7 +124,8 @@ People remain responsible for decisions and outcomes.
 - Decide where **humans must remain "in the loop" or "on the loop"** (reviewing outputs, overruling decisions)
 - Ensure staff using AI have **training, guidance and authority** to question or override it
 - Avoid over-reliance on AI, especially in **high-stakes domains** (safety, financial hardship, employment, access to services)
-- Make it easy for customers and staff to **challenge or appeal** outcomes influenced by AI
+- Build in clear points where people can **pause, override, roll back or shut down** an AI system
+- Maintain **alternative pathways** so critical functions can continue if an AI system fails or is withdrawn
 
 !!! tip "For SMEs"
     Be explicit about which decisions AI can never make on its own and build that into processes and systems.
@@ -135,14 +138,14 @@ The Department describes the Guidance for AI Adoption as updated and simplified 
 
 - **Condenses** the 10 guardrails into 6 practices
 - Groups detailed controls under the 6 practices and adds guidance for developers as well as deployers
-- Includes a detailed **VAISS-to-implementation-guidance crosswalk** in its appendix
+- Includes a **VAISS-to-implementation-guidance crosswalk** in Appendix 2 of the PDF version (check its section references against the current numbering)
 
 On SafeAI-Aus:
 
 - The [Voluntary AI Safety Standard (10 Guardrails)](voluntary-ai-safety-standard-10-guardrails.md) page is maintained as a **detailed control catalogue** and historical reference
 - This AI6 page provides the **current, higher-level framework** that Australian organisations are encouraged to follow
 
-If your organisation has already aligned to the 10 guardrails, you **do not need to start again**. Instead:
+The Department says all VAISS practices are now integrated into the implementation practices. If your organisation has already aligned to the 10 guardrails, SafeAI-Aus suggests you **do not need to start again**. Instead:
 
 1. Map existing policies, controls and risk registers into the 6 practices
 2. Use NAIC's implementation guidance to fill gaps
@@ -160,7 +163,7 @@ AI6 aligns with:
 
 The **National AI Plan** released in December 2025 retained **existing laws and sector regulators** as the foundation for addressing AI-related risks, supported by voluntary guidance including AI6. The **Australian AI Safety Institute** is now operating within the Department of Industry, Science and Resources to analyse AI capabilities, risks and harms and support regulators and agencies.
 
-The separate **Australian Standards for AI** announced in July 2026 are still being designed. Published material focuses on a proposed framework for large data centres and AI training; it does not turn AI6 into a mandatory standard or create general duties for organisations using AI.
+The separate **Australian Standards for AI** announced in July 2026 are still being designed. National Cabinet agreed on 26 August 2026 to develop mandatory standards for large data centres, and the Commonwealth intends to legislate in early 2027. Published material focuses on large data centres and AI training; it does not turn AI6 into a mandatory standard or create general duties for organisations using AI.
 
 See [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md) for the current policy position.
 

@@ -3,7 +3,7 @@ icon: lucide/clock
 title: "AGI Timelines - When Could Advanced AI Arrive?"
 description: "Public estimates for advanced AI vary dramatically. Compare institutional positions, executive forecasts and researcher surveys to inform Australian planning."
 keywords: "AGI timeline, artificial general intelligence timeline, AI predictions, OpenAI predictions, Anthropic forecasts, DeepMind AGI, AI safety timeline Australia"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Compare institutional positions, executive forecasts and researcher surveys on advanced AI timelines."
 og_type: "article"
@@ -40,7 +40,7 @@ Statements from frontier developers are useful because they reveal what those or
 
     **Published position:** Working toward AGI; no precise institutional arrival date
 
-    OpenAI's stated mission is to ensure AGI benefits humanity. In a [December 2025 reflection](https://openai.com/index/ten-years/), CEO Sam Altman wrote that the organisation had a clearer line of sight toward that mission and expressed a personal expectation that superintelligence would be built by 2035. This is an executive forecast, not a dated institutional commitment to deliver AGI.
+    OpenAI's stated mission is to ensure AGI benefits humanity. In a [December 2025 reflection](https://openai.com/index/ten-years/), CEO Sam Altman wrote that the organisation had a clearer line of sight toward that mission and expressed a personal expectation that superintelligence would be built by 2035. This is an executive forecast, not a dated institutional commitment to deliver AGI. In [September 2026](https://openai.com/index/research-acceleration-view-inside-openai/), OpenAI said it had reached its internal goal of an "automated research intern" and was making progress toward an automated AI researcher by March 2028. These are internal research milestones set by the company, not an AGI arrival date.
 
 -   :material-brain:{ .lg .middle } **Anthropic (USA)**
 
@@ -48,7 +48,9 @@ Statements from frontier developers are useful because they reveal what those or
 
     **Published expectation:** "Powerful AI" as soon as **late 2026 or early 2027**
 
-    In a [March 2025 policy submission](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan), Anthropic said it expected "powerful AI systems" in late 2026 or early 2027. It defined these as systems matching or exceeding Nobel-level expertise across most disciplines and able to perform digital work autonomously. That is a specific company expectation, but it is not identical to every definition of AGI.
+    In a [March 2025 post on its policy submission](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan), Anthropic said it expected "powerful AI systems" in late 2026 or early 2027. The submission itself was more cautious, saying such systems "could emerge as soon as late 2026 or 2027". It defined these as systems matching or exceeding Nobel-level expertise across most disciplines and able to perform digital work autonomously. That is a specific company expectation, but it is not identical to every definition of AGI.
+
+    <!-- TODO: Anthropic's stated window (late 2026 or early 2027) is now less than three months away. Check for newer Anthropic statements at the next review. -->
 
 -   :material-google:{ .lg .middle } **DeepMind (Google, USA/UK)**
 
@@ -56,7 +58,7 @@ Statements from frontier developers are useful because they reveal what those or
 
     **Published position:** Building systems on a path toward AGI; no precise institutional arrival date
 
-    Google DeepMind says it is building systems "on the path" to AGI but does not publish a precise corporate arrival date. Co-founder Shane Legg's longstanding personal forecast of a 50% chance of human-level AI by 2028 is often cited, but it should not be presented as DeepMind's institutional forecast. See DeepMind's [March 2026 description of its AGI objective](https://deepmind.google/blog/10-years-of-alphago/).
+    Google DeepMind says it is building systems "on the path" to AGI but does not publish a precise corporate arrival date. Co-founder Shane Legg's longstanding personal forecast, which he now frames as a 50% chance of "minimal AGI" by 2028, is often cited, but it should not be presented as DeepMind's institutional forecast. See DeepMind's [March 2026 description of its AGI objective](https://deepmind.google/blog/10-years-of-alphago/).
 
 -   :material-flag:{ .lg .middle } **Chinese Frontier Labs**
 
@@ -66,13 +68,15 @@ Statements from frontier developers are useful because they reveal what those or
 
     Chinese developers including Baidu, Alibaba, Tencent, ByteDance and Zhipu AI are developing frontier models, alongside state-backed research institutes. Publicly available evidence supports strong strategic commitment and investment, but not a single reliable "China AGI by 2030" forecast. See the National Bureau of Asian Research's [2024 ecosystem overview](https://www.nbr.org/publication/chinas-generative-ai-ecosystem-in-2024-rising-investment-and-expectations/).
 
+<!-- TODO: The cited NBR overview is from 2024 and does not discuss state-backed institutes. Find a 2025 or 2026 source on Chinese frontier labs, or narrow the claim. -->
+
 </div>
 
 The defensible conclusion is that several leading developers are actively preparing for much more capable systems. Their statements are relevant short-horizon scenarios, not consensus forecasts.
 
 ### Australian and Australia-connected perspectives
 
-Australian perspectives span the same disagreement. **[Toby Walsh](https://www.unsw.edu.au/staff/toby-walsh)** (UNSW) has used 2062 as a longer planning horizon while arguing for sustained policy preparation rather than confidence in a precise arrival date. **Helen Toner**, who was born in Melbourne and later served on OpenAI's board, frames the disagreement through [three unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) about scaling, AI-assisted research and autonomous agents; those questions are used below to explain why forecasts diverge.
+Australian perspectives span the same disagreement. **[Toby Walsh](https://www.unsw.edu.au/staff/toby-walsh)** (UNSW) said in 2018 that he considered 2062 the year AI would match human intelligence, while arguing for sustained policy preparation rather than confidence in a precise arrival date. **Helen Toner**, who was born in Melbourne and later served on OpenAI's board, frames the disagreement through [three unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) about scaling, AI-assisted research and autonomous agents; those questions are used below to explain why forecasts diverge.
 
 **Epoch AI** [reviews](https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines) published forecasting literature and maintains empirical datasets on model capabilities. **METR** measures the length of software tasks that frontier models can complete autonomously; its observed trend is a capability indicator, not a direct AGI arrival forecast.
 
@@ -91,9 +95,9 @@ The [2023 survey of 2,778 AI researchers](https://aiimpacts.org/wp-content/uploa
 | Source | Published claim | Evidence type | Important limitation |
 |--------|-----------------|---------------|----------------------|
 | **OpenAI / Sam Altman** | Personal expectation of superintelligence by 2035 | Executive forecast (2025) | Not a probability or institutional delivery date |
-| **Anthropic** | Powerful AI as soon as late 2026 or early 2027 | Company policy submission (2025) | Uses Anthropic's own capability definition |
+| **Anthropic** | Powerful AI as soon as late 2026 or early 2027 | Company blog post on its policy submission (2025) | Uses Anthropic's own capability definition |
 | **Google DeepMind** | Explicitly working on a path toward AGI | Institutional objective (2026) | No precise corporate arrival date |
-| **Shane Legg** | 50% chance of human-level AI by 2028 | Individual forecast | Not DeepMind's institutional forecast |
+| **Shane Legg** | 50% chance of "minimal AGI" by 2028 | Individual forecast | Not DeepMind's institutional forecast |
 | **Aschenbrenner** | AGI around 2027 | Individual scenario analysis | Contested assumptions; not independent consensus |
 | **2023 researcher survey** | 50% aggregate probability by 2047 for machines outperforming humans in every task | Survey of 2,778 AI researchers | Definition differs from lab and economic-transformation concepts |
 
@@ -103,7 +107,7 @@ The [2023 survey of 2,778 AI researchers](https://aiimpacts.org/wp-content/uploa
 
 ## Why do AGI timeline predictions vary so much?
 
-**Helen Toner** (Australian AI policy researcher, former OpenAI board member, Director of Strategy at Georgetown CSET) identifies [three fundamental unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) that determine whether—and how soon—transformative AI will arrive:
+**Helen Toner** (Australian AI policy researcher, former OpenAI board member, Interim Executive Director of Georgetown CSET since September 2025) identifies [three fundamental unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) that determine whether—and how soon—transformative AI will arrive:
 
 !!! question "Three fundamental questions shaping AGI timelines"
 
@@ -117,7 +121,7 @@ The [2023 survey of 2,778 AI researchers](https://aiimpacts.org/wp-content/uploa
 
 Beyond these three questions, five additional factors drive dramatic variation:
 
-**Definition ambiguity:** "AGI" ranges from benchmark performance (arguably achieved) to economically transformative (automating most jobs) to true general intelligence (human-level across all domains) to superintelligence. Frontier labs use looser definitions; academics stricter ones.
+**Definition ambiguity:** "AGI" ranges from benchmark performance on specific tests to economically transformative (automating most jobs) to true general intelligence (human-level across all domains) to superintelligence. Frontier labs use looser definitions; academics stricter ones.
 
 **Scaling vs. breakthroughs:** Frontier labs believe current approaches will scale to AGI (more compute + data + algorithms). Academic sceptics argue fundamental breakthroughs are needed for robust reasoning, understanding and transfer learning. Both could be right—scaled systems might automate jobs without solving all hard AI problems.
 
@@ -145,7 +149,7 @@ Beyond these three questions, five additional factors drive dramatic variation:
 
     **Use as:** Urgent stress-test scenario | **Impact:** Transformational
 
-    If frontier labs are correct, Australia faces advanced AI transformation within one election cycle. This demands immediate capability building for AI evaluation and governance, regulatory frameworks in place before deployment, international coordination on safety standards and strategic decisions about critical infrastructure dependencies.
+    If frontier labs are correct, Australia could face advanced AI transformation within one or two election cycles. This demands immediate capability building for AI evaluation and governance, regulatory frameworks in place before deployment, international coordination on safety standards and strategic decisions about critical infrastructure dependencies.
 
     **Planning implication:** Build core capabilities now—evaluation teams, governance frameworks, international partnerships
 
@@ -217,13 +221,13 @@ Rather than relying on predictions, monitor these concrete signals that timeline
 
     Frontier labs see internal capability gains before they're public. They have access to data external researchers don't. Their predictions reflect this privileged information.
 
-    But they also have incentives to appear cutting-edge for talent recruitment and investment. "AGI in 5 years" attracts resources, even if actual timelines are uncertain.
+    But they also have incentives to appear cutting-edge for talent recruitment and investment. Short timeline claims can attract investment and talent, even when actual timelines are uncertain.
 
     **Best approach:** Take frontier lab predictions seriously as lower-bound scenarios (they might be right) while maintaining scepticism about marketing-driven optimism. Plan for a range that includes their forecasts.
 
 ??? question "What if AGI never arrives? Is this all wasted effort?"
 
-    **Near-term advanced AI still creates most of the governance challenges:**
+    **Near-term advanced AI still creates many of the governance challenges:**
 
     Even without "true AGI," systems that automate most knowledge work transform employment, concentrate power and create security risks. Preparing for AGI means preparing for this transformation.
 
@@ -245,32 +249,31 @@ Rather than relying on predictions, monitor these concrete signals that timeline
 
     **Frontier lab statements and thought leaders:**
     - OpenAI (2023) ["Planning for AGI and beyond"](https://openai.com/blog/planning-for-agi-and-beyond) — Official company perspective on AGI development
-    - Altman, Sam (2025) ["The Gentle Singularity"](https://blog.samaltman.com/the-gentle-singularity) — OpenAI CEO on gradual but transformative AGI arrival this decade
+    - Altman, Sam (2025) ["The Gentle Singularity"](https://blog.samaltman.com/the-gentle-singularity) — OpenAI CEO on a gradual path toward digital superintelligence, with expected milestones in 2026, 2027 and the 2030s
     - Amodei, Dario (2024) ["Machines of Loving Grace"](https://www.darioamodei.com/essay/machines-of-loving-grace) — Anthropic CEO on powerful AI potentially arriving as early as 2026 and its possible societal effects
     - Anthropic (March 2025) ["Recommendations to OSTP for the U.S. AI Action Plan"](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan) — Organisational expectation of powerful AI in late 2026 or early 2027
     - Aschenbrenner, Leopold (2024) ["Situational Awareness: The Decade Ahead"](https://situational-awareness.ai/) — Former OpenAI researcher on AGI by 2027 and national security implications
-    - DeepMind research publications on AGI timelines and capabilities
 
     **Expert surveys and forecasting:**
-    - [Epoch AI Literature Review of TAI Timelines](https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines) — Comprehensive comparison of models and forecasts, 57% probability by 2050
+    - [Epoch AI Literature Review of TAI Timelines](https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines) — Comparison of model-based and judgment-based forecasts (January 2023): judgment-based aggregate 57% by 2050, model-based aggregate 27% by 2050
     - [Epoch AI Benchmark Tracking](https://epoch.ai/data) — Data on AI capability trajectories and milestone predictions
     - [Epoch AI "How well did forecasters predict 2025 AI progress?"](https://epoch.ai/gradient-updates/how-well-did-forecasters-predict-2025-ai-progress) — Analysis of forecasting accuracy
-    - [AI Impacts HLMI Survey (2022)](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/) — Broader AI researcher community, median 2060
-    - [Metaculus AGI forecasts](https://www.metaculus.com/questions/3479/when-will-the-first-general-ai-system-be-devised-tested-and-publicly-known-of/) — Aggregated prediction markets, 50% by 2040-2045
+    - [AI Impacts HLMI Survey (2022)](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/) — Earlier survey, superseded by the 2023 survey cited above; aggregate median 2060
+    - [Metaculus AGI forecasts](https://www.metaculus.com/questions/3479/when-will-the-first-general-ai-system-be-devised-tested-and-publicly-known-of/) — Community forecasting platform (not a prediction market); the forecast changes over time, so check the live question for the current median
 
     **Australian and Australia-connected researchers:**
-    - Legg, Shane (2009-2024) — DeepMind co-founder, 50% AGI by 2028 prediction maintained since 2009 | [Dwarkesh interview](https://www.dwarkesh.com/p/shane-legg) | [The Decoder analysis](https://the-decoder.com/deepmind-co-founder-shane-legg-sees-50-percent-chance-of-minimal-agi-by-2028/)
+    - Legg, Shane (2011-2025) — DeepMind co-founder, has held a roughly 2028 forecast since at least 2011, now framed as a 50% chance of "minimal AGI" by 2028 | [Dwarkesh interview](https://www.dwarkesh.com/p/shane-legg) | [The Decoder analysis](https://the-decoder.com/deepmind-co-founder-shane-legg-sees-50-percent-chance-of-minimal-agi-by-2028/)
     - Hutter, Marcus — ANU Professor, DeepMind senior researcher, AIXI and universal AI theory | [Lex Fridman interview](https://lexfridman.com/marcus-hutter/) | [Google Scholar](https://scholar.google.com/citations?user=7hmCntEAAAAJ&hl=en)
-    - Walsh, Toby — UNSW Scientia Professor, CSIRO Data61; used 2062 as a planning horizon informed by expert surveys | [UNSW profile](https://www.unsw.edu.au/staff/toby-walsh) | [UNSW on the 2062 horizon](https://www.unsw.edu.au/newsroom/news/2018/11/ai-will-match-human-intelligence-by-2062-claims-unsw-expert) | [AI Expert Group](https://www.minister.industry.gov.au/ministers/husic/media-releases/new-artificial-intelligence-expert-group)
-    - Toner, Helen (2024) ["Unresolved debates about the future of AI"](https://helentoner.substack.com/p/unresolved-debates-about-the-future) — Melbourne-born, former OpenAI board member on three fundamental questions
-    - Toner, Helen (2025) ["Long timelines to advanced AI have substantial benefits"](https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have) — Analysis of slower development benefits
+    - Walsh, Toby — UNSW Scientia Professor, CSIRO Data61; said in 2018 he considered 2062 the year AI would match human intelligence | [UNSW profile](https://www.unsw.edu.au/staff/toby-walsh) | [UNSW on the 2062 horizon](https://www.unsw.edu.au/newsroom/news/2018/11/ai-will-match-human-intelligence-by-2062-claims-unsw-expert) | [AI Expert Group](https://www.minister.industry.gov.au/ministers/husic/media-releases/new-artificial-intelligence-expert-group)
+    - Toner, Helen (2025) ["Unresolved debates about the future of AI"](https://helentoner.substack.com/p/unresolved-debates-about-the-future) — Melbourne-born, former OpenAI board member on three fundamental questions
+    - Toner, Helen (2025) ["'Long' timelines to advanced AI have gotten crazy short"](https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have) — Argues that even 2030s timelines for human-level AI are short
 
     **Academic analysis and commentary:**
     - Cotra, Ajeya (2020) ["Forecasting TAI with biological anchors"](https://www.alignmentforum.org/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines) — Open Philanthropy research
     - Grace et al. (2018) ["When will AI exceed human performance?"](https://arxiv.org/abs/1705.08807) — Survey methodology
     - Ord, Toby (2020) *The Precipice: Existential Risk and the Future of Humanity* — Timeline uncertainty analysis
     - Urban, Tim (2015) ["The AI Revolution"](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) — Wait But Why foundational explainer
-    - Coleman, Ben (2024) ["Common ground between AI 2027 and AI 2070"](https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and) — Convergence across perspectives
+    - Kapoor, S., Narayanan, A., Kokotajlo, D. et al. (2025) ["Common ground between AI 2027 and AI as Normal Technology"](https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and) — Where two contrasting views converge
 
     **Chinese AI development and international competition:**
     - National Bureau of Asian Research (2024) ["China's Generative AI Ecosystem in 2024"](https://www.nbr.org/publication/chinas-generative-ai-ecosystem-in-2024-rising-investment-and-expectations/) — National strategic context
@@ -278,7 +281,7 @@ Rather than relying on predictions, monitor these concrete signals that timeline
     - RAND Corporation (2025) ["Seeking Stability in the Competition for AI Advantage"](https://www.rand.org/pubs/commentary/2025/03/seeking-stability-in-the-competition-for-ai-advantage.html) — Analysis of US-China AI competition dynamics and stability mechanisms
 
     **Australian context:**
-    - [CSIRO AI Roadmap](https://www.csiro.au/en/research/technology-space/ai) — National AI capability planning
+    - [CSIRO Artificial Intelligence research](https://www.csiro.au/en/research/technology-space/ai) — CSIRO's AI research programs
     - [National AI Centre](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/national-ai-centre) — Responsible AI adoption and industry capability
 
     - Australian Strategic Policy Institute [Critical Technology Tracker](https://www.aspi.org.au/report/critical-technology-tracker) — International AI capability monitoring

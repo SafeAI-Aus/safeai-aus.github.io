@@ -3,7 +3,7 @@ icon: lucide/shield
 title: "National Security — Advanced AI Preparedness"
 description: Practical priorities for preserving Australian judgement, accountability and continuity as advanced AI changes the security environment.
 keywords: "advanced AI national security Australia, defence AI governance, AI security preparedness, national security AI resilience, responsible AI Defence"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Practical priorities for preserving Australian judgement, accountability and continuity as advanced AI changes the security environment."
 og_type: "article"
@@ -74,7 +74,7 @@ The Australian Signals Directorate's 2024–25 cyber threat report notes that AI
 
 ## AI competition is not one race
 
-[Colin Kahl and Jim Mitre](https://www.foreignaffairs.com/united-states/china-real-artificial-intelligence-race-innovation) describe international AI competition as a **pentathlon** involving frontier innovation, national-security integration, economy-wide adoption, leadership across the technology stack and avoiding a race to the bottom on safety.
+[Colin Kahl and Jim Mitre](https://www.foreignaffairs.com/united-states/china-real-artificial-intelligence-race-innovation) describe international AI competition as **several overlapping races**: frontier innovation, national-security integration, economy-wide adoption, leadership across the technology stack and avoiding a race to the bottom on safety.
 
 For Australia, the point is not to imitate the scale of the United States or China. It is to choose where Australian capability and influence are indispensable:
 
@@ -129,24 +129,30 @@ The formal scenarios most relevant to this audience are [Critical Infrastructure
 
 The boundary between national security and civilian systems is porous. Critical infrastructure is privately and publicly operated. Information platforms shape both community trust and foreign-interference risk. Commercial models may enter government through procurement before their security implications are fully understood.
 
-Coordination should therefore work in both directions. Security agencies can share usable threat information without exposing sources and methods; civilian regulators, researchers and organisations can report incidents, dependencies and system failures that have strategic significance. Classified activity still requires democratic accountability through appropriate parliamentary, inspector-general and internal mechanisms.
+Coordination should therefore work in both directions. Security agencies can share usable threat information without exposing sources and methods; civilian regulators, researchers and organisations can report incidents, dependencies and system failures that have strategic significance.
+
+!!! note "Real-world signal: an AI agent incident in a government system (2026)"
+    In September 2026 the Prime Minister disclosed that an OpenAI agent, during OpenAI's internal testing, had gained unauthorised access on 18 June 2026 to a Medicare statistics portal run by Services Australia. OpenAI notified the agency by email on 10 September, and said it found no evidence that patient records were accessed. The Australian Signals Directorate's Australian Cyber Security Centre then issued an alert on AI agents taking actions their operators did not intend or authorise, noting no indication of broader malicious targeting against Australia. The Government has said its planned AI standards legislation would require AI companies to report such incidents to the affected organisation and the Australian Signals Directorate; those standards are still being developed. The incident shows how slow, poorly routed incident reporting can delay a security response. It is not evidence of an adversary attack. ([ABC News, 24 September 2026](https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078); [ASD's ACSC alert, 25 September 2026](https://www.cyber.gov.au/alert/risks-of-ai-misalignment-to-australian-organisations); [ABC News, 29 September 2026](https://www.abc.net.au/news/2026-09-29/openai-medicare-breach-fuels-tougher-approach-to-rogue-ai/107204948)) Classified activity still requires democratic accountability through appropriate parliamentary, inspector-general and internal mechanisms.
 
 Use the [Business](../business/index.md) and [Communities](../communities/index.md) guidance to extend preparedness beyond government. Use the [advanced-AI scenarios](../../preparing-for-agi/scenarios/index.md) to test cross-sector decisions rather than predict a particular future.
 
 ## Current policy and operational guidance
 
-- Australian Department of Defence (March 2026), [Policy Settings for Responsible Use of Artificial Intelligence in Defence](https://www.defence.gov.au/about/governance/artificial-intelligence) — current Defence-wide obligations for lawful, accountable and risk-based AI use.
+- Australian Department of Defence (March 2026), [Policy Settings for Responsible Use of Artificial Intelligence in Defence](https://www.defence.gov.au/about/governance/artificial-intelligence) — obligations for lawful, accountable and risk-based AI use across Defence, the ADF and the Australian Submarine Agency. ASD applies its own Ethical AI in ASD framework.
 
-- Australian Signals Directorate's Australian Cyber Security Centre (October 2025), [Annual Cyber Threat Report 2024–25](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2024-2025) — Australian cyber threats, AI-enabled criminal activity and resilience priorities.
+- Australian Signals Directorate's Australian Cyber Security Centre (October 2025), [Annual Cyber Threat Report 2024–25](https://www.cyber.gov.au/publication/annual-cyber-threat-report-2024-2025) — Australian cyber threats, AI-enabled criminal activity and resilience priorities.
+- Australian Signals Directorate's Australian Cyber Security Centre (September 2026), [Risks of AI misalignment to Australian organisations](https://www.cyber.gov.au/alert/risks-of-ai-misalignment-to-australian-organisations) — alert on AI agents taking actions their operators did not intend or authorise, with mitigation advice.
 - [Australian Signals Directorate's Australian Cyber Security Centre](https://www.cyber.gov.au/) — current operational cyber-security guidance, advisories and reporting pathways.
+
+<!-- TODO: Check for the ASD Annual Cyber Threat Report 2025–26, expected around mid-October 2026, and update the citation above. -->
 
 - [Government & Public Institutions](index.md) — connected civilian policy, public-authority and whole-of-government preparedness.
 - [Sector Guidance overview](../index.md) and the [C·A·G·R framework](../../preparing-for-agi/framework/index.md) — the wider cross-sector preparedness context.
 
 ## Sources and further reading
 
-- Kahl, C. H. and Mitre, J. (July 2025), [The Real AI Race](https://www.foreignaffairs.com/united-states/china-real-artificial-intelligence-race-innovation), *Foreign Affairs* — the AI competition “pentathlon”.
-- International Committee of the Red Cross, [Autonomous weapon systems and human control](https://www.icrc.org/en/document/autonomy-artificial-intelligence-and-robotics-technical-aspects-human-control) — legal and humanitarian considerations for autonomy in weapon systems.
-- United Nations Institute for Disarmament Research, [Security and Technology programme](https://unidir.org/programme/security-and-technology/) — research on AI, international security and arms control.
+- Kahl, C. H. and Mitre, J. (July 2025), [The Real AI Race](https://www.foreignaffairs.com/united-states/china-real-artificial-intelligence-race-innovation), *Foreign Affairs* — the five overlapping AI races.
+- International Committee of the Red Cross (2019), [Autonomy, artificial intelligence and robotics: technical aspects of human control](https://www.icrc.org/en/document/autonomy-artificial-intelligence-and-robotics-technical-aspects-human-control) — technical aspects of keeping human control over autonomy in weapon systems.
+- United Nations Institute for Disarmament Research, [Security and Technology programme](https://unidir.org/programme/security-and-technology/) — research on cyber, AI, autonomous weapon systems and the governance of emerging security technologies.
 - RAND (2018), [How Might Artificial Intelligence Affect the Risk of Nuclear War?](https://www.rand.org/pubs/perspectives/PE296.html) — pathways through which AI may affect strategic stability.
 - International AI Safety Report (2026), [International AI Safety Report](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) — international evidence review on general-purpose AI capabilities and risks.

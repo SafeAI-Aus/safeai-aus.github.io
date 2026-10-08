@@ -3,7 +3,7 @@ icon: lucide/landmark
 title: "Advanced AI Preparedness for Government"
 description: "Strategic guidance for Australian governments and public institutions preparing for advanced AI systems and possible AGI."
 keywords: "advanced AI government guidance, AGI preparedness government Australia, public sector AI governance, AI Safety Institute Australia, government AI resilience"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "Government and Public Institutions — Advanced AI Preparedness"
 og_type: "article"
@@ -154,9 +154,10 @@ Every exercise should end with named decisions: an owner, threshold, capability 
 
 Use current Australian policy and SafeAI-Aus core content for present-day implementation:
 
-- [Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) — mandatory requirements for in-scope non-corporate Commonwealth entities, effective 15 December 2025.
+- [Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) — mandatory requirements for non-corporate Commonwealth entities, effective 15 December 2025. Some requirements phase in over the following 12 months, and existing AI use cases must be assessed by 30 April 2027.
 
 - [Australian Government AI resources](https://www.digital.gov.au/policy/ai) — current public-sector policy, standards, impact assessment and implementation material.
+- National Cabinet ([26 August 2026](https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26)) agreed to develop nationally consistent mandatory standards for large data centres. The Commonwealth intends to legislate AI standards in early 2027; their content is not yet settled.
 - [Guidance for AI Adoption (AI6)](../../safety-standards/guidance-for-ai-adoption-ai6.md) — six practices for responsible adoption across Australian organisations.
 - [AI Standards & Legislation](../../safety-standards/) — current Australian and international context.
 - [Governance Templates](../../governance-templates/policy-template-library.md) — practical policies, registers, assessments and incident tools.
@@ -167,9 +168,9 @@ For connected strategic guidance, return to the [Sector Guidance overview](../in
 
 ## Sources & further reading
 
-- [Australia's AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) — current role, partnerships and advanced-AI safety work (accessed July 2026).
+- [Australia's AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) — current role, partnerships and advanced-AI safety work (accessed October 2026).
 - [Australian Government National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) (2 December 2025) — whole-of-government direction for opportunity, shared benefits and safety.
-- [Australian Government Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) (effective 15 December 2025) — operational governance requirements for in-scope Commonwealth entities.
+- [Australian Government Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) (effective 15 December 2025) — operational governance requirements for non-corporate Commonwealth entities.
 
 - Joel Predd, [“Taking AGI Seriously, Not Literally”](https://geopoliticsagi.substack.com/p/taking-agi-seriously-not-literally) (25 November 2025) — reflections from work at RAND's Center for the Geopolitics of AGI, including the “options, not odds” approach.
 - [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) — scientific assessment of general-purpose AI capabilities, risks and risk-management approaches.
