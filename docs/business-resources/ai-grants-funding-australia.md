@@ -3,7 +3,7 @@ icon: lucide/dollar-sign
 title: "AI Grants & Funding for Australian Businesses"
 description: "Australian AI grants, funding programs and financial support for businesses adopting AI responsibly, including federal, state and industry opportunities."
 keywords: "AI grants Australia, AI funding Australia, AI business grants, Australian AI funding, AI government grants, AI business support, AI investment Australia, AI startup funding"
-last-reviewed: "2026-10-09"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI grants, funding programs and financial support for Australian businesses"
 og_type: "article"

@@ -3,7 +3,7 @@ icon: lucide/wrench
 title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated AI tools and frameworks for Australian businesses implementing AI safely, including resources for governance, risk management and technical testing."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
-last-reviewed: "2026-10-09"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"
 og_type: "article"
