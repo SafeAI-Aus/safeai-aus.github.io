@@ -154,7 +154,7 @@ Every exercise should end with named decisions: an owner, threshold, capability 
 
 Use current Australian policy and SafeAI-Aus core content for present-day implementation:
 
-- [Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) — mandatory requirements for non-corporate Commonwealth entities, effective 15 December 2025. Some requirements phase in over the following 12 months, and existing AI use cases must be assessed by 30 April 2027.
+- [Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) — mandatory requirements for in-scope non-corporate Commonwealth entities, effective 15 December 2025. The policy does not apply to AI use in the Defence portfolio or the national intelligence community. Some requirements phase in over the following 12 months, and existing AI use cases must be assessed by 30 April 2027.
 
 - [Australian Government AI resources](https://www.digital.gov.au/policy/ai) — current public-sector policy, standards, impact assessment and implementation material.
 - National Cabinet ([26 August 2026](https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26)) agreed to develop nationally consistent mandatory standards for large data centres. The Commonwealth intends to legislate AI standards in early 2027; their content is not yet settled.
@@ -170,7 +170,7 @@ For connected strategic guidance, return to the [Sector Guidance overview](../in
 
 - [Australia's AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) — current role, partnerships and advanced-AI safety work (accessed October 2026).
 - [Australian Government National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) (2 December 2025) — whole-of-government direction for opportunity, shared benefits and safety.
-- [Australian Government Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) (effective 15 December 2025) — operational governance requirements for non-corporate Commonwealth entities.
+- [Australian Government Policy for the responsible use of AI in government, version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy) (effective 15 December 2025) — operational governance requirements for in-scope non-corporate Commonwealth entities.
 
 - Joel Predd, [“Taking AGI Seriously, Not Literally”](https://geopoliticsagi.substack.com/p/taking-agi-seriously-not-literally) (25 November 2025) — reflections from work at RAND's Center for the Geopolitics of AGI, including the “options, not odds” approach.
 - [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) — scientific assessment of general-purpose AI capabilities, risks and risk-management approaches.

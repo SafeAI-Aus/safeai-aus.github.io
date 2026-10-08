@@ -107,7 +107,7 @@ The [2023 survey of 2,778 AI researchers](https://aiimpacts.org/wp-content/uploa
 
 ## Why do AGI timeline predictions vary so much?
 
-**Helen Toner** (Australian AI policy researcher, former OpenAI board member, Interim Executive Director of Georgetown CSET since September 2025) identifies [three fundamental unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) that determine whether—and how soon—transformative AI will arrive:
+**Helen Toner** (Australian AI policy researcher, former OpenAI board member, [Executive Director of Georgetown CSET](https://cset.georgetown.edu/staff/helen-toner/)) identifies [three fundamental unresolved questions](https://helentoner.substack.com/p/unresolved-debates-about-the-future) that determine whether—and how soon—transformative AI will arrive:
 
 !!! question "Three fundamental questions shaping AGI timelines"
 
