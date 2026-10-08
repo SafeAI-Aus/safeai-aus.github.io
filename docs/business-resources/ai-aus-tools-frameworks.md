@@ -3,7 +3,7 @@ icon: lucide/wrench
 title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated AI tools and frameworks for Australian businesses implementing AI safely, including resources for governance, risk management and technical testing."
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
-last-reviewed: "2026-08-23"
+last-reviewed: "2026-10-09"
 review-cycle: "quarterly"
 og_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"
 og_type: "article"
@@ -46,7 +46,7 @@ In December 2025, the Digital Transformation Agency (DTA) overhauled its **Polic
 
 ## 🤖 GovAI Chat (APS AI Plan)
 
-As part of the **APS AI Plan 2025**, the Australian Government's **GovAI Chat** — an AI assistant for Australian Public Service (APS) staff — entered **alpha trial in April 2026**, delivered through GovTEAMS by the Department of Finance. User inputs and documents are not retained by AI model providers for training. **The beta trial is expected in July 2026.** This is not a tool organisations outside the APS can access directly, but it signals concrete implementation of the APS AI Plan and the DTA responsible use policy at the tooling level — and a worked example of public sector GenAI with embedded safeguards ([govai.gov.au](https://www.govai.gov.au/govai-chat); [digital.gov.au](https://www.digital.gov.au/policy/ai/australian-public-service-ai-plan-2025/what-we-plan-achieve)).
+As part of the **APS AI Plan 2025**, the Australian Government's **GovAI Chat** — an AI assistant for Australian Public Service (APS) staff — ran an **alpha trial from April to 30 June 2026**, delivered through GovTEAMS by the Department of Finance. User inputs and documents are not retained by AI model providers for training. **The beta trial launched on 27 July 2026**, open to APS staff at participating agencies ([GovAI Chat trials](https://www.govai.gov.au/govai-chat/trials), accessed 9 October 2026). This is not a tool organisations outside the APS can access directly, but it signals concrete implementation of the APS AI Plan and the DTA responsible use policy at the tooling level — and a worked example of public sector GenAI with embedded safeguards ([govai.gov.au](https://www.govai.gov.au/govai-chat); [digital.gov.au](https://www.digital.gov.au/policy/ai/australian-public-service-ai-plan-2025/what-we-plan-achieve)).
 
 ---
 
