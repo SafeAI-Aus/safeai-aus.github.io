@@ -382,7 +382,7 @@ Model weights are the trained parameters of an AI system—essentially the "know
 
 **Implication:** Model weight security is critical for dangerous capabilities. Treat advanced models as sensitive assets.
 
-**Open-weight governance challenge:** When model weights are publicly released, as with Llama, Mistral, Qwen and DeepSeek, the containment calculus changes. Released weights cannot be recalled universally and may be fine-tuned to remove safety training. Open-weight models have trailed the best closed models by an average of about four months since January 2026 on [Epoch AI's capability index](https://epoch.ai/data-insights/open-closed-eci-gap), so capabilities can spread quickly once weights are released. Pre-release evaluation and conditional release frameworks therefore matter, although governance can still influence hosting, deployment and downstream use. See [Containment](framework/containment.md) for detailed analysis.
+**Open-weight governance challenge:** When model weights are publicly released, as with Llama, Mistral, Qwen and DeepSeek, the containment calculus changes. Released weights cannot be recalled universally and may be fine-tuned to remove safety training. The strongest open-weight models trailed the best closed models by an average of about four months between January and May 2026 on [Epoch AI's capability index](https://epoch.ai/data-insights/open-closed-eci-gap), so capabilities can spread quickly once weights are released. Pre-release evaluation and conditional release frameworks therefore matter, although governance can still influence hosting, deployment and downstream use. See [Containment](framework/containment.md) for detailed analysis.
 
 ---
 

@@ -49,7 +49,7 @@ AGI could automate not just manual labour but cognitive work—analysis, writing
 
 - **New work or less work?** AGI might create new forms of work we can't yet imagine, or it might mean less human labour is needed overall
 - **Wealth distribution:** If AGI dramatically increases productivity, who benefits? Current economic structures tend to concentrate gains
-- **Australian context:** The Tech Council of Australia's [*Meeting the AI Skills Boom*](https://techcouncil.com.au/wp-content/uploads/Meeting-the-AI-Skills-Boom-2024.v2.pdf) report (2024) estimates AI could create up to 200,000 jobs by 2030, and that greater generative AI uptake could add up to $115 billion a year to the economy under a high-adoption scenario—but this assumes benefits flow broadly
+- **Australian context:** The Tech Council of Australia's [*Meeting the AI Skills Boom*](https://techcouncil.com.au/wp-content/uploads/Meeting-the-AI-Skills-Boom-2024.v2.pdf) report (2024) estimates AI could create up to 200,000 jobs by 2030, and that greater generative AI uptake could add up to $115 billion a year to the economy under a high-adoption scenario. These aggregate estimates do not show how the gains would be distributed
 
 Anthropic CEO Dario Amodei writes in [*Machines of Loving Grace*](https://darioamodei.com/machines-of-loving-grace) (2024) that he is less confident AI can address inequality and economic growth than that it can invent new technologies, because the economy involves many human constraints.
 
