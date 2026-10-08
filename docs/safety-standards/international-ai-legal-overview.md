@@ -3,7 +3,7 @@ icon: lucide/globe
 title: "International AI Legal Landscape (2026)"
 description: "Comprehensive overview of international AI regulations and legal frameworks that Australian businesses need to understand for global operations and compliance."
 keywords: "international AI law, EU AI Act, US AI regulation, global AI compliance, AI legal landscape, Australian businesses abroad, AI regulation 2026"
-last-reviewed: "2026-08-23"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Comprehensive overview of international AI regulations and legal frameworks for Australian businesses"
 og_type: "article"
@@ -64,7 +64,7 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 
     - **High-risk AI standalone systems (Annex III):** new compliance deadline **2 December 2027** (deferred from 2 August 2026)
     - **High-risk AI embedded in regulated products (Annex I):** new compliance deadline **2 August 2028**
-    - **Article 50 transparency obligations:** generally apply from **2 August 2026**; providers of systems placed on the market before that date have until **2 December 2026** to meet the Article 50(2) marking and detection obligations
+    - **Article 50 transparency obligations:** generally apply from **2 August 2026**; providers of systems placed on the market before that date have until **2 December 2026** to meet the Article 50(2) marking and detection obligations. A second, related milestone: signatories to the EU's Transparency Code of Practice (finalised June 2026) must additionally stand up an interoperable watermark-detection mechanism by **2 February 2027**.
     - **New Article 5 prohibition:** AI systems generating non-consensual intimate imagery (NCII) and child sexual abuse material (CSAM), including "nudifier" tools — compliance required by **2 December 2026**
     - **AI regulatory sandboxes (national-level):** now **2 August 2027**
     - **Machinery Regulation:** moved to Annex I Section B — AI in machinery-regulated products falls primarily under the Machinery Regulation rather than direct AI Act high-risk requirements
@@ -81,7 +81,7 @@ Below is a practical snapshot of the US, Canada, EU, UK, Japan, South Korea, Sin
 
 **Status & scope:** No omnibus federal AI law. Federal levers include **NIST AI RMF 1.0** (widely adopted), **OMB M-25-21** (governance for US federal agencies, replacing M-24-10) and **OMB M-25-22** (federal AI acquisition). Two NIST publications extend the framework:
 
-- **NIST IR 8596 — Cybersecurity Framework Profile for AI (initial preliminary draft, December 2025):** voluntary framework extending NIST CSF 2.0 to AI-specific cybersecurity risks. Organised around three focus areas (Secure, Defend, Thwart) and the six CSF 2.0 core functions. Its initial public comment period is closed and development continues ([NIST IR 8596 publication page](https://csrc.nist.gov/pubs/ir/8596/iprd), accessed 23 August 2026).
+- **NIST IR 8596 — Cybersecurity Framework Profile for AI (initial preliminary draft, December 2025):** voluntary framework extending NIST CSF 2.0 to AI-specific cybersecurity risks. Organised around three focus areas (Secure, Defend, Thwart) and the six CSF 2.0 core functions. Its initial public comment period is closed and development continues; an **AI Agent Interoperability Profile** is separately planned for **Q4 2026**, not yet finalised ([NIST IR 8596 publication page](https://csrc.nist.gov/pubs/ir/8596/iprd), accessed 23 August 2026).
 - **AI RMF Critical Infrastructure Profile (concept note, 7 April 2026):** new profile under development to guide critical infrastructure operators on AI risk management practices. Full profile in development ([NIST AI RMF homepage](https://www.nist.gov/itl/ai-risk-management-framework), accessed 19 May 2026).
 
 States and cities are active: **Colorado SB24-205** (effective **30 June 2026**, delayed from the original February 2026 date via SB 25B-004) mandates **risk management programs, impact assessments, consumer notices and appeal/human review** for "high-risk" AI; **NYC Local Law 144** requires **bias audits and notices** for automated hiring tools.
