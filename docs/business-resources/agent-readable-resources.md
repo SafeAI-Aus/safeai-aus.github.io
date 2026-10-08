@@ -3,7 +3,7 @@ icon: lucide/bot
 title: "Agent-Readable Resources for AI Systems"
 description: "Machine-readable files for AI agents to monitor Australian AI updates, check usage policies and discover governance and advanced AI preparedness resources."
 keywords: "AI agent resources, machine-readable AI governance, llms.txt, updates feed, AI compliance monitoring, AGI preparedness, C·A·G·R framework, Australian AI updates"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Machine-readable files covering Australian AI governance and advanced AI preparedness"
 og_type: "article"
@@ -14,7 +14,7 @@ og_type: "article"
 > **Purpose:** Machine-readable files for AI agents and automated systems to monitor SafeAI-Aus content
 > **Audience:** Organisations using AI agents for compliance monitoring, governance tracking, or research | **Time:** 10 minutes
 
-Organisations are increasingly using AI agents to monitor regulatory changes, track governance resources, and stay across updates that affect their AI posture. SafeAI-Aus publishes structured, machine-readable files so your agents can work with our content directly.
+Some organisations use AI agents to monitor regulatory changes, track governance resources, and stay across updates that affect their AI posture. SafeAI-Aus publishes structured, machine-readable files so your agents can work with our content directly.
 
 ---
 
@@ -32,13 +32,13 @@ Your agent can fetch this file, filter by content area (e.g., `governance-templa
 
 ```json
 {
-  "date": "2026-04-15",
-  "commit": "abc1234",
-  "type": "docs",
-  "summary": "Update grants and tools pages from April researcher digests",
-  "detail": "CRC-P Round 19 AI stream ($20M) closes 12 May 2026. DTA mandatory AI requirements for Commonwealth agencies take effect 15 June 2026. ARC Linkage 2026 round closed.",
+  "date": "2026-09-08",
+  "commit": "a8dad92",
+  "type": "update",
+  "summary": "Merge pull request #152 from SafeAI-Aus/fix/dta-implementation-timeframes",
+  "detail": "Correct DTA implementation timeframes in the governance FAQ",
   "tags": ["business-resources"],
-  "files": ["business-resources/ai-grants-funding-australia/", "business-resources/ai-aus-tools-frameworks/"]
+  "files": ["business-resources/ai-governance-faq/"]
 }
 ```
 
@@ -47,12 +47,12 @@ Your agent can fetch this file, filter by content area (e.g., `governance-templa
 | `date` | When the change was made (ISO 8601) |
 | `commit` | Short commit hash for traceability |
 | `type` | Change type (`docs`, `feat`, `fix`, `update`) |
-| `summary` | Plain-language description of the change |
+| `summary` | Commit subject line (often a pull request merge title). Read `detail` for the substance of the change |
 | `detail` | Substantive description of what changed and why — key dates, deadlines, regulatory developments. Present when the commit includes a message body |
 | `tags` | Content areas affected |
 | `files` | Pages that were modified (site-relative paths) |
 
-The feed also includes metadata — `schema_version` for format compatibility and `last_updated` so your agent can detect whether the feed has changed since its last check.
+The feed also includes metadata — `schema_version` for format compatibility and `last_updated` (the date of the most recent build, so it can change without new content entries).
 
 ### Usage Policy — How AI Systems May Use This Content
 
@@ -63,7 +63,7 @@ A Markdown policy and discovery file declaring how AI systems may use SafeAI-Aus
 Key points:
 
 - All content is licensed under **CC BY 4.0** — attribution required
-- AI systems must not present SafeAI-Aus content as legal or regulatory advice
+- AI systems must not present SafeAI-Aus content as definitive legal, regulatory or compliance advice
 - AI systems must not imply SafeAI-Aus endorsement of their products
 
 ### Knowledge Base Summary — What's Here
@@ -156,9 +156,9 @@ my last check. Highlight anything tagged "safety-standards" or
 
 - **Format:** JSON (`updates.json`), Markdown (`llms.txt` and `llms-full.txt`)
 - **Update frequency:** The updates feed is regenerated on every site deployment
-- **History:** The feed contains the full history of content changes — no rolling window or truncation
+- **History:** The feed covers all commits on the main branch that changed content pages, with no rolling window or truncation
 - **Licence:** All content is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution: *"Source: SafeAI-Aus (safeaiaus.org)"*
 - **Cross-references:** Each file references the others, so discovering any one file leads to the rest
 
 !!! info "Discovery"
-    All three files are linked from each other and from this page. The `llms.txt` file is also referenced in our `robots.txt`. If your agent knows to check any one of these files, it can find the others.
+    All three files are linked from each other and from this page. A comment in our `robots.txt` points to `llms.txt`, and `robots.txt` also declares the sitemap location. If your agent knows to check any one of these files, it can find the others.

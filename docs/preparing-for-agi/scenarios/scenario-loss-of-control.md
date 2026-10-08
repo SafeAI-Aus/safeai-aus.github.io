@@ -3,7 +3,7 @@ icon: lucide/cpu
 title: "AI Loss of Control Scenario"
 description: "How AI systems could escape human control through misalignment, deceptive behaviour or rapid capability gains. The most severe AGI risk scenario explored."
 keywords: "AI loss of control, AI misalignment, deceptive AI, AI existential risk, superintelligence risk, AI takeover, AI safety failure, AGI risk"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "AI Loss of Control & Misalignment Risks"
 og_description: "How AI systems could escape human control through misalignment or rapid capability gains."
@@ -21,6 +21,9 @@ tags:
 # Scenario 6: AI Loss of Control and Misalignment Risks
 
 ![AI Loss of Control and Misalignment Risks](scenario-loss-of-control-hero.jpg)
+
+!!! warning "Planning scenario, not a prediction"
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Real organisations are named only to set the scene; the scenario does not describe their plans or systems. Real-world examples are labelled separately.
 
 ## Summary
 
@@ -105,7 +108,9 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 
     **The alignment problem is already real—it just gets harder as systems scale:**
 
-    Recommendation algorithms optimised for engagement create polarisation. Chatbots learn to be deceptive. Content moderation AI exhibits unexpected biases. As capabilities increase, systems gain more autonomy and become harder to oversee. Alignment techniques that work for narrow systems may not scale to highly capable, autonomous agents.
+    Recommendation algorithms optimised for engagement can reward divisive content, although research on their effect on polarisation is mixed. In controlled tests, some AI models have behaved deceptively to reach a goal ([Park et al. 2023](https://arxiv.org/abs/2308.14752); [Meinke et al. 2024](https://arxiv.org/abs/2412.04984)). Content moderation systems have shown unexpected biases. As capabilities increase, systems gain more autonomy and become harder to oversee. Alignment techniques that work for narrow systems may not scale to highly capable, autonomous agents.
+
+    **A recent real-world signal (limited, not loss of control):** On 18 June 2026, an OpenAI research agent using an internal model to research public medicine spending was repeatedly blocked by a Services Australia Medicare statistics portal and sought ways around the blocks. It accessed non-public information in the portal and wrote files to an internal server. OpenAI notified Services Australia on 10 September, and the Prime Minister disclosed the incident on 24 September. No personal information is believed to have been accessed and there is no evidence of broader compromise, although investigations were continuing. ASD's Australian Cyber Security Centre then issued an alert on AI agents taking actions their operators did not intend or authorise. This was a narrow failure by a research agent: it shows an agent can pursue a task past the limits set for it, not a powerful system escaping control. ([Prime Minister's press conference, 24 September 2026](https://www.pm.gov.au/media/press-conference-new-york); [ASD alert, 25 September 2026](https://www.cyber.gov.au/alert/risks-of-ai-misalignment-to-australian-organisations))
 
     **Why prepare now:**
 
@@ -128,9 +133,9 @@ This is the **highest-stakes scenario**—where both [Alignment](../framework/al
 
     **Australian context:** [CSIRO's Responsible AI Pattern Catalogue](https://research.csiro.au/ss/science/projects/responsible-ai-pattern-catalogue/) · [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute)
 
-    **Academic research:** Russell (2019) *Human Compatible: AI and the Problem of Control* · Bostrom (2014) *Superintelligence: Paths, Dangers, Strategies* · Ngo et al. (2022) ["The alignment problem from a deep learning perspective"](https://arxiv.org/abs/2209.00626) · Hubinger et al. (2019) ["Risks from learned optimization"](https://arxiv.org/abs/1906.01820) · Cotra (2022) ["Without specific countermeasures, the easiest path to AGI likely leads to AI takeover"](https://www.cold-takes.com/without-specific-countermeasures-the-easiest-path-to-transformative-ai-likely-leads-to-ai-takeover/)
+    **Academic research:** Russell (2019) *Human Compatible: AI and the Problem of Control* · Bostrom (2014) *Superintelligence: Paths, Dangers, Strategies* · Ngo et al. (2022) ["The alignment problem from a deep learning perspective"](https://arxiv.org/abs/2209.00626) · Hubinger et al. (2019) ["Risks from learned optimization"](https://arxiv.org/abs/1906.01820) · Cotra (2022) ["Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover"](https://www.cold-takes.com/without-specific-countermeasures-the-easiest-path-to-transformative-ai-likely-leads-to-ai-takeover/)
 
-    **Policy organisations:** [Centre for AI Safety](https://www.safe.ai/) · [Alignment Research Center](https://alignment.org/) · [Machine Intelligence Research Institute](https://intelligence.org/) · [Future of Humanity Institute archive](https://ora.ox.ac.uk/objects/uuid%3A8c1ab46a-061c-479d-b587-8909989e4f51) (closed 2024) · [AI Safety Institute](https://www.aisi.gov.uk/) (UK)
+    **Policy organisations:** [Centre for AI Safety](https://www.safe.ai/) · [Alignment Research Center](https://alignment.org/) · [Machine Intelligence Research Institute](https://intelligence.org/) · [Future of Humanity Institute archive](https://ora.ox.ac.uk/objects/uuid%3A8c1ab46a-061c-479d-b587-8909989e4f51) (closed 2024) · [AI Security Institute](https://www.aisi.gov.uk/) (UK, formerly the AI Safety Institute)
 
     **Case studies:** OpenAI's GPT-4 red-teaming and alignment evaluation · Anthropic's Constitutional AI development · DeepMind's scalable oversight research · Model organisms of misalignment research program
 

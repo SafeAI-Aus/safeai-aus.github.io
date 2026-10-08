@@ -3,7 +3,7 @@ icon: lucide/bomb
 title: "AI Catastrophic Misuse Scenario"
 description: "How leaked AI models could enable sophisticated cyberattacks, bioweapon development and other catastrophic misuse. Containment failure risks explored."
 keywords: "AI misuse, AI bioweapons, AI cyberattacks, AI containment failure, AI model leaks, catastrophic AI risk, AI dual-use, AI weapons"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "Catastrophic AI Misuse Through Containment Failures"
 og_description: "How leaked AI models could enable cyberattacks and catastrophic misuse."
@@ -21,6 +21,9 @@ tags:
 # Scenario 5: Catastrophic AI Misuse Through Containment Failures
 
 ![Catastrophic AI Misuse Through Containment Failures](scenario-catastrophic-misuse-hero.jpg)
+
+!!! warning "Planning scenario, not a prediction"
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Real organisations are named only to set the scene; the scenario does not describe their plans or systems. Real-world examples are labelled separately.
 
 ## Summary
 
@@ -45,7 +48,7 @@ The attack is contained after 48 hours, but it reveals a new reality: capabiliti
 
     **Catastrophic misuse** – Adversarial actors use leaked AI capabilities to conduct attacks that exceed defensive capacity
 
-    **Containment failures** – Model weight security fails, export controls prove porous, AI control methods (jailbreaking defences) are bypassed
+    **Containment failures** – Model weight security fails, export controls prove porous, misuse safeguards (such as jailbreak defences) are bypassed
 
     **Resilience tested** – Defensive systems designed for human-paced threats struggle against AI-assisted attacks operating at machine speed
 
@@ -126,13 +129,13 @@ This scenario illustrates the importance of **Layer 1 (Prevention)** in the [Con
 ??? note "Sources & Further Reading"
     This scenario draws from research on dual-use AI capabilities, export controls for emerging technologies, model weight security and AI-enabled cyber and biological threats.
 
-    **Australian precedents:** [Defence Trade Controls Act 2012](https://www.legislation.gov.au/C2012A00153/latest/details) · [Australian Cyber Security Centre](https://www.cyber.gov.au/) threat assessments · [Defence Strategic Review](https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review) (2023) · [ASIO Annual Threat Assessment 2025](https://www.asio.gov.au/director-generals-annual-threat-assessment-2025)
+    **Australian precedents:** [Defence Trade Controls Act 2012](https://www.legislation.gov.au/C2012A00153/latest/details) · [Australian Cyber Security Centre](https://www.cyber.gov.au/) threat assessments · [Defence Strategic Review](https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review) (2023) · [ASIO Annual Threat Assessment 2026](https://www.asio.gov.au/resources/speeches-and-statements/director-generals-annual-threat-assessment-2026)
 
     **Academic and policy research:** Brundage et al. (2018) ["The Malicious Use of AI"](https://arxiv.org/abs/1802.07228) · CSET (2023) ["Skating to Where the Puck Is Going: Anticipating and Managing Risks from Frontier AI Systems"](https://cset.georgetown.edu/wp-content/uploads/Frontier-AI-Roundtable-Paper-Final-2023CA004-v2.pdf) · Shevlane et al. (2023) ["Model evaluation for extreme risks"](https://arxiv.org/abs/2305.15324)
 
     **Policy organisations:** [Nuclear Threat Initiative](https://www.nti.org/area/biological/) biosecurity program · [Centre for Security and Emerging Technology](https://cset.georgetown.edu/) (Georgetown) · [International Committee of the Red Cross](https://www.icrc.org/en/law-and-policy/new-technologies-and-warfare) research on new technologies and warfare
 
-    **Case studies:** US semiconductor export controls (2022-2024) · GPT-4 pre-deployment safety evaluation · WormGPT and FraudGPT jailbroken models · Meta Llama 2 model weight leak analysis
+    **Case studies:** US semiconductor export controls (2022 onwards) · GPT-4 pre-deployment safety evaluation · WormGPT and FraudGPT malicious chatbot services (2023 onwards) · Meta LLaMA model weight leak (March 2023)
 
     **Key concepts:** See our [Concepts & Glossary](../concepts.md) for definitions of dual-use technology, export controls, model weight security, jailbreaking and compute governance
 

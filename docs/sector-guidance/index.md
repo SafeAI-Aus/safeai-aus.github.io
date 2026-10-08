@@ -3,7 +3,7 @@ icon: lucide/users
 title: "Sector Guidance for Advanced AI and AGI"
 description: "Strategic advanced AI and AGI preparedness guidance for Australian government, business, communities and national-security contexts."
 keywords: "advanced AI sector guidance, AGI preparedness Australia, government AI preparedness, business AI preparedness, community AI resilience"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Apply the C·A·G·R framework to Australian government, business, community and national-security responsibilities."
 og_type: "article"
