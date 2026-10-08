@@ -3,7 +3,7 @@ icon: lucide/help-circle
 title: "C·A·G·R Framework FAQ"
 description: "Frequently asked questions about the C·A·G·R Framework, SafeAI-Aus approach to AI safety and how our methodology differs from mainstream AI safety research."
 keywords: "CAGR FAQ, AI safety FAQ, SafeAI-Aus approach, AI safety framework questions, containment alignment governance resilience"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Frequently asked questions about the C·A·G·R Framework and SafeAI-Aus approach to AI safety"
 og_type: "article"
@@ -56,7 +56,7 @@ C·A·G·R is designed for:
 
 The C·A·G·R framework reflects current best practice, not complete solutions. Key limitations:
 
-**Alignment verification:** We cannot yet reliably verify that advanced AI systems are truly aligned with stated goals. Systems may appear safe during evaluation but pursue different objectives in deployment ([deceptive alignment](../concepts.md#what-is-ai-alignment)). Current evaluation methods don't scale to superhuman capabilities—the [UK AI Security Institute](https://www.aisi.gov.uk/) and [Anthropic's Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) acknowledge these gaps.
+**Alignment verification:** We cannot yet reliably verify that advanced AI systems are truly aligned with stated goals. Systems may appear safe during evaluation but pursue different objectives in deployment ([deceptive alignment](../concepts.md#what-is-ai-alignment)). Current evaluation methods may not scale to superhuman capabilities. Anthropic's [Responsible Scaling Policy](https://www.anthropic.com/responsible-scaling-policy) acknowledges open problems in assuring safety at higher capability levels, and the [UK AI Security Institute](https://www.aisi.gov.uk/frontier-ai-trends-report) notes that evaluations may underestimate what models can do.
 
 **Capability thresholds:** The framework becomes critical when AI systems can autonomously pursue goals, adapt strategies or operate across domains. Consider:
 
@@ -70,7 +70,7 @@ We cannot specify exact thresholds—capabilities emerge unpredictably. Evaluate
 
 ### Where does C·A·G·R apply?
 
-**For advanced AI (high confidence):** C·A·G·R works well when AI systems are powerful but not superintelligent, technical containment is feasible, governance can meaningfully constrain deployment and resilience provides meaningful protection. This covers most plausible near-to-medium term scenarios.
+**For advanced AI (higher confidence, in SafeAI-Aus's judgement):** C·A·G·R works well when AI systems are powerful but not superintelligent, technical containment is feasible, governance can meaningfully constrain deployment and resilience provides meaningful protection. This covers many plausible near-to-medium term scenarios, though timelines remain uncertain.
 
 **For extreme AGI scenarios (lower confidence):** If dangerous superintelligent systems are created, containment likely fails—prevention becomes paramount. Alignment becomes load-bearing. Resilience has limits against global loss of control. Governance remains important but may be insufficient.
 
@@ -80,9 +80,9 @@ Australia's strategy should address both: building capability across all pillars
 
 Each pillar addresses time differently: **Containment** can delay dangerous deployment, **Governance** shapes its pace, **Resilience** creates recovery time and **Alignment** reduces the gap between capability and safety.
 
-**Strategic principle:** Any policy that doesn't address timing—buying time, using time effectively or shaping deployment pace—is likely insufficient for managing advanced AI risks.
+**Strategic principle:** Any policy that doesn't address timing—buying time, using time effectively or shaping deployment pace—is unlikely to be sufficient for managing advanced AI risks.
 
-**Coordination constraint:** These strategies work best with international coordination. Australia acting alone can buy some time but cannot slow global capability development.
+**Coordination constraint:** These strategies work best with international coordination. Australia acting alone can buy some time but is unlikely to slow global capability development on its own.
 
 ---
 
@@ -123,7 +123,9 @@ Not through unilateral regulation of frontier training (which mostly happens ove
 
 ### Why not just let industry self-regulate?
 
-Self-regulation has a role — but the problem isn't bad faith. It's that there is significant variation in what "self-regulation" means across frontier labs. Disclosure practices, risk thresholds, evaluation methods and commitments to halt development differ substantially. This variance is itself the governance problem. METR's [analysis of frontier lab safety policies](https://metr.org/common-elements) (2025) found nine common elements across most policies — suggesting convergence is possible — but adoption remains voluntary and no formal enforcement mechanism yet exists.
+Self-regulation has a role — but the problem isn't bad faith. It's that there is significant variation in what "self-regulation" means across frontier labs. Disclosure practices, risk thresholds, evaluation methods and commitments to halt development differ substantially. This variance is itself the governance problem. METR's [analysis of frontier lab safety policies](https://metr.org/common-elements) (December 2025 update) found nine common elements across most policies, suggesting convergence is possible. These policies began as voluntary commitments. Some jurisdictions now require comparable frameworks: California's SB 53, signed in September 2025, requires large frontier developers to publish a safety framework, with civil penalties for non-compliance. Practice still varies between labs.
+
+<!-- TODO: Check the primary text of California SB 53 and any comparable EU AI Act general-purpose AI obligations before adding further detail. -->
 
 A proportionate approach: self-regulation for low-risk systems, mandatory standards (drawing on emerging convergence like METR's common elements) for high-risk and frontier systems, with independent verification rather than self-assessment alone.
 
@@ -185,7 +187,7 @@ No. SafeAI-Aus is an independent, community-driven initiative. We reference gove
 
 ### Why focus on Australia specifically?
 
-Australia is a sophisticated deployer and regulator of frontier systems developed mostly overseas. We need approaches suited to that position: limited control over upstream development, but meaningful influence through procurement, deployment rules, evaluation, partnerships and resilience.
+Australia is a sophisticated deployer of frontier systems developed mostly overseas, with regulatory influence over how they are used here. We need approaches suited to that position: limited control over upstream development, but meaningful influence through procurement, deployment rules, evaluation, partnerships and resilience.
 
 ### How does this relate to the Guidance for AI Adoption (AI6)?
 

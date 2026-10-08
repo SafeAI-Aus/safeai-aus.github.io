@@ -3,7 +3,7 @@ icon: lucide/shield-alert
 title: "C·A·G·R - AI Safety & Governance Framework"
 description: "The C·A·G·R framework helps Australian organisations manage advanced AI and AGI risks through containment, alignment, governance and resilience."
 keywords: "CAGR framework, AGI safety framework, AI governance framework Australia, defence in depth AI, AI containment, AI alignment, AI resilience, advanced AI risk management, AI safety Australia"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "C·A·G·R Framework - AGI Safety & Governance"
 og_description: "Defence-in-depth framework for managing advanced AI and AGI risks in Australia."
@@ -51,7 +51,7 @@ Australia faces [three interconnected strategic challenges](../index.md#what-str
 
 C·A·G·R organises a defence-in-depth response across four interconnected pillars.
 
-**The gap we're filling:** Technical AI safety research uses specialised terminology that doesn't map to operational risk management. International frameworks assume direct oversight of frontier AI labs. Australian guidance focuses on current AI risks rather than advanced AI preparedness.
+**The gap we're filling:** Technical AI safety research uses specialised terminology that doesn't map to operational risk management. International frameworks assume direct oversight of frontier AI labs. Australian guidance has focused mainly on current AI risks, although Australia's AI Safety Institute now also analyses and tests advanced and frontier models.
 
 **Design choices:**
 
@@ -60,9 +60,9 @@ C·A·G·R organises a defence-in-depth response across four interconnected pill
 - **Defence-in-depth:** Assumes any single measure can fail and uses multiple overlapping protections
 - **Action-oriented:** Each pillar connects to concrete guidance for government, business and communities
 
-**Why now:** AI capability and deployment can change faster than legislation, institutional capability and international coordination. [METR's measurements](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) track rapid growth in the length of software tasks frontier models can complete autonomously; this is one capability indicator, not a direct measure of AGI. A [Good Ancestors survey](https://www.goodancestors.org.au/our-work/ai-safety/aisi-expert-survey) (December 2025, n=139) found 88.8% of its selected AI safety respondents wanted Australia's AI Safety Institute to prioritise catastrophic risks or take a balanced approach. These signals support anticipatory planning, but do not validate C·A·G·R itself.
+**Why now:** AI capability and deployment can change faster than legislation, institutional capability and international coordination. [METR's measurements](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) track rapid growth in the length of software tasks frontier models can complete autonomously; this is one capability indicator, not a direct measure of AGI. A [Good Ancestors survey](https://www.goodancestors.org.au/our-work/ai-safety/aisi-expert-survey) (December 2025, n=139) found 88.8% of 139 professionals working in AI safety, governance and related fields wanted Australia's AI Safety Institute to prioritise catastrophic risks or take a balanced approach. These signals support anticipatory planning, but do not validate C·A·G·R itself.
 
-**How it was developed:** C·A·G·R is a SafeAI-Aus synthesis. Its influences include international AI safety research from [Anthropic](https://www.anthropic.com/research), [Google DeepMind](https://www.deepmind.com/safety-and-ethics), [OpenAI](https://openai.com/safety) and the [UK AI Security Institute](https://www.aisi.gov.uk/); [ISO 31000](https://www.iso.org/iso-31000-risk-management.html); defence-in-depth in [nuclear safety](https://www.nrc.gov/reading-rm/basic-ref/glossary/defense-in-depth) and [cybersecurity](https://csrc.nist.gov/glossary/term/defense_in_depth); [BlueDot Impact's defence-in-depth model](https://blog.bluedot.org/p/course-portfolio-vision); biosecurity practice; and consultation with researchers and practitioners.
+**How it was developed:** C·A·G·R is a SafeAI-Aus synthesis. Its influences include international AI safety research from [Anthropic](https://www.anthropic.com/research), [Google DeepMind](https://deepmind.google/responsibility-and-safety/), [OpenAI](https://openai.com/safety) and the [UK AI Security Institute](https://www.aisi.gov.uk/); [ISO 31000](https://www.iso.org/iso-31000-risk-management.html); defence-in-depth in [nuclear safety](https://www.nrc.gov/reading-rm/basic-ref/glossary/defense-in-depth.html) and [cybersecurity](https://csrc.nist.gov/glossary/term/defense_in_depth); [BlueDot Impact's defence-in-depth model](https://blog.bluedot.org/p/course-portfolio-vision); biosecurity practice; and consultation with researchers and practitioners.
 
 ---
 
@@ -178,7 +178,7 @@ Effective strategy considers all four pillars, then gives each weight according 
 
 ## When should you escalate AGI preparedness?
 
-As the AI systems you deploy become more capable, your preparedness measures should scale accordingly. Drawing on [Responsible Capability Scaling](https://deepmindsafetyresearch.medium.com/agi-safety-and-alignment-at-google-deepmind-a-summary-of-recent-work-8e600aca582a) approaches from frontier labs, you should define capability thresholds that trigger escalation.
+As the AI systems you deploy become more capable, your preparedness measures should scale accordingly. Drawing on [responsible capability scaling](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety) approaches used in frontier labs' published safety frameworks, you should define capability thresholds that trigger escalation.
 
 **Escalation principle:** Higher capability systems require stronger safeguards across all four pillars:
 
@@ -193,7 +193,7 @@ These are illustrative escalation points—you should adapt thresholds to your o
 
 ## What are the three layers of defence-in-depth?
 
-C·A·G·R applies **[defence-in-depth](https://www.nrc.gov/reading-rm/basic-ref/glossary/defense-in-depth)** from nuclear safety and cybersecurity through three layers. Each layer assumes earlier protections may fail, and all four pillars can contribute across the layers.
+C·A·G·R applies **[defence-in-depth](https://www.nrc.gov/reading-rm/basic-ref/glossary/defense-in-depth.html)** from nuclear safety and cybersecurity through three layers. Each layer assumes earlier protections may fail, and all four pillars can contribute across the layers.
 
 ### Layer 1: Prevent dangerous AI training
 *Stopping dangerous systems from being created in the first place*
