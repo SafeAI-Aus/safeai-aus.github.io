@@ -1,12 +1,12 @@
 ---
 icon: lucide/home
 title: "Australia's AI Safety Resource"
-description: "Practical tools, open standards and trusted guidance for Australian businesses adopting AI safely, including governance templates and risk assessments."
+description: "AI governance templates, practical tools and guidance for Australian organisations adopting AI safely and preparing for the risks of more powerful AI."
 keywords: "AI safety, Australian AI standards, AI governance, AI risk assessment, AI compliance, AI safety templates, Australian business AI, AI safety Australia, AI governance templates, AI risk management, free AI templates, responsible AI Australia, AI policy Australia, AI for small business"
 last-reviewed: "2026-04-15"
 review-status: "pending"
 review-cycle: "quarterly"
-og_description: "Practical tools, open standards and trusted guidance for Australian businesses adopting AI safely"
+og_description: "AI governance templates and guidance for Australian organisations adopting AI safely and preparing for the risks of more powerful AI"
 preload_image: "assets/hero-background-v3.webp"
 hide:
   - navigation
@@ -32,7 +32,9 @@ hide:
 
 SafeAI-Aus ([safeaiaus.org](https://safeaiaus.org/)) is an independent Australian knowledge hub for organisations adopting and governing AI. It publishes practical, openly licensed guidance for executives, boards, risk teams, technology leaders and practitioners. Use the site to understand the Australian policy and standards landscape, establish proportionate governance, assess AI risks and prepare for changes in AI capability.
 
-The resources work as a connected toolkit. Organisations can start with the adoption guide and readiness checklist, adapt the policy and register templates, then use the risk assessments, assurance guidance and sector resources as their needs mature. Material about advanced AI and AGI supports scenario planning under uncertainty; it is not a prediction or a substitute for current legal, regulatory, security or professional advice.
+The resources work as a connected toolkit. Organisations can start with the adoption guide and readiness checklist, adapt the policy and register templates, then use the risk assessments, assurance guidance and sector resources as their needs mature.
+
+More powerful AI systems bring serious safety risks. They may act in ways their developers did not intend, be misused for severe harm, or fail across many organisations at once. Australian businesses often rely on overseas models they cannot fully inspect, yet remain accountable for the results. Our AGI scenarios help leaders prepare for these risks. They are planning tools, not predictions or advice.
 
 ---
 
@@ -101,6 +103,11 @@ AI use policies, risk assessments, incident forms, vendor evaluation tools and r
 <div class="value-prop" markdown>
 ### :material-library: Curated Resources
 Reports, frameworks, tools and learning materials relevant to AI adoption in Australia
+</div>
+
+<div class="value-prop" markdown>
+### :material-shield-alert: Advanced AI Preparedness
+Risk scenarios and planning guidance for the safety risks of more powerful AI
 </div>
 
 </div>

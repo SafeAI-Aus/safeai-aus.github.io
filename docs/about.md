@@ -1,11 +1,11 @@
 ---
 icon: lucide/info
 title: "About SafeAI-Aus: Mission, Values & Licence"
-description: "Learn about SafeAI-Aus — mission, purpose, core values and licensing. Australia's resource for safe, growth-focused AI adoption."
+description: "Learn about SafeAI-Aus: mission, purpose, values and licensing. Australia's open resource for safe AI adoption and the risks of more powerful AI."
 keywords: "SafeAI-Aus mission, AI safety values, Australian AI community, open source AI tools, AI governance Australia, AI safety mission, Australian AI standards, AI ethics Australia"
-last-reviewed: "2026-08-22"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
-og_description: "Learn about SafeAI-Aus — mission, purpose, core values and licensing"
+og_description: "Learn about SafeAI-Aus: mission, purpose, core values and licensing"
 og_type: "website"
 permalink: /about/
 ---
@@ -16,11 +16,11 @@ permalink: /about/
 
 **Mission:**
 
-To enable safe, ethical and growth-oriented AI adoption in Australian businesses through open standards, practical tools and collaborative knowledge-sharing.
+To enable safe, ethical and growth-oriented AI adoption in Australian businesses, and to prepare them for the risks of more powerful AI, through open standards, practical tools and collaborative knowledge-sharing.
 
 **Purpose:**
 
-SafeAI-Aus is a community-led, open-source body of knowledge designed to help Australian businesses embed, integrate and scale AI in ways that are responsible, secure and compliant - while driving national productivity and economic growth.
+Australian businesses are already embedding, integrating and scaling AI. SafeAI-Aus is a community-led, open-source body of knowledge that helps them do it safely and securely, so they can protect themselves, their customers and the wider community. Safe adoption also drives national productivity and economic growth.
 
 ## What We Do
 
@@ -29,6 +29,8 @@ SafeAI-Aus is an open-source, community-driven initiative focused on AI risk, sa
 SafeAI-Aus is operated by Safe AI Australia Inc, an incorporated not-for-profit association. SafeAI-Aus remains the public initiative responsible for publishing this site's content.
 
 We provide practical tools, resources and guidelines to help businesses of all sizes adopt AI responsibly, safeguard privacy and intellectual property and align with both Australian and global best practices.
+
+As AI systems become more powerful, preparing for their safety risks is central to our work. Our scenarios and planning guidance help Australian organisations understand these risks and build resilience before they arrive.
 
 We strongly believe in the importance of open-source knowledge that is accessible and available for implementation by business.
 
