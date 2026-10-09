@@ -3,7 +3,7 @@ icon: lucide/users
 title: "Communities — Advanced AI Preparedness"
 description: "Guidance for Australian communities preserving voice, trust and local resilience through advanced AI change."
 keywords: "advanced AI community guidance, AGI preparedness communities Australia, community AI resilience, democratic AI participation, local AI capability"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_type: "article"
 twitter_description: "Preserve community voice, trust and local resilience through advanced AI change."
@@ -173,8 +173,11 @@ Use established Australian guidance for present-day adoption, digital safety and
 
 - [Guidance for AI Adoption (AI6)](../../safety-standards/guidance-for-ai-adoption-ai6.md) — six practices for responsible adoption by Australian organisations.
 - [AI Standards & Legislation](../../safety-standards/) — current Australian rights, safety and governance context.
+- [OAIC: transparency for AI and automated decision-making](https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making) (30 September 2026) — guidance on the privacy policy disclosures APP entities must make from 10 December 2026 where computer programs use personal information to make, or substantially and directly inform, decisions that significantly affect individuals.
 - [eSafety guidance on deepfakes](https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes) — current Australian information about synthetic-media harms and support.
 - [Community Engagement for Disaster Resilience Handbook](https://knowledge.aidr.org.au/resources/handbook-community-engagement-for-disaster-resilience/) — nationally agreed Australian principles for inclusive community engagement and resilience.
+
+<!-- TODO: Human-verify the OAIC transparency obligation scope against the APP 1 Guidelines before relying on this summary. -->
 
 For connected strategic responsibilities, see [Government & Public Institutions](../government/index.md), [Business & Industry](../business/index.md), the [Sector Guidance overview](../index.md) and the [C·A·G·R framework](../../preparing-for-agi/framework/index.md).
 
@@ -182,7 +185,7 @@ For connected strategic responsibilities, see [Government & Public Institutions]
 
 ## Sources & further reading
 
-- Australian Institute for Disaster Resilience, [Community Engagement for Disaster Resilience Handbook](https://knowledge.aidr.org.au/resources/handbook-community-engagement-for-disaster-resilience/) (2020; current in July 2026) — strengths-based, inclusive community engagement for preparedness, response and recovery.
+- Australian Institute for Disaster Resilience, [Community Engagement for Disaster Resilience Handbook](https://knowledge.aidr.org.au/resources/handbook-community-engagement-for-disaster-resilience/) (2020; no later edition found as at October 2026) — strengths-based, inclusive community engagement for preparedness, response and recovery.
 - OECD, [Guidelines for Citizen Participation Processes](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html) (2022) — evidence-based guidance for meaningful and accountable public participation.
 - [Australian Government National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) (2 December 2025) — national direction covering opportunity, shared benefits, communities and safety.
 - Australian eSafety Commissioner, [Deepfakes](https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes) (updated 2026) — risks to individuals, institutions and democratic processes and available support.

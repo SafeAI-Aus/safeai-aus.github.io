@@ -3,7 +3,7 @@ icon: lucide/zap
 title: "AI Critical Infrastructure Failure Scenario"
 description: "How AI-dependent critical infrastructure could experience cascading failures. Energy, finance and telecommunications vulnerabilities in Australia explored."
 keywords: "AI critical infrastructure, AI cascading failure, AI power grid, AI finance failure, infrastructure vulnerability, AI system failure, Australia critical infrastructure"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "AI Critical Infrastructure Failure Cascade Scenario"
 og_description: "How AI-dependent critical infrastructure could experience cascading failures."
@@ -22,13 +22,16 @@ tags:
 
 ![AI Critical Infrastructure Failure Cascade](scenario-critical-infrastructure-hero.jpg)
 
+!!! warning "Planning scenario, not a prediction"
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Where real organisations are named in the narrative, their actions and systems are hypothetical. Real-world examples are labelled separately.
+
 ## Summary
 
 By 2032, AI systems manage much of Australia's critical infrastructure. AEMO uses AI to optimise the National Electricity Market across solar, wind and coal. Sydney Trains runs AI-assisted scheduling and signal control. Telstra and Optus use AI network management for 5G and fibre. Major ports in Melbourne, Sydney and Brisbane rely on AI logistics coordination.
 
 Each system works well independently. Energy costs drop. Train delays decline. Network reliability improves. But the systems are optimised for efficiency under normal conditions—and they're increasingly interdependent.
 
-**January 2035.** An extreme heatwave hits eastern Australia while geopolitical tensions disrupt coal and gas imports. The electricity grid's AI system, optimised for cost minimisation, makes a series of decisions that seem rational individually but cascade catastrophically:
+**January 2035.** An extreme heatwave hits eastern Australia while geopolitical tensions disrupt gas and liquid fuel supply. The electricity grid's AI system, optimised for cost minimisation, makes a series of decisions that seem rational individually but cascade catastrophically:
 
 It shuts down backup capacity that seemed unnecessary. It delays bringing expensive peaker plants online. When demand spikes, it implements rolling blackouts using an algorithm that prioritises industrial users but doesn't account for hospital dependencies or water pumping stations.
 
@@ -88,7 +91,7 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 
 === ":material-briefcase: Business & Industry"
 
-    - **Operators:** Can you switch to manual operation within 4 hours? Have you tested this in the past year?
+    - **Operators:** Can you switch to manual operation within a time you have defined (for example, 4 hours)? Have you tested this in the past year?
     - **Operators:** Do staff maintain manual operation skills? Are junior staff learning them?
     - **Vendors:** How transparent and testable are your systems to customers who need to verify safety properties?
     - What happens at interfaces between your AI systems and others you don't control?
@@ -107,7 +110,7 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 
     **This isn't about AI being uniquely bad—it's about what AI enables:**
 
-    - **Optimization for efficiency:** AI finds efficiencies humans miss—but often by removing redundancy that provides resilience
+    - **Optimisation for efficiency:** AI finds efficiencies humans miss—but often by removing redundancy that provides resilience
     - **Complexity and opacity:** AI systems are harder to understand and predict than simpler rules-based systems
     - **Interdependence at scale:** AI coordination across sectors creates tighter coupling and faster failure propagation
     - **Skills atrophy:** Heavy AI reliance means human operators can't diagnose or fix problems quickly
@@ -120,7 +123,7 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 
 ## Why this scenario matters for C·A·G·R
 
-This is your **"everything fails at once" scenario**—the most comprehensive test of defence-in-depth through the [C·A·G·R framework](../framework/index.md). Systems that shouldn't have been deployed with these risks were deployed anyway (Layer 1 fails). AI control methods and regulatory oversight prove inadequate under stress (Layer 2 fails). [Resilience](../framework/resilience.md) measures are the last line of defence (Layer 3 tested). If you can handle this scenario, your preparedness is robust. If you can't, you've identified critical gaps across multiple pillars.
+This is your **"everything fails at once" scenario**—the most comprehensive test of defence-in-depth through the [C·A·G·R framework](../framework/index.md). Systems that shouldn't have been deployed with these risks were deployed anyway (Layer 1 fails). AI control methods and regulatory oversight prove inadequate under stress (Layer 2 fails). [Resilience](../framework/resilience.md) measures are the last line of defence (Layer 3 tested). If you can handle this scenario in an exercise, you have tested your preparedness against one demanding case. If you can't, you've identified critical gaps across multiple pillars.
 
 ---
 
@@ -133,7 +136,7 @@ This is your **"everything fails at once" scenario**—the most comprehensive te
 
     **Policy organisations:** [Resilience Shift](https://www.resilienceshift.org/) · [Stockholm Resilience Centre](https://www.stockholmresilience.org/) · [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/) foresight research · [World Economic Forum Global Risks Report](https://www.weforum.org/publications/global-risks-report/)
 
-    **Case studies:** Texas power grid failure (2021) · UK National Grid frequency deviation incident (2019) · Colonial Pipeline ransomware shutdown (2021) · CrowdStrike global IT outage (2024)
+    **Real-world precedents for cascading failure (none was caused by AI decision-making):** Texas power grid failure (2021) · UK National Grid frequency deviation incident (2019) · Colonial Pipeline ransomware shutdown (2021) · CrowdStrike global IT outage (2024)
 
     **Key concepts:** See our [Concepts & Glossary](../concepts.md) for definitions of cascading failures, complex systems, resilience, normal accidents and tight coupling
 

@@ -3,7 +3,7 @@ icon: lucide/chart-no-axes-combined
 title: "AI Power Concentration Scenario"
 description: "How AI power concentration could leave Australia dependent on foreign-controlled systems. Market consolidation, regulatory capture and loss of sovereignty explored."
 keywords: "AI power concentration, AI governance failure, AI sovereignty, Big Tech AI, AI monopoly, regulatory capture AI, AI dependency Australia"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "AI Power Concentration & Governance Failure Scenario"
 og_description: "How AI power concentration could leave Australia dependent on foreign-controlled systems."
@@ -22,13 +22,16 @@ tags:
 
 ![AI Power Concentration & Governance Failure](scenario-power-concentration-hero.jpg)
 
+!!! warning "Planning scenario, not a prediction"
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Where real organisations are named in the narrative, their actions and systems are hypothetical. Real-world examples are labelled separately.
+
 ## Summary
 
 **2028-2033:** Three US tech firms come to dominate frontier AI models and infrastructure. By 2031, most Australian government departments rely on one of these providers for document analysis, policy modelling and decision support. The big four banks all licence AI systems from the same two vendors for credit assessment, fraud detection and trading.
 
-Australian universities and research institutions lack the compute and talent to develop competitive alternatives. The National AI Centre coordinates some local capability, but budgets are 1/100th of what leading labs spend on a single training run.
+Australian universities and research institutions lack the compute and talent to develop competitive alternatives. The National AI Centre supports local industry adoption, but its budget is a small fraction of what leading labs spend on a single training run.
 
-Meanwhile, **international governance coordination fractures.** The US and China compete for AI leadership through subsidies and relaxed oversight. Singapore, UAE and others offer regulatory havens to attract development. The G20 AI Safety Summit produces a non-binding declaration but no enforceable framework.
+Meanwhile, **international governance coordination fractures.** The US and China compete for AI leadership through subsidies and relaxed oversight. Some other jurisdictions offer light-touch regimes to attract development. A leaders' AI safety summit produces a non-binding declaration but no enforceable framework.
 
 Australia debates: tighten requirements for AI procurement and risk losing access to cutting-edge systems? Or accept whatever terms providers offer? When a major cloud provider threatens to restrict API access unless Australia softens proposed transparency rules, Canberra backs down. The precedent is set.
 
@@ -123,7 +126,7 @@ This scenario tests whether Australian institutions can retain meaningful oversi
 
 - A few labs achieve clear capability lead
 - Countries begin competing to attract AI investment
-- Early multilateral coordination attempts stall
+- Multilateral coordination so far stays voluntary and non-binding
 - Australia debates: strengthen regulation or remain competitive?
 
 **Years 4-7:**
@@ -149,11 +152,11 @@ This scenario tests whether Australian institutions can retain meaningful oversi
 
     **Australian context:** [Australian Cyber Security Centre](https://www.cyber.gov.au/) operational guidance · [National AI Centre](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/national-ai-centre) · [List of Critical Technologies in the National Interest](https://www.industry.gov.au/publications/list-critical-technologies-national-interest) (Department of Industry, Science and Resources)
 
-    **Academic and policy research:** Brookings (2024) ["Examining advanced AI capabilities and risks"](https://www.brookings.edu/articles/examining-advanced-ai-capabilities-and-risks/) · Maas (2019) ["How viable is international arms control for military artificial intelligence?"](https://doi.org/10.1080/13523260.2019.1576464) · Bradford (2020) *The Brussels Effect: How the EU Rules the World*
+    **Academic and policy research:** Okolo (2024) ["Examining the capabilities and risks of advanced AI systems"](https://www.brookings.edu/articles/examining-advanced-ai-capabilities-and-risks/) (Brookings) · Maas (2019) ["How viable is international arms control for military artificial intelligence? Three lessons from nuclear weapons"](https://doi.org/10.1080/13523260.2019.1576464) · Bradford (2020) *The Brussels Effect: How the EU Rules the World*
 
-    **Policy organisations:** [OECD AI Policy Observatory](https://oecd.ai/) · [Centre for the Governance of AI](https://www.governance.ai/) · [Carnegie Endowment for International Peace AI & Global Governance Program](https://carnegieendowment.org/programs/technology-and-international-affairs/artificial-intelligence-and-global-governance)
+    **Policy organisations:** [OECD AI Policy Observatory](https://oecd.ai/) · [Centre for the Governance of AI](https://www.governance.ai/) · [Carnegie Endowment Technology and International Affairs Program](https://carnegieendowment.org/programs/technology-and-international-affairs)
 
-    **Case studies:** US-China semiconductor export controls (2022-2024) · EU AI Act implementation challenges · UK National AI Strategy tensions between innovation and sovereignty
+    **Case studies:** US-China semiconductor export controls (2022 onwards) · EU AI Act implementation challenges · UK National AI Strategy tensions between innovation and sovereignty
 
     **Key concepts:** See our [Concepts & Glossary](../concepts.md) for definitions of tech sovereignty, compute governance, regulatory arbitrage and vendor lock-in
 

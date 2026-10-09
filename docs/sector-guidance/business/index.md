@@ -3,7 +3,7 @@ icon: lucide/briefcase
 title: "Business & Industry — Advanced AI Preparedness"
 description: "Strategic guidance for Australian boards and industry leaders preparing for advanced AI systems and possible AGI."
 keywords: "advanced AI business guidance, AGI preparedness business Australia, board AI governance, business AI resilience, strategic AI dependencies"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "Business and Industry — Advanced AI Preparedness"
 og_type: "article"
@@ -27,7 +27,7 @@ This page focuses on strategic preparedness for advanced AI systems and possible
 
 ## Where business responsibility begins
 
-Most Australian organisations will encounter advanced AI as customers, not developers. A system may arrive through a familiar vendor and quickly become embedded in decisions, workflows and critical services. The provider can describe the product, but it cannot decide the organisation's risk appetite, accept accountability for its use or preserve the organisation's ability to operate without it.
+Most Australian organisations are likely to encounter advanced AI as customers, not developers. A system may arrive through a familiar vendor and quickly become embedded in decisions, workflows and critical services. The provider can describe the product, but it cannot decide the organisation's risk appetite, accept accountability for its use or preserve the organisation's ability to operate without it.
 
 That places the greatest direct weight on [Governance](../../preparing-for-agi/framework/governance.md) and [Resilience](../../preparing-for-agi/framework/resilience.md): who decides, what reaches the board, which dependencies are acceptable and whether essential functions can continue. [Containment](../../preparing-for-agi/framework/containment.md) matters at the deployment boundary—where an organisation can refuse, restrict, isolate or withdraw a system. [Alignment](../../preparing-for-agi/framework/alignment.md) is practical and contextual: does the system reliably serve the organisation, its customers, workers and the public interest under real operating conditions?
 
@@ -104,7 +104,7 @@ Work through industry associations, information-sharing mechanisms and regulator
 - coordinate minimum expectations for vendors; and
 - avoid treating a widely used system as safe merely because it is widely used.
 
-Procurement is also a safety lever. Large customers can require evaluation evidence, incident notification, change control, portability, audit access and tested shutdown arrangements. Coordinated demand makes these properties commercially important to providers.
+Procurement is also a safety lever. Large customers can require evaluation evidence, incident notification, change control, portability, audit access and tested shutdown arrangements. Coordinated demand can make these properties commercially important to providers.
 
 ### 5. How will you position for different futures?
 
@@ -165,6 +165,7 @@ Use SafeAI-Aus core content for present-day implementation and governance:
 - [AI Vendor Evaluation Checklist](../../governance-templates/ai-vendor-evaluation-checklist.md) — structured due diligence for providers and systems.
 - [AI Risk Register](../../governance-templates/ai-risk-register.md) and [AI Incident Report Form](../../governance-templates/ai-incident-report-form.md) — operational recording and escalation.
 - [Business Resources](../../business-resources/) — adoption, funding, tools and Australian capability resources.
+- [ASD's ACSC alert: Risks of AI misalignment to Australian organisations](https://www.cyber.gov.au/alert/risks-of-ai-misalignment-to-australian-organisations) (25 September 2026) — AI agents taking actions their operators did not intend or authorise, with mitigation advice.
 - [CISC regulatory obligations](https://www.cisc.gov.au/how-we-support-industry/regulatory-obligations) — current guidance for entities that may have obligations under the SOCI Act.
 - [Fair Work consultation and cooperation guide](https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/consultation-and-cooperation-in-the-workplace) — current workplace-change consultation guidance.
 

@@ -3,7 +3,7 @@ icon: lucide/external-link
 title: "Democratic & Decentralised AI Resources"
 description: "Curated external resources for Australian organisations exploring decentralised AI, platform cooperatives, digital rights and democratic technology governance."
 keywords: "decentralised AI resources, democratic AI governance, platform cooperatives Australia, digital rights Australia, community technology resources"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Curated starting points for decentralised AI, platform cooperatives, digital rights and democratic technology governance."
 og_type: "article"
@@ -21,7 +21,7 @@ This page provides curated resources for building decentralised AI alternatives 
 !!! note "About this resource list"
 
     **Page integration reviewed:** 18 July 2026
-    **External-link audit:** January 2026. The July integration review did not re-audit every external URL.
+    **External-link audit:** October 2026.
     **Maintenance:** Resources are periodically reviewed for accuracy. If you find broken links or outdated information, please let us know.
     **Not endorsements:** Inclusion doesn't constitute endorsement of all positions. These are starting points for your own investigation.
 
@@ -51,7 +51,7 @@ Australia has active organisations working on digital rights, cooperative econom
 
 !!! tip "BCCM is a leading Australian starting point for cooperative formation"
 
-    If you're considering forming a cooperative or want to understand cooperative models, **[BCCM](https://bccm.coop/)** is a valuable starting point. They provide formation guidance, legal templates, case studies and connections to state-based agencies. Other organisations (listed below) offer state-specific or sector-specific support.
+    If you're considering forming a cooperative or want to understand cooperative models, **[BCCM](https://bccm.coop/)** is a valuable starting point. They provide formation guidance, a free tool for drafting co-operative rules, templates, case studies and connections to state-based agencies. Other organisations (listed below) offer state-specific or sector-specific support.
 
 - [Business Council of Co-operatives and Mutuals (BCCM)](https://bccm.coop/) — Peak body for Australian cooperatives, comprehensive resources
 - [Consumer Affairs Victoria: register a co-operative](https://www.consumer.vic.gov.au/licensing-and-registration/co-operatives/register-a-co-operative) — official Victorian guidance
@@ -61,8 +61,8 @@ Australia has active organisations working on digital rights, cooperative econom
 ### Community Technology
 
 - [Infoxchange](https://www.infoxchange.org/) — Tech for social good, Australian community technology projects
-- [Australian Community Technology Network](https://www.communitydoor.org.au/) — Digital inclusion and community technology access
-- [Community renewable energy cooperatives](https://www.cleanenergycouncil.org.au/) — Models for community infrastructure ownership (applicable to AI compute infrastructure)
+- [Australian Digital Inclusion Alliance](https://www.digitalinclusion.org.au/) — Business, government, academic and community organisations working on digital inclusion
+- [Hepburn Energy](https://www.hepburnenergy.coop/about/) — Community energy co-operative that started as Australia's first community-owned wind farm; a model for community infrastructure ownership (applicable to AI compute infrastructure)
 - Community technology centres — Search locally (libraries, councils, community centres often run programs)
 - Local government digital inclusion programmes — Contact your council about existing initiatives
 
@@ -80,12 +80,12 @@ These international networks provide models, tools and knowledge for cooperative
 ### Community Networks and Tech
 
 - [APC digital inclusion work](https://www.apc.org/en/apc-wide-activities/digital-inclusion)
-- [Internet Society Community Networks](https://www.internetsociety.org/issues/community-networks/)
+- [Internet Society Community Networks](https://www.internetsociety.org/our-work/connectivity/community-centered-connectivity/)
 
 ### Research and Advocacy
 
 - [Data Justice Lab](https://datajusticelab.org/)
-- [Mozilla Foundation](https://foundation.mozilla.org/)
+- [Mozilla Foundation](https://www.mozillafoundation.org/)
 
 ---
 
@@ -103,11 +103,11 @@ The tools below enable local AI deployment and open-source development. Rather t
 
 - [Ollama](https://ollama.com/) — Run LLMs locally with easy setup (popular beginner option)
 - [LM Studio](https://lmstudio.ai/) — GUI application for local LLMs (user-friendly interface)
-- [GPT4All](https://gpt4all.io/) — Open-source local AI with simple installation
+- [GPT4All](https://www.nomic.ai/gpt4all) — Open-source local AI with simple installation
 
 ### Model Repositories
 
-- [Hugging Face](https://huggingface.co/) — Central repository for open-source models and datasets (thousands of models available)
+- [Hugging Face](https://huggingface.co/) — Central repository for open-source models and datasets (millions of models available)
 
 ### Infrastructure
 
@@ -166,8 +166,7 @@ For detailed, current grant opportunities, see the [AI Grants & Funding in Austr
 
 ### International Funding
 
-- [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/)
-- [Mozilla Open Source Support](https://www.mozilla.org/en-US/moss/)
+No current international funding opportunities are listed. See the Australian grants above.
 
 ---
 
@@ -177,9 +176,9 @@ For detailed, current grant opportunities, see the [AI Grants & Funding in Austr
 
 Key AI safety and governance research organisations:
 
-- **AI safety research institutions:** Anthropic, Google DeepMind, Redwood Research, Apollo Research, MIRI
+- **AI safety research organisations and developers:** Anthropic, Google DeepMind, Redwood Research, Apollo Research, MIRI
 - **Governance research centres:** Centre for the Governance of AI (GovAI), CSET (Georgetown), AI Now Institute
-- **Evaluation organisations:** METR, UK AI Safety Institute, [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute)
+- **Evaluation organisations:** METR, [UK AI Security Institute](https://www.aisi.gov.uk/), [Australian AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute)
 
 For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing-for-agi/framework/faq.md).
 
@@ -194,8 +193,8 @@ For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing
 
 ### Newsletters and Blogs
 
-- [Platform Cooperativism Consortium Blog](https://platform.coop/blog/)
-- [Mozilla Internet Health Report](https://foundation.mozilla.org/)
+- [Platform Cooperativism Consortium Blog](https://platform.coop/voices/blog/)
+- [Mozilla Internet Health Report](https://www.mozillafoundation.org/en/insights/internet-health-report/) (last edition 2022)
 
 ### Books and Reports
 
@@ -213,8 +212,8 @@ For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing
 
 ### Technology Standards
 
+- [Ethical Explorer](https://www.artefactgroup.com/case-studies/ethical-explorer-pack/) — toolkit for anticipating ethical risks in technology, which evolved from EthicalOS
 - [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
-- [Ethical OS](https://ethicalos.org/)
 
 ---
 
@@ -222,7 +221,7 @@ For how SafeAI-Aus approaches these topics, see the [Framework FAQ](../preparing
 
     **Curation, not comprehensiveness:** This list prioritises quality over quantity. It's not exhaustive—it's a starting point.
 
-    **Periodic review:** Resources are reviewed and updated as the landscape evolves. **External links last audited:** January 2026. The page integration was reviewed on 18 July 2026, without a full external-link audit.
+    **Periodic review:** Resources are reviewed and updated as the landscape evolves. **External links last audited:** October 2026.
 
     **Report broken links:** If you find a broken or outdated link, please let us know so we can update it.
 

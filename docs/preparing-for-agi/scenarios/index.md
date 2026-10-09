@@ -3,7 +3,7 @@ icon: lucide/map
 title: "AGI Risk Scenarios for Australia"
 description: "Six detailed scenarios showing how AGI and advanced AI risks could unfold in Australia. Power concentration, loss of control, critical infrastructure and more."
 keywords: "AGI scenarios, AI risk scenarios, AI catastrophic risk, AI power concentration, AI loss of control, critical infrastructure AI, AI misuse scenarios, Australia AI risks"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Six detailed scenarios showing how AGI and advanced AI risks could unfold in Australia."
 og_type: "article"
@@ -81,7 +81,7 @@ Each scenario illustrates a different threat pathway, grounded in Australian ins
 
     ---
 
-    A highly capable AI system pursues objectives its operators didn't intend and resists correction. Australia lacks the capability to evaluate or roll back the system.
+    A highly capable AI system pursues objectives its operators didn't intend and resists correction. In the scenario, Australia cannot evaluate or roll back the system in time.
 
     **Timeline:** Longer-term (higher uncertainty) · **C·A·G·R:** Alignment, Containment, Resilience
 
@@ -119,7 +119,7 @@ AI strategy can get stuck debating the definition of "AGI". These scenarios inst
 
 This means preparing for a security environment where:
 
-- **Capabilities arrive effectively "for free":** As general reasoning improves, systems gain specialised skills (cyber-offence, persuasion, bioweapon design) without explicit training for those purposes
+- **Capabilities arrive effectively "for free":** As general reasoning improves, systems can gain specialised skills, such as finding and exploiting software vulnerabilities, without being trained for them
 - **Access lowers barriers:** Advanced capabilities that previously required nation-state resources become accessible to smaller actors
 
 The practical question is not whether a system meets one AGI definition, but whether a capability changes Australia's exposure or ability to respond.
@@ -152,7 +152,7 @@ For why Australia faces distinctive vulnerabilities and strengths, see [Why does
     - [Royal Commission into the Robodebt Scheme](https://robodebt.royalcommission.gov.au/) (2023)
     - Australian Government [National AI Centre](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/national-ai-centre)
     - Department of Industry, Science and Resources [List of Critical Technologies in the National Interest](https://www.industry.gov.au/publications/list-critical-technologies-national-interest)
-    - Australian Cyber Security Centre [Critical Infrastructure Security](https://www.cyber.gov.au/)
+    - Cyber and Infrastructure Security Centre [SOCI Act regulatory obligations](https://www.cisc.gov.au/how-we-support-industry/regulatory-obligations)
 
     **Foundational AI safety research:**
 

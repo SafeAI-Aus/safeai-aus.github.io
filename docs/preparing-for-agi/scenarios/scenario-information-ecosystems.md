@@ -3,7 +3,7 @@ icon: lucide/globe
 title: "AI, Democracy & Information Ecosystem Risks"
 description: "How AI could degrade information ecosystems and threaten democracy. Deepfakes, synthetic media and AI-powered misinformation at scale explored."
 keywords: "AI misinformation, AI deepfakes, AI democracy threat, synthetic media, AI propaganda, information ecosystem, AI manipulation, AI trust"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "AI, Democracy & Information Ecosystem Risks"
 og_description: "How AI could degrade information ecosystems and threaten democratic participation."
@@ -21,13 +21,16 @@ tags:
 
 ![AI, Democracy & Information Ecosystem Risks](scenario-information-ecosystems-hero.jpg)
 
+!!! warning "Planning scenario, not a prediction"
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Where real organisations are named in the narrative, their actions and systems are hypothetical. Real-world examples are labelled separately.
+
 ## Summary
 
 By 2030, generative AI models can produce flawless video deepfakes, synthetic audio and persuasive written content at near-zero marginal cost. Political campaigns, advocacy groups and foreign actors use these tools to micro-target Australian voters on social media.
 
 During the 2031 federal election campaign, a sophisticated deepfake video surfaces showing a major party leader making inflammatory remarks about Australian values. The video circulates on Facebook, WhatsApp and X. Within hours it has 3 million views. Australia's small fact-checking organisations scramble to verify it, but their debunks reach only a fraction of the audience—social media algorithms favour engagement over accuracy and users in partisan bubbles rarely see corrections.
 
-Then the counter-narratives begin: competing deepfakes, fake fact-checks, synthetic "eyewitness" accounts. By election day, voters in marginal electorates like Bass, Eden-Monaro and Gilmore have seen dozens of contradictory videos and can't tell what's real.
+Then the counter-narratives begin: competing deepfakes, fake fact-checks, synthetic "eyewitness" accounts. By election day, voters in marginal electorates have seen dozens of contradictory videos and can't tell what's real.
 
 **The pattern repeats.** By 2034, sophisticated synthetic content floods every election cycle. Trust in ABC, Nine, News Corp and fact-checkers erodes as they're unable to verify content fast enough. Australians increasingly retreat to partisan information bubbles where AI-generated content reinforces existing beliefs.
 
@@ -101,7 +104,7 @@ Use these questions for risk assessments, strategic planning and tabletop exerci
 
     - As generation improves, detection becomes harder
     - Adversaries can test content against detectors before release
-    - Even 95% detection accuracy leaves millions of undetected fakes
+    - Even a detector that catches 95% of fakes misses one in twenty, which adds up to a very large number at platform scale
     - Attribution (who created it) is often impossible
 
     **More promising approaches:**
@@ -124,13 +127,13 @@ This scenario treats **epistemic security** as critical infrastructure: democrac
 ??? note "Sources & Further Reading"
     This scenario draws from research on deepfakes, election integrity, synthetic media detection and the challenges facing information ecosystems in democratic societies.
 
-    **Australian precedents:** [Australian Electoral Commission](https://www.aec.gov.au/) electoral-integrity resources · [RMIT Information Integrity Hub](https://www.rmit.edu.au/news/all-news/2025/apr/information-integrity-hub) research and media literacy · [RMIT CrossCheck](https://www.rmit.edu.au/news/crosscheck/countering-voice-misinformation) election misinformation research · [eSafety Commissioner deepfake guidance](https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes) · [ABC Fact Check](https://www.abc.net.au/news/factcheck/)
+    **Australian precedents:** [AEC Disinformation Register](https://www.aec.gov.au/media/disinformation-register.htm) and electoral-integrity resources · [RMIT Information Integrity Hub](https://www.rmit.edu.au/news/all-news/2025/apr/information-integrity-hub) research and media literacy · [RMIT CrossCheck](https://www.rmit.edu.au/news/crosscheck/countering-voice-misinformation) Voice referendum misinformation research · [eSafety Commissioner deepfake guidance](https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes) · [ABC Fact Check](https://www.abc.net.au/news/factcheck/)
 
-    **Academic research:** Chesney & Citron (2019) ["Deep fakes: A looming challenge for privacy, democracy and national security"](https://doi.org/10.17863/CAM.38952) · Wardle & Derakhshan (2017) ["Information disorder"](https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c) · Woolley & Howard (2018) *Computational Propaganda*
+    **Academic research:** Chesney & Citron (2019) ["Deep fakes: A looming challenge for privacy, democracy and national security"](https://doi.org/10.15779/Z38RV0D15J) · Wardle & Derakhshan (2017) ["Information disorder"](https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c) · Woolley & Howard (2018) *Computational Propaganda*
 
-    **Policy organisations:** [Reset Australia](https://au.reset.tech/) · [First Draft News](https://firstdraftnews.org/) · [Centre for Responsible Technology](https://www.responsible.tech/) · [International Fact-Checking Network](https://www.poynter.org/ifcn/)
+    **Policy organisations:** [Reset Australia](https://au.reset.tech/) · [First Draft News](https://firstdraftnews.org/) (archived since 2022) · [Centre for Responsible Technology](https://www.responsible.tech/) · [International Fact-Checking Network](https://www.poynter.org/ifcn/)
 
-    **Case studies:** 2024 US and EU elections deepfake incidents · [Taiwan's approach to disinformation resilience](https://carnegieendowment.org/2024/02/08/taiwanese-model-for-generative-ai-governance-pub-91793) · Slovakia election deepfake (2023) · Indonesian election synthetic media (2024)
+    **Case studies:** 2024 US and EU elections deepfake incidents · [Taiwan's approach to disinformation resilience](https://dset.tw/en/research/resilience-in-truth-public-private-collaboration-in-taiwans-response-to-disinformation/) · Slovakia election deepfake (2023) · Indonesian election synthetic media (2024)
 
     **Key concepts:** See our [Concepts & Glossary](../concepts.md) for definitions of deepfakes, synthetic media, information operations, epistemic security and computational propaganda
 

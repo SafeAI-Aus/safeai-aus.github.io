@@ -3,7 +3,7 @@ icon: lucide/trending-down
 title: "AI Disempowerment - Over-Reliance & Skills Loss"
 description: "How gradual AI over-reliance could lead to institutional disempowerment, skills atrophy and loss of human capability. Economic transformation risks explored."
 keywords: "AI over-reliance, AI skills atrophy, AI job displacement, institutional disempowerment, AI dependency risks, automation risks, AI workforce impact"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "AI Over-Reliance & Disempowerment Scenario"
 og_description: "How gradual AI over-reliance could lead to institutional disempowerment and skills atrophy."
@@ -21,22 +21,25 @@ tags:
 
 ![AI Over-Reliance and Institutional Disempowerment](scenario-gradual-disempowerment-hero.jpg)
 
+!!! warning "Planning scenario, not a prediction"
+    The events, dates, figures and systems in this scenario are invented to test preparedness. Where real organisations are named in the narrative, their actions and systems are hypothetical. Real-world examples are labelled separately.
+
 ## Summary
 
 In 2029, Services Australia deploys an AI system to assess welfare eligibility and payment amounts. Initial results are promising: faster processing, fewer errors, more consistent decisions. By 2031, 85% of Centrelink decisions are AI-recommended, with human case workers reviewing only flagged cases.
 
-Meanwhile, major banks adopt AI credit assessment systems. NAB, CommBank and Westpac all licence similar models from the same US provider. Loan officers can see the AI's decision but rarely understand its reasoning. Overruling the system triggers compliance reviews. By 2032, manual overrides drop to less than 2%.
+Meanwhile, major banks adopt AI credit assessment systems. Three major banks all licence similar models from the same US provider. Loan officers can see the AI's decision but rarely understand its reasoning. Overruling the system triggers compliance reviews. By 2032, manual overrides drop to less than 2%.
 
 State health departments follow suit: AI triage in emergency departments, AI-assisted diagnosis in Medicare-funded consultations, algorithmic resource allocation during the 2033 flu season. In each case, the promise is efficiency and consistency.
 
 **The erosion is gradual.** By 2036, when a bank's AI system denies mortgages to an entire postcode without explanation, nobody on staff can articulate why. When a hospital's resource allocation algorithm prioritises certain demographics during a crisis, the review finds that current staff don't understand the system well enough to identify the bias—and the vendor's technical team is overseas.
 
-Citizens trying to appeal decisions face Kafka-esque loops: "the system determined..." with no human who can explain or override it. Skills have atrophied. The ability to operate manually—even in a crisis—has been lost.
+Citizens trying to appeal decisions face Kafkaesque loops: "the system determined..." with no human who can explain or override it. Skills have atrophied. The ability to operate manually—even in a crisis—has been lost.
 
 !!! info "Threat pathways"
     This scenario illustrates two interconnected pathways:
 
-    **Gradual disempowerment** – Incremental automation causes skills atrophy and loss of manual operation capability
+    **Gradual disempowerment** (see [Kulveit et al. 2025](https://arxiv.org/abs/2501.16946)) – Incremental automation erodes human influence over institutions; here it shows up as skills atrophy and loss of manual operation capability
 
     **Power concentration** – Dependencies on vendor systems create lock-in; accountability becomes obscured across complex supply chains
 
@@ -121,9 +124,9 @@ This scenario illustrates **the frog-in-boiling-water problem**: gradual changes
 ??? note "Sources & Further Reading"
     This scenario draws from research on algorithmic governance, automation of public services and real-world precedents of over-reliance on automated decision systems.
 
-    **Australian precedents:** [Royal Commission into the Robodebt Scheme](https://robodebt.royalcommission.gov.au/) (2023) · [Digital Transformation Agency identity, data and privacy principles](https://www.dta.gov.au/help-and-advice/about-digital-identity/identity-data-and-privacy-principles)
+    **Australian precedents:** [Royal Commission into the Robodebt Scheme](https://robodebt.royalcommission.gov.au/) (2023) · [Policy for the responsible use of AI in government (DTA, v2.0)](https://www.digital.gov.au/ai/ai-in-government-policy)
 
-    **Academic research:** Eubanks (2018) *Automating Inequality* · Yeung (2018) ["Algorithmic regulation"](https://doi.org/10.1111/rego.12158) · Pasquale (2015) *The Black Box Society*
+    **Academic research:** Kulveit et al. (2025) ["Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development"](https://arxiv.org/abs/2501.16946) · Eubanks (2018) *Automating Inequality* · Yeung (2018) ["Algorithmic regulation"](https://doi.org/10.1111/rego.12158) · Pasquale (2015) *The Black Box Society*
 
     **Policy organisations:** [AI Now Institute](https://ainowinstitute.org/) · [Australian Human Rights Commission](https://humanrights.gov.au/our-work/technology-and-human-rights) · [AlgorithmWatch](https://algorithmwatch.org/)
 
