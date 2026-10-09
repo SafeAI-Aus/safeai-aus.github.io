@@ -3,7 +3,7 @@ icon: lucide/compass
 title: "Strategic Visions for AGI"
 description: "What could AGI look like? Explore how advanced AI might transform work, health, knowledge and daily life—and what 'good' outcomes could look like for Australia."
 keywords: "AGI futures, what could AGI look like, AGI benefits, AGI risks, AGI transformation, Australia AGI strategy, AI human impact"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "What could AGI look like? How advanced AI might transform work, health, knowledge and daily life."
 og_type: "article"
@@ -49,9 +49,9 @@ AGI could automate not just manual labour but cognitive work—analysis, writing
 
 - **New work or less work?** AGI might create new forms of work we can't yet imagine, or it might mean less human labour is needed overall
 - **Wealth distribution:** If AGI dramatically increases productivity, who benefits? Current economic structures tend to concentrate gains
-- **Australian context:** The Tech Council of Australia's [*Meeting the AI Skills Boom*](https://techcouncil.com.au/wp-content/uploads/Meeting-the-AI-Skills-Boom-2024.v2.pdf) report (2024) projects AI could create 200,000 jobs and $115 billion in annual value by 2030—but this assumes benefits flow broadly
+- **Australian context:** The Tech Council of Australia's [*Meeting the AI Skills Boom*](https://techcouncil.com.au/wp-content/uploads/Meeting-the-AI-Skills-Boom-2024.v2.pdf) report (2024) estimates AI could create up to 200,000 jobs by 2030, and that greater generative AI uptake could add up to $115 billion a year to the economy under a high-adoption scenario. These aggregate estimates do not show how the gains would be distributed
 
-As Anthropic CEO Dario Amodei argues in [*Machines of Loving Grace*](https://darioamodei.com/machines-of-loving-grace) (2024), the economic effects of AGI depend less on what is technically possible than on "how the world chooses to distribute those gains."
+Anthropic CEO Dario Amodei writes in [*Machines of Loving Grace*](https://darioamodei.com/machines-of-loving-grace) (2024) that he is less confident AI can address inequality and economic growth than that it can invent new technologies, because the economy involves many human constraints.
 
 ### Health and longevity
 
@@ -113,15 +113,15 @@ These elements map directly to what the [C·A·G·R framework](framework/index.m
 
 Australian voices on AI futures emphasise both opportunity and the need for action.
 
-**Australian research capability:** AI researcher Toby Walsh (UNSW) argues that Australia has research strength disproportionate to its population, while warning that delayed regulation and investment could weaken competitiveness ([IEEE Spectrum, 2025](https://spectrum.ieee.org/ai-sydney)). This is one expert assessment, not a settled international ranking.
+**Australian research capability:** AI researcher Toby Walsh (UNSW) has said Australia punches above its weight in AI research ([IEEE Spectrum sponsored article, 2024](https://spectrum.ieee.org/ai-sydney)), and more recently that Australia needs to ramp up AI investment significantly and introduce new AI laws or risk missing out ([UNSW Newsroom, February 2026](https://www.unsw.edu.au/newsroom/news/2026/02/-dangerously-unprepared---unsw-expert-says-australia-must-regula)). This is one expert assessment, not a settled international ranking.
 
-**The trust-safety-adoption link:** Australian surveys use different samples and questions, but both [Good Ancestors](https://www.goodancestors.org.au/whitepaper) (2025) and [KPMG and the University of Melbourne](https://kpmg.com/au/en/home/insights/2025/04/trust-in-ai-global-insights-2025.html) (2025) reported material public concern about AI risk and trust. Treat them as separate indicators rather than directly comparable measures.
+**The trust-safety-adoption link:** Australian surveys use different samples and questions, but both [Good Ancestors](https://www.goodancestors.org.au/our-work/ai-safety/whitepaper) (2025) and [KPMG and the University of Melbourne](https://kpmg.com/au/en/insights/artificial-intelligence-ai/trust-in-ai-global-insights-2025.html) (2025) reported material public concern about AI risk and trust. Treat them as separate indicators rather than directly comparable measures.
 
 **Safety as a source of capability:** Some Australian organisations argue that evaluation, assurance and safety expertise could become areas of comparative strength, rather than trying to compete only on raw model capability. This is a strategic proposition, not an established economic outcome.
 
 **The "regulation taker" risk:** [Australians for AI Safety](https://www.australiansforaisafety.com.au/) (2025) warns that without proactive engagement, Australia risks having rules set elsewhere without our input.
 
-**Democratic legitimacy:** Philosopher Seth Lazar (ANU) argues that AI governance must be democratically legitimate: "Whatever you think our AI future should be, it should be one that we have consciously chosen together" ([TechPolicy.Press, 2024](https://www.techpolicy.press/can-democracy-survive-artificial-general-intelligence/)).
+**Democratic legitimacy:** Philosophers Seth Lazar (ANU) and Alex Pascal argue that AI governance must be democratically legitimate: "Whatever you think our AI future should be, it should be one that we have consciously chosen together" ([TechPolicy.Press, 2024](https://www.techpolicy.press/can-democracy-survive-artificial-general-intelligence/)).
 
 ---
 
@@ -135,7 +135,7 @@ Australia's political tradition—democratic accountability, multilateral instit
 
 This points toward allied coordination, international regulatory approaches and strong national oversight—while working to avoid outcomes where power concentrates in single private actors or authoritarian governments. (For detailed analysis of governance visions, see [AGI governance visions](concepts.md#agi-governance-visions) in the concepts glossary.)
 
-Oscar Delaney's [strategic visions analysis](https://oscardelaney.substack.com/p/strategic-visions-in-ai-governance) (2026) suggests that no single governance model is likely to dominate. National regulation, allied coordination and industry governance may coexist, with their relative importance changing as capabilities develop.
+A [strategic visions report](https://www.iaps.ai/research/strategic-visions-in-ai-governance) by Oscar Delaney, Maria Kostylew, Oliver Guest and Peter Wildeford for the Institute for AI Policy and Strategy ([summarised by Delaney](https://oscardelaney.substack.com/p/strategic-visions-in-ai-governance), January 2026) maps nine strategic visions and concludes that none dominates. Each makes different trade-offs, so preparation should cover several scenarios.
 
 Australia should therefore build capacity that remains useful across different futures: independent evaluation, international partnerships, deployment standards, resilience and domestic safety expertise. These priorities do not depend on one governance forecast and the [C·A·G·R framework](framework/index.md) provides a way to organise them.
 
@@ -164,7 +164,7 @@ Australia should therefore build capacity that remains useful across different f
 
 - [National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) (December 2025)
 
-- [Good Ancestors AI Policy White Paper](https://www.goodancestors.org.au/whitepaper) (May 2025)
+- [Good Ancestors AI Policy White Paper](https://www.goodancestors.org.au/our-work/ai-safety/whitepaper) (2025)
 - [Human Technology Institute](https://www.uts.edu.au/research/centres/human-technology-institute)
 
 **SafeAI-Aus resources:**

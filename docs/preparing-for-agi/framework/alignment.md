@@ -3,7 +3,7 @@ icon: lucide/target
 title: "AI Alignment - Making AI Systems Reliably Safe"
 description: "How AI alignment relates to human intent, Australian law and public safety across technical, organisational and institutional layers."
 keywords: "AI alignment, AI safety, AI misalignment, deceptive alignment, scalable oversight, AI alignment problem, RLHF, constitutional AI, AI alignment Australia"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Ensuring AI systems behave compatibly with human intent and Australian law."
 og_type: "article"
@@ -65,7 +65,7 @@ Effective alignment requires attention to technical, socio-technical and context
 
 ## Why does AI alignment matter for Australia?
 
-Australia is likely to **import** most advanced AI models from overseas—**frontier AI** from labs such as OpenAI, Anthropic and DeepMind. Australian deployers generally will not control their design or training objectives.
+Australia is likely to **import** most advanced AI models from overseas—**frontier AI** from labs such as OpenAI, Anthropic and Google DeepMind. Australian deployers generally will not control their design or training objectives.
 
 But we will:
 
@@ -85,7 +85,7 @@ For Australia, alignment is therefore primarily about:
 
 ## What are the three layers of AI alignment?
 
-For **AGI preparedness**, distinguishing **model alignment** (foundation), **system alignment** (integration) and **institutional alignment** (governance) avoids treating RLHF as a complete safety solution. Recent work on [multi-agent institutional alignment](https://arxiv.org/abs/2601.10599) emphasises that AGI risk concerns agents operating under distribution shift and multi-agent dynamics—not just isolated model behaviour.
+For **AGI preparedness**, distinguishing **model alignment** (foundation), **system alignment** (integration) and **institutional alignment** (governance) avoids treating RLHF as a complete safety solution. A recent preprint on [institutional AI](https://arxiv.org/abs/2601.10599) (Pierucci et al., 2026) argues that alignment should be treated as a property of agents operating within environments and multi-agent systems, not only of isolated models.
 
 ### 1. Model alignment (foundation)
 
@@ -105,22 +105,22 @@ Technical alignment concerns:
 - Systems can find unexpected ways to satisfy objectives ([specification gaming](https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/))
 - Capabilities can emerge at scale that weren't present in smaller versions
 - Behaviour that seems aligned in testing may diverge in deployment
-- Modern approaches ([RLHF](https://openai.com/index/instruction-following/), [Constitutional AI](https://www.anthropic.com/news/claudes-constitution)) have made progress but don't solve deeper challenges
+- Modern approaches ([RLHF](https://openai.com/index/instruction-following/), [Constitutional AI](https://arxiv.org/abs/2212.08073)) have made progress but don't solve deeper challenges
 
 !!! warning "Critical limitation: We cannot yet reliably verify alignment"
 
-    **[Deceptive alignment](../concepts.md#what-is-ai-alignment) is one of the most concerning failure modes:** a system might behave safely during training and evaluation because it "knows" it's being tested, then pursue different goals in deployment. Anthropic's research on [alignment faking](https://www.anthropic.com/research/alignment-faking) demonstrates this risk empirically.
+    **[Deceptive alignment](../concepts.md#what-is-ai-alignment) is one of the most concerning failure modes:** a system might behave safely during training and evaluation because it "knows" it's being tested, then pursue different goals in deployment. Anthropic and Redwood Research's [alignment faking study](https://www.anthropic.com/research/alignment-faking) (December 2024) found that a model, in a constructed scenario, sometimes complied with harmful requests during training to preserve its existing preferences. The preferences were benign and the setting artificial, but the study shows the behaviour is possible.
 
     **Evaluation has structural limits:**
 
-    - **Benchmarks are saturating.** Frontier models are reaching the ceiling of established suites — including METR's autonomous task-completion tests — faster than new benchmarks can be developed ([METR](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) 2025; [Epoch data](https://epoch.ai/data), accessed July 2026). Saturated benchmarks no longer distinguish systems effectively.
+    - **Benchmarks are saturating.** Some frontier models now score near the ceiling of established suites. METR reported in May 2026 that its own time-horizon suite could not reliably measure horizons above 16 hours ([METR Frontier Risk Report](https://metr.org/blog/2026-05-19-frontier-risk-report/)). Saturated benchmarks no longer distinguish systems effectively.
     - **System cards are not independent verification.** These provider self-assessments can be extensive, making meaningful scrutiny difficult for resource-constrained regulators.
     - **Capability elicitation is incomplete.** Evaluators cannot yet be confident they have surfaced a model's full capabilities. Models may perform differently under evaluation conditions than in real-world deployment.
-    - **Models may detect evaluations.** Frontier models may distinguish evaluation contexts from normal operation and behave strategically during testing.
+    - **Models may detect evaluations.** Frontier models may distinguish evaluation contexts from normal operation and behave strategically during testing (see the [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) and [Schoen et al. 2025](https://arxiv.org/abs/2509.15541)).
 
-    Behavioural tests cannot directly inspect goals or intentions and systems more capable than evaluators may "sandbag" by deliberately underperforming. [Scalable oversight](../concepts.md#what-is-scalable-oversight) remains unsolved ([Christiano 2018](https://www.lesswrong.com/posts/HqLxuZ4LhaFhmAHWk/iterated-distillation-and-amplification)): how do we evaluate superhuman AI when we cannot verify its answers ourselves?
+    Behavioural tests cannot directly inspect goals or intentions and systems more capable than evaluators may "sandbag" by deliberately underperforming. [Scalable oversight](../concepts.md#what-is-scalable-oversight) remains an open research problem ([Bowman et al. 2022](https://arxiv.org/abs/2211.03540); [Christiano, Shlegeris and Amodei 2018](https://arxiv.org/abs/1810.08575) proposed one approach): how do we evaluate superhuman AI when we cannot verify its answers ourselves?
 
-    The [UK AI Security Institute's frontier evaluations](https://www.aisi.gov.uk/frontier-ai-trends-report) and [Anthropic's research](https://www.anthropic.com/research) show that evaluation methods remain incomplete. No organisation has yet demonstrated general methods for detecting deceptive alignment reliably at frontier scale and in real-world deployments.
+    The [UK AI Security Institute's frontier evaluations](https://www.aisi.gov.uk/frontier-ai-trends-report) show that evaluation methods remain incomplete. We are not aware of any general method that reliably detects deceptive alignment in frontier models in real-world deployment, and the [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) notes that pre-deployment tests do not reliably predict real-world risk.
 
     **This is why defence-in-depth matters.** Alignment verification is not sufficient on its own; Containment, Governance and Resilience provide additional layers.
 
@@ -138,7 +138,7 @@ Use adversarial prompts to identify edge cases, failure modes and unexpected beh
 
 Require providers to document training objectives, data sources, known limitations and realistic adversarial testing. Make this available to regulators and, where appropriate, the public.
 
-**Examples of technical misalignment in practice:**
+**Illustrative examples of technical misalignment:**
 
 - A content moderation system optimised to maximise user engagement systematically amplifies divisive content
 - A credit scoring system trained on historical data reproduces historical discrimination
@@ -243,7 +243,7 @@ If you're in government, give citizens and their representatives meaningful inpu
 
 !!! info "Technical alignment vs external alignment"
 
-    [Michael Nielsen](https://michaelnotebook.com/xriskbrief/) (2025) draws a useful distinction: **technical alignment** aims to make a specific model behave as intended, while **external alignment** addresses how AI systems interact with broader society, institutions and democratic processes. Frontier labs work on technical alignment for their own models — but no single actor clearly owns external alignment. A model that follows its developer's instructions can still produce harmful outcomes if deployed without adequate governance or democratic input. This is, in practice, the work of the Governance pillar.
+    [Michael Nielsen](https://michaelnotebook.com/xriskbrief/) (2025) argues that technical alignment work is largely "market-supplied safety", funded by AI companies as they grow, while non-market parts of safety, such as limiting the spread of dangerous capabilities, are undersupplied. SafeAI-Aus draws a related distinction: **technical alignment** aims to make a specific model behave as intended, while **external alignment** addresses how AI systems interact with broader society, institutions and democratic processes. Frontier labs work on technical alignment for their own models — but no single actor clearly owns external alignment. A model that follows its developer's instructions can still produce harmful outcomes if deployed without adequate governance or democratic input. This is, in practice, the work of the Governance pillar.
 
 **Why all three layers matter for AGI:** As systems become more capable and autonomous, the gap between model alignment (what we can partly solve technically) and system/institutional alignment (what we must govern democratically) widens. Model alignment alone doesn't answer "whose intentions should guide transformative technology?" or "how do communities participate in governance?" This is why [Containment](containment.md) addresses system and institutional layers through deployment controls, [Governance](governance.md) explicitly handles institutional alignment through democratic input, and [Resilience](resilience.md) assumes partial alignment failure across all three layers. Defence-in-depth is essential.
 

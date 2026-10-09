@@ -3,7 +3,7 @@ icon: lucide/shield-check
 title: "AGI Assurance - Evidence for Preparedness"
 description: "How Australian organisations can seek evidence, testing and accountability for advanced-AI preparedness using the C·A·G·R framework."
 keywords: "AGI assurance, AI safety evidence, advanced AI testing, AI preparedness verification, C·A·G·R assurance, AI safety auditing"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Demonstrate AGI preparedness through evidence, testing and accountability."
 og_type: "article"
@@ -43,15 +43,15 @@ Assurance depends on evaluation, but current methods have structural limits.
 
 ### Benchmarks are saturating
 
-Frontier models are outpacing established evaluation suites. Near-perfect scores reduce a benchmark's usefulness and can create false confidence: high scores may mean the benchmark has been outgrown, not that a system is safe.
+Frontier models are outpacing established evaluation suites (see [METR's Frontier Risk Report](https://metr.org/blog/2026-05-19-frontier-risk-report/), May 2026). Near-perfect scores reduce a benchmark's usefulness and can create false confidence: high scores may mean the benchmark has been outgrown, not that a system is safe.
 
-[METR's task-completion time-horizon research](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) found that the length of tasks frontier agents could complete with 50% reliability doubled roughly every seven months over the six years studied. This finding is specific to the tasks and evaluation method studied, but it shows why evaluation methods need regular review.
+[METR's task-completion time-horizon research](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) found that the length of tasks frontier agents could complete with 50% reliability doubled roughly every seven months over the six years studied. METR's [January 2026 update](https://metr.org/blog/2026-1-29-time-horizon-1-1/) estimated a shorter doubling time since 2023, about 131 days (roughly four months), and its May 2026 report noted that its task suite can no longer reliably measure the longest horizons. This finding is specific to the tasks and evaluation method studied, but it shows why evaluation methods need regular review.
 
 ### System cards: useful but limited
 
 Frontier labs publish system cards documenting capabilities, limitations and safety testing. These improve transparency but have assurance limitations:
 
-1. **Self-assessment.** The lab that built the model also evaluates and documents it. Independent verification is not yet standard practice.
+1. **Self-assessment.** The lab that built the model also evaluates and documents it. Independent testing by bodies such as the UK AI Security Institute and METR now covers some frontier models, but access is limited and independent verification of a lab's own claims is not yet standard practice.
 2. **Volume and accessibility.** Extensive documentation can make scrutiny difficult for resource-constrained regulators and deployers.
 3. **Agentic capability gaps.** Current system cards rarely describe agentic capabilities — the ability to chain autonomous actions across systems — in enough detail for deployers to assess operational risk.
 
@@ -138,7 +138,7 @@ For systems at the frontier of capability, standard assurance is insufficient. S
 
 ## Toward assurance standards: METR common elements
 
-Frontier AI assurance remains immature, but common practices are emerging. [METR's analysis of frontier AI safety policies](https://metr.org/common-elements) (2025) identifies nine elements across most major lab commitments:
+Frontier AI assurance remains immature, but common practices are emerging. [METR's analysis of frontier AI safety policies](https://metr.org/common-elements) (December 2025 update) identifies nine elements across most of the 12 policies it reviewed. Several of those policies have been revised since, so check the current version of each vendor's policy:
 
 | Element | Assurance implication |
 |---------|----------------------|

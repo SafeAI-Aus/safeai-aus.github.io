@@ -3,7 +3,7 @@ icon: lucide/book-open
 title: "AGI Concepts & Glossary - AI Safety Terminology"
 description: "Plain-language definitions of AGI, frontier AI, alignment, containment and other advanced-AI safety concepts for Australian organisations."
 keywords: "AGI definition, artificial general intelligence meaning, AI alignment explained, AI safety terminology, superintelligence, transformative AI, frontier AI, AI control problem, defence in depth AI, AI existential risk"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Essential AGI and AI safety terminology explained for Australian organisations preparing for advanced AI."
 og_type: "article"
@@ -195,7 +195,7 @@ AI control means building technical "walls" around dangerous AI systems to limit
 
 - Continuous monitoring of inputs, outputs and internal states
 - Usage restrictions (rate limiting, access controls, air-gapping)
-- Shutdown capability that can't be circumvented
+- Shutdown capability designed to resist circumvention
 - Multiple independent oversight systems
 - Adversarial testing (red-teaming)
 
@@ -236,7 +236,7 @@ AI resilience is the capability to detect, respond to and recover from AI-relate
 
 ### What is defence-in-depth?
 
-Defence-in-depth is a strategy of layered protections where each layer assumes the ones above it may fail. Defence in depth is widely used in high-risk domains such as [nuclear safety](https://www.nrc.gov/reading-rm/basic-ref/glossary/defense-in-depth) and [cybersecurity](https://csrc.nist.gov/glossary/term/defense_in_depth), where multiple independent barriers prevent catastrophic failures. C·A·G·R applies this same principle to advanced AI risks.
+Defence-in-depth is a strategy of layered protections where each layer assumes the ones above it may fail. Defence in depth is widely used in high-risk domains such as [nuclear safety](https://www.nrc.gov/reading-rm/basic-ref/glossary/defense-in-depth.html) and [cybersecurity](https://csrc.nist.gov/glossary/term/defense_in_depth), where multiple independent barriers prevent catastrophic failures. C·A·G·R applies this same principle to advanced AI risks.
 
 **Layer 1: Prevent dangerous AI training**
 Stop dangerous systems from being built (compute governance, export controls, international norms)
@@ -266,7 +266,7 @@ Mechanistic interpretability is about understanding how AI systems work internal
 - Identifying dangerous capabilities before deployment
 - Building more robust safety measures
 
-**Status:** Active research area. Some progress on simpler models; very hard for frontier systems.
+**Status:** Active research area. Methods such as [circuit tracing](https://www.anthropic.com/research/tracing-thoughts-language-model) have been applied to production models, but they capture only part of what a model computes and remain labour-intensive for frontier systems.
 
 ---
 
@@ -284,11 +284,10 @@ Scalable oversight refers to methods for humans to effectively oversee AI system
 
 ### What are emergent capabilities?
 
-Emergent capabilities are abilities that appear in AI systems as they scale, often unpredictably, that weren't present in smaller versions. Examples:
+Emergent capabilities are abilities that appear in larger models but not smaller ones and were not predicted from smaller-model trends ([Wei et al. 2022](https://arxiv.org/abs/2206.07682)). Researchers disagree on whether they are truly abrupt or partly an artefact of how performance is measured ([Schaeffer et al. 2023](https://arxiv.org/abs/2304.15004)). Examples:
 
 - In-context learning (few-shot learning)
 - Chain-of-thought reasoning
-- Tool use and API calling
 - Potential future: deception, strategic planning, scientific research
 
 **Implication:** Scaling can produce capabilities that developers did not predict. Use strong evaluation and containment even for unexpectedly capable systems.
@@ -315,10 +314,10 @@ Agentic AI systems are AI systems that can autonomously plan and execute multi-s
 **Why it matters for governance:**
 
 - **Liability gaps:** When an agent chains actions across multiple systems and organisations, no single entity clearly controls or is responsible for the full sequence.
-- **Capability disclosure:** Current system cards and model documentation rarely describe agentic capabilities in enough detail for deployers to assess risk.
+- **Capability disclosure:** Model documentation may not describe agentic capabilities in enough detail for deployers to assess risk.
 - **Containment challenges:** Traditional containment approaches (input/output monitoring) may not adequately cover autonomous action chains that span multiple systems.
 
-**For Australia:** Agentic AI is the fastest-moving frontier capability. Organisations deploying agentic systems need explicit approval gates, cross-system audit trails and clearly defined boundaries on autonomous action.
+**For Australia:** Agentic AI is a fast-moving area of frontier capability. Organisations deploying agentic systems need explicit approval gates, cross-system audit trails and clearly defined boundaries on autonomous action.
 
 ---
 
@@ -326,23 +325,23 @@ Agentic AI systems are AI systems that can autonomously plan and execute multi-s
 
 ### AGI governance visions
 
-Different visions for who controls AGI development imply different distributions of power, benefit and risk. This taxonomy draws on work by [Oscar Delaney](https://oscardelaney.substack.com/p/strategic-visions-in-ai-governance), [GovAI](https://www.governance.ai/) and the broader AI governance research community.
+Different visions for who controls AGI development imply different distributions of power, benefit and risk. This table adapts the nine strategic visions in the Institute for AI Policy and Strategy report [Strategic Visions in AI Governance](https://www.iaps.ai/research/strategic-visions-in-ai-governance) (Delaney, Kostylew, Guest and Wildeford, January 2026). The wording and risk labels are SafeAI-Aus's own summary.
 
 | Vision | Who controls | Key risk |
 |--------|--------------|----------|
 | **Competing companies** (status quo) | Multiple private firms racing | Race to bottom on safety |
 | **Single dominant company** | One firm with unassailable lead | Extreme power concentration |
-| **Global private consortium** | Major AI companies consolidated | Lacks democratic oversight |
-| **National regulation** | Private firms under strong government oversight | Regulatory capture, arms race |
-| **Centralised government project** | Single nation (Manhattan Project model) | Geopolitical confrontation |
-| **Allied nations project** | Coalition of democracies (e.g., Five Eyes) | Excludes others, slower decisions |
+| **Global private consortium** | Major AI companies consolidated into one multinational firm | Single point of failure; weak democratic oversight |
+| **National regulation** | Private firms under strong government oversight | Weak oversight capacity; compliance in name only |
+| **Centralised government project** | Single nation (government-led consortium or prime contractor) | Geopolitical confrontation |
+| **Allied nations project** | US-led coalition of allied democracies (e.g. the UK, Canada, Australia, Japan and the EU) | Excludes others, slower decisions |
 | **Great power deterrence** | Competing powers with mutual deterrence | Deterrence can fail |
 | **Global government project** | Joint international project | Requires unprecedented cooperation |
 | **International regulatory body** | Global oversight ("IAEA for AI") | Enforcement difficult |
 
 **Australia's position:** Our political tradition—democratic accountability, multilateral institutions, Five Eyes/AUKUS relationships—suggests alignment with visions that distribute power and give middle powers voice: allied coordination, international regulatory bodies and strong national regulation.
 
-**For detailed analysis:** See [Oscar Delaney's taxonomy](https://oscardelaney.substack.com/p/strategic-visions-in-ai-governance) and [GovAI Research](https://www.governance.ai/research).
+**For detailed analysis:** See the [IAPS report](https://www.iaps.ai/research/strategic-visions-in-ai-governance) and [Oscar Delaney's summary](https://oscardelaney.substack.com/p/strategic-visions-in-ai-governance).
 
 ---
 
@@ -383,7 +382,7 @@ Model weights are the trained parameters of an AI system—essentially the "know
 
 **Implication:** Model weight security is critical for dangerous capabilities. Treat advanced models as sensitive assets.
 
-**Open-weight governance challenge:** When model weights are publicly released, as with Llama, Mistral, Qwen and DeepSeek, the containment calculus changes. Released weights cannot be recalled universally and may be fine-tuned to remove safety training. Some open models are also narrowing the capability gap with closed models for particular uses. Pre-release evaluation and conditional release frameworks therefore matter, although governance can still influence hosting, deployment and downstream use. See [Containment](framework/containment.md) for detailed analysis.
+**Open-weight governance challenge:** When model weights are publicly released, as with Llama, Mistral, Qwen and DeepSeek, the containment calculus changes. Released weights cannot be recalled universally and may be fine-tuned to remove safety training. The strongest open-weight models trailed the best closed models by an average of about four months between January and May 2026 on [Epoch AI's capability index](https://epoch.ai/data-insights/open-closed-eci-gap), so capabilities can spread quickly once weights are released. Pre-release evaluation and conditional release frameworks therefore matter, although governance can still influence hosting, deployment and downstream use. See [Containment](framework/containment.md) for detailed analysis.
 
 ---
 
@@ -404,7 +403,7 @@ AI licensing and evaluation means requiring approval before deploying high-risk 
 
 System cards (also called model cards) are documents published by AI labs describing a model's capabilities, limitations, safety testing and known risks. They serve a transparency function — making information about AI systems publicly available.
 
-**Limitations for governance:** System cards are self-assessments — the lab that built the model also evaluates and documents it. Independent verification is not yet standard practice. For assurance purposes, system cards are a valuable starting point but not a substitute for independent evaluation. See [Assurance](framework/assurance.md) for a fuller discussion.
+**Limitations for governance:** System cards are largely self-assessments — the lab that built the model also evaluates and documents it. Some now include results from external evaluators, but the lab still decides what is tested and published, and independent verification is not yet consistent practice. For assurance purposes, system cards are a valuable starting point but not a substitute for independent evaluation. See [Assurance](framework/assurance.md) for a fuller discussion.
 
 ---
 
@@ -412,7 +411,7 @@ System cards (also called model cards) are documents published by AI labs descri
 
 ### What is a kill chain (in AI safety)?
 
-A kill chain is a framework for analyzing the sequence of steps an AI system would need to complete to cause catastrophic harm. Borrowed from [cybersecurity](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) (where it describes the stages of a cyberattack), the concept is applied in AI safety to map out potential AGI takeover or catastrophe pathways.
+A kill chain is a framework for analysing the sequence of steps an AI system would need to complete to cause catastrophic harm. Borrowed from [cybersecurity](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) (where it describes the stages of a cyberattack), the concept is applied in AI safety to map out potential AGI takeover or catastrophe pathways.
 
 **How it works:** By identifying each step in a threat sequence (e.g., gaining resources → acquiring capabilities → evading oversight → taking harmful action), analysts can identify intervention points where the chain can be "broken." Each step that must succeed represents a potential barrier.
 
@@ -427,7 +426,7 @@ A kill chain is a framework for analyzing the sequence of steps an AI system wou
 
 **Relationship to C·A·G·R:** The [defence-in-depth](framework/index.md#what-are-the-three-layers-of-defence-in-depth) approach in C·A·G·R serves a similar purpose—identifying multiple intervention points across prevention, constraint and resilience layers. Kill chain analysis can inform where to place defensive measures.
 
-**Source:** The application of kill chain analysis to AGI strategy is taught in [BlueDot Impact's AGI Strategy Course](https://bluedot.org/courses/agi-strategy) alongside incentive mapping and defence-in-depth as core mental models for threat analysis.
+**Source:** The application of kill chain analysis to AGI strategy is taught in [BlueDot Impact's AGI Strategy Course](https://bluedot.org/courses/agi-strategy) alongside defence-in-depth frameworks.
 
 ---
 

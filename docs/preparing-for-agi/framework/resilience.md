@@ -3,7 +3,7 @@ icon: lucide/shield
 title: "AI Resilience - Withstanding AI Disruption"
 description: "How Australian organisations and communities can prepare to detect, respond to and recover from advanced-AI disruption while maintaining essential functions."
 keywords: "AI resilience, AI disruption recovery, critical infrastructure AI, AI continuity planning, community resilience, AI crisis response, societal resilience AI"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_title: "AI Resilience - Withstanding AI Disruptions"
 og_description: "Building capacity to detect, respond to and recover from AI-related harms."
@@ -37,7 +37,7 @@ Even with good **AI alignment** work and strong **AI containment** measures:
 - Compounding events, such as natural disasters combined with AI disruption, can strain normal safeguards
 - Failures can cascade across systems and sectors in ways planners did not anticipate
 
-Resilience helps prevent these failures from becoming catastrophic by maintaining function and enabling recovery.
+Resilience can help stop these failures from becoming catastrophic by maintaining function and enabling recovery, although evidence on how well most measures work is still limited.
 
 ---
 
@@ -54,7 +54,7 @@ Australia cannot control how [frontier AI](../concepts.md#what-is-frontier-ai) s
 
 **Australia has specific vulnerabilities:**
 
-**Geographic isolation:** Supply chain disruptions hit harder, recovery takes longer and nearby assistance is limited.
+**Geographic isolation:** Supply chain disruptions can hit harder, recovery can take longer and nearby assistance may be limited.
 
 **Small population:** Fewer people to provide manual fallbacks when automated systems fail. Limited domestic capability in many technical domains.
 
@@ -85,7 +85,7 @@ This requires tested manual capability and coordination mechanisms that work whe
 
 **Dependency risk management**
 
-Australia's reliance on a small number of foreign AI providers creates single points of failure. Operational resilience requires:
+Reliance on a small number of foreign AI providers can create single points of failure. Operational resilience requires:
 
 - **Multi-vendor strategies:** Avoid lock-in to single providers for critical functions
 - **Open-source fallbacks:** Where practical, maintain alternatives using open models that can run locally
@@ -184,9 +184,9 @@ Near-misses and harms reveal system vulnerabilities and response weaknesses. Sys
 
 **Why societal resilience matters for AGI transformation**
 
-Even if AGI is technically safe and aligned, rapid automation of cognitive work creates societal pressures that could fragment communities, destabilize institutions or concentrate benefits narrowly. Societal resilience addresses transformation challenges beyond technical safety.
+Even if AGI is technically safe and aligned, rapid automation of cognitive work creates societal pressures that could fragment communities, destabilise institutions or concentrate benefits narrowly. Societal resilience addresses transformation challenges beyond technical safety.
 
-The [International AI Safety Report](https://internationalaisafetyreport.org/) (2026) proposes a societal resilience framework with four capacities: **resist** (prevent disruption), **absorb** (withstand impact without collapse), **recover** (restore function) and **adapt** (learn and improve from the experience). This maps well to the C·A·G·R approach: Containment and Alignment support resistance, Resilience supports absorption and recovery and the learning loops across all pillars support adaptation.
+The [International AI Safety Report](https://internationalaisafetyreport.org/) (2026, section 3.5) describes societal resilience as the ability to resist, absorb, recover from and adapt to shocks, and notes that evidence on how well most AI resilience measures work is still limited. Its four capacities are: **resist** (prevent disruption), **absorb** (withstand impact without collapse), **recover** (restore function) and **adapt** (learn and improve from the experience). This maps well to the C·A·G·R approach: Containment and Alignment support resistance, Resilience supports absorption and recovery and the learning loops across all pillars support adaptation.
 
 **Workforce transition and economic disruption**
 
@@ -196,7 +196,7 @@ The [International AI Safety Report](https://internationalaisafetyreport.org/) (
 
 **Information ecosystem resilience**
 
-- **Crisis communication:** When AI-generated misinformation scales exponentially, maintaining trusted information channels becomes critical
+- **Crisis communication:** When AI-generated misinformation scales rapidly, maintaining trusted information channels becomes critical
 - **Democratic participation:** Can citizens meaningfully participate in governance when information environments are saturated and manipulated?
 - **Truth infrastructure:** Public broadcasters, libraries, trusted local media that can cut through noise
 
@@ -210,7 +210,7 @@ The [International AI Safety Report](https://internationalaisafetyreport.org/) (
 
 - **Community identity:** Rapid change can erode shared norms and mutual understanding
 - **Mutual support networks:** Strong communities help members cope with disruption
-- **Resisting atomization:** Preventing isolation and anomie when traditional structures dissolve
+- **Resisting atomisation:** Preventing isolation and anomie when traditional structures dissolve
 
 ---
 

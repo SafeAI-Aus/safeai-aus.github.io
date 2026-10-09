@@ -3,7 +3,7 @@ icon: lucide/zap
 title: "Preparing for AGI - Advanced AI Transformation"
 description: "Strategic guidance for Australian organisations exploring advanced AI and AGI through scenarios, planning frameworks and sector guidance."
 keywords: "AGI Australia, advanced AI transformation, AI governance Australia, AGI scenarios, C·A·G·R framework, AI safety Australia, future AI planning, AGI preparation"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Strategic guidance for Australian organisations preparing for advanced AI and AGI transformation"
 og_type: "article"
@@ -57,7 +57,7 @@ Frontier AI providers assure us their systems are safe and aligned. But we face 
 
 !!! info "Australia's AI Safety Institute: National evaluation capability"
 
-    Australia's [**AI Safety Institute**](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) is operating within the Department of Industry, Science and Resources (as at July 2026). It analyses and tests emerging AI models and applications, supports regulators and agencies and contributes to international AI safety work. It strengthens Australia's independent technical capability, but does not replace the enforcement roles of sectoral regulators.
+    Australia's [**AI Safety Institute**](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) is operating within the Department of Industry, Science and Resources (as at October 2026). It analyses and tests emerging AI models and applications, supports regulators and agencies and contributes to international AI safety work. It strengthens Australia's independent technical capability, but does not replace the enforcement roles of sectoral regulators.
 
 ### The coordination problem: International cooperation is hard
 
@@ -192,7 +192,7 @@ These pillars form **layers of defence**. Containment aims to prevent dangerous 
 
 ??? question "Isn't this just science fiction? Why worry about AGI now?"
 
-    **Why this is not only hypothetical:** Recommendation algorithms optimised for engagement can amplify polarisation. AI systems sometimes behave unexpectedly, diverging from intended goals. Content moderation exhibits biases designers did not anticipate. As capabilities increase, systems can gain autonomy and become harder to oversee. Techniques that align narrow systems may not scale to highly capable agents. (See [Concepts](concepts.md) for examples.)
+    **Why this is not only hypothetical:** Engagement-optimised recommendation systems have been criticised for amplifying polarising content, although studies disagree on how much they change political attitudes. AI systems sometimes behave unexpectedly, diverging from intended goals. Content moderation exhibits biases designers did not anticipate. As capabilities increase, systems can gain autonomy and become harder to oversee. Techniques that align narrow systems may not scale to highly capable agents. (See [Concepts](concepts.md#what-is-ai-alignment) for how alignment failures are defined.)
 
     **Why prepare now:** Evaluation capability, governance arrangements and continuity planning take time to build. Starting before a high-impact deployment leaves organisations more options than responding after dependencies are established.
 

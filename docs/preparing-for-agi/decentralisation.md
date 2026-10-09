@@ -3,7 +3,7 @@ icon: lucide/network
 title: "Decentralised AI - Democratic Alternatives"
 description: "Democratic approaches to AI governance, including platform cooperatives, open-source AI and community ownership as alternatives to concentrated power."
 keywords: "decentralised AI, democratic AI, platform cooperatives, open source AI, AI power concentration, AI sovereignty Australia, community AI, d/acc, AI governance alternatives"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Explore decentralised and democratic approaches to AI governance for Australia."
 og_type: "article"
@@ -88,9 +88,9 @@ Decentralisation isn't just theory. Relevant infrastructure and governance model
 
 - [**Hugging Face**](https://huggingface.co/) — A major open model, dataset and deployment hub
 - [**Ollama**](https://ollama.com/) — Run models locally with a single command; makes local AI accessible to non-experts
-- [**vLLM**](https://github.com/vllm-project/vllm) and [**llama.cpp**](https://github.com/ggerganov/llama.cpp) — Efficient inference engines that reduce hardware requirements
+- [**vLLM**](https://github.com/vllm-project/vllm) and [**llama.cpp**](https://github.com/ggml-org/llama.cpp) — Efficient inference engines that reduce hardware requirements
 - [**Together AI**](https://www.together.ai/) and [**Fireworks**](https://fireworks.ai/) — Independent inference providers offering alternatives to frontier-lab APIs
-- [**Decentralised training**](https://arxiv.org/abs/2501.02470) — Peer-to-peer GPU networks enable training runs distributed across globally sourced hardware, without passing through centralised cloud providers (Kryś, Sharma & Egan 2025). This has governance implications: decentralised training could eventually undermine compute-based governance by routing around regulated infrastructure.
+- [**Decentralised training**](https://arxiv.org/abs/2507.07765) — Low-communication training methods make it possible to train models across several clusters or on community-contributed hardware, outside a single centralised cloud provider (Kryś, Sharma & Egan 2025). This has governance implications: decentralised training could eventually undermine compute-based governance by routing around regulated infrastructure.
 
 **Why this matters:** Local deployment can give you more control over data handling, service continuity and costs. It can also reduce exposure to API withdrawal, changing provider terms and foreign-jurisdiction access, although local operation introduces its own security, maintenance and governance responsibilities.
 
@@ -98,15 +98,15 @@ Decentralisation isn't just theory. Relevant infrastructure and governance model
 
 **Blockchain and cryptographic tools** can support coordination without relying on a single central authority:
 
-- [**World**](https://world.org/) — A proof-of-personhood approach intended to distinguish humans from AI agents at scale. Biometric identity systems also create substantial privacy, consent and regulatory risks; Spain's data protection authority, for example, [ordered a precautionary halt to Worldcoin data processing in 2024](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain).
-- **Prediction markets** ([Polymarket](https://polymarket.com/), [Metaculus](https://www.metaculus.com/)) — Aggregate distributed knowledge about AI timelines and risks
-- [**Gitcoin**](https://www.gitcoin.co/) — Quadratic funding for public goods, including AI safety research
+- [**World**](https://world.org/) — A proof-of-personhood approach intended to distinguish humans from AI agents at scale. Biometric identity systems also create substantial privacy, consent and regulatory risks; Spain's data protection authority, for example, [ordered a temporary (three-month) precautionary halt to Worldcoin data processing in 2024](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain).
+- **Prediction markets and forecasting platforms** ([Polymarket](https://polymarket.com/), a crypto-settled market, and [Metaculus](https://www.metaculus.com/), a points-based forecasting platform) — Aggregate distributed knowledge about AI timelines and risks
+- [**Gitcoin**](https://www.gitcoin.co/) — Quadratic funding for public goods
 - **DAOs** (decentralised autonomous organisations) — On-chain mechanisms for collective decision-making, with governance and legal limitations that vary by design and jurisdiction
 
 **Verification and transparency:**
 
 - [**zkML**](https://github.com/zkonduit/ezkl) — Zero-knowledge proofs that verify AI model outputs without revealing inputs or weights
-- [**C2PA**](https://c2pa.org/) — Content authenticity standards to verify AI-generated vs human content
+- [**C2PA**](https://c2pa.org/) — Content provenance standard (Content Credentials) that records the origin and edit history of digital content
 - **Cryptographic commitments** — Prove what model produced an output, enabling accountability
 
 **Why this matters:** As AI agents become more common, organisations may need better ways to verify identity, coordinate resources and record collective decisions. Cryptographic mechanisms offer some options, but their suitability depends on governance, security, privacy, accessibility and legal context.
@@ -116,7 +116,7 @@ Decentralisation isn't just theory. Relevant infrastructure and governance model
 **Platform cooperatives** apply democratic ownership to AI infrastructure:
 
 - [**Stocksy**](https://www.stocksy.com/) — Artist-owned stock photography cooperative (model for AI training data ownership)
-- [**Resonate**](https://resonate.coop/) — Music streaming cooperative (model for AI service delivery)
+- [**Resonate**](https://resonate.coop/) — Music streaming cooperative (operated 2017 to 2024 and has since closed; a historical example of cooperative ownership)
 - [**Driver's Seat Cooperative**](https://resources.platform.coop/en/resources/co-op-helps-uber-lyft-drivers-use-data-to-maximize-earnings/) — Historical gig-worker data cooperative (a model for collective bargaining with AI platforms)
 
 **Compute cooperatives** pool resources for shared AI infrastructure:
@@ -138,9 +138,9 @@ Decentralisation isn't just theory. Relevant infrastructure and governance model
 
 **Real examples of democratic tech governance:**
 
-- **[Taiwan's g0v movement](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/)** — Civic technologists building open-source alternatives to government services; vTaiwan used Pol.is to [achieve consensus on Uber regulation](https://centreforpublicimpact.org/public-impact-fundamentals/building-consensus-and-compromise-on-uber-in-taiwan/) in 2015-2016
-- **[Barcelona's digital sovereignty](https://ajuntament.barcelona.cat/digital/en/technology-accessible-everyone/accessible-and-participatory/accessible-and-participatory-5)** — City runs on open-source, uses Decidim for participatory budgeting, prioritises [technological sovereignty](https://ajuntamentdebarcelona.github.io/ethical-digital-standards-site/tech-sovereignty/0.1/policy.html) over Big Tech lock-in
-- **[Mondragon Corporation](https://www.mondragon-corporation.com/en/about-us/)** (Spain) — 70,000+ workers in a federation of cooperatives, demonstrating democratic governance at industrial scale
+- **[Taiwan's g0v movement](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/)** — Civic technologists building open-source alternatives to government services; vTaiwan used Pol.is to [achieve consensus on Uber regulation](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/) in 2015-2016 (Tang and Weyl's [*Plurality*](https://plurality.net/read/2-2/) notes that vTaiwan engagement fell after the COVID-19 pandemic interrupted in-person meetings)
+- **[Barcelona's digital sovereignty](https://ajuntament.barcelona.cat/digital/en/technology-accessible-everyone/accessible-and-participatory/accessible-and-participatory-5)** — The city's [technological sovereignty policy](https://web.archive.org/web/20260317203038/https://ajuntamentdebarcelona.github.io/ethical-digital-standards-site/tech-sovereignty/0.1/policy.html) (archived copy) prioritises free software and open standards over Big Tech lock-in, and its Decidim participation platform is built on open-source code
+- **[Mondragon Corporation](https://www.mondragon-corporation.com/en/about-us/)** (Spain) — around 70,000 people in 81 self-governing cooperatives, demonstrating democratic governance at industrial scale
 
 **Why this matters:** Technical decentralisation does not automatically distribute authority. Democratic governance tools can give communities—not only developers or early investors—a meaningful role in decisions about how AI systems are owned and used.
 
@@ -258,7 +258,7 @@ Achieving scale alone is difficult. **Regional cooperation** with Pacific and So
     - Couldry & Mejias (2019) *The Costs of Connection* — data colonialism and need for alternatives
     - Zuboff (2019) *The Age of Surveillance Capitalism* — power concentration in tech platforms
     - Crawford (2021) *Atlas of AI* — material and political dimensions of AI systems
-    - Morozov (2023) ["Critique of Techno-Feudal Reason"](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) — platform power and digital sovereignty
+    - Morozov (2022) ["Critique of Techno-Feudal Reason"](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) — platform power and digital sovereignty
 
     **Cooperative movement and practical examples:**
 
@@ -277,12 +277,11 @@ Achieving scale alone is difficult. **Regional cooperation** with Pacific and So
     **Open source AI and technical decentralisation:**
 
     - [Hugging Face](https://huggingface.co/) — open model hub and decentralised AI infrastructure
-    - [EleutherAI](https://www.eleuther.ai/) — open research collective
-    - Goel et al. (2023) ["Democratizing AI Ownership"](https://arxiv.org/abs/2312.14324) — technical approaches to distributed AI governance
+    - [EleutherAI](https://www.eleuther.ai/) — non-profit open-science AI research lab
     - [Open Source AI Definition](https://opensource.org/ai/open-source-ai-definition) — what open-source AI means
 
     **Democratic AI governance research:**
 
-    - Seger et al. (2023) ["Democratising AI"](https://arxiv.org/abs/2303.12642) — taxonomy of democratic AI approaches
+    - Seger et al. (2023) ["Democratising AI: Multiple Meanings, Goals, and Methods"](https://arxiv.org/abs/2303.12642) — four kinds of AI democratisation (use, development, profits, governance)
     - Korinek & Suh (2024) ["Scenarios for the Transition to AGI"](https://www.nber.org/papers/w32255) — economic scenarios for transformative AI
-    - Anthropic (2023) ["Collective Constitutional AI"](https://www.anthropic.com/index/collective-constitutional-ai-aligning-a-language-model-with-public-input) — experiments in democratic AI alignment
+    - Anthropic (2023) ["Collective Constitutional AI"](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input) — experiments in democratic AI alignment

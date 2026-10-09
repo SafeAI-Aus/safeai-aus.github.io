@@ -3,7 +3,7 @@ icon: lucide/shield-ban
 title: "AI Containment - Preventing Dangerous Systems"
 description: "Containment approaches for advanced AI, including compute governance, system controls, deployment restrictions and Australian policy options."
 keywords: "AI containment, compute governance, AI control methods, AI export controls, dangerous AI prevention, AI licensing, AI safety controls, frontier AI containment"
-last-reviewed: "2026-07-18"
+last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
 og_description: "Strategies for preventing dangerous AI systems through compute governance and deployment controls."
 og_type: "article"
@@ -45,7 +45,7 @@ Examples:
 - Systems that can find and exploit zero-day vulnerabilities faster than defences can adapt
 - Highly capable systems that may be difficult to monitor or shut down once deployed
 
-[A December 2025 Good Ancestors survey](https://www.goodancestors.org.au/our-work/ai-safety/aisi-expert-survey) of 139 AI safety professionals found 85.8% rated autonomous systems as very important or critical, 81.2% prioritised cyber misuse risks and 79.8% highlighted dual-use science and CBRN threats. The survey records the views of this selected professional group; it does not independently validate the framework.
+[A December 2025 Good Ancestors survey](https://www.goodancestors.org.au/our-work/ai-safety/aisi-expert-survey) of 139 professionals in AI safety, governance and related fields found 85.8% rated autonomous systems, 81.2% rated cyber misuse and 79.8% rated dual-use science and CBRN as very important or critical areas for the AI Safety Institute. The survey records the views of this selected professional group; it does not independently validate the framework.
 
 For these cases, prevention may be more tractable than mitigation after capabilities proliferate.
 
@@ -112,11 +112,11 @@ This makes compute a practical chokepoint for oversight.
     Open-weight models (where trained parameters are publicly released) create a distinct containment challenge. Unlike closed models, open weights:
 
     - **Cannot be recalled universally.** Once released, weights can be copied indefinitely and there is no universal update or off-switch.
-    - **Can be fine-tuned to strip safety training.** Third parties can remove guardrails through targeted fine-tuning, producing capable models without safety constraints ([Greenblatt 2025](https://www.lesswrong.com/posts/TeF8Az2EiWenR9APF/when-is-it-important-that-open-weight-models-aren-t-released)).
-    - **Can narrow the gap with closed models for particular uses.** Open models remain behind on some frontier capabilities, but may be sufficient for many practical applications ([Lambert 2026](https://www.interconnects.ai/p/open-models-in-perpetual-catch-up)).
+    - **Can be fine-tuned to strip safety training.** Third parties can remove guardrails through targeted fine-tuning, producing capable models without safety constraints ([Lermen et al. 2023](https://arxiv.org/abs/2310.20624)). Capabilities removed by filtering or unlearning can also be restored by fine-tuning ([Greenblatt 2025](https://www.lesswrong.com/posts/TeF8Az2EiWenR9APF/when-is-it-important-that-open-weight-models-aren-t-released)).
+    - **Can be good enough for many practical uses.** Open models are likely to remain behind the best closed models, by roughly six to nine months on one estimate, but may be sufficient for many applications ([Lambert 2026](https://www.interconnects.ai/p/open-models-in-perpetual-catch-up)).
     Pre-release evaluation matters because post-release controls cannot reliably govern every copy or downstream modification. Conditional release can tie access to demonstrated safety thresholds while evidence develops.
 
-    Decentralised training methods — peer-to-peer GPU networks sourced globally — could further erode compute-based governance by enabling training runs that don't pass through regulated infrastructure (Kryś, Sharma & Egan [2025](https://arxiv.org/abs/2501.02470)).
+    Decentralised training methods — peer-to-peer GPU networks sourced globally — could challenge key assumptions of compute-based governance by enabling training runs that don't pass through regulated infrastructure, although levers such as export controls remain relevant (Kryś, Sharma & Egan [2025](https://arxiv.org/abs/2507.07765)).
 
     **This does not imply a blanket ban.** Open-weight models provide transparency, local deployment, reduced vendor dependence and wider access. The challenge is proportionate evaluation before releasing models with dangerous capabilities. See [Decentralisation](../decentralisation.md) for the positive case.
 
@@ -180,7 +180,7 @@ Australian procurers and operators can require evidence of appropriate controls 
 
 #### Containment control surface for AGI systems
 
-For CISOs, risk teams and boards: map your AI systems against these five control dimensions. [DeepMind's AGI safety work](https://deepmindsafetyresearch.medium.com/agi-safety-and-alignment-at-google-deepmind-a-summary-of-recent-work-8e600aca582a) emphasises concrete control boundaries and governance authority—this template adapts that for Australian deployment.
+For CISOs, risk teams and boards: map your AI systems against these five control dimensions. [Google DeepMind's technical AGI safety approach](https://arxiv.org/abs/2504.01849) pairs model-level mitigations with system-level security measures such as monitoring and access control—this template adapts that idea for Australian deployment.
 
 **Control dimensions:**
 
