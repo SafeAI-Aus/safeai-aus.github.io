@@ -42,7 +42,7 @@ faq:
     7. Plan training and communication rollout
     8. Publish and integrate with existing governance documentation
 
-This template provides a **complete AI Use Policy** for Australian businesses seeking to adopt AI responsibly. It aligns with the Australian Government's **Voluntary AI Safety Standard (VAISS)** and references **ISO/IEC 42001:2023**.
+This template provides an **AI Use Policy starting point** for Australian businesses. It supports selected practices in the Australian Government’s [Guidance for AI Adoption (AI6)](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) and [VAISS (2024)](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails), and references ISO/IEC 42001:2023. Adapt and approve it for your organisation; adoption alone does not establish legal compliance or certification.
 
 ---
 
@@ -58,15 +58,18 @@ This template provides a **complete AI Use Policy** for Australian businesses se
 ---
 
 ### 1. Purpose
+
+<!-- TODO: Human-verify Applicable legal duties and the organisation’s chosen standards commitments; voluntary guidance does not itself create legal obligations. -->
+
 This policy governs AI use at [Organisation Name]. It sets expectations for how AI should support organisational goals, protect people and align with applicable laws.
 
 This policy aims to:
 
 - Support organisational objectives
-- Comply with Australian laws and standards
+- Comply with applicable Australian laws and meet the standards commitments adopted by the organisation
 - Protect privacy, data and intellectual property (IP)
 - Align with the Australian Government's Voluntary AI Safety Standard (VAISS) - 10 Guardrails
-- Align with ISO/IEC 42001:2023
+- Use ISO/IEC 42001:2023 to inform the organisation’s AI management arrangements
 
 ---
 
@@ -82,12 +85,15 @@ This policy applies across the organisation wherever AI technologies are develop
 ---
 
 ### 3. Terms & Definitions
+
+<!-- TODO: Human-verify The personal-information definition against Privacy Act 1988 (Cth), s 6(1), and the adopting organisation’s context. -->
+
 To ensure consistency and clarity, the following definitions apply within this policy:
 
 - **Artificial intelligence (AI):** Computer systems that perform tasks normally requiring human intelligence (e.g., text generation, decision support)
 - **AI System:** Any software, service, or model that uses AI to produce outputs or assist in decisions
-- **Human oversight:** A human must review and remain accountable for consequential decisions informed by AI
-- **Personal Information:** Information about an identifiable individual, as defined under the Privacy Act 1988 (Cth)
+- **Human oversight:** A designated person must have the authority and ability to review, intervene in and remain accountable for consequential decisions informed by AI
+- **Personal Information:** Information or opinions about someone who is identified or reasonably identifiable. They can be inaccurate and need not be recorded. Apply the definition in the Privacy Act 1988 (Cth), s 6(1); see the [OAIC’s key concepts guidance](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-guidelines/chapter-b-key-concepts)
 - **Intellectual Property (IP):** Creations of the mind (trade secrets, code, designs, works) owned or licensed by the organisation
 - **High-risk AI Use:** Applications that may significantly affect people's rights, safety, or financial position (e.g. HR, medical, or safety-critical systems)
 
@@ -113,11 +119,11 @@ The organisation is committed to using AI in a way that is safe, transparent and
 AI technologies may be used where they support the organisation's objectives, comply with relevant laws and can be applied responsibly. Acceptable use requires staff to follow the conditions below:
 
 - ✅ Align AI use with organisational goals and policies
-- ✅ Comply with applicable laws, standards and ethics
+- ✅ Comply with applicable laws and the organisation’s adopted standards and ethics commitments
 - ✅ Ensure humans remain accountable for significant decisions
 - ✅ Protect personal data and organisational IP
 - ✅ Document purpose, data sources and limitations
-- ✅ Use only approved and secure AI tools for sensitive workloads
+- ✅ Use only approved AI tools and use cases; sensitive workloads require approved data handling and security controls
 
 ---
 
@@ -131,15 +137,19 @@ To manage risks and maintain compliance, certain uses of AI are not permitted un
 - ❌ Using unapproved or unvetted AI vendors
 - ❌ Uploading confidential or IP-protected data into public AI tools
 - ❌ Training AI models on datasets without appropriate rights or licences
+- ❌ Providing medical or legal advice via AI under this policy
 
 ---
 
 ### 7. Privacy, Intellectual Property & Data Rights
+
+<!-- TODO: Human-verify Privacy Act coverage, other applicable privacy duties, copyright and data rights for the organisation’s AI uses. -->
+
 Respecting privacy and protecting intellectual property is central to responsible AI adoption. AI use must safeguard both personal information and organisational assets, while also respecting the rights of third parties.
 
 **The organisation requires that:**
 
-- All AI systems comply with the Privacy Act 1988 (Cth)
+- All AI use follows the organisation’s privacy safeguards and applicable privacy laws, including the Privacy Act 1988 (Cth) where it applies
 - Both personal information and organisational IP are protected at all times
 - Third-party IP rights are respected when using datasets, models, or outputs
 - Copyright or licence status is confirmed before publishing AI-generated content
@@ -179,14 +189,20 @@ This policy will be reviewed at least annually, or sooner if required by law, or
 ---
 
 ### 11. Related Standards & References
+
+<!-- TODO: Human-verify Legal applicability, the listed standards editions and the scope of the framework mappings below. -->
+
 This policy is guided by relevant standards and legislation that inform responsible AI practice. These include:
 
-- Australian Government Voluntary AI Safety Standard (2024) – 10 Guardrails
-- ISO/IEC 42001:2023 – AI Management System (AIMS)
-- ISO/IEC 23894:2023 – AI Risk Management
-- NIST AI Risk Management Framework 1.0 (2023) – U.S. AI risk guidance
-- Privacy Act 1988 (Cth) – Australian Privacy Principles (APPs)
-- Fair Work Act 2009 (Cth) – Employee data and workplace rights considerations
+- Australian Government [Guidance for AI Adoption (AI6, first published October 2025)](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) – essential practices for AI governance
+- Australian Government [Voluntary AI Safety Standard (2024)](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails) – 10 voluntary guardrails
+- [ISO/IEC 42001:2023](https://www.iso.org/standard/42001) – AI management-system requirements
+- [ISO/IEC 23894:2023](https://www.iso.org/standard/77304.html) – guidance on AI risk management
+- [NIST AI Risk Management Framework 1.0 (2023)](https://www.nist.gov/itl/ai-risk-management-framework) – U.S. voluntary AI risk guidance
+- Privacy Act 1988 (Cth) – [Australian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles), where applicable
+- Fair Work Act 2009 (Cth) – employment and workplace rights; assess employee-data and workplace-surveillance duties separately
+
+Use the Australian Government’s [AI legal-landscape overview](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/legal-landscape-ai-australia) as a starting point for identifying relevant laws. Confirm the current law and its application to each use case.
 
 ---
 
@@ -206,43 +222,47 @@ This policy is guided by relevant standards and legislation that inform responsi
     **Don't:**
 
     - ❌ Paste confidential or client data into public AI tools
-    - ❌ Rely on AI for final decisions without human oversight
+    - ❌ Rely on AI for consequential decisions without the required human review and accountability
     - ❌ Use unapproved AI vendors or unlicensed data
     - ❌ Assume AI-generated content is automatically free of copyright
 
 ### Common Scenarios
 
+Every scenario is subject to the approved-tool, approved-use and data-handling conditions in Sections 5–7. A “Yes” does not approve a particular product or account configuration.
+
 | Scenario | Allowed? | Requirements |
 |----------|:--------:|--------------|
-| Using ChatGPT for draft emails | ✅ Yes | Review before sending, no confidential data |
+| Using ChatGPT for draft emails | ✅ Yes | Only if the tool and use are approved; review before sending, no confidential data |
 | Customer data in public AI tools | ❌ No | Privacy breach risk |
 | AI for research summaries | ✅ Yes | Fact-check all outputs |
-| Automated hiring decisions | ⚠️ With controls | Human review required, bias testing mandatory |
+| Automated hiring decisions | ⚠️ With controls | Use AI as decision support; an accountable person makes the decision after review, with bias testing and approved controls |
 | AI for code suggestions | ✅ Yes | Security testing required |
-| Medical/legal advice via AI | ❌ No | Professional oversight essential |
+| Medical/legal advice via AI | ❌ No | Prohibited under this policy; professional oversight alone does not create an exception |
 
 ---
 
 ## Alignment with Australian Standards
 
-This policy implements key requirements from Australian AI frameworks:
+This policy supports selected framework practices when it is adopted, implemented and supported by evidence. Policy wording alone does not establish conformity.
 
-!!! success "Standards Compliance"
+!!! success "Framework Support"
     === "AI6 Essential Practices"
-        ✓ **Decide who is accountable** — Section 9 assigns clear responsibility to Board, AI Governance Lead, and Project Owners
+        ✓ **Decide who is accountable** — Section 9 assigns responsibilities to the Board, AI Governance Lead and Project Owners
 
-        ✓ **Maintain human control** — Sections 5-6 mandate human oversight for consequential decisions
+        ✓ **Maintain human control** — Sections 3, 5 and 6 require review and accountability for consequential decisions
 
-        ✓ **Share essential information** — Sections 1 and 4 communicate the organisation's AI commitments
+        ✓ **Share essential information** — Sections 4 and 12 set transparency expectations; define who needs which information, when and through which channel during implementation
 
     === "Voluntary AI Safety Standard (10 Guardrails)"
-        ✓ **Guardrail 1 – Accountability** — Section 9 establishes clear lines of responsibility
+        ✓ **Guardrail 1 – Accountability and governance** — Section 9 assigns governance responsibilities
 
-        ✓ **Guardrail 5 – Human control** — Section 6 explicitly prohibits automated decision-making without oversight
+        ✓ **Guardrail 5 – Human control** — Sections 3 and 6 require meaningful oversight and prohibit decisions made without it where required
 
-        ✓ **Guardrail 4 – Transparency** — Section 4 commits to transparent and explainable AI
+        ✓ **Guardrail 6 – End-user information** — Sections 4 and 12 set expectations for transparency about AI use
 
-        ✓ **Guardrail 3 – Data protection** — Section 7 mandates Privacy Act compliance and IP protection
+        ✓ **Guardrail 3 – System protection and data governance** — Section 7 sets privacy and IP requirements; data-quality, provenance and security controls also need implementation
+
+The guardrail labels are shortened summaries. Use the linked references in Section 11 to assess the complete practices and controls.
 
 ---
 

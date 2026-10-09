@@ -18,7 +18,7 @@ howto:
     - name: "Create entries for each AI initiative"
       text: "At project initiation, record project information, ownership, governance details and technical specifications using the template fields."
     - name: "Complete risk and compliance assessment"
-      text: "Document guardrail compliance status, risk level and mitigation controls for each initiative."
+      text: "Record the guardrail assessment status, supporting evidence, assessor, assessment date, risk level and mitigation controls for each initiative."
     - name: "Track financial and lifecycle details"
       text: "Record budget, actual spend, ROI targets and key dates including pilot, production, review and sunset milestones."
     - name: "Review and update regularly"
@@ -29,7 +29,7 @@ faq:
   - question: "Who should own the AI project register?"
     answer: "The register should be owned by the PMO, ICT or risk/governance function. It serves as a central source of truth for governance, risk and compliance monitoring across all AI initiatives."
   - question: "What is the minimum information needed for each entry?"
-    answer: "At minimum, record the project name, description, project owner, risk level, guardrail compliance status and key dates. Expand with financial, technical and ethics details as the project matures."
+    answer: "At minimum, record the project name, description, project owner, risk level, guardrail assessment status, assessment record and key dates. The assessment record identifies the assessor, assessment date, framework version, scope and supporting evidence. Expand with financial, technical and ethics details as the project matures."
 ---
 
 # AI Project Register
@@ -46,7 +46,7 @@ This register helps you maintain a central record of all AI initiatives. It:
 !!! info "When to Use"
     - 🎯 **At project initiation:** Create a new entry for each AI initiative
     - 🔄 **During project lifecycle:** Update details as the project evolves (e.g., risks, model versions)
-    - ✅ **At review points:** Use the register to assess go/no-go criteria and ensure guardrail compliance
+    - ✅ **At review points:** Use the register to review go/no-go criteria, supporting assessments and unresolved guardrail gaps
 
     **Relevant Guardrails:** 1, 2, 9, 10 (from the Australian Voluntary AI Safety Standard)  
 
@@ -65,7 +65,8 @@ This register helps you maintain a central record of all AI initiatives. It:
 | **Ownership & Governance** | Project Owner | Person accountable for delivery | Jane Smith, Head of CX |
 |  | Stakeholders | Business units and key contacts | IT, Risk, Legal, Operations |
 |  | Approval Status | Formal governance decision | Approved by ICT Steering Committee |
-| **Risk Assessment** | Guardrail Compliance | Alignment with AI guardrails (Yes/Partial/No) | Guardrails 1, 2, 9 compliant; 10 pending |
+| **Risk Assessment** | Guardrail Compliance | Recorded assessment against identified VAISS (2024) controls: Yes/Partial/No/Not assessed; link the assessment record | Guardrails 1, 2, 9: Yes; 10: Not assessed (illustrative) |
+|  | Assessment Record | Assessor, assessment date, framework version, assessed scope, evidence links and unresolved gaps | Assessment record [Document ID/Link], VAISS 2024, scope: chatbot pilot; stakeholder engagement pending |
 |  | Risk Level | Overall risk rating (Low/Med/High) | Medium |
 |  | Mitigations | Key risk controls applied | Human-in-the-loop escalation for safety checks |
 | **Technical Details** | Data Sources | Internal/external data powering the model | CRM data, anonymised chat logs |
@@ -89,6 +90,8 @@ This register helps you maintain a central record of all AI initiatives. It:
 | **Decision Framework** | Go/No-Go Criteria | Conditions for continuation | Meets KPIs, passes compliance review |
 |  | Escalation Path | Who is notified if risks emerge | Escalate to CIO and AI Risk Committee |
 
+Treat a status as the recorded outcome of an assessment, not independent proof of compliance. Do not mark a control “Yes” without evidence for its assessed scope. Record who reviewed it, when, and what remains unresolved. Example entries are illustrative and are not verified approvals.
+
 ---
 
 ## How to Maintain the Register  
@@ -96,7 +99,7 @@ This register helps you maintain a central record of all AI initiatives. It:
 - **Ownership:** The AI Project Register should be owned by the PMO, ICT, or Risk/Governance function.  
 - **Frequency of Updates:** At minimum, quarterly updates, or more frequently for high-risk/high-impact projects.  
 - **Integration:** Link the register with project governance forums, risk registers and compliance reporting.  
-- **Audit & Oversight:** The register can be used as part of routine compliance checks to ensure responsible AI deployment.  
+- **Audit & Oversight:** Use the register to locate current assessments and evidence for governance or compliance reviews. Reassess entries after material changes; the register alone does not establish compliance.  
 
 ---
 
@@ -119,27 +122,36 @@ This register helps you maintain a central record of all AI initiatives. It:
 - Incident Reports: [Document ID/Link]  
 - Ethics Review: [Document ID/Link]  
 - Business Case: [Document ID/Link]  
+- Guardrail Assessment Record: [Document ID/Link]  
+- Stakeholder Engagement and Actions: [Document ID/Link]  
+- Testing, Limitations and Disclosure Records: [Document ID/Link]  
 
 ---
 
 ## Alignment with Australian Standards
 
-!!! success "Standards Compliance"
+<!-- TODO: Human-verify The proposed AI6/VAISS (2024) support mappings and the evidence recorded for each assessed control. -->
+
+The register can organise evidence for selected practices in [AI6](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) and [VAISS (2024)](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails). Keeping an entry does not demonstrate that a practice has been implemented.
+
+!!! success "Framework Support"
     === "AI6 Essential Practices"
-        ✓ **Decide who is accountable** — "Ownership & Governance" section requires "Project Owner" and "Stakeholders" for every initiative
+        ✓ **Decide who is accountable** — Ownership fields record responsibility; confirm the person has the authority and resources to act
 
-        ✓ **Understand impacts and plan accordingly** — "Risk Assessment" section requires documentation of "Risk Level" and "Mitigations" before proceeding
+        ✓ **Understand impacts and plan accordingly** — Risk fields point to assessments and mitigation decisions
 
-        ✓ **Share essential information** — Register acts as central source of truth, sharing project details (Objectives, Timeline, Status) across the organisation
+        ✓ **Share essential information** — The register supports internal information sharing; link the records of any required supplier, user or stakeholder disclosures separately
 
     === "Voluntary AI Safety Standard (10 Guardrails)"
-        ✓ **Guardrail 1 – Accountability** — "Project Owner" field ensures specific individual accountable for AI system outputs and impacts
+        ✓ **Guardrail 1 – Accountability and governance** — Ownership and approval fields record assigned responsibilities and decisions
 
-        ✓ **Guardrail 10 – Stakeholder engagement, safety, diversity, fairness** — "Ethics" section (Ethics Review, Bias Testing) verifies fairness and safety
+        ✓ **Guardrail 10 – Stakeholder engagement and fairness** — Link evidence of engagement and resulting actions; ethics-review and bias-test statuses alone do not demonstrate engagement
 
-        ✓ **Guardrail 9 – Record-keeping** — Register implements record-keeping by maintaining history of all AI projects, status and key decisions
+        ✓ **Guardrail 9 – Records** — Entries and linked records document projects, assessments, changes and decisions
 
-        ✓ **Guardrail 2 – Risk management** — "Risk Assessment" fields (Risk Level, Mitigations) integrate risk management into project lifecycle
+        ✓ **Guardrail 2 – Risk management** — Risk and mitigation fields link each initiative to its risk-management process
+
+Guardrail labels above are shortened summaries, not a complete statement of the controls.
 
 ---
 
