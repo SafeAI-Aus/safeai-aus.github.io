@@ -2,6 +2,7 @@
 icon: lucide/bomb
 title: "AI Catastrophic Misuse Scenario"
 description: "How leaked AI models could enable sophisticated cyberattacks, bioweapon development and other catastrophic misuse. Containment failure risks explored."
+robots: "index, follow"
 keywords: "AI misuse, AI bioweapons, AI cyberattacks, AI containment failure, AI model leaks, catastrophic AI risk, AI dual-use, AI weapons"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

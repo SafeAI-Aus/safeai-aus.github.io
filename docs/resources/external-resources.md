@@ -2,6 +2,7 @@
 icon: lucide/external-link
 title: "Democratic & Decentralised AI Resources"
 description: "Curated external resources for Australian organisations exploring decentralised AI, platform cooperatives, digital rights and democratic technology governance."
+robots: "index, follow"
 keywords: "decentralised AI resources, democratic AI governance, platform cooperatives Australia, digital rights Australia, community technology resources"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

@@ -2,6 +2,7 @@
 icon: lucide/help-circle
 title: "C·A·G·R Framework FAQ"
 description: "Frequently asked questions about the C·A·G·R Framework, SafeAI-Aus approach to AI safety and how our methodology differs from mainstream AI safety research."
+robots: "index, follow"
 keywords: "CAGR FAQ, AI safety FAQ, SafeAI-Aus approach, AI safety framework questions, containment alignment governance resilience"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

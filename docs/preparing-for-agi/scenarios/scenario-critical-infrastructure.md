@@ -2,6 +2,7 @@
 icon: lucide/zap
 title: "AI Critical Infrastructure Failure Scenario"
 description: "How AI-dependent critical infrastructure could experience cascading failures. Energy, finance and telecommunications vulnerabilities in Australia explored."
+robots: "index, follow"
 keywords: "AI critical infrastructure, AI cascading failure, AI power grid, AI finance failure, infrastructure vulnerability, AI system failure, Australia critical infrastructure"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

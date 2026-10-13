@@ -2,6 +2,7 @@
 icon: lucide/shield
 title: "AI Use Policy Template"
 description: "AI use policy template for Australian businesses covering governance, risk management, privacy and responsible AI practices."
+robots: "index, follow"
 keywords: "AI use policy template, AI governance template, Australian AI policy, AI safety policy, AI compliance template, AI risk management policy, AI governance Australia, free AI policy template, generative AI policy, ChatGPT workplace policy, AI acceptable use policy"
 last-reviewed: "2026-04-15"
 review-status: "pending"

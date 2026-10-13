@@ -2,6 +2,7 @@
 icon: lucide/external-link
 title: "Australian AI Community & Networks"
 description: "Australian AI safety groups, digital rights advocates, research institutions and international governance resources for practitioners."
+robots: "index, follow"
 keywords: "Australian AI community, AI safety Australia, AI research groups, digital rights Australia, AI networks, Australian tech community, AI meetups Australia, AI governance resources"
 og_title: "Australian AI Community - Networks & Resources"
 og_description: "Connect with Australian AI safety groups, research institutions and international resources"

@@ -2,6 +2,7 @@
 icon: lucide/shield
 title: "National Security — Advanced AI Preparedness"
 description: Practical priorities for preserving Australian judgement, accountability and continuity as advanced AI changes the security environment.
+robots: "index, follow"
 keywords: "advanced AI national security Australia, defence AI governance, AI security preparedness, national security AI resilience, responsible AI Defence"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

@@ -2,6 +2,7 @@
 icon: lucide/map
 title: "AGI Risk Scenarios for Australia"
 description: "Six detailed scenarios showing how AGI and advanced AI risks could unfold in Australia. Power concentration, loss of control, critical infrastructure and more."
+robots: "index, follow"
 keywords: "AGI scenarios, AI risk scenarios, AI catastrophic risk, AI power concentration, AI loss of control, critical infrastructure AI, AI misuse scenarios, Australia AI risks"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

@@ -2,6 +2,7 @@
 icon: lucide/shield-ban
 title: "AI Containment - Preventing Dangerous Systems"
 description: "Containment approaches for advanced AI, including compute governance, system controls, deployment restrictions and Australian policy options."
+robots: "index, follow"
 keywords: "AI containment, compute governance, AI control methods, AI export controls, dangerous AI prevention, AI licensing, AI safety controls, frontier AI containment"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

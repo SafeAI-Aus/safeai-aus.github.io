@@ -2,6 +2,7 @@
 icon: lucide/list-checks
 title: "AI Risk Register Template"
 description: "Comprehensive AI risk register template for Australian businesses. Identify, assess and manage AI-related risks with structured tracking aligned to safety standards."
+robots: "index, follow"
 keywords: "AI risk register template, AI risk management, AI risk tracking, AI risk assessment, Australian AI safety, AI governance tracking, AI risk framework"
 last-reviewed: "2026-04-15"
 review-status: "pending"

@@ -2,6 +2,7 @@
 icon: lucide/book-open
 title: "AI & Emerging Tech Learning Directory for SMEs"
 description: "Free AI learning resources for Australian SMEs, including government programs, university courses and open-source training to build capability."
+robots: "index, follow"
 keywords: "AI learning, SME training, AI resources Australia, safe AI adoption, government AI courses, open source AI learning"
 last-reviewed: "2026-09-08"
 review-cycle: "quarterly"

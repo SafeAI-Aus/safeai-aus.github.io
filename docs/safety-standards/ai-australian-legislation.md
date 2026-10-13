@@ -2,6 +2,7 @@
 icon: lucide/flag
 title: "Current Legal Landscape for AI in Australia"
 description: "Overview of Australian laws relevant to AI adoption, including privacy, consumer protection, anti-discrimination and intellectual property."
+robots: "index, follow"
 keywords: "AI legislation Australia, Australian AI law, AI privacy law, AI consumer law, AI discrimination law, AI intellectual property, AI legal compliance, Australian AI regulations, AI legal framework"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

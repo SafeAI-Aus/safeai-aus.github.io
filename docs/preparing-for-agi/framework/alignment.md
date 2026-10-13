@@ -2,6 +2,7 @@
 icon: lucide/target
 title: "AI Alignment - Making AI Systems Reliably Safe"
 description: "How AI alignment relates to human intent, Australian law and public safety across technical, organisational and institutional layers."
+robots: "index, follow"
 keywords: "AI alignment, AI safety, AI misalignment, deceptive alignment, scalable oversight, AI alignment problem, RLHF, constitutional AI, AI alignment Australia"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

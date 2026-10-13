@@ -2,6 +2,7 @@
 icon: lucide/help-circle
 title: "Australian AI Governance FAQ"
 description: "Answers to common questions about AI governance, regulation, risk and compliance for Australian organisations, with links to practical templates and resources."
+robots: "index, follow"
 keywords: "AI governance FAQ, AI regulation Australia, do I need AI policy, is AI regulated Australia, VAISS FAQ, AI6 FAQ, AI risk assessment, AI compliance Australia, AI grants Australia, AI governance for small business"
 last-reviewed: "2026-09-08"
 review-cycle: "quarterly"
