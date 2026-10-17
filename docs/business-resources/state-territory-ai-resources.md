@@ -3,7 +3,7 @@ icon: lucide/map-pin
 title: "Australian Government AI Resources"
 description: "Official AI strategies, policies, assurance frameworks and statutory guidance from Australian federal, state and territory governments."
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
-last-reviewed: "2026-10-08"
+last-reviewed: "2026-10-11"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
 og_type: "article"
@@ -53,7 +53,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 ## New South Wales (NSW)
 
 !!! info "Australia-first AI workplace legislation: passed 12 February 2026; primary duties not yet commenced"
-    The **Work Health and Safety Amendment (Digital Work Systems) Act 2026** (assent received 18 February 2026) makes NSW the first Australian jurisdiction to impose express WHS duties on employers using AI, algorithms, automation and digital work platforms. As of June 2026, the primary duties have **not yet commenced**. Commencement requires SafeWork NSW to complete public consultation on guidelines for WHS entry permit holders, publish the guidelines, and observe a statutory waiting period of at least one month. Those guidelines are still under development. Monitor [SafeWork NSW](https://www.safework.nsw.gov.au) and [legislation.nsw.gov.au](https://legislation.nsw.gov.au) for proclamation announcements. Two primary duties are established:
+    The **Work Health and Safety Amendment (Digital Work Systems) Act 2026** (assent received 18 February 2026) makes NSW the first Australian jurisdiction to impose express WHS duties on employers using AI, algorithms, automation and digital work platforms. As of 11 October 2026, the primary duties have **still not commenced**. Only Schedule 1 [7], [9] and [11] — provisions relating to entry-permit-holder guidelines — have commenced; the core new duty (s 19(3)(c1)) and union/permit-holder inspection powers remain uncommenced. Commencement requires SafeWork NSW to complete public consultation on guidelines for WHS entry permit holders, publish the guidelines, and observe a statutory waiting period of at least one month after publication. Those guidelines are still under development. Monitor [SafeWork NSW](https://www.safework.nsw.gov.au) and [legislation.nsw.gov.au](https://legislation.nsw.gov.au) for proclamation announcements. Two primary duties are established:
 
     **1. Primary Duty (s 19(3)(c1)):** A person conducting a business or undertaking (PCBU) must ensure, so far as is reasonably practicable, that the health and safety of workers is not put at risk from the use of **digital work systems** by the business.
 
@@ -68,7 +68,7 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
     **"Digital work system"** is broadly defined as an algorithm, AI, automation or online platform used to allocate work. Applies to all NSW employers using AI scheduling, algorithmic management, digital performance monitoring or automated work allocation.
 
-    Employers should map their AI-driven work allocation systems now in preparation for commencement. (Sources: [Norton Rose Fulbright](https://www.nortonrosefulbright.com/en-au/knowledge/publications/d75c5d28/nsw-parliament-passes-digital-work-systems-bill-what-employers-need-to-know), [Hamilton Locke](https://hamiltonlocke.com.au/nsw-parliament-passes-whs-digital-work-system-duty/), [NSW Parliament](https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18847))
+    Employers should map their AI-driven work allocation systems now in preparation for commencement. (Sources: [SafeWork NSW](https://www.safework.nsw.gov.au/legal-obligations/legislation/accordians/work-health-and-safety-amendment-digital-work-systems-act-2026-amendment-act), [Norton Rose Fulbright](https://www.nortonrosefulbright.com/en-au/knowledge/publications/d75c5d28/nsw-parliament-passes-digital-work-systems-bill-what-employers-need-to-know), [Hamilton Locke](https://hamiltonlocke.com.au/nsw-parliament-passes-whs-digital-work-system-duty/), [NSW Parliament](https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18847), accessed 11 October 2026)
 
 - **[NSW Office for Artificial Intelligence (Digital NSW)](https://www.digital.nsw.gov.au/policy/artificial-intelligence)** — dedicated AI office (est. Sept 2025) driving safe, strategic AI adoption across NSW Government.
 - **[NSW AI Strategy (Digital NSW)](https://www.digital.nsw.gov.au/policy/artificial-intelligence/artificial-intelligence-strategy)** — whole-of-government direction for safe, outcomes-focused AI.

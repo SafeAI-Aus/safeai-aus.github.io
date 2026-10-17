@@ -3,7 +3,7 @@ icon: lucide/server
 title: "AI Data Centres and Compute Governance"
 description: "Australian AI data centre policy, state strategies and trusted directories, covering energy, water, planning, security and sovereignty."
 keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, Victoria Sustainable Data Centre Action Plan, NSW Data Centre Consultation Paper, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
-last-reviewed: "2026-10-08"
+last-reviewed: "2026-10-11"
 review-cycle: "quarterly"
 og_description: "A source-led guide to Australian data centre policy, state approaches, compute governance and trusted facility directories"
 og_type: "article"
@@ -14,12 +14,12 @@ og_type: "article"
 > **Purpose:** Track Australia's emerging policy for large data centres and AI compute infrastructure
 > **Audience:** Government, infrastructure, energy, technology, risk and community leaders | **Time:** 20-25 minutes
 
-!!! warning "Current status — 8 October 2026"
+!!! warning "Current status — 11 October 2026"
     Australia does **not yet have a legislated national AI data centre standard**. The Australian Government published voluntary **Data Centre Expectations** on 23 March 2026 and announced on 15 July 2026 that it intends to legislate Australian Standards for AI covering large data centres and AI training.
 
     **National Cabinet met on 26 August 2026** and endorsed developing nationally consistent **mandatory** standards for large data centres — covering energy, water, land-use and skills/training — building on the March 2026 Data Centre Expectations. The Commonwealth has committed to work with states and territories to legislate the standards in **early 2027**. This outcome is corroborated across independent secondary sources (see the note below) but had not been confirmed against a primary government communique as at this review. The final coverage, thresholds, duties, regulators and commencement arrangements remain unknown, and the announcement does not itself create new legal obligations.
 
-    A related **National Cabinet AI infrastructure consultation** — "Getting it right: Building AI infrastructure that works for Australia" — opened 18 September 2026, with submissions due by **5pm AEDT Friday 9 October 2026**. See [below](#national-cabinet-ai-infrastructure-consultation) for detail.
+    A related **National Cabinet AI infrastructure consultation** — "Getting it right: Building AI infrastructure that works for Australia" — opened 18 September 2026 and **closed on schedule at 5pm AEDT Friday 9 October 2026**. No government response timeline has been published yet. See [below](#national-cabinet-ai-infrastructure-consultation) for detail.
 
     The **ACT Government announced its own Data Centre Framework on 26 August 2026** (the ACT Government has since declined to support a Greens motion for a data-centre moratorium — see [state approaches](#australian-capital-territory-data-centre-framework-announced-26-august-2026)), and the **Senate's Artificial Intelligence and Data Centres inquiry closed for submissions on schedule on 1 September 2026** and **held its final hearing in Canberra on 1 October 2026** (reporting 16 November 2026) — see below.
 
@@ -66,7 +66,7 @@ The outcome depends on location, design, contracts, operating behaviour and tran
 | **1 September 2026** | Submissions closed for the Senate's Artificial Intelligence and Data Centres inquiry. | Parliamentary process; committee reports by 16 November 2026. |
 | **18 September 2026** | National Cabinet AI infrastructure consultation ("Getting it right") opened. | Public consultation; submissions due 9 October 2026. |
 | **1 October 2026** | The Senate inquiry held its final hearing in Canberra; invited OpenAI and Anthropic chief executives did not attend. | Parliamentary process; committee reports by 16 November 2026. |
-| **9 October 2026** | Submission deadline for the National Cabinet AI infrastructure consultation. | Feeds into early-2027 legislation. |
+| **9 October 2026** | Submissions closed for the National Cabinet AI infrastructure consultation. | Feeds into early-2027 legislation. No government response timeline published yet. |
 | **Early 2027** | The Commonwealth has committed, following National Cabinet's 26 August endorsement, to legislate the standards. | Target only; subject to design, intergovernmental agreement and Parliament. |
 
 ---
@@ -122,9 +122,9 @@ The endorsed standards are expected to build on the March 2026 Data Centre Expec
 
 ## National Cabinet AI infrastructure consultation
 
-The Government opened a public consultation, **"Getting it right: Building AI infrastructure that works for Australia,"** on 18 September 2026. Submissions were due by **5pm AEDT Friday 9 October 2026** via an online form on pmc.gov.au.
+The Government opened a public consultation, **"Getting it right: Building AI infrastructure that works for Australia,"** on 18 September 2026. Submissions closed on schedule at **5pm AEDT Friday 9 October 2026** via an online form on pmc.gov.au. No government response timeline, and no indication of whether submissions will be published, had been found as at this review.
 
-The consultation covers:
+The consultation covered:
 
 - energy and renewable-generation requirements
 - water use
@@ -136,9 +136,9 @@ The consultation covers:
 This consultation feeds into the mandatory data-centre standards endorsed by National Cabinet on 26 August 2026 (above). Legislation remains targeted for **early 2027**.
 
 !!! note "Pending primary-source confirmation"
-    This summary is corroborated across [PM&C's own consultation page](https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia) and [PM&C news item](https://www.pmc.gov.au/news/have-your-say-future-ai-training-and-infrastructure-australia) (both accessed 4 October 2026, via search), plus [Technology Decisions](https://www.technologydecisions.com.au/content/data-centres/news/government-seeks-consultation-on-the-future-of-ai-in-australia-506969460) (accessed 4 October 2026). High confidence, though the PM&C pages were returned by search rather than directly fetched this cycle.
+    This summary is corroborated across [PM&C's own consultation page](https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia) ([Cyber Daily](https://www.cyberdaily.au/government/14201-australian-government-launches-consultation-period-on-the-future-of-ai-in-the-country) and [MLex](https://www.mlex.com/mlex/articles/2527071), accessed 11 October 2026), plus [Technology Decisions](https://www.technologydecisions.com.au/content/data-centres/news/government-seeks-consultation-on-the-future-of-ai-in-australia-506969460) (accessed 4 October 2026). High confidence on the closure date, though the PM&C pages were returned by search rather than directly fetched this cycle.
 
-<!-- TODO: Human-verify the consultation scope and closing time directly against pmc.gov.au, and check for a response or next-steps publication after 9 October 2026. -->
+<!-- TODO: Human-verify the consultation scope and closing time directly against pmc.gov.au, and check for a response or next-steps publication now that submissions have closed. -->
 
 ---
 
@@ -288,7 +288,7 @@ No single public directory provides a definitive count of Australian data centre
 - Primary-source confirmation of the **26 August 2026 National Cabinet outcome** against the official communique, and any consultation paper or bill giving it legal effect
 - Primary-source confirmation of the **ACT Government's Data Centre Framework** (announced 26 August 2026) against the official ACT Government media release
 - Findings from the **Senate Environment and Communications References Committee inquiry into AI and data centres** (final hearing held 1 October 2026; committee reports by 16 November 2026)
-- The outcome of the **National Cabinet AI infrastructure consultation** (submissions due 9 October 2026) and any resulting consultation response or draft legislation
+- The outcome of the **National Cabinet AI infrastructure consultation** (submissions closed 9 October 2026) and any resulting consultation response or draft legislation
 - Draft legislation, consultation papers or impact analysis for the Australian Standards for AI
 - Definitions and thresholds for a **large AI data centre**, AI training facility or expanded development
 - Which regulators and approval bodies will verify energy, water, security and community requirements
