@@ -2,6 +2,7 @@
 icon: lucide/scale
 title: "AI Governance - Laws and Institutions"
 description: "How laws, institutions and international cooperation can support accountability and safer advanced-AI deployment in Australia."
+robots: "index, follow"
 keywords: "AI governance, AI regulation Australia, AI policy, AI transparency, AI accountability, international AI coordination, AI Safety Institute Australia, risk-based AI regulation"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

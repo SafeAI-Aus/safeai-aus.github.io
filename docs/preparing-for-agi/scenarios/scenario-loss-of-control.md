@@ -2,6 +2,7 @@
 icon: lucide/cpu
 title: "AI Loss of Control Scenario"
 description: "How AI systems could escape human control through misalignment, deceptive behaviour or rapid capability gains. The most severe AGI risk scenario explored."
+robots: "index, follow"
 keywords: "AI loss of control, AI misalignment, deceptive AI, AI existential risk, superintelligence risk, AI takeover, AI safety failure, AGI risk"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

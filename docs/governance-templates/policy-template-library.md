@@ -2,6 +2,7 @@
 icon: lucide/file-text
 title: "Safe AI Policy & Template Library"
 description: "Free AI governance templates for Australian businesses, including risk assessments, incident reports, vendor evaluations and project registers."
+robots: "index, follow"
 keywords: "AI policy templates, AI governance templates, AI safety templates, Australian AI templates, AI policy library, AI governance tools, AI compliance templates, free AI templates, AI policy template free, AI governance framework Australia, responsible AI templates"
 last-reviewed: "2026-04-15"
 review-status: "pending"

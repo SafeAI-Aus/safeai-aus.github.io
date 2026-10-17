@@ -2,6 +2,7 @@
 icon: lucide/server
 title: "AI Data Centres and Compute Governance"
 description: "Australian AI data centre policy, state strategies and trusted directories, covering energy, water, planning, security and sovereignty."
+robots: "index, follow"
 keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, Victoria Sustainable Data Centre Action Plan, NSW Data Centre Consultation Paper, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
 last-reviewed: "2026-10-11"
 review-cycle: "quarterly"

@@ -2,6 +2,7 @@
 icon: lucide/rocket
 title: "Safe AI Adoption - Getting Started"
 description: "Where to start with AI in your organisation, what to avoid and how to build resilience while managing risk."
+robots: "index, follow"
 keywords: "safe AI adoption, AI adoption roadmap, AI risk management, AI resilience, Australian business AI, AI implementation tips, how to implement AI safely, AI for small business Australia, AI governance for SMEs, responsible AI Australia"
 last-reviewed: "2026-04-15"
 review-status: "pending"

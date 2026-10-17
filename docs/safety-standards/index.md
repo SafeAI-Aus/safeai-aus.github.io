@@ -2,6 +2,7 @@
 icon: lucide/scale
 title: "AI Standards & Legislation"
 description: "Australian and international AI standards, legislation and regulatory frameworks for safe and compliant AI adoption."
+robots: "index, follow"
 keywords: "AI standards Australia, AI legislation, Voluntary AI Safety Standard, AI regulation, AI compliance, Australian AI law"
 last-reviewed: "2026-04-15"
 review-status: "pending"

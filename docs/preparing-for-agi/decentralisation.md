@@ -2,6 +2,7 @@
 icon: lucide/network
 title: "Decentralised AI - Democratic Alternatives"
 description: "Democratic approaches to AI governance, including platform cooperatives, open-source AI and community ownership as alternatives to concentrated power."
+robots: "index, follow"
 keywords: "decentralised AI, democratic AI, platform cooperatives, open source AI, AI power concentration, AI sovereignty Australia, community AI, d/acc, AI governance alternatives"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

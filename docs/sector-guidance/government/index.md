@@ -2,6 +2,7 @@
 icon: lucide/landmark
 title: "Advanced AI Preparedness for Government"
 description: "Strategic guidance for Australian governments and public institutions preparing for advanced AI systems and possible AGI."
+robots: "index, follow"
 keywords: "advanced AI government guidance, AGI preparedness government Australia, public sector AI governance, AI Safety Institute Australia, government AI resilience"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

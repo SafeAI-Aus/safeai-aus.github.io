@@ -2,6 +2,7 @@
 icon: lucide/briefcase
 title: "Business & Industry — Advanced AI Preparedness"
 description: "Strategic guidance for Australian boards and industry leaders preparing for advanced AI systems and possible AGI."
+robots: "index, follow"
 keywords: "advanced AI business guidance, AGI preparedness business Australia, board AI governance, business AI resilience, strategic AI dependencies"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

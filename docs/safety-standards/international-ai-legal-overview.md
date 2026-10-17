@@ -2,6 +2,7 @@
 icon: lucide/globe
 title: "International AI Legal Landscape (2026)"
 description: "Comprehensive overview of international AI regulations and legal frameworks that Australian businesses need to understand for global operations and compliance."
+robots: "index, follow"
 keywords: "international AI law, EU AI Act, US AI regulation, global AI compliance, AI legal landscape, Australian businesses abroad, AI regulation 2026"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

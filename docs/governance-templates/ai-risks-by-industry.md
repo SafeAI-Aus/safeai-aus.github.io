@@ -2,6 +2,7 @@
 icon: lucide/building-2
 title: "AI Risks by Industry (Australia)"
 description: "Industry-specific AI risk examples for 14 major Australian sectors, helping organisations enrich their AI risk registers with sector-tailored threats."
+robots: "index, follow"
 keywords: "AI risk examples, industry-specific AI risks, Australian AI governance, AI risk register support, sector AI risk tables, SME AI risks"
 last-reviewed: "2026-04-15"
 review-status: "pending"

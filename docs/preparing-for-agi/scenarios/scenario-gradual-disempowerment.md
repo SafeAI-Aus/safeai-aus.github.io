@@ -2,6 +2,7 @@
 icon: lucide/trending-down
 title: "AI Disempowerment - Over-Reliance & Skills Loss"
 description: "How gradual AI over-reliance could lead to institutional disempowerment, skills atrophy and loss of human capability. Economic transformation risks explored."
+robots: "index, follow"
 keywords: "AI over-reliance, AI skills atrophy, AI job displacement, institutional disempowerment, AI dependency risks, automation risks, AI workforce impact"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

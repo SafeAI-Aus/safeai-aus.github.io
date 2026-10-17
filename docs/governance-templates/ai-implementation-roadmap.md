@@ -2,6 +2,7 @@
 icon: lucide/map
 title: "AI Implementation Roadmap"
 description: "Step-by-step guidance for running AI pilots, scaling what works and building ongoing assurance into your AI adoption."
+robots: "index, follow"
 keywords: "AI implementation roadmap, AI pilot guidance, AI scaling, AI assurance, AI governance, Australian business AI"
 last-reviewed: "2026-04-15"
 review-status: "pending"

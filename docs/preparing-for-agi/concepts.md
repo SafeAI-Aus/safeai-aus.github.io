@@ -2,6 +2,7 @@
 icon: lucide/book-open
 title: "AGI Concepts & Glossary - AI Safety Terminology"
 description: "Plain-language definitions of AGI, frontier AI, alignment, containment and other advanced-AI safety concepts for Australian organisations."
+robots: "index, follow"
 keywords: "AGI definition, artificial general intelligence meaning, AI alignment explained, AI safety terminology, superintelligence, transformative AI, frontier AI, AI control problem, defence in depth AI, AI existential risk"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

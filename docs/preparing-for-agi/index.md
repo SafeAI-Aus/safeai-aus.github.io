@@ -2,6 +2,7 @@
 icon: lucide/zap
 title: "Preparing for AGI - Advanced AI Transformation"
 description: "Strategic guidance for Australian organisations exploring advanced AI and AGI through scenarios, planning frameworks and sector guidance."
+robots: "index, follow"
 keywords: "AGI Australia, advanced AI transformation, AI governance Australia, AGI scenarios, C·A·G·R framework, AI safety Australia, future AI planning, AGI preparation"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

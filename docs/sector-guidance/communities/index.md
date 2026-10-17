@@ -2,6 +2,7 @@
 icon: lucide/users
 title: "Communities — Advanced AI Preparedness"
 description: "Guidance for Australian communities preserving voice, trust and local resilience through advanced AI change."
+robots: "index, follow"
 keywords: "advanced AI community guidance, AGI preparedness communities Australia, community AI resilience, democratic AI participation, local AI capability"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"

@@ -2,6 +2,7 @@
 icon: lucide/shield-check
 title: "Privacy"
 description: "How SafeAI-Aus handles website analytics, newsletter subscriptions, enquiries and privacy requests."
+robots: "index, follow"
 keywords: "SafeAI-Aus privacy, website analytics privacy, newsletter privacy, personal information"
 last-reviewed: "2026-08-23"
 review-status: "pending"

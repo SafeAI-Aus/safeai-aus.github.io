@@ -2,6 +2,7 @@
 icon: lucide/info
 title: "About SafeAI-Aus: Mission, Values & Licence"
 description: "Learn about SafeAI-Aus: mission, purpose, values and licensing. Australia's open resource for safe AI adoption and the risks of more powerful AI."
+robots: "index, follow"
 keywords: "SafeAI-Aus mission, AI safety values, Australian AI community, open source AI tools, AI governance Australia, AI safety mission, Australian AI standards, AI ethics Australia"
 last-reviewed: "2026-10-08"
 review-cycle: "quarterly"
