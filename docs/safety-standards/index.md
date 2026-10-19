@@ -4,8 +4,8 @@ title: "AI Standards & Legislation"
 description: "Australian and international AI standards, legislation and regulatory frameworks for safe and compliant AI adoption."
 robots: "index, follow"
 keywords: "AI standards Australia, AI legislation, Voluntary AI Safety Standard, AI regulation, AI compliance, Australian AI law"
-last-reviewed: "2026-04-15"
-review-status: "pending"
+last-reviewed: "2026-10-19"
+review-status: "reviewed"
 review-cycle: "quarterly"
 og_title: "AI Safety Standards and Legislation in Australia"
 og_description: "Australian and international AI standards, legislation and governance frameworks"
@@ -88,13 +88,27 @@ Australia's approach to AI regulation combines existing legislation with new vol
 
 ---
 
+## Where Australian AI regulation is heading
+
+As at 19 October 2026, Australia still has no standalone AI Act. The direction is now clearer than it was a year ago:
+
+- **Legislated national standards.** The Government has said it will legislate Australian Standards for AI, starting with large data centres and frontier model training, with bills expected in Parliament in early 2027.
+- **A proportionate, risk-based framework that includes deployers.** The federal Joint Select Committee on Artificial Intelligence's early advice of 12 October 2026 recommends a framework for the development and deployment of AI systems, with heavier duties for frontier developers and lighter expectations (transparency, accountability, human oversight, monitoring) for organisations that use AI.
+- **Data sovereignty.** Expect requirements on where data in AI systems is stored, processed and accessed. These will reach most organisations through their vendors.
+- **Incident reporting as a norm.** Mandatory reporting is proposed for frontier labs, and a standing parliamentary committee would publish incident details.
+- **Support for uptake.** The same advice recommends AI literacy programs with SME uptake as a focus, a national skills approach, and pro-Australian procurement with a register of sovereign AI companies.
+
+For organisations using AI, the practical response is the same one this site has always recommended: know what AI you use, name who is accountable, classify your data, record where vendors store and process it, and have an incident process. See [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md) for detail and sources.
+
 ## Stay Updated
 
-AI regulation is evolving rapidly. Key developments to watch:
+Key dates and developments to watch:
 
-- 🏛️ Australian AI Safety Institute initiatives
-- 📊 Updates to VAISS
-- ⚖️ Potential mandatory regulation for high-risk AI systems
+- 🏛️ **30 November 2026** — Joint Select Committee on Artificial Intelligence full report
+- 🔒 **10 December 2026** — Privacy Act automated decision-making transparency obligations commence
+- ⚖️ **Early 2027** — Australian Standards for AI legislation expected
+- 🏛️ **1 July 2027** — South Australian Royal Commission into Artificial Intelligence final report due
+- 📊 Updates to VAISS and the Guidance for AI Adoption
 - 🌐 International regulatory harmonisation efforts
 
 The [Australian Government's AI page](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) has official updates.
