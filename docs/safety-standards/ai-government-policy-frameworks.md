@@ -4,7 +4,7 @@ title: "Australian Government AI Policy and Frameworks"
 description: "Australian Government AI policy and guidance, including the National AI Plan, AI Safety Institute, DTA requirements, AI6 and VAISS."
 robots: "index, follow"
 keywords: "Australian AI policy, National AI Plan, AI Safety Institute, DTA AI policy, AI6 guidance, VAISS, AI governance Australia, mandatory AI requirements, Senate AI Committee"
-last-reviewed: "2026-09-07"
+last-reviewed: "2026-10-19"
 review-cycle: "quarterly"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 og_type: "article"
@@ -20,11 +20,14 @@ Australia does not yet have a standalone AI Act. On **15 July 2026**, Prime Mini
 This page covers government policy, guidance frameworks and institutional developments. For the laws themselves, see [Current Legal Landscape for AI in Australia](ai-australian-legislation.md).
 
 !!! note "Policy is evolving"
-    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of 22 July 2026. Monitor the [Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
+    The Australian AI policy landscape is changing rapidly. The information below reflects the position as of 19 October 2026. Monitor the [Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), [industry.gov.au/ai](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) and the AI Safety Institute for updates.
 
 ---
 
 ## Australian Standards for AI and Office of AI (July 2026)
+
+!!! tip "Tracker page"
+    For a single view of every strand feeding the proposed national standards, who is likely in scope and what to do now, see [Australian Standards for AI (proposed)](australian-standards-for-ai.md).
 
 !!! warning "New national AI framework announced"
     Prime Minister Albanese announced on **15 July 2026** that the Government plans to legislate the Australian Standards for AI. Official material describes a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not itself create new legal duties and should not be read as a general mandatory standard for every organisation using AI.
@@ -56,16 +59,33 @@ National Cabinet met on 26 August 2026 and agreed that large data centres have m
 
 ---
 
-## Joint Select Committee on Artificial Intelligence (submissions close 14 September 2026)
+## Joint Select Committee on Artificial Intelligence (early advice 12 October 2026; report due 30 November 2026)
 
-A bipartisan federal **Joint Select Committee on Artificial Intelligence** was appointed by resolution of the House of Representatives and the Senate on 20 August 2026, with government and Coalition backing. It will examine the adequacy of existing AI-related laws and regulatory frameworks — including copyright and intellectual property law, national security implications, data sovereignty, consumer protection, deepfakes and cyber security — and the rate and depth of AI adoption among Australian businesses, with a particular focus on small, medium and family businesses.
+A bipartisan federal **Joint Select Committee on Artificial Intelligence** was appointed by resolution of the House of Representatives and the Senate on 20 August 2026, with government and Coalition backing. It is examining the adequacy of existing AI-related laws and regulatory frameworks — including copyright and intellectual property law, national security implications, data sovereignty, consumer protection, deepfakes and cyber security — and the rate and depth of AI adoption among Australian businesses, with a particular focus on small, medium and family businesses.
 
-**Submissions close 14 September 2026** and the committee is due to report by **30 November 2026**. This is a new, ongoing avenue of federal AI scrutiny, separate from the Senate Select Committee on Adopting AI (whose government response is covered above) and the Senate's Artificial Intelligence and Data Centres inquiry (see [AI Data Centres and Compute Governance](ai-data-centres-compute-governance.md)).
+Submissions closed on 14 September 2026. The committee is due to report by **30 November 2026**. It is a separate avenue of federal AI scrutiny from the Senate Select Committee on Adopting AI (whose government response is covered below) and the Senate's Artificial Intelligence and Data Centres inquiry (see [AI Data Centres and Compute Governance](ai-data-centres-compute-governance.md)).
+
+### Early advice to the Prime Minister (12 October 2026)
+
+On 12 October 2026 the committee's chair, Jo Briskey MP, and deputy chair, Senator Jonathon Duniam, wrote to the Prime Minister with early advice ahead of the full report. The letter was copied to the Minister for Industry and Innovation and the Assistant Minister for Science, Technology and the Digital Economy. It followed the disclosure in September 2026 that an AI agent had gained unauthorised access to a Services Australia statistics portal, and it was written knowing the Government intends to legislate national AI standards.
+
+The letter is advice, not law. It states a preference for **outcomes-based, risk-proportionate and technology-neutral** regulation and groups its recommendations under four headings:
+
+| Area | What the committee recommends | Who it is aimed at |
+|------|-------------------------------|--------------------|
+| **AI safeguards** | A standing parliamentary joint committee on AI that publishes incident details; more funding for the AI Safety Institute; a **proportionate, risk-based framework for the development and deployment of AI systems** covering model evaluation, safety testing, cybersecurity, transparency, accountability, human oversight and ongoing monitoring, with additional standards for advanced and frontier systems; mandatory incident monitoring and reporting duties for frontier labs; independent evaluators embedded in labs; limited-use protections for self-reported incidents; early access to new models for the Australian Signals Directorate; a review of government data repositories; attention to biological risk; interoperability with international standards; a 12-month review | Expressly "frontier AI developers deploying models and agents in Australia". Recommendation 1(c) is worded more broadly ("development and deployment of AI systems"); how far it reaches beyond frontier developers is not settled by the letter |
+| **Copyright** | Resolve the treatment of copyright material in AI training, with Australian creators compensated | Developers, rights holders |
+| **Data centre standards** | Nationally consistent standards for the development and operation of data centres, adopted by states and territories through planning law, covering resource consumption, planning and approvals, community input and social licence, and penalties for non-compliance | Data centre operators, states and territories |
+| **Sovereign capability** | Principles setting minimum standards, "where appropriate supported by legislation", and policy direction on: data sovereignty (storage, processing, access, cross-border transfer and foreign access); critical AI infrastructure and energy; **AI literacy programs with SME uptake as a focus**; a national approach to skills and workforce readiness; pro-Australian government procurement; a **register of sovereign AI companies** with defined thresholds; public-interest compute; arrangements with Pacific nations | Government, vendors, training providers, Australian AI firms and the businesses that buy from them |
+
+**What this means for organisations using AI.** Nothing in the letter creates a new obligation today. The duties it proposes are directed at frontier developers, data centre operators and government. Whether the recommended risk-based framework will also set expectations for organisations that deploy AI is an open question: the letter scopes its safeguards to frontier developers, but recommendation 1(c) asks for a framework covering "the development and deployment of AI systems" with requirements including transparency, accountability, human oversight and ongoing monitoring. If that reach is confirmed in the November report or a bill, the practices already described in the [Guidance for AI Adoption](guidance-for-ai-adoption-ai6.md) are the natural fit. Data sovereignty requirements, if legislated, would most likely be felt by ordinary organisations through their vendors' hosting and terms, so recording where a vendor stores and processes data is a sensible step now (see the [AI Vendor Evaluation Checklist](../governance-templates/ai-vendor-evaluation-checklist.md)). The literacy, skills and procurement recommendations signal where government programs and purchasing preferences may go. For a consolidated view, see [Australian Standards for AI (proposed)](australian-standards-for-ai.md).
 
 !!! note "Source confidence"
-    Direct WebFetch access to aph.gov.au remained blocked as at 6 September 2026. The submissions and reporting dates are corroborated across a search-engine cache of the committee's Parliament of Australia page, [Clayton Utz](https://www.claytonutz.com/insights/2026/august/from-patchwork-to-playbook-the-joint-select-committee-on-ai-and-what-it-means-for-business) and [OpenAustralia](https://www.openaustralia.org.au/senate/?id=2026-08-20.26.1) (all accessed 6 September 2026). High confidence on dates; primary-source confirmation via aph.gov.au still pending.
+    The early-advice letter is published on the committee's Parliament of Australia page and was reported by [ABC News](https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612) and [Capital Brief](https://www.capitalbrief.com/briefing/parliaments-ai-committee-writes-to-albanese-with-urgent-call-for-ai-safeguards-0a44e52f-e25b-47e1-8fb0-dccd24594765/) on 13 October 2026. The summary above is taken from the letter itself. Reports that the letter was softened before release are contested and are not relied on here. The full report, with the committee's reasoning and evidence, is due by 30 November 2026 and may change the detail.
 
-(Sources: [Liberal Party of Australia](https://www.liberal.org.au/2026/08/20/establishment-of-a-joint-select-committee-on-artificial-intelligence), [SmartCompany](https://www.smartcompany.com.au/artificial-intelligence/parliamentary-committee-inquiry-small-business-artificial-intelligence/), accessed 30 August 2026; [Parliament of Australia](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence), accessed 6 September 2026)
+    <!-- TODO: Add the stable aph.gov.au DocumentStore URL for the 12 October 2026 letter once confirmed by a human maintainer; direct fetch of aph.gov.au has been unreliable. -->
+
+(Sources: the committee's letter to the Prime Minister dated 12 October 2026; [Parliament of Australia](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence); [Liberal Party of Australia](https://www.liberal.org.au/2026/08/20/establishment-of-a-joint-select-committee-on-artificial-intelligence); [SmartCompany](https://www.smartcompany.com.au/artificial-intelligence/parliamentary-committee-inquiry-small-business-artificial-intelligence/); [Clayton Utz](https://www.claytonutz.com/insights/2026/august/from-patchwork-to-playbook-the-joint-select-committee-on-ai-and-what-it-means-for-business); accessed 19 October 2026)
 
 ---
 
@@ -222,7 +242,11 @@ The ACCC published its own AI transparency statement in February 2026 and has fl
 | 9 August 2026 | AISI publishes first substantive report, "Risks and controls for multi-agent systems" (with Gradient Institute) |
 | **20 August 2026** | **Joint Select Committee on Artificial Intelligence appointed** |
 | **26 August 2026** | **National Cabinet endorses mandatory national data centre standards; legislation targeted early 2027** |
-| **14 September 2026** | **Joint Select Committee on Artificial Intelligence submissions close; reports by 30 November 2026** |
+| **14 September 2026** | **Joint Select Committee on Artificial Intelligence submissions close** |
+| 24 September 2026 | Government discloses unauthorised AI-agent access to a Services Australia statistics portal (incident occurred 18 June 2026) |
+| 1 October 2026 | South Australian Royal Commission into Artificial Intelligence commences; final report due by 1 July 2027 |
+| **12 October 2026** | **Joint Select Committee sends early advice to the Prime Minister: risk-based framework, incident reporting, data sovereignty, AI literacy, procurement** |
+| **30 November 2026** | **Joint Select Committee full report due** |
 | **10 December 2026** | **Privacy Act ADM obligations commence; DTA full compliance** |
 | **Early 2027** | **Australian Standards for AI legislation expected in Parliament** |
 
@@ -232,6 +256,7 @@ The ACCC published its own AI transparency statement in February 2026 and has fl
 
 - [National AI Plan](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) — industry.gov.au
 - [Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai) — pmc.gov.au
+- [Joint Select Committee on Artificial Intelligence](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence) — aph.gov.au
 - [AI consumer safety priorities](https://www.minister.industry.gov.au/charlton/media/ai-consumer-safety-priorities) — minister.industry.gov.au
 - [AI Safety Institute](https://www.industry.gov.au/news/australia-establish-new-institute-strengthen-ai-safety) — industry.gov.au
 - [Risks and controls for multi-agent systems](https://www.industry.gov.au/publications/risks-and-controls-multi-agent-systems) — industry.gov.au

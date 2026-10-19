@@ -4,7 +4,7 @@ title: "AI Data Centres and Compute Governance"
 description: "Australian AI data centre policy, state strategies and trusted directories, covering energy, water, planning, security and sovereignty."
 robots: "index, follow"
 keywords: "AI data centres Australia, Australian data centre directory, data centre regulation Australia, compute governance Australia, Australian Standards for AI, Data Centre Expectations, Victoria Sustainable Data Centre Action Plan, NSW Data Centre Consultation Paper, South Australia Data Centre Strategy, AI infrastructure policy, data centre energy water"
-last-reviewed: "2026-10-11"
+last-reviewed: "2026-10-19"
 review-cycle: "quarterly"
 og_description: "A source-led guide to Australian data centre policy, state approaches, compute governance and trusted facility directories"
 og_type: "article"
@@ -91,6 +91,8 @@ These expectations describe the Government's intended **social licence** for maj
 ---
 
 ## Proposed Australian Standards for AI
+
+For the whole-of-economy picture, including the Joint Select Committee's recommendations beyond data centres, see the [Australian Standards for AI (proposed)](australian-standards-for-ai.md) tracker.
 
 The 15 July 2026 announcement says the future national framework will build on the Data Centre Expectations. The Government proposes legal obligations requiring large data centres to:
 
