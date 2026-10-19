@@ -4,7 +4,7 @@ title: "Australian Government AI Resources"
 description: "Official AI strategies, policies, assurance frameworks and statutory guidance from Australian federal, state and territory governments."
 robots: "index, follow"
 keywords: "Australian government AI resources, federal AI policy, state AI policies, territory AI policies, government AI strategies, NAIC, OAIC, DTA, NSW AI policy, Victoria AI guidance, Queensland AI framework, SA AI resources, WA AI policy, Tasmania AI guidance, ACT AI policy, NT AI framework"
-last-reviewed: "2026-10-11"
+last-reviewed: "2026-10-19"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to AI resources published by Australian federal, state and territory governments"
 og_type: "article"
@@ -131,6 +131,10 @@ For a detailed overview of Australian AI legislation, see our [AI & Australian L
 
 !!! info "Victoria — premier change (28 July 2026): open question for pending AI-adjacent bills"
     Ben Carroll was sworn in as Victoria's Premier on 28 July 2026, replacing Jacinta Allan, with Gabrielle Williams as Deputy Premier. As at 8 October 2026, no statement has been found on whether the Carroll Government will keep the two AI-adjacent proposals above (workplace surveillance and AI-in-hiring limits; online safety for minors). Both remain pre-legislative ahead of the November 2026 state election. Do not assume either will go ahead or be dropped until a bill is introduced or the Government states a position.
+
+    As part of the same reshuffle, Premier Carroll's cabinet created a dedicated **Minister for Artificial Intelligence and Digital Economy**, held by **Anthony Carbines**, cutting the ministry from 22 to 20 positions overall. Coverage frames the new portfolio as signalling that AI and the digital economy will be a campaign theme ahead of Victoria's **28 November 2026** state election; no detailed AI policy platform or costings had been published as at 18 October 2026. ([Ground News aggregation](https://ground.news/article/premier-ben-carroll-appoints-ai-minister-scraps-infrastructure-portfolios-in-new-look-cabinet), accessed 18 October 2026; [York Park Group](https://yorkparkgroup.com/insights-and-news/new-victorian-cabinet-ahead-of-november-state-election), accessed 18 October 2026)
+
+    <!-- TODO: Human-verify the AI/Digital Economy portfolio and its minister directly against the Victorian Government's own machinery-of-government announcement — this cycle's summary rests on two secondary aggregators reporting on a reshuffle that occurred earlier than this reporting cycle. Watch for any AI policy platform ahead of the 28 November 2026 election. -->
 
 ---
 
