@@ -47,6 +47,7 @@ Free, adaptable templates for AI governance:
 ### 2. Safety Standards
 Australian and international AI regulatory guidance:
 
+- **Australian Standards for AI (proposed)** - Dated tracker of proposed national AI standards: strands, scope, themes, timeline
 - **Australian AI Legislation** - Privacy Act, Consumer Law, Discrimination Law
 - **Australian Government AI Policy and Frameworks** - National AI Plan, AI Safety Institute, DTA requirements
 - **VAISS 10 Guardrails** - Detailed implementation guidance

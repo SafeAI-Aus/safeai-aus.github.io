@@ -92,6 +92,8 @@ These expectations describe the Government's intended **social licence** for maj
 
 ## Proposed Australian Standards for AI
 
+For the whole-of-economy picture, including the Joint Select Committee's recommendations beyond data centres, see the [Australian Standards for AI (proposed)](australian-standards-for-ai.md) tracker.
+
 The 15 July 2026 announcement says the future national framework will build on the Data Centre Expectations. The Government proposes legal obligations requiring large data centres to:
 
 - underwrite their own new power supply

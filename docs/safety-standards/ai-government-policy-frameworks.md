@@ -26,6 +26,9 @@ This page covers government policy, guidance frameworks and institutional develo
 
 ## Australian Standards for AI and Office of AI (July 2026)
 
+!!! tip "Tracker page"
+    For a single view of every strand feeding the proposed national standards, who is likely in scope and what to do now, see [Australian Standards for AI (proposed)](australian-standards-for-ai.md).
+
 !!! warning "New national AI framework announced"
     Prime Minister Albanese announced on **15 July 2026** that the Government plans to legislate the Australian Standards for AI. Official material describes a framework for large data centres and AI training, including future mandatory requirements for large AI data centres. The announcement does not itself create new legal duties and should not be read as a general mandatory standard for every organisation using AI.
 

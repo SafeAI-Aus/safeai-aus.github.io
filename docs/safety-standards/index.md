@@ -5,7 +5,6 @@ description: "Australian and international AI standards, legislation and regulat
 robots: "index, follow"
 keywords: "AI standards Australia, AI legislation, Voluntary AI Safety Standard, AI regulation, AI compliance, Australian AI law"
 last-reviewed: "2026-10-19"
-review-status: "reviewed"
 review-cycle: "quarterly"
 og_title: "AI Safety Standards and Legislation in Australia"
 og_description: "Australian and international AI standards, legislation and governance frameworks"
@@ -35,6 +34,9 @@ Stay informed about the regulatory landscape for AI in Australia and internation
 ### Australian Standards
 
 Australia's approach to AI regulation combines existing legislation with new voluntary frameworks:
+
+- **[Australian Standards for AI (proposed)](australian-standards-for-ai.md)**
+  Dated tracker of the national AI standards the Government has said it will legislate: who is likely in scope, what has been proposed and what to do now.
 
 - **[Relevant Australian Legislation](ai-australian-legislation.md)**
   Overview of Privacy Act, consumer law, discrimination law and other existing regulations that apply to AI systems in Australia.
@@ -98,7 +100,7 @@ As at 19 October 2026, Australia still has no standalone AI Act. The direction i
 - **Incident reporting as a norm.** Mandatory reporting is proposed for frontier labs, and a standing parliamentary committee would publish incident details.
 - **Support for uptake.** The same advice recommends AI literacy programs with SME uptake as a focus, a national skills approach, and pro-Australian procurement with a register of sovereign AI companies.
 
-For organisations using AI, the practical response is the same one this site has always recommended: know what AI you use, name who is accountable, classify your data, record where vendors store and process it, and have an incident process. See [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md) for detail and sources.
+For organisations using AI, the practical response is the same one this site has always recommended: know what AI you use, name who is accountable, classify your data, record where vendors store and process it, and have an incident process. The [Australian Standards for AI (proposed)](australian-standards-for-ai.md) tracker brings every strand together with a scope table and timeline; [Australian Government AI Policy and Frameworks](ai-government-policy-frameworks.md) has the detail and sources.
 
 ## Stay Updated
 

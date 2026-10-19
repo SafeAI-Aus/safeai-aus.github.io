@@ -33,6 +33,7 @@ nav = [
   { "AI Standards & Legislation" = [
     { "Overview" = "safety-standards/index.md" },
     { "Australian Standards" = [
+      { "Australian Standards for AI (proposed)" = "safety-standards/australian-standards-for-ai.md" },
       { "Relevant Australian Legislation" = "safety-standards/ai-australian-legislation.md" },
       { "Government AI Policy & Frameworks" = "safety-standards/ai-government-policy-frameworks.md" },
       { "AI Data Centres & Compute Governance" = "safety-standards/ai-data-centres-compute-governance.md" },
