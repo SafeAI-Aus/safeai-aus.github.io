@@ -40,19 +40,21 @@ This page brings together the separate announcements, inquiries and recommendati
 
 ## Who is likely to be in scope
 
-The proposals describe a **proportionate, risk-based** scheme. Obligations are expected to scale with the risk and reach of what an organisation does with AI. The table below is a reading of the announcements and the committee's advice, not a statement of law.
+The proposals describe a **proportionate, risk-based** scheme, but none of them yet allocates obligations to organisation types. The table below is SafeAI-Aus's reading of where each strand points, not a statement of law or of the committee's position.
 
-| Organisation type | Expected weight of obligation | What has been proposed |
-|-------------------|-------------------------------|------------------------|
-| **Frontier AI developers** operating in Australia | Heaviest | Model evaluation and safety testing, mandatory incident monitoring and reporting with deadlines, independent evaluators embedded in labs, early model access for the Australian Signals Directorate, reserved compute for the national interest |
-| **Large data centre operators** | Heavy, infrastructure-focused | Mandatory standards on power supply, grid connection costs, demand reduction, water efficiency and location, applied through planning law |
-| **Commonwealth agencies** | Already mandatory | DTA policy for the responsible use of AI in government, staged to 30 April 2027 ([detail](ai-government-policy-frameworks.md#dta-mandatory-ai-requirements-commonwealth-agencies)) |
-| **AI vendors and cloud providers** | Medium | Data sovereignty requirements on where data in AI systems is stored, processed and accessed, and on cross-border transfer and foreign access |
-| **Organisations that deploy AI** (most businesses, not-for-profits, state and local government) | Lightest, but named | The recommended framework covers "development and deployment of AI systems". Expectations for deployers are transparency, accountability, human oversight and ongoing monitoring. Privacy Act automated decision-making transparency applies from 10 December 2026 regardless |
-| **Australian AI companies** | Opportunity rather than obligation | Pro-Australian government procurement and a register of sovereign AI companies with defined thresholds |
+| Organisation type | What has been proposed, and by whom | How settled it is |
+|-------------------|--------------------------------------|-------------------|
+| **Frontier AI developers** operating in Australia | The committee's AI safeguards are expressly directed at "frontier AI developers deploying models and agents in Australia": model evaluation and safety testing, mandatory incident monitoring and reporting with deadlines, independent evaluators embedded in labs, early model access for the Australian Signals Directorate, reserved compute for the national interest | Clearest target of the advice |
+| **Data centre operators** | The Government's July 2026 announcement targets large AI data centres (power supply, grid connection costs, demand reduction, water efficiency, location). The committee separately recommends nationally consistent standards for the development and operation of data centres generally, covering resource consumption, planning, community input and social licence, and penalties for non-compliance, applied through state and territory planning law | Two overlapping proposals with different scope; the bill will decide |
+| **Commonwealth agencies** | DTA policy for the responsible use of AI in government, staged to 30 April 2027 ([detail](ai-government-policy-frameworks.md#dta-mandatory-ai-requirements-commonwealth-agencies)) | Already mandatory |
+| **AI vendors and cloud providers** | The committee recommends requirements on the storage, processing, access, ownership, protection and use of data within AI systems, with safeguards on jurisdictional control, cross-border transfer and foreign access. It does not say who would carry the duty | Direction clear, duty-holder not yet specified |
+| **Organisations that deploy AI** (most businesses, not-for-profits, state and local government) | Unresolved. The committee's safeguards section is scoped to frontier developers, but its recommendation 1(c) asks for a framework covering "the development and deployment of AI systems" with requirements including transparency, accountability, human oversight and ongoing monitoring. Whether, and how lightly, that reaches ordinary deployers is not settled by the letter. Privacy Act automated decision-making transparency applies from 10 December 2026 regardless, to entities already covered by the Act | Open question until the 30 November 2026 report and any bill |
+| **Australian AI companies** | Pro-Australian government procurement and a register of sovereign AI companies with defined thresholds | Opportunity rather than obligation; thresholds not yet published |
+
+<!-- TODO: Revisit the deployer row against the committee's full report (due 30 November 2026) and any exposure draft. The letter's scope statement and recommendation 1(c) pull in different directions and a human reviewer should settle the site's reading once the report is out. -->
 
 !!! info "Do not over-read the scope"
-    The announced standards do not make the [Guidance for AI Adoption (AI6)](guidance-for-ai-adoption-ai6.md) or the [Voluntary AI Safety Standard](voluntary-ai-safety-standard-10-guardrails.md) mandatory for every organisation. They remain voluntary guidance. What the committee's advice does is describe the deployer-side expectations in language that matches those documents, which is why they are the sensible preparation.
+    The announced standards do not make the [Guidance for AI Adoption (AI6)](guidance-for-ai-adoption-ai6.md) or the [Voluntary AI Safety Standard](voluntary-ai-safety-standard-10-guardrails.md) mandatory for every organisation. They remain voluntary guidance. Where the committee's advice describes requirements such as transparency, accountability, human oversight and monitoring, the language matches those documents, which is why they are sensible preparation whatever the final scope.
 
 ---
 
@@ -60,11 +62,11 @@ The proposals describe a **proportionate, risk-based** scheme. Obligations are e
 
 **Risk-based framework.** A proportionate framework for the development and deployment of AI systems, with requirements for model evaluation, safety testing, cybersecurity, transparency, accountability, human oversight and ongoing monitoring. Additional standards for advanced and frontier systems. A 12-month review.
 
-**Incident reporting.** Frontier labs to monitor and report incidents to government within set deadlines. A standing parliamentary joint committee on AI that publishes incident details. Limited-use protections so that self-reported incidents are not used against the reporter beyond their purpose.
+**Incident reporting.** Frontier labs to monitor and report incidents to government within set deadlines. A standing parliamentary joint committee on AI that publishes incident details. Limited-use protections, modelled on the Intelligence Services Act 2001 and Cyber Security Act 2024, so that information furnished under a reporting duty cannot itself be used to apply penalties. The committee is explicit that this does not stop regulators conducting their own work and applying penalties if required.
 
 **Data sovereignty.** Clear requirements on the storage, processing, access, ownership, protection and use of data within AI systems, with safeguards on jurisdictional control, cross-border transfer, foreign access, privacy and intellectual property. A review of government data repositories and a response to the review of the Data Availability and Transparency Act.
 
-**Data centres.** National minimum standards for large AI data centres, applied through state and territory planning law. Energy, water, land use, grid support and skills.
+**Data centres.** The committee recommends nationally consistent standards for the development and operation of data centres, adopted by states and territories and implemented through planning law, covering resource consumption (including additionality of energy generation), planning and approvals, community input and social licence, and penalties and arrangements for non-compliance. The Government's own July 2026 proposal is narrower, aimed at large AI data centres. See [AI Data Centres and Compute Governance](ai-data-centres-compute-governance.md).
 
 **AI literacy and skills.** Programs and awareness campaigns to lift AI uptake and productivity, with small and medium enterprise uptake as a focus. A coordinated national approach to AI literacy, technical expertise, workforce transition and business adoption.
 
@@ -80,12 +82,12 @@ Sources for each theme are on the [Government AI Policy and Frameworks](ai-gover
 
 ## What to do now
 
-The proposals are not law, but every strand points at the same basics. Organisations that have these in place will meet whatever lands with minimal rework.
+The proposals are not law, and their final scope is unknown. But every strand points at the same basics, and they are useful whatever lands. None of this guarantees compliance with rules that have not yet been written.
 
 1. **Know what AI you use.** Keep a current register of AI systems, tools and vendors. [AI Project Register](../governance-templates/ai-project-register.md)
 2. **Name who is accountable.** One person owns each AI use, and the board or executive knows who. [AI Use Policy](../governance-templates/ai-use-policy.md)
 3. **Classify your data.** Know which data can go into which tool, and make sure staff can apply the classification without a lawyer. [AI Risk Assessment Checklist](../governance-templates/ai-risk-assessment-checklist.md)
-4. **Record where vendors store and process data.** Data sovereignty rules will reach most organisations through their vendors first. Ask the question now. [AI Vendor Evaluation Checklist](../governance-templates/ai-vendor-evaluation-checklist.md)
+4. **Record where vendors store and process data.** If data sovereignty requirements are legislated, the practical effect for most organisations is likely to come through their vendors' terms and hosting. Ask the question now. [AI Vendor Evaluation Checklist](../governance-templates/ai-vendor-evaluation-checklist.md)
 5. **Have an incident process.** Know what counts as an AI incident, who is told, and how fast. [AI Incident Report Form](../governance-templates/ai-incident-report-form.md)
 6. **Prepare for 10 December 2026.** If AI or any automated process uses personal information to make decisions that significantly affect people, update your privacy policy to meet the new Privacy Act transparency obligations. [Privacy Act detail](ai-australian-legislation.md)
 
@@ -121,7 +123,7 @@ This page is updated as the proposals move. Each entry is dated so readers can s
 | 19 October 2026 | Page created. Covers the July announcement, National Cabinet decision, Joint Select Committee early advice of 12 October 2026, SA Royal Commission commencement and Privacy Act commencement date. |
 
 !!! note "Source confidence"
-    The 15 July announcement is taken from pm.gov.au and PM&C material. The 26 August National Cabinet outcome is corroborated across independent legal and press sources but not yet confirmed against the primary communique (see the [data centres page](ai-data-centres-compute-governance.md)). The committee's advice is summarised from the letter itself, with [ABC News](https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612) and [Capital Brief](https://www.capitalbrief.com/briefing/parliaments-ai-committee-writes-to-albanese-with-urgent-call-for-ai-safeguards-0a44e52f-e25b-47e1-8fb0-dccd24594765/) as corroboration (13 October 2026). The scope table is SafeAI-Aus's reading of the proposals and should be revisited when the committee's full report and any bill are published.
+    The 15 July announcement is taken from pm.gov.au and PM&C material. The 26 August National Cabinet outcome is corroborated across independent legal and press sources but not yet confirmed against the primary communique (see the [data centres page](ai-data-centres-compute-governance.md)). The committee's advice is summarised from the letter itself. The committee recommends minimum standards "where appropriate supported by legislation" and asks the Government to identify which elements need legislative effect, so not every measure listed here is proposed as law. Coverage of ordinary AI deployers is an open question (see the scope table). Press coverage by [ABC News](https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612) and [Capital Brief](https://www.capitalbrief.com/briefing/parliaments-ai-committee-writes-to-albanese-with-urgent-call-for-ai-safeguards-0a44e52f-e25b-47e1-8fb0-dccd24594765/) on 13 October 2026 corroborates the letter's existence and headline recommendations. The scope table is SafeAI-Aus's reading of the proposals and should be revisited when the committee's full report and any bill are published.
 
     <!-- TODO: Human-verify the stable aph.gov.au URL for the 12 October 2026 letter, and revise the scope table against the 30 November 2026 report and any exposure draft. -->
 

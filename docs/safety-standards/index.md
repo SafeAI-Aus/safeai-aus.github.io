@@ -95,8 +95,8 @@ Australia's approach to AI regulation combines existing legislation with new vol
 As at 19 October 2026, Australia still has no standalone AI Act. The direction is now clearer than it was a year ago:
 
 - **Legislated national standards.** The Government has said it will legislate Australian Standards for AI, starting with large data centres and frontier model training, with bills expected in Parliament in early 2027.
-- **A proportionate, risk-based framework that includes deployers.** The federal Joint Select Committee on Artificial Intelligence's early advice of 12 October 2026 recommends a framework for the development and deployment of AI systems, with heavier duties for frontier developers and lighter expectations (transparency, accountability, human oversight, monitoring) for organisations that use AI.
-- **Data sovereignty.** Expect requirements on where data in AI systems is stored, processed and accessed. These will reach most organisations through their vendors.
+- **A proportionate, risk-based framework.** The federal Joint Select Committee on Artificial Intelligence's early advice of 12 October 2026 recommends a framework for the development and deployment of AI systems, with the heaviest duties on frontier developers. Whether it also sets lighter expectations (transparency, accountability, human oversight, monitoring) for organisations that use AI is not yet settled.
+- **Data sovereignty.** Requirements are proposed on where data in AI systems is stored, processed and accessed. If legislated, most organisations would feel them through their vendors.
 - **Incident reporting as a norm.** Mandatory reporting is proposed for frontier labs, and a standing parliamentary committee would publish incident details.
 - **Support for uptake.** The same advice recommends AI literacy programs with SME uptake as a focus, a national skills approach, and pro-Australian procurement with a register of sovereign AI companies.
 
