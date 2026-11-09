@@ -4,7 +4,7 @@ title: "Australian Government AI Policy and Frameworks"
 description: "Australian Government AI policy and guidance, including the National AI Plan, AI Safety Institute, DTA requirements, AI6 and VAISS."
 robots: "index, follow"
 keywords: "Australian AI policy, National AI Plan, AI Safety Institute, DTA AI policy, AI6 guidance, VAISS, AI governance Australia, mandatory AI requirements, Senate AI Committee"
-last-reviewed: "2026-10-19"
+last-reviewed: "2026-11-01"
 review-cycle: "quarterly"
 og_description: "Overview of Australian Government AI policy, guidance and institutional developments"
 og_type: "article"
@@ -46,7 +46,7 @@ This page covers government policy, guidance frameworks and institutional develo
 
 **Relationship to AI6 and VAISS:** The announcement does not withdraw AI6 (Guidance for AI Adoption, October 2025) or the VAISS guardrails. They remain published, non-binding guidance. Organisations must continue to comply with existing laws while the proposed standards are designed and considered.
 
-On **20 July 2026**, the Government separately announced five whole-of-government AI safety priorities: a Digital Duty of Care, further privacy reform, workplace AI safety, examination of consumer-law options, and a framework for automated decision-making in federal agencies. These are policy workstreams rather than enacted duties. ([AI consumer safety priorities](https://www.minister.industry.gov.au/charlton/media/ai-consumer-safety-priorities), accessed 22 July 2026)
+On **20 July 2026**, the Government separately announced five whole-of-government AI safety priorities: a Digital Duty of Care, further privacy reform, workplace AI safety, examination of consumer-law options, and a framework for automated decision-making in federal agencies. These are policy workstreams rather than enacted duties. ([AI consumer safety priorities](https://www.minister.industry.gov.au/charlton/media/ai-consumer-safety-priorities), accessed 22 July 2026) The Digital Duty of Care priority has since progressed to a Bill: the **Online Safety Amendment (Digital Duty of Care) Bill 2026** passed the House of Representatives on 28 October 2026 and is before the Senate, with AI-specific provisions covering chatbot design and AI-generated deepfakes — see [Current Legal Landscape](ai-australian-legislation.md#upcoming-legislative-reforms) for detail. It is not yet law.
 
 Sources: [Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests), [Office of AI — PM&C](https://www.pmc.gov.au/domestic-policy/office-ai), [Department of Industry ministers](https://www.minister.industry.gov.au/charlton/media/ai-australias-interests) (accessed 22 July 2026)
 
