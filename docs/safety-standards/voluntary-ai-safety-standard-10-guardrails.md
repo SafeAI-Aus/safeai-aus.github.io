@@ -4,7 +4,7 @@ title: "Voluntary AI Safety Standard (10 Guardrails)"
 description: "Australia's Voluntary AI Safety Standard explained through 10 practical guardrails for safer AI adoption and governance."
 robots: "index, follow"
 keywords: "Australian AI safety standard, AI guardrails, AI safety framework, voluntary AI standards, AI risk management, AI governance Australia, AI safety compliance, AI safety guardrails, Australian AI standards, AI safety best practices"
-last-reviewed: "2026-10-08"
+last-reviewed: "2026-11-16"
 review-cycle: "quarterly"
 og_description: "Comprehensive guide to Australia's Voluntary AI Safety Standard with 10 practical guardrails"
 og_type: "article"
@@ -38,7 +38,9 @@ Importantly, the 10 guardrails are consistent with leading international standar
 
     On **26 August 2026**, National Cabinet agreed to develop nationally consistent mandatory standards for large data centres, and the Commonwealth said it intends to legislate the AI standards in early 2027, including conditions for AI training. A public consultation paper took submissions until 9 October 2026. Media reports say the legislation may also require AI companies to report serious AI incidents to the affected organisation and the Australian Signals Directorate. These are proposals, not law, and they do not withdraw VAISS or make it mandatory. ([National Cabinet communique, 26 August 2026](https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26); [ABC News, 29 September 2026](https://www.abc.net.au/news/2026-09-29/openai-medicare-breach-fuels-tougher-approach-to-rogue-ai/107204948), accessed 9 October 2026)
 
-<!-- TODO: Check the PM&C consultation paper (pmc.gov.au blocks automated checks) and any bill introduced after 9 October 2026. -->
+    **Update, 10 November 2026:** Following the Rapid Review into the Medicare-incident described above, the Government separately announced it will legislate a different, mandatory **"Australian AI Standards"** regime for **frontier AI developers**, enforced by a new AI safety regulator working with the AI Safety Institute (AISI). This is distinct from both the data-centre-focused "Australian Standards for AI" described above and from this voluntary, deployer-focused standard; no legislation has been introduced. See [Current Legal Landscape for AI in Australia](ai-australian-legislation.md#upcoming-legislative-reforms) for detail. ([Minister for Industry and Innovation](https://www.minister.industry.gov.au/t-ayres/media/new-australian-ai-safety-and-security-protections), accessed 15 November 2026, read via search snippet only)
+
+<!-- TODO: Check the PM&C consultation paper (pmc.gov.au blocks automated checks) and any bill introduced after 9 October 2026. The 10 November frontier-AI-standards update rests on search snippets only (WebFetch failed); verify against the primary government release once accessible. -->
 
 ## Why this matters
 

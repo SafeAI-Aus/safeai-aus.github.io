@@ -4,7 +4,7 @@ title: "Guidance for AI Adoption (AI6)"
 description: "How Australian organisations can apply the National AI Centre's six practices for responsible AI governance and adoption."
 robots: "index, follow"
 keywords: "AI6 guidance Australia, Guidance for AI Adoption, AI essential practices, AI governance Australia, National AI Centre guidance, NAIC AI6, responsible AI adoption, AI6 vs VAISS, voluntary AI safety standard update, AI governance framework Australia"
-last-reviewed: "2026-10-08"
+last-reviewed: "2026-11-16"
 review-cycle: "quarterly"
 og_description: "How Australian organisations can implement the National AI Centre's updated guidance for responsible AI governance and adoption"
 og_type: "article"
@@ -23,7 +23,9 @@ og_type: "article"
 
     The announcement does not withdraw or make AI6 mandatory. Organisations can continue using AI6 as current non-binding guidance while complying with existing law. ([Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests); [PM&C Office of AI](https://www.pmc.gov.au/domestic-policy/office-ai), accessed 22 July 2026)
 
-<!-- TODO: National Cabinet outcome checked against the communique (https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26) on 9 October 2026. Still to check: the PM&C consultation paper (pmc.gov.au blocks automated checks), the reported incident-reporting requirement (ABC News, 29 September 2026) and any bill introduced after 9 October 2026. -->
+    **Update, 10 November 2026:** Following the Rapid Review into the Medicare-incident described above, the Government separately announced it will legislate a different, mandatory **"Australian AI Standards"** regime for **frontier AI developers**, enforced by a new AI safety regulator working with the AI Safety Institute (AISI). This is distinct from both the data-centre-focused "Australian Standards for AI" described above and from this voluntary, deployer-focused AI6 guidance; no legislation has been introduced. See [Current Legal Landscape for AI in Australia](ai-australian-legislation.md#upcoming-legislative-reforms) for detail. ([Minister for Industry and Innovation](https://www.minister.industry.gov.au/t-ayres/media/new-australian-ai-safety-and-security-protections), accessed 15 November 2026, read via search snippet only)
+
+<!-- TODO: National Cabinet outcome checked against the communique (https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26) on 9 October 2026. Still to check: the PM&C consultation paper (pmc.gov.au blocks automated checks), the reported incident-reporting requirement (ABC News, 29 September 2026) and any bill introduced after 9 October 2026. The 10 November frontier-AI-standards update rests on search snippets only (WebFetch failed); verify against the primary government release once accessible. -->
 
 ## What is the Guidance for AI Adoption?
 
