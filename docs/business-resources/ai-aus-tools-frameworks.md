@@ -4,7 +4,7 @@ title: "AI Tools & Frameworks for Australian Businesses"
 description: "Curated AI tools and frameworks for Australian businesses implementing AI safely, including resources for governance, risk management and technical testing."
 robots: "index, follow"
 keywords: "AI tools Australia, AI frameworks Australia, AI risk management tools, AI governance tools, AI testing tools, Australian AI resources, AI safety tools, AI compliance tools"
-last-reviewed: "2026-10-08"
+last-reviewed: "2026-11-22"
 review-cycle: "quarterly"
 og_description: "Curated collection of AI tools, frameworks and resources for Australian businesses"
 og_type: "article"
@@ -42,6 +42,16 @@ In December 2025, the Digital Transformation Agency (DTA) overhauled its **Polic
 
 !!! tip "Relevance beyond the Commonwealth"
     While these requirements are mandatory only for Commonwealth agencies, they signal the direction for all Australian organisations. The Impact Assessment Tool is freely available and provides a solid starting point for any AI governance program.
+
+---
+
+## 🧑‍💼 DEWR Draft Best Practice Guide on the Adoption of AI in the Workplace
+
+The Department of Employment and Workplace Relations (DEWR), working with the tripartite AI Employment and Workplaces Forum (industry, large employers, small business, unions, government and academics), released a **draft Best Practice Guide on the Adoption of AI in the Workplace** this week, reported in press coverage as released on 19 November 2026. The draft guide is structured around three themes — Plan, Enable, Embed — and is reported to set out 8 practical principles covering use-case identification and workplace readiness, worker engagement, job design, capability building, managing workforce transformation, and AI governance (including proactive risk and WHS management). It is described in press coverage as **voluntary**.
+
+**Consultation** on the draft is open to all business sizes, workers and unions, industry groups, and state/territory governments via the department's Consultation Hub, closing **11:59pm AEDT, 27 January 2027**. ([DEWR consultation notice](https://www.dewr.gov.au/node/17907), accessed 22 November 2026, via search snippet; [Minister for Employment and Workplace Relations media release](https://ministers.dewr.gov.au/rishworth/draft-best-practice-guide-ai-adoption-workplace-released), accessed 22 November 2026, via search snippet; [Canberra Times](https://www.canberratimes.com.au/story/9390235/first-workplace-artificial-intelligence-guide-released/), accessed 22 November 2026)
+
+<!-- TODO: Human-verify the guide's exact release date and the full text of its 8 principles directly against the DEWR consultation notice and ministerial release — this entry rests on search-snippet and press sources only, as WebFetch could not reach dewr.gov.au or ministers.dewr.gov.au this cycle. -->
 
 ---
 
