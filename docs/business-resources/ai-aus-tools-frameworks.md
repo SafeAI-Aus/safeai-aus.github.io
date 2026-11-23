@@ -45,6 +45,16 @@ In December 2025, the Digital Transformation Agency (DTA) overhauled its **Polic
 
 ---
 
+## 🧑‍💼 DEWR Draft Best Practice Guide on the Adoption of AI in the Workplace
+
+The Department of Employment and Workplace Relations (DEWR), working with the tripartite AI Employment and Workplaces Forum (industry, large employers, small business, unions, government and academics), released a **draft Best Practice Guide on the Adoption of AI in the Workplace** this week, reported in press coverage as released on 19 November 2026. The draft guide is structured around three themes — Plan, Enable, Embed — and is reported to set out 8 practical principles covering use-case identification and workplace readiness, worker engagement, job design, capability building, managing workforce transformation, and AI governance (including proactive risk and WHS management). It is described in press coverage as **voluntary**.
+
+**Consultation** on the draft is open to all business sizes, workers and unions, industry groups, and state/territory governments via the department's Consultation Hub, closing **11:59pm AEDT, 27 January 2027**. ([DEWR consultation notice](https://www.dewr.gov.au/node/17907), accessed 22 November 2026, via search snippet; [Minister for Employment and Workplace Relations media release](https://ministers.dewr.gov.au/rishworth/draft-best-practice-guide-ai-adoption-workplace-released), accessed 22 November 2026, via search snippet; [Canberra Times](https://www.canberratimes.com.au/story/9390235/first-workplace-artificial-intelligence-guide-released/), accessed 22 November 2026)
+
+<!-- TODO: Human-verify the guide's exact release date and the full text of its 8 principles directly against the DEWR consultation notice and ministerial release — this entry rests on search-snippet and press sources only, as WebFetch could not reach dewr.gov.au or ministers.dewr.gov.au this cycle. -->
+
+---
+
 ## 🤖 GovAI Chat (APS AI Plan)
 
 As part of the **APS AI Plan 2025**, the Australian Government's **GovAI Chat** — an AI assistant for Australian Public Service (APS) staff — ran an **alpha trial from April to 30 June 2026**, delivered through GovTEAMS by the Department of Finance. User inputs and documents are not retained by AI model providers for training. **The beta trial launched on 27 July 2026**, open to APS staff at participating agencies ([GovAI Chat trials](https://www.govai.gov.au/govai-chat/trials), accessed 9 October 2026). This is not a tool organisations outside the APS can access directly, but it signals concrete implementation of the APS AI Plan and the DTA responsible use policy at the tooling level — and a worked example of public sector GenAI with embedded safeguards ([govai.gov.au](https://www.govai.gov.au/govai-chat); [digital.gov.au](https://www.digital.gov.au/policy/ai/australian-public-service-ai-plan-2025/what-we-plan-achieve)).
